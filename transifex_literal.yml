@@ -1,7 +1,8 @@
-filters:
-- filter_type: dir
-  file_format: PO
-  source_file_extension: .po
-  source_language: bo
-  source_file_dir: literal/tibetan
-  translation_files_expression: 'literal/translation'
+git:
+  filters:
+    - filter_type: dir
+      file_format: PO
+      source_file_extension: .po
+      source_language: bo
+      source_file_dir: literal/tibetan
+      translation_files_expression: 'literal/translation'

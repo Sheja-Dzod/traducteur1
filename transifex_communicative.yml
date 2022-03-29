@@ -1,7 +1,8 @@
-filters:
-- filter_type: dir
-  file_format: PO
-  source_file_extension: .po
-  source_language: fr
-  source_file_dir: communicative/paragraphs
-  translation_files_expression: 'communicative/translation'
+git:
+  filters:
+    - filter_type: dir
+      file_format: PO
+      source_file_extension: .po
+      source_language: fr
+      source_file_dir: communicative/paragraphs
+      translation_files_expression: 'communicative/translation'
