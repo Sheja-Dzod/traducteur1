@@ -2248,6 +2248,8 @@ msgstr ""
 msgctxt "504ac26bb8d4431c93e81ab5076844f3"
 msgid "སྟེན་པ␣འི་ མི་ དག་ ལ་ ཡང་ ཡོན་ཏན་ གང་ཡང་ མི་ སྐྱེ་བ␣ར་"
 msgstr ""
+"Les personnes qui suivent [une telle personne] ne généreront aucune qualité,"
+" et de plus,"
 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
@@ -2265,6 +2267,7 @@ msgstr ""
 msgctxt "27ff3147db044711926b270f341cd0cf"
 msgid "སྐྱོན་ མང་པོ་ སྐྱེད་པ␣ས་ ཉམས་པ␣ར་ འགྱུར་ ཞིང༌ །"
 msgstr ""
+"ils se corrompront du fait de développer beaucoup de défauts. Ensuite,"
 
 msgctxt "85441f0826bf44d8bbc11b1fc3c27472"
 msgid "ཐད་ཀ␣ར་ བབས་པ་ སྟེ་"
