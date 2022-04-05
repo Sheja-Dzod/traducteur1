@@ -524,9 +524,7 @@ msgstr "L’explication des préceptes d’un bodhisattva."
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Mantrayâna secret
 msgctxt "2823a6ee644c4ce0b5ff28a55795be38"
 msgid "གསང་སྔགས་ རིག་འཛིན་ གྱི་ སྡོམ་པ་ སྤྱིར་ བཤད་པ་ དང་ བཅས་པ␣འོ ། །"
-msgstr ""
-"et une présentation générale des vœux des vidhyadharas des Mantras Secrets. "
-"Voici ce qui est compris [dans le 5ème thème]."
+msgstr "Les vœux du mantra secret – vœux des Vidyadaras, "
 
 msgctxt "7f8b4a821f134254abc538eadf48d3ad"
 msgid "དང་པོ་ ལ་ བཅུ །"
