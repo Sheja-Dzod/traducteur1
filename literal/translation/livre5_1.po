@@ -562,7 +562,7 @@ msgstr "comment chercher un ami de bien,"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "cd58f7571f774ddb96780f6b488fef7d"
 msgid "བཤེས་གཉེན་ བསྟེན་པ␣འི་ འཐད་པ །"
-msgstr "le bien-fondé de suivre un ami de bien,"
+msgstr "le bien-fondé (pertinence) de suivre un ami de bien,"
 
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
