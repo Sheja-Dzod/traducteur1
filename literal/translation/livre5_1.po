@@ -635,7 +635,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
 msgctxt "ce763a5b7f8d49adaa7c904cb4aa0096"
 msgid "སྟེན་ བྱེད་ སློབ་མ␣འི་ མཚན་ཉིད །"
-msgstr "les caractéristiques de celui qui suit [le maître] : le disciple,"
+msgstr "Les caractéristiques du disciple, celui qui s’en remet (au maitre)."
 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
@@ -651,7 +651,7 @@ msgstr "les caractéristiques de celui qui suit [le maître] : le disciple,"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 msgctxt "7c11fc2fd0904d3fb942861a353630ee"
 msgid "ཇི་ལྟར་ བསྟེན་པ␣འི་ ཚུལ །"
-msgstr "La manière de le suivre,"
+msgstr "Comment s’en remettre (au maitre)"
 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
