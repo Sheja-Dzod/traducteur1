@@ -529,7 +529,7 @@ msgstr ""
 
 msgctxt "7f8b4a821f134254abc538eadf48d3ad"
 msgid "དང་པོ་ ལ་ བཅུ །"
-msgstr "La première [partie] contient dix [sous-parties] :"
+msgstr "La première section contient dix points (sous-parties)."
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
