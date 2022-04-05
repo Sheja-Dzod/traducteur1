@@ -1,10 +1,11 @@
 # 
 # Translators:
 # Drupchen Dorje <drupchen@dharmasagar.org>, 2022
+# Damien Jampa, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Drupchen Dorje <drupchen@dharmasagar.org>, 2022\n"
+"Last-Translator: Damien Jampa, 2022\n"
 "Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -165,11 +166,8 @@ msgid ""
 " ཚུལ་ཁྲིམས་ ཀྱི་ བསླབ་པ␣འི་ རིམ་པ␣ར་ ཕྱེ་བ་ སྟེ་  གནས་ ལྔ་པ␣འི་ འགྲེལ་པ་ "
 "བཞུགས་ སོ །།"
 msgstr ""
-"Commentaire du cinquième thème, l'exposé détaillé de l'entraînement de la "
-"discipline, issu du « Trésor » des précieux enseignements qui prend en "
-"compte tous les véhicules (lit. toutes les portes [que sont] les véhicules),"
-" le traité qui « Embrasse Tout le Connaissable » et (lit. qui) présente "
-"excellemment les trois entraînements. "
+"l’entrainement à la discipline supérieure.\n"
+"Livre cinq du Traité de la connaissance globale (litt. qui englobe tout, qui englobe toutes les sciences bouddhiques) – le trésor des précieux discours du bouddha qui rassemble (compendium de) tous les véhicules et qui expose avec excellence les trois entrainements."
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
