@@ -667,7 +667,7 @@ msgstr "Quel nécessité et quels bienfaits à cela."
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
 msgctxt "fa14beb5a04f431cb0db1c0f4fb438c4"
 msgid "འགལ་ཟླ་ སྡིག་གྲོགས་ སྤང་བ །"
-msgstr "[comment] abandonner le contraire [du maître], l'ami de mal,"
+msgstr "Abandonner les amis négatifs qui sont l’opposé  du maitre."
 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
@@ -700,7 +700,7 @@ msgstr "[comment] abandonner le contraire [du maître], l'ami de mal,"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: confiance foi
 msgctxt "40fc635f31574828853f641ee8bcf627"
 msgid "མཐུན་ རྐྱེན་ དད་པ་ སྐྱེད་པ །"
-msgstr "développer la foi, [qui constitue] les conditions favorables,"
+msgstr "Générer la foi, la condition nécessaire "
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -762,9 +762,7 @@ msgstr "développer la foi, [qui constitue] les conditions favorables,"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 msgctxt "c7dea5d232ba40369f0ce39f1bfdbc7f"
 msgid "དམ་པ␣འི་ ཆོས་ འཆད་ཉན་ བྱ་བ␣འི་ ཚུལ་ ལོ ། །"
-msgstr ""
-"et finalement comment (lit. la manière de) enseigner et écouter le noble "
-"Dharma."
+msgstr "Comment enseigner et écouter le Dharma sacré."
 
 msgctxt "19c58f6747324de6b152144414f2c6c6"
 msgid "དང་པོ་ ནི །"
