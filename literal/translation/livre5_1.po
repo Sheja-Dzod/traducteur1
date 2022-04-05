@@ -525,7 +525,7 @@ msgstr "L’explication des préceptes d’un bodhisattva."
 msgctxt "2823a6ee644c4ce0b5ff28a55795be38"
 msgid "གསང་སྔགས་ རིག་འཛིན་ གྱི་ སྡོམ་པ་ སྤྱིར་ བཤད་པ་ དང་ བཅས་པ␣འོ ། །"
 msgstr ""
-"Les vœux du mantra secret – vœux des Vidyadaras,  présentation générale. "
+" Présentation générale des vœux du mantra secret – vœux des Vidyadaras."
 
 msgctxt "7f8b4a821f134254abc538eadf48d3ad"
 msgid "དང་པོ་ ལ་ བཅུ །"
