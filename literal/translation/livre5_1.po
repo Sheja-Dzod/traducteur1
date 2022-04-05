@@ -489,7 +489,7 @@ msgstr "Les différents aspects des vœux de libération personnelle. "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "33e7f6506db946cc9e67cdeef55d5894"
 msgid "བྱང་སེམས་ ཀྱི་ བསླབ་པ་ བརྗོད་པ །"
-msgstr "la présentation (lit. dire) l'entraînement des bodhisattvas,"
+msgstr "L’explication des préceptes d’un bodhisattva."
 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
