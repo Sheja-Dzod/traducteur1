@@ -10,6 +10,6 @@ if __name__ == '__main__':
     for f in files:
         seg_file = Path(segmented_path) / f.name
         if not seg_file.is_file():
-            dump = f.read_text()
+            dump = f.read_text(encoding='utf-8')
             sentences = Text(dump.replace('\n', '')).tokenize_sentences_plaintext
-            seg_file.write_text(sentences)
+            seg_file.write_text(sentences, encoding='utf-8')

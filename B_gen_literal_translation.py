@@ -26,20 +26,20 @@ class Po:
         orig_trans, trans, pars_trans = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
-        bitext.write_text(orig_trans)
+        bitext.write_text(orig_trans, encoding='utf-8')
 
         translation = self.infile.parent / (self.infile.stem + '_only.txt')
-        translation.write_text(trans)
+        translation.write_text(trans, encoding='utf-8')
 
         pars = Path(copy_folder) / (self.infile.stem + '.txt')
         if not pars.is_file():
-            pars.write_text(pars_trans)
+            pars.write_text(pars_trans, encoding='utf-8')
         else:
             # update file retaining the paragraph delimitations
             pars_old = pars.read_text(encoding='utf-8')
             if pars_old.replace('\n\n\n', '\n') != orig_trans:
                 updated = self._update_pars(pars_old, orig_trans)
-                pars.write_text(updated)
+                pars.write_text(updated, encoding='utf-8')
 
     @staticmethod
     def _update_pars(source, target):

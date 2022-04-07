@@ -130,7 +130,8 @@ class Transfer:
         po_entries = []
         for p in po_file:
             line = p.msgid.replace(' ', '').replace(' ', ' ')
-            po_entries.append([line, p.msgctxt])
+            ctxt = p.msgctxt
+            po_entries.append([line, ctxt])
         po_dump = '\n'.join([''.join((a, f'—{b}—')) for a, b in po_entries])
         pattern = [['uuid', '(—.+?—)']]
         transfered = self.transfer(po_dump, pattern, dump, 'txt')
