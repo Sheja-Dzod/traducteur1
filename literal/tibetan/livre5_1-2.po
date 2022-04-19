@@ -5,17 +5,39 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "9e07380b6217449aa38f26f4d8645ec2"
+msgid "﻿གཉིས་པ་ ནི །"
+msgstr ""
+
 # 
-# 。︀	〝མཁས་པ〞 413
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
-# érudit, rompu en, dextre, docte
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sage, savant, scoliaste
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita, kovida Sens racine: Erudit, Habile,
-# adroit, dextre Alternatives: érudit, expert, virtuose, le sage, agile,
-# adresse, savoir faire, adroit, habile, talent, expertise,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ érudit
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adresse, habile, érudit rompu en, dextre,
-# docte
+# 。︀	〝སྒོ〞 858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dvāra, mukhāni, mukha, gṛha Sens racine: Porte,
+# portail, Alternatives: porte (sensorielle), avenues (des sens), media,
+# opportunité, portail, approche (à), seuilaspect
+# 
+# 。︀	〝སྒོ་ནས〞 859
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au moyen de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Au moyen de Alternatives: grâce
+# auquel, par voie de, en vertu de quoi, par lequel, quoi, au moyen de, par le
+# biais de, à cause de quoi, sur la base duquel, grâce à ça
+# 
+# 。︀	〝དཔེ〞 3330
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Exemple, Image, Symbole, Illustration, Analogie,
+# Métaphore, Modèle, Echantillon, ⁃ exemple, métaphore, allégorie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dṛṣṭānta/ udāharaṇa (TR), upamā Sens racine:
+# Exemple,Image,Symbole,Illustration,Analogie,Métaphore,Modèle,Echantillon,
+# Alternatives: exemple, image, métaphore, comparaison, analogie, allégorie,
+# illustration, échantillon, copie, prototype, modèle
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ exemple
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: exemple, métaphore, allégorie
+# 
+# 。︀	〝ལུང་རིགས〞 6090
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ecrits et raisonements, Ecrits et sciences,
+msgctxt "75f2169da50d46bf8bc735f9b4d546b2"
+msgid "འཐད་པ་ ལུང་རིགས་ དཔེ་ ཡི་ སྒོ་ ནས་ བཙལ ། །"
+msgstr ""
+
 # 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -46,14 +68,8 @@ msgstr ""
 # auquel, par voie de, en vertu de quoi, par lequel, quoi, au moyen de, par le
 # biais de, à cause de quoi, sur la base duquel, grâce à ça
 # 
-# 。︀	〝རྟག〞 1928
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ permanence, éternel, constance
-# 
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
-# 
-# 。︀	〝བསྟེན་པ〞 2078
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
 # 。︀	〝དཔེ〞 3330
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Exemple, Image, Symbole, Illustration, Analogie,
@@ -64,6 +80,56 @@ msgstr ""
 # illustration, échantillon, copie, prototype, modèle
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ exemple
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: exemple, métaphore, allégorie
+# 
+# 。︀	〝རིགས་པ〞 5883
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ logique
+# 
+# 。︀	〝བཤེས་གཉེན〞 6280
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
+msgctxt "bf3c84711cc34509bbdcaf25e55f5a74"
+msgid ""
+"དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣འི་ འཐད་པ་ ལ་ལུང་ དང་ རིགས་པ་ དཔེ་ ཡི་ "
+"སྒོ་ ནས་ བཙལ་བ་ གསུམ་ གྱི །"
+msgstr ""
+
+msgctxt "9ac7cdede1864df98848ce8cb65bdf80"
+msgid "དང་པོ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "e101a5028d484ef48dbb5d5310734d9a"
+msgid "སྡུད་པ་ ལ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝མཁས་པ〞 413
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
+# érudit, rompu en, dextre, docte
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sage, savant, scoliaste
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita, kovida Sens racine: Erudit, Habile,
+# adroit, dextre Alternatives: érudit, expert, virtuose, le sage, agile,
+# adresse, savoir faire, adroit, habile, talent, expertise,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ érudit
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adresse, habile, érudit rompu en, dextre,
+# docte
+# 
+# 。︀	〝རྟག〞 1928
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ permanence, éternel, constance
+# 
+# 。︀	〝བསྟེན་པ〞 2078
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
 # 。︀	〝བླ་མ〞 3870
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
@@ -78,36 +144,12 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bon, Excellent,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bon, excellent
 # 
-# 。︀	〝རིགས་པ〞 5883
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ logique
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ལུང་རིགས〞 6090
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ecrits et raisonements, Ecrits et sciences,
-# 
-# 。︀	〝བཤེས་གཉེན〞 6280
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
 # 。︀	〝སློབ་མ〞 6529
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
 msgctxt "eed925de8da24f4fa1bea6f231675711"
 msgid ""
-"﻿གཉིས་པ་ ནི ། འཐད་པ་ ལུང་རིགས་ དཔེ་ ཡི་ སྒོ་ ནས་ བཙལ ། ། དགེ་བ␣འི་ "
-"བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣འི་ འཐད་པ་ ལ་ལུང་ དང་ རིགས་པ་ དཔེ་ ཡི་ སྒོ་ ནས་ "
-"བཙལ་བ་ གསུམ་ གྱི ། དང་པོ་ ནི ། སྡུད་པ་ ལ␣ས ། སློབ་མ་ བཟང་པོ་ བླ་མ་ གུས་ ལྡན་"
-" དེ་དག་ གིས ། ། བླ་མ་ མཁས་པ་ དག་ ལ་ རྟག་ ཏུ་ བསྟེན་པ␣ར་ བྱ ། །"
+"སློབ་མ་ བཟང་པོ་ བླ་མ་ གུས་ ལྡན་ དེ་དག་ གིས ། ། བླ་མ་ མཁས་པ་ དག་ ལ་ རྟག་ ཏུ་ "
+"བསྟེན་པ␣ར་ བྱ ། །"
 msgstr ""
 
 # 
@@ -130,6 +172,10 @@ msgctxt "8d58c3d97f974921a58de2bf3d1806de"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་ མཁས་པ␣འི་ ཡོན་ཏན་ དེ་ལས་ འབྱུང༌ ། །"
 msgstr ""
 
+msgctxt "8620493795f74d6b8df0a6d2802c9e5c"
+msgid "ཞེས་ དང༌ །"
+msgstr ""
+
 # 
 # 。︀	〝བཀོད་པ〞 165
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Placer, disposer, arranger. Disposition, arrangement.
@@ -138,6 +184,22 @@ msgstr ""
 # arranger, arrangement, disposer, établir, disposition, installation,
 # aménagement, composition, préparer, accommoder, agencement, ameublement,
 # accommodement,bouquet, étal(age), exposition,
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "82a2f8a743ae43379325d9b5688ba2c2"
+msgid "སྡོང་པོ་ བཀོད་པ་ ལ␣ས །"
+msgstr ""
+
 # 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -204,8 +266,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "dede9305065c40ceb9d2d4c976106b9b"
 msgid ""
-"ཞེས་ དང༌ ། སྡོང་པོ་ བཀོད་པ་ ལ␣ས ། རིགས་ ཀྱི་ བུ་ ཁྱོད་ ཀྱི་ དགེ་བ␣འི་ ཆོས་ "
-"ཐམས་ཅད་ ནི་ དགེ་བ␣འི་ བཤེས་གཉེན་ ལ␣ས་ འབྱུང་ ངོ༌ ། །"
+"རིགས་ ཀྱི་ བུ་ ཁྱོད་ ཀྱི་ དགེ་བ␣འི་ ཆོས་ ཐམས་ཅད་ ནི་ དགེ་བ␣འི་ བཤེས་གཉེན་ "
+"ལ␣ས་ འབྱུང་ ངོ༌ ། །"
 msgstr ""
 
 # 
@@ -390,6 +452,10 @@ msgctxt "403a61792edc4cd2b8bb76ba5cbb713f"
 msgid "ཞེས་ སོགས་ ལུང་ མཐའ་ཡས་པ་ འབྱུང་ ངོ༌ ། །"
 msgstr ""
 
+msgctxt "df962cd14a2a4beaafbe3eb48c24591a"
+msgid "གཉིས་པ་ ནི །"
+msgstr ""
+
 # 
 # 。︀	〝མཁྱེན་པ〞 414
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Connaisseur, Connaissance. ⁃ connaissance, savoir
@@ -404,36 +470,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ personne, individu ⁃ Etres ⁃ Personne, pudgala
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pudgala, individu, personnes
 # 
-# 。︀	〝དགེ་བ〞 636
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kuśala, kśema, vara, puṇya, śubha, kalyaṇa Sens
-# racine: Vertu,Bien, bon Alternatives: la vertu, le bien, entier, vrai, sain,
-# parfait, positifconduite vertueuse, bonnes actions, qualité vertueuse,
-# activité positive, acte méritoire, bienfaits, facteurs vertueux, actions
-# bénéfiques
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vertu, vertueux, moral, sain, bénéfique ⁃ Vertueux, vertu
-# 
-# 。︀	〝དགེ་བའི་བཤེས་གཉེན〞 648
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ ami spirituel
-# 
-# 。︀	〝དགོས་པ〞 672
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
-# 
-# 。︀	〝སྒྲིབ་པ〞 914
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voile ⁃ voile, obscurcissement
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voile, empêchement, occultation, obscurcissement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ āvaraṇa, varana Sens racine: Voile, Obscuration (SL
-# BP) Alternatives: voile, enveloppe, masque, voilé, obscurcissement,
-# négativité, ombre, blocages (et forces destructrices, et obscurcissements),
-# voiles obscurcissants, souilluresce qui voile, obscurcir, obstruer, bloquer,
-# couvrir, recouvrir
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ obscurcissements, voiles ⁃ Obscurcissements ⁃ Voiles,
-# obscurcissements
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ sgrib pa gnyis Sens racine: voile, obscurcissement ; les
-# deux voiles, le double voile
-# 
 # 。︀	〝ཆོས་ཅན〞 1409
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sujet (de débat) ⁃ sujet (de débat)
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objets du monde phénoménal; thème ⁃ "sujet ; étant donné"
@@ -441,16 +477,6 @@ msgstr ""
 # reality, something possessing a quality (SL BP)
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doté de dharma, objet qualifié ⁃ Phénomènes complexes, avec
 # qualification, le phénomène dans son aspect manifesté, dharmin
-# 
-# 。︀	〝གཏན་ཚིག〞 1886
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Raisonnement (logique), Argumentation,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hetu Sens racine: Raisonnement (logique),
-# Argumentation,, reason, reasoning (SL BP) Alternatives: raisonnement,
-# raison, critère, conclusion, preuve syllogistique (en logique), logique,
-# axiomes (logiques), raison, le pourquoi
-# 
-# 。︀	〝བསྟེན〞 2077
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
 # 
 # 。︀	〝ཐམས་ཅད་མཁྱེན་པ〞 2121
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient
@@ -469,16 +495,39 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
 # Obtention
 # 
-# 。︀	〝མཐུན་པ〞 2301
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conforme, En accord avec, Harmonieux,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Conforme,En accord avec,Harmonieux,
-# Alternatives: conforme, en accord (avec), harmonieux, concordant, favorable,
-# (en) harmonie, serviable, utile, qui aide à, (facteur) contributif,
-# collaboratif, assister, soutenir, auxiliaire, facilités, permettre,
-# concourir, contribuer, favoriser, appuyer, épauleridentique, similaire
+# 。︀	〝འདོད་པ〞 2805
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ désir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tenir, soutenir, Désir, soif,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kāma, rāga Sens racine: Tenir, soutenir,Désir,
+# soif, Alternatives: désir, passionvolonté, vouloir, désirer,
+# ambitieuxaffirmation, prétendre, (soutenir une) thèse, accepter, admettre,
+# croire, considérer… comme, que
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ désir ⁃ "Désir, le vouloir; Affirmation, thèse, soutenir
+# une thèse, accepter, admettre  "
+msgctxt "e653f9db88044c5e84b233dc91a10551"
+msgid "ཐམས་ཅད་ མཁྱེན་པ་ ཐོབ་པ␣ར་ འདོད་པ␣འི་ གང་ཟག་ དེ་ ཆོས་ཅན །"
+msgstr ""
+
 # 
-# 。︀	〝མཐུན་པའི་དཔེ〞 2303
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ exemples compatibles avec le prédicat
+# 。︀	〝དགེ་བ〞 636
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kuśala, kśema, vara, puṇya, śubha, kalyaṇa Sens
+# racine: Vertu,Bien, bon Alternatives: la vertu, le bien, entier, vrai, sain,
+# parfait, positifconduite vertueuse, bonnes actions, qualité vertueuse,
+# activité positive, acte méritoire, bienfaits, facteurs vertueux, actions
+# bénéfiques
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vertu, vertueux, moral, sain, bénéfique ⁃ Vertueux, vertu
+# 
+# 。︀	〝དགེ་བའི་བཤེས་གཉེན〞 648
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ ami spirituel
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝བསྟེན〞 2077
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
 # 
 # 。︀	〝དམ་བཅའ〞 2364
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ position ⁃ position
@@ -498,18 +547,46 @@ msgstr ""
 # l’auteur qui précise son objectif en composant l’ouvrage) promesse,
 # assertion, vœu ;s’engager à (faire)
 # 
+# 。︀	〝བཤེས་གཉེན〞 6280
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
+msgctxt "da616f04fa0b46a7ad1009c9f50d38e4"
+msgid "ཁྱོད་ ཀྱིས་ དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣ར་ དམ་བཅའ །"
+msgstr ""
+
+# 
+# 。︀	〝སྒྲིབ་པ〞 914
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voile ⁃ voile, obscurcissement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voile, empêchement, occultation, obscurcissement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ āvaraṇa, varana Sens racine: Voile, Obscuration (SL
+# BP) Alternatives: voile, enveloppe, masque, voilé, obscurcissement,
+# négativité, ombre, blocages (et forces destructrices, et obscurcissements),
+# voiles obscurcissants, souilluresce qui voile, obscurcir, obstruer, bloquer,
+# couvrir, recouvrir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ obscurcissements, voiles ⁃ Obscurcissements ⁃ Voiles,
+# obscurcissements
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ sgrib pa gnyis Sens racine: voile, obscurcissement ; les
+# deux voiles, le double voile
+# 
+# 。︀	〝གཏན་ཚིག〞 1886
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Raisonnement (logique), Argumentation,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hetu Sens racine: Raisonnement (logique),
+# Argumentation,, reason, reasoning (SL BP) Alternatives: raisonnement,
+# raison, critère, conclusion, preuve syllogistique (en logique), logique,
+# axiomes (logiques), raison, le pourquoi
+# 
+# 。︀	〝མཐུན་པ〞 2301
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conforme, En accord avec, Harmonieux,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Conforme,En accord avec,Harmonieux,
+# Alternatives: conforme, en accord (avec), harmonieux, concordant, favorable,
+# (en) harmonie, serviable, utile, qui aide à, (facteur) contributif,
+# collaboratif, assister, soutenir, auxiliaire, facilités, permettre,
+# concourir, contribuer, favoriser, appuyer, épauleridentique, similaire
+# 
+# 。︀	〝མཐུན་པའི་དཔེ〞 2303
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ exemples compatibles avec le prédicat
+# 
 # 。︀	〝དུས་གསུམ〞 2420
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois temps (passé, présent, futur)
-# 
-# 。︀	〝འདོད་པ〞 2805
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ désir
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tenir, soutenir, Désir, soif,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kāma, rāga Sens racine: Tenir, soutenir,Désir,
-# soif, Alternatives: désir, passionvolonté, vouloir, désirer,
-# ambitieuxaffirmation, prétendre, (soutenir une) thèse, accepter, admettre,
-# croire, considérer… comme, que
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ désir ⁃ "Désir, le vouloir; Affirmation, thèse, soutenir
-# une thèse, accepter, admettre  "
 # 
 # 。︀	〝དཔེ〞 3330
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Exemple, Image, Symbole, Illustration, Analogie,
@@ -539,9 +616,6 @@ msgstr ""
 # conscient, savoir, conscience
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
 # 
-# 。︀	〝བཤེས་གཉེན〞 6280
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-# 
 # 。︀	〝སངས་རྒྱས〞 6308
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ l'état d'éveil, bouddha, un être éveillé
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Bouddha ; Les traducteurs ont exprimé deux des sens du
@@ -560,10 +634,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
 msgctxt "7561bcd742cd4d80b64a14509facd74f"
 msgid ""
-"གཉིས་པ་ ནི ། ཐམས་ཅད་ མཁྱེན་པ་ ཐོབ་པ␣ར་ འདོད་པ␣འི་ གང་ཟག་ དེ་ ཆོས་ཅན ། ཁྱོད་ "
-"ཀྱིས་ དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣ར་ དམ་བཅའ ། རང་ཉིད་ ཀྱིས་ "
-"ཚོགས་གསོག་པ་ དང༌ །  སྒྲིབ་པ་ སྦྱོང་ མི་ ཤེས་པ␣འི་ ཕྱིར ། གཏན་ཚིག་ དེ␣འི་ "
-"མཐུན་པ␣འི་ དཔེ་ དུས་གསུམ་ གྱི་ སངས་རྒྱས་ བཞིན་ ནོ ། །"
+"རང་ཉིད་ ཀྱིས་ ཚོགས་གསོག་པ་ དང༌ །  སྒྲིབ་པ་ སྦྱོང་ མི་ ཤེས་པ␣འི་ ཕྱིར ། "
+"གཏན་ཚིག་ དེ␣འི་ མཐུན་པ␣འི་ དཔེ་ དུས་གསུམ་ གྱི་ སངས་རྒྱས་ བཞིན་ ནོ ། །"
 msgstr ""
 
 # 
@@ -636,8 +708,41 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
 msgctxt "040d3496e44043dd8ba7b015a2485898"
 msgid ""
-"བཟློག་པ␣འི་ དཔེ་ རང་ སངས་རྒྱས་ བཞིན་ ཞེས་པ་ ལ་སོགས་པ␣འི་ དཔེ་ དུ་མ␣ས་ ༼␣ཝཾ␣༣"
-" བ␣༽ བསྟན་པ་ བཞིན་ ནོ ། །"
+"བཟློག་པ␣འི་ དཔེ་ རང་ སངས་རྒྱས་ བཞིན་ ཞེས་པ་ ལ་སོགས་པ␣འི་ དཔེ་ དུ་མ␣ས་ "
+"བསྟན་པ་ བཞིན་ ནོ ། །"
+msgstr ""
+
+msgctxt "085ffee8a6664e068cf2c86684a525bb"
+msgid "གསུམ་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝རྣམ་ཐར〞 3103
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Biographie, Hagiographie, Histoire de la parfaite
+# libération (d'une personne réalisée)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "Libération complète" (biographie d'un personnage
+# religieux)
+# 
+# 。︀	〝དཔལ〞 3322
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ glorieux, gloire, abondant, splendide, splendeur,
+# valeur, magnificence, prestige, panache, faste, apparat, succès, éclat
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shri, glorieux, gloire, abondant, splendide
+# splendeur, valeur, magnificence, prestige, panache, faste, apparat, succès,
+# éclat
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "46545e9948db440dafeeab76310d4999"
+msgid "དཔལ་ འབྱུང་ གི་ རྣམ་ཐར་ ལ␣ས །"
 msgstr ""
 
 # 
@@ -654,19 +759,6 @@ msgstr ""
 # 。︀	〝དགེ་བའི་བཤེས་གཉེན〞 648
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ ami spirituel
-# 
-# 。︀	〝རྣམ་ཐར〞 3103
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Biographie, Hagiographie, Histoire de la parfaite
-# libération (d'une personne réalisée)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "Libération complète" (biographie d'un personnage
-# religieux)
-# 
-# 。︀	〝དཔལ〞 3322
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ glorieux, gloire, abondant, splendide, splendeur,
-# valeur, magnificence, prestige, panache, faste, apparat, succès, éclat
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shri, glorieux, gloire, abondant, splendide
-# splendeur, valeur, magnificence, prestige, panache, faste, apparat, succès,
-# éclat
 # 
 # 。︀	〝ཕ་རོལ་ཏུ་ཕྱིན་པ〞 3428
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perfection ⁃ perfection ⁃ vertu transcendante
@@ -692,12 +784,6 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 # 
@@ -708,8 +794,53 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "97fb08023a7549ebb2c906d8f680ebe5"
 msgid ""
-"གསུམ་པ་ ནི ། དཔལ་ འབྱུང་ གི་ རྣམ་ཐར་ ལ␣ས ། དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ ཕ་རོལ་ "
-"ཏུ་ ཕྱིན་པ␣འི་ ལམ་ དུ་ འཛུད་པ␣ས་ ལམ་མཁན་ ལྟ་བུ␣འོ ། །"
+"དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ ཕ་རོལ་ ཏུ་ ཕྱིན་པ␣འི་ ལམ་ དུ་ འཛུད་པ␣ས་ ལམ་མཁན་ "
+"ལྟ་བུ␣འོ ། །"
+msgstr ""
+
+msgctxt "986f04d79c8945eb8bf543fe7317b220"
+msgid "ཞེས་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་བསྙེན་མ〞 630
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Upasaka / Upasika. Apprentie de la vertu  Pratiquante
+# dans la vie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fidèle laïque
+# 
+# 。︀	〝རྣམ་ཐར〞 3103
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Biographie, Hagiographie, Histoire de la parfaite
+# libération (d'une personne réalisée)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "Libération complète" (biographie d'un personnage
+# religieux)
+# 
+# 。︀	〝མི་གཡོ་བ〞 4297
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ immuable, inamovible
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Immuable, Immobile, Innébranlable, ⁃ acala, immobile,
+# qui ne bouge pas, sans vaciller (de), inébranlable
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ immuable, inébranlable
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ acalā, stimita Sens racine:
+# Immuable,Immobile,Innébranlable,, unwavering (SL MW) Alternatives: immuable,
+# immobile, qui ne bouge pas, inébranlable, indéfectible, imperturbable, que
+# rien ne peut ébranler, non troublé, sans vaciller, inflexible, statique, à
+# toute épreuve, sans se laisser détourner
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inébranlable ⁃ Inébranlable, l'immobilité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ ma g.yos, g.yos pa med pa, g.yo med Sens racine: acala,
+# immobile qui ne bouge pas, sans vaciller (de), inébranlable ; non agité
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "c61f06e3837546d1b8d25d71223ee9b9"
+msgid "དགེ་བསྙེན་མ་ མི་གཡོ་བ␣འི་ རྣམ་ཐར་ ལ␣ས་ ཀྱང༌ །"
 msgstr ""
 
 # 
@@ -725,11 +856,6 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jñāna Sens racine: Connaisseur,Connaissance.
 # Alternatives: connaître, connaissance, comprendre
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: connaissance, savoir (hon.)
-# 
-# 。︀	〝དགེ་བསྙེན་མ〞 630
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Upasaka / Upasika. Apprentie de la vertu  Pratiquante
-# dans la vie
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fidèle laïque
 # 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -768,32 +894,6 @@ msgstr ""
 # présence de
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
 # 
-# 。︀	〝རྣམ་ཐར〞 3103
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Biographie, Hagiographie, Histoire de la parfaite
-# libération (d'une personne réalisée)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "Libération complète" (biographie d'un personnage
-# religieux)
-# 
-# 。︀	〝མི་གཡོ་བ〞 4297
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ immuable, inamovible
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Immuable, Immobile, Innébranlable, ⁃ acala, immobile,
-# qui ne bouge pas, sans vaciller (de), inébranlable
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ immuable, inébranlable
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ acalā, stimita Sens racine:
-# Immuable,Immobile,Innébranlable,, unwavering (SL MW) Alternatives: immuable,
-# immobile, qui ne bouge pas, inébranlable, indéfectible, imperturbable, que
-# rien ne peut ébranler, non troublé, sans vaciller, inflexible, statique, à
-# toute épreuve, sans se laisser détourner
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inébranlable ⁃ Inébranlable, l'immobilité
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ ma g.yos, g.yos pa med pa, g.yo med Sens racine: acala,
-# immobile qui ne bouge pas, sans vaciller (de), inébranlable ; non agité
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 # 
@@ -804,9 +904,12 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "02c499464d4c49728f9d131e4b270fbb"
 msgid ""
-"ཞེས་ དང༌ ། དགེ་བསྙེན་མ་ མི་གཡོ་བ␣འི་ རྣམ་ཐར་ ལ␣ས་ ཀྱང༌ ། དགེ་བ␣འི་ "
-"བཤེས་གཉེན་ རྣམས་ ནི་ བདག་ཅག་ ཐམས་ཅད་ མཁྱེན་པ␣འི་ གནས་ སུ་ ཕྱིན་པ␣ར་ "
-"སྐྱེལ་བ␣ས་ སྐྱེལ་མ་ ལྟ་བུ␣འོ ། །"
+"དགེ་བ␣འི་ བཤེས་གཉེན་ རྣམས་ ནི་ བདག་ཅག་ ཐམས་ཅད་ མཁྱེན་པ␣འི་ གནས་ སུ་ "
+"ཕྱིན་པ␣ར་ སྐྱེལ་བ␣ས་ སྐྱེལ་མ་ ལྟ་བུ␣འོ ། །"
+msgstr ""
+
+msgctxt "bffd4fd485b049d18fe080ebf4b2aa73"
+msgid "ཞེས་ དང༌ །"
 msgstr ""
 
 # 
@@ -875,8 +978,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "08b57f2691a8422199723b567c2fe2c4"
 msgid ""
-"ཞེས་ དང༌ ། སྡོང་པོ་ བཀོད་པ་ ལ␣ས ། དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ འཁོར་བ␣འི་ ཆུ་བོ་"
-" ཆེན་པོ་ ལ␣ས་ སྒྲོལ་བ␣ས་ ན་ མཉན་པ་ ལྟ་བུ␣འོ ། །"
+"སྡོང་པོ་ བཀོད་པ་ ལ␣ས ། དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ འཁོར་བ␣འི་ ཆུ་བོ་ ཆེན་པོ་ "
+"ལ␣ས་ སྒྲོལ་བ␣ས་ ན་ མཉན་པ་ ལྟ་བུ␣འོ ། །"
 msgstr ""
 
 # 
