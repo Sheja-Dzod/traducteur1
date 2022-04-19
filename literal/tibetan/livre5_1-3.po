@@ -1577,12 +1577,8 @@ msgstr ""
 # restreindre, s'empêcher de, self contrôle, prendre une résolution,
 # rétention, s'abstenir
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
-msgctxt "9d638a3b50f44507888514cfc8630d7d"
-msgid "ཞེས་ གསུངས་པ་ ལྟར་ མཁས་ ཤིང་ སྡོམ་པ་ དང་ ལྡན་པ␣འོ ། །"
-msgstr ""
-
 msgctxt "cf705c9c432c412fb77fed15d8323ccd"
-msgid ""
+msgid "ཞེས་ གསུངས་པ་ ལྟར་ མཁས་ ཤིང་ སྡོམ་པ་ དང་ ལྡན་པ␣འོ ། །"
 msgstr ""
 
 # 
