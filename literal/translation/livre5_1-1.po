@@ -1,11 +1,17 @@
-#
+# 
+# Translators:
+# Damien Jampa, 2022
+# 
 msgid ""
 msgstr ""
+"Last-Translator: Damien Jampa, 2022\n"
+"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-# 
 # 。︀	〝ཀུན་ཁྱབ〞 21
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniprésent   Présent partout ⁃ omniprésent, présent
 # partout
@@ -159,8 +165,9 @@ msgid ""
 " ཚུལ་ཁྲིམས་ ཀྱི་ བསླབ་པ␣འི་ རིམ་པ␣ར་ ཕྱེ་བ་ སྟེ་  གནས་ ལྔ་པ␣འི་ འགྲེལ་པ་ "
 "བཞུགས་ སོ །།"
 msgstr ""
+"L'entrainement à la discipline supérieure.\n"
+"Livre cinq du Traité de la Connaissance Globale (litt. qui englobe tout, qui englobe toutes les sciences bouddhiques) – le trésor des précieux discours du bouddha qui rassemble (compendium de) tous les véhicules et qui expose avec excellence les trois entrainements."
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -294,8 +301,11 @@ msgid ""
 " རྟོགས་པ་ ཐམས་ཅད་ ཀྱི་ གཞི་ རྟེན་ དགེ་བ␣འི་ བཤེས་གཉེན་ ལེགས་པ␣ར་ བསྟེན་ ཞིང༌"
 " །"
 msgstr ""
+"Quand on franchi la porte, dans ce très précieux et toujours présent, vivant"
+" dans ce monde enseignement du Bouddha,  pour commencer, il nous faut "
+"impérativement s’en remettre parfaitement  à un ami de bien, base de toutes "
+"les réalisations manifestes de la libération sacrée, "
 
-# 
 # 。︀	〝སྐབས〞 195
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Occasion, opportunité, moment ou,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Occasion, opportunité, moment ou,
@@ -381,8 +391,10 @@ msgid ""
 "སྡོམ་པ་ གསུམ་ ལ་ སློབ་ དགོས་པ␣ས་ ལྷག་པ་ ཚུལ་ཁྲིམས་ ཀྱི་ བསླབ་པ␣འི་ རིམ་པ␣ར་ "
 "ཕྱེ་བ་ སྟེ་ གནས་ ལྔ་པ་ ལ་ སྐབས་ བཞི །"
 msgstr ""
+"nous entrainer aux trois vœux. Par conséquent, l’explication progressive et "
+"détaillée de l’entrainement à la discipline supérieure (forme) ce cinquième "
+"livre qui (lui-même) est divisée en 4 parties. "
 
-# 
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
 # 
@@ -423,8 +435,9 @@ msgstr ""
 msgctxt "0a19b176922645ee9b2ca0be36358266"
 msgid "སློབ་དཔོན་ དང་ སློབ་མ␣འི་ མཚན་ཉིད་ བསྟེན་ ཚུལ་ འཆད་ཉན་ བཅས་ བཤད་པ །"
 msgstr ""
+"Sont enseignés : les caractéristiques du maitre et du disciple, la manière "
+"de s’en remettre (au maitre) et (comment) enseigner et écouter (le dharma)."
 
-# 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
@@ -458,9 +471,8 @@ msgstr ""
 # personelle,
 msgctxt "97f174b9ceae4f7dbdaf18aae542cd6f"
 msgid "སོ་ཐར་ གྱི་ སྡོམ་པ་ རབ་ཏུ་ དབྱེ་བ །"
-msgstr ""
+msgstr "Classification extensive des vœux de libération personnelle. "
 
-# 
 # 。︀	〝བྱང་སེམས〞 3800
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le cour esprit éveillé, Le Coeur esprit de l'éveil,
 # L'esprit d'éveil ⁃ bodhicitta, l'esprit d'éveil, l'éveil de l'esprit du
@@ -476,9 +488,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "f7dae13ef5ec45039e42f4e235fe9a6c"
 msgid "བྱང་སེམས་ ཀྱི་ བསླབ་པ་ བརྗོད་པ །"
-msgstr ""
+msgstr "L’exposé des préceptes d’un bodhisattva."
 
-# 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
@@ -513,12 +524,12 @@ msgstr ""
 msgctxt "ec77ce7782e644d99237c412a6f432e6"
 msgid "གསང་སྔགས་ རིག་འཛིན་ གྱི་ སྡོམ་པ་ སྤྱིར་ བཤད་པ་ དང་ བཅས་པ␣འོ ། །"
 msgstr ""
+" Présentation générale des vœux du mantra secret – les vœux des Vidyadaras."
 
 msgctxt "84a4cc6056f94de7ad4b68467f8c6b40"
 msgid "དང་པོ་ ལ་ བཅུ །"
-msgstr ""
+msgstr "La première section contient dix points (sous-parties)."
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -541,9 +552,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "afec95c7239f4b6a94cb4a6fef199d8b"
 msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ ཇི་ལྟར་ འཚོལ་བ །"
-msgstr ""
+msgstr "Comment chercher un maître spirituel."
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -551,9 +561,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "f0e2edf1c92546b886c4d28fcdc86832"
 msgid "བཤེས་གཉེན་ བསྟེན་པ␣འི་ འཐད་པ །"
-msgstr ""
+msgstr "Le bien-fondé (pertinence) de suivre un maître spirituel."
 
-# 
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
 # 
@@ -591,8 +600,9 @@ msgstr ""
 msgctxt "6da0729eb3344eccb59fd3ad585df40e"
 msgid "བསྟེན་ བྱ་ སློབ་དཔོན་ གྱི་ དབྱེ་བ་ དང་ མཚན་ཉིད །"
 msgstr ""
+"Les différents types de maitres auxquels on s’en remet et leurs "
+"caractéristiques."
 
-# 
 # 。︀	〝ཚུལ〞 4680
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
 # Comportement, ⁃ les circonstances (p106), méthode, manière, mode
@@ -605,8 +615,9 @@ msgstr ""
 msgctxt "6920c9c996844bf0b67cc844bb25fa5e"
 msgid "དེ་ལས་ འཕྲོས་པ␣འི་ འཇུག་ལྡོག་ བྱ་ ཚུལ །"
 msgstr ""
+"Une explication supplémentaire sur comment s’engager (avec un maitre "
+"authentique) et comment se détourner (d’un faux maitre)."
 
-# 
 # 。︀	〝མཚན་ཉིད〞 4755
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "caractéristique; caractère essentiel"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Caractéristique, Attribut, Marque, ⁃ caractéristique
@@ -623,9 +634,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
 msgctxt "efe5896c089c4c3cbc68809331d30870"
 msgid "སྟེན་ བྱེད་ སློབ་མ␣འི་ མཚན་ཉིད །"
-msgstr ""
+msgstr "Les caractéristiques du disciple, celui qui s’en remet (au maitre)."
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -640,16 +650,14 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 msgctxt "b0641308c11f4a2dbab141638222a942"
 msgid "ཇི་ལྟར་ བསྟེན་པ␣འི་ ཚུལ །"
-msgstr ""
+msgstr "Comment s’en remettre à lui."
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 msgctxt "1194c1f90de544078c231e078ac8e5a2"
 msgid "དེ་ལྟར་ བསྟེན་པ␣འི་ དགོས་ཆེད་ ཕན་ཡོན །"
-msgstr ""
+msgstr "La nécessité et quels bienfaits  s'en remettre ainsi."
 
-# 
 # 。︀	〝འགལ་ཟླ〞 703
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ contraire, contradictoire
 # 
@@ -659,8 +667,9 @@ msgstr ""
 msgctxt "85c055f76d85441d8991f3c84819dc8a"
 msgid "འགལ་ཟླ་ སྡིག་གྲོགས་ སྤང་བ །"
 msgstr ""
+"Abandonner l’opposé du maitre: les amis négatifs. (litt. les amis pour le "
+"mal)"
 
-# 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Facteurs, conditions, circonstances. ⁃
@@ -692,9 +701,8 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: confiance foi
 msgctxt "351c347b3887426d953f1007a7f836b8"
 msgid "མཐུན་ རྐྱེན་ དད་པ་ སྐྱེད་པ །"
-msgstr ""
+msgstr "Générer la foi, la condition favorable."
 
-# 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
 # Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
@@ -755,13 +763,12 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 msgctxt "332c4b3897f249c6999172acdf7c72bc"
 msgid "དམ་པ␣འི་ ཆོས་ འཆད་ཉན་ བྱ་བ␣འི་ ཚུལ་ ལོ ། །"
-msgstr ""
+msgstr "Comment enseigner et écouter le Dharma sacré."
 
 msgctxt "44f72b7f5eb449f0b6d7807caa6138cb"
 msgid "དང་པོ་ ནི །"
-msgstr ""
+msgstr "Première [partie]."
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -840,8 +847,10 @@ msgid ""
 "ཕན་བདེ␣འི་ འབྱུང་གནས་ རྒྱལ་བ␣འི་ བསྟན་པ་ ལ ། ། དལ་འབྱོར་ དོན་ཡོད་ ཕྱིར་དུ་ "
 "འཇུག་པ་ ན ། ། ཐོག་མ␣ར་ དགེ་བ␣འི་ བཤེས་གཉེན་ བཙལ་ ཞིང་ བསྟེན ། །"
 msgstr ""
+"Lorsqu'on s’engage, afin de donner du sens à (sa vie) avec ses libertés et richesses\n"
+"Dans l’enseignement du Vainqueur, source de bien et de bonheur\n"
+"On commencera par chercher puis suivre un maître spirituel."
 
-# 
 # 。︀	〝རྒྱལ་བ〞 774
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vainqueur, Victorieux, ⁃ le victorieux, le vainqueur
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ victoire, pour le souffle tortue
@@ -936,8 +945,11 @@ msgid ""
 "བསྟན་པ་ རིན་པོ་ཆེ་ བརྒྱ་ལམ་ ན་ མཚན་ ཙམ་ ཡང་ ཐོས་པ␣ར་ དཀའ་བ་ ཉིད་ འཇིག་རྟེན་ "
 "དུ་ གནས་པ་ ལ །"
 msgstr ""
+"Alors que le précieux enseignement du Vainqueur, source de tous bienfaits et"
+" bonheurs temporaire (dans cette vie) et éternel (stable, définitif), "
+"n’apparait que très rarement et dont il est rare (difficile) d’en entendre "
+"simplement le nom est présent dans notre monde,"
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -1048,15 +1060,21 @@ msgid ""
 "བློ་གྲོས་ དང་ ལྡན་པ་ དག  ། ཐོག་མ␣ར་ ཁོ་ན་ དགེ་བ␣འི་ བཤེས་གཉེན་ མཚན་ཉིད་ དང་ "
 "ལྡན་པ་ བཙལ་ ནས་"
 msgstr ""
+"ceux qui ont obtenu une existence humaine (corps humain) semblable au joyau "
+"qui exauce les souhaits possédant les qualités de libertés et de richesses, "
+"sans la gaspiller et afin de lui donner du sens, ceux là qui possèdent "
+"l’intelligence de s’engager (dans le dharma), commenceront impérativement "
+"par chercher un maître spirituel qualifié (qui possède les caractéristiques)"
+" puis,"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 msgctxt "c4368f55cfa04f82b90a5103caacf29b"
 msgid "རྙེད་པ་ ན་ཚུལ་ བཞིན་ དུ་ བསྟེན་པ␣ར་ བྱ␣འོ ། །"
 msgstr ""
+"quand ils l’auront trouvé, s'en remettront à lui tel qu’il se doit (de la "
+"bonne manière)."
 
-# 
 # 。︀	〝ཕྱོགས〞 3568
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Thèse ⁃ Thèse
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Direction, Orient, Coté, Position, Se diriger vers
@@ -1070,13 +1088,12 @@ msgstr ""
 # l'opinion
 msgctxt "12ee088798a545afac4c852b35913919"
 msgid "འདི་ ལ་ ཕྱོགས་ གསུམ །"
-msgstr ""
+msgstr "Cette [partie a] trois aspects (trois angles)."
 
 msgctxt "199d1e6b9ec34060bb2abc6d92f26387"
 msgid "དང་པོ་ ནི །"
-msgstr ""
+msgstr "Premièrement:"
 
-# 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
 # cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
@@ -1090,9 +1107,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "ac1182caf713431187ea4bda0e795dcd"
 msgid "སྤེལ་མ␣ར་ བསྟོད་པ་ ལ␣ས །"
-msgstr ""
+msgstr "Le Miśrakastotra dit :"
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -1146,8 +1162,11 @@ msgid ""
 "བགྲོད་པ་ གཅིག་ དང་ ཐབས་ བདེ་ དང༌ ། ། ལེགས་པ␣ར་ འབྲེལ་ དང་ ཉེས་པ་ མེད ། ། "
 "ཐོག་མ་ བར་ དང་ མཐ␣ར་ དགེ་བ ། ། ཁྱོད་ ཀྱི་ བསྟན་ འདྲ་ གཞན་ ལ་ མེད ། ། ཅེས་"
 msgstr ""
+"\"Unique voie  à parcourir et méthodes aisées ; qui nous relie à "
+"l’excellence (relie aux qualités excellentes) et sans défauts ; vertueux au "
+"début, au milieu et à la fin ; on ne retrouve un enseignement comme la vôtre"
+" nulle part ailleurs. \""
 
-# 
 # 。︀	〝བགྲོད་པ་གཅིག〞 681
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le cheminement/véhicule unique
 # 
@@ -1172,8 +1191,9 @@ msgstr ""
 msgctxt "c2d1e622e1bd49948ded201281d3e640"
 msgid "ཐར་པ␣འི་ ལམ་ དུ་ བགྲོད་པ་ གཅིག་ ཅིང་"
 msgstr ""
+"(L'enseignement du Bouddha est ) la seule voie à parcourir pour la "
+"libération et,"
 
-# 
 # 。︀	〝འཇུག་པ〞 1591
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
 # de l'action)
@@ -1211,8 +1231,9 @@ msgstr ""
 msgctxt "5cb04f0724b5467a91630959ccc88333"
 msgid "འཇུག་པ␣འི་ ཐབས་ བདེ་བ་ ལ་ ཞུགས་ ནས་"
 msgstr ""
+"une fois installé dans les pratiques aisées de son application (les "
+"pratiques sur la voie sont d’usage facile)."
 
-# 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Cause, Substance, Biens, ⁃ cause
@@ -1317,8 +1338,12 @@ msgid ""
 "ཐོག་མ␣ར་ ཐོས་པ །  བར་ དུ་ བསམ་པ །  ཐ་མ་ སྒོམ་པ␣འི་ དུས་ ཐམས་ཅད་ མངོན་མཐོ་ "
 "ངེས་ལེགས་ ཀྱི་ རྒྱུ་ འབའ་ཞིག་ ཏུ་ གྱུར་པ␣ས་"
 msgstr ""
+"(le pratiquant) est lié, (connecté), exclusivement qu'au fruit excellents. "
+"Il (l'enseignement) est libre des défauts que sont l’attachement etc. Au "
+"début avec l’écoute, au milieu avec la réflexion, à la fin avec la "
+"méditation, en tout temps, il est uniquement une cause pour (l’obtention) "
+"des mondes supérieurs et de l’excellence ultime (la libération), donc, "
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -1426,8 +1451,11 @@ msgid ""
 "བསྟན་པ་ ཁོ་ན་ ལ␣ས །  དྲང་སྲོང་ སེར་སྐྱ་ སོགས་ སྟོན་པ་ གཞན་ གྱི་ བསྟན་པ་ ལ་ "
 "མེད་པ␣ས །"
 msgstr ""
+"il  est vertueux et par conséquent, de quelque manière que ce soit, (à tous "
+"égards)  la source des bienfaits et du bonheur ne se trouve que dans le seul"
+" enseignement du Bouddha et ne se trouve pas dans les enseignements des "
+"autres enseignants comme le Rishi Kapila et les autres. "
 
-# 
 # 。︀	〝རྒྱལ་སྲས〞 786
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fils des Vainqueurs ⁃ enfants des vainqueurs, fils des
 # vainqueurs, fils des victorieux, bodhisattvas
@@ -1447,9 +1475,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "a8d25c87bdb74259a15679c9f67bd66a"
 msgid "རྒྱལ་སྲས་ ཞི་བ་ལྷ␣ས །"
-msgstr ""
+msgstr "Shantideva le Fils des Vainqueur dit :"
 
-# 
 # 。︀	〝འགྲོ་བ〞 730
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ tara, gamana, gati, jaga, jagan, jagad Sens racine:
@@ -1528,8 +1555,10 @@ msgid ""
 "འགྲོ་བ␣འི་ སྡུག་བསྔལ་ སྨན་ གཅིག་པུ ། ། བདེ་བ་ ཐམས་ཅད་ འབྱུང་བ␣འི་ གནས ། ། "
 "བསྟན་པ་ རྙེད་ དང་ བཀུར་སྟི་ དང༌ ། ། བཅས་ ཏེ་ ཡུན་རིང་ གནས་ གྱུར་ཅིག  ། ཅེས་"
 msgstr ""
+"Unique remède (médicament) aux souffrances des êtres ; source de tous les "
+"bonheurs ; en soutenant et en servant l’enseignement; puisse-t-il demeurer "
+"longtemps."
 
-# 
 # 。︀	〝སྨོན་ལམ〞 4479
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Souhaits, Aspiration, ⁃ aspiration, souhaits, voux,
 # invocation d'aspiration, l'expression de ses souhaits, l'action
@@ -1558,13 +1587,12 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "91947def556e40efa58736dde29c8284"
 msgid "སྨོན་ལམ་ དུ་ མཛད་པ␣ས་ མཚོན་ ནོ ། །"
-msgstr ""
+msgstr "Il (Shantideva) a exprimé cela au travers d’une prière. "
 
 msgctxt "1a3948d0cf6642d9b0e2bc66182c9d4a"
 msgid "གཉིས་པ་ ནི །"
-msgstr ""
+msgstr "Deuxièmement:"
 
-# 
 # 。︀	〝མདོ〞 2727
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sûtra, Discours Résumé, Confluence, convergence,
@@ -1601,9 +1629,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
 msgctxt "fba99735fdf543db9f85be2988740532"
 msgid "ཡབ་ སྲས་ མཇལ་བ␣འི་ མདོ་ ལ␣ས །"
-msgstr ""
+msgstr "Le soutra ''La rencontre du père et du fils'' dit :"
 
-# 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
@@ -1611,8 +1638,9 @@ msgstr ""
 msgctxt "9a974d6db9614aa7a5c3b47cc6fd2f20"
 msgid "མི་ ཁོམ་ བརྒྱད་པོ་ ཐམས་ཅད་ རབ་ སྤངས་ ཤིང༌ ། །"
 msgstr ""
+"S’étant totalement défait (litt. ayant abandonné) des huit états sans "
+"liberté (états dans lesquels on a pas le loisir de pratiquer)"
 
-# 
 # 。︀	〝དཀའ〞 129
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ .des difficultés
 # 
@@ -1631,8 +1659,9 @@ msgstr ""
 msgctxt "9880daa639064765a6064cb145122d54"
 msgid "དལ་བ་ ཕུན་ཚོགས་ རྙེད་ དཀའ་ ཐོབ་ གྱུར་ ནས ། །"
 msgstr ""
+"Et, ayant obtenu  les parfaites libertés (qui sont) difficiles à obtenir "
+"(litt. à trouver),"
 
-# 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
 # érudit, rompu en, dextre, docte
@@ -1687,8 +1716,10 @@ msgid ""
 "བདེ་གཤེགས་ བསྟན་ ལ་ དད་པ་ རྙེད་ གྱུར་པ␣འི ། ། མཁས་པ་ རྣམས་ ཀྱིས་ རིགས་པ␣འི་ "
 "རྣལ་འབྱོར་ སྤྱོད ། ། ཅེས་"
 msgstr ""
+"Les sages qui ont obtenus, (litt. trouvés) la foi en la doctrine du Sugata,\n"
+"S'adonnent à la pratique (litt. le yoga) éclairée (litt. qui est logique, raisonné) \n"
+"(note a vérifier le sens de རིགས་པའི་རྣལ་འབྱོར་, pour OR, une fois qu'ils ont compris qu'ils ont une précieuse existence humaine, les pratiquants (sages) s'engagent, grace à leur compréhension, dans la pratique). "
 
-# 
 # 。︀	〝འཇུག་པ〞 1591
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
 # de l'action)
@@ -1752,12 +1783,14 @@ msgid ""
 "དལ་འབྱོར་ གྱི་ མི་ལུས་ ཐོབ་པ་ དོན་ཡོད་པ␣ར་ བྱེད་པ་ ནི་ སངས་རྒྱས་ ཀྱི་ "
 "བསྟན་པ་ ལ་ དད་ ཅིང་ འཇུག་པ་ ཁོ་ན་ ཡིན་ ནོ ། །"
 msgstr ""
+"Pour donner du sens à cette existence humaine obtenue avec ses libertés et "
+"richesses, il n’y a que (qu’une solution qui est de)  s’engager avec foi en "
+"l’enseignement du Bouddha.  "
 
 msgctxt "aea2112102954761931ab7b9a12b1079"
 msgid "གསུམ་པ་ ནི །"
-msgstr ""
+msgstr "Troisièmement :"
 
-# 
 # 。︀	〝སྟོང་པ〞 2029
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vide, absence, Sans. Dépourvu de. Ouverture, Vider,
 # Evacuer, ⁃ shûnya, le vide, absence, sans, dépourvu de, ouverture, évacuer,
@@ -1793,9 +1826,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "a63e0a66d587407b98132def793fc6e5"
 msgid "འཕགས་པ་ བརྒྱད་ སྟོང་པ་ ལ␣ས །"
-msgstr ""
+msgstr "La Prajnaparamita en Huit Mille Vers dit :"
 
-# 
 # 。︀	〝མངོན་པར〞 1140
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rdzogs par ‘tshang rgya ba Sens racine: la réalisation du
 # véritable et parfait état de bouddha
@@ -1918,8 +1950,9 @@ msgid ""
 "འདི་ལྟར་ བྱང་ཆུབ་ སེམས་དཔའ་ སེམས་དཔའ་ ཆེན་པོ་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ "
 "རྫོགས་པ␣འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ␣ར་ འཚང་རྒྱ་བ␣ར་ འདོད་པ␣ས །"
 msgstr ""
+"Ainsi, un Bodhisattva Mahasattva aspirant à atteindre la bouddhéité en "
+"parachevant pleinement l’insurpassable, parfaitement pure et complet éveil "
 
-# 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vertu, vertueux
@@ -1948,15 +1981,14 @@ msgstr ""
 msgctxt "7f6328630c0942359ddf2916d3596fa4"
 msgid "དང་པོ་ ཉིད་ དུ་ དགེ་བ␣འི་ བཤེས་གཉེན་ དག་ ལ་ བསྙེན་པ␣ར་ བྱ །"
 msgstr ""
+"commencera (litt. au tout début) par se rendre auprès d’un maitre spirituel,"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 msgctxt "2008a63169a144189705fc2b28fd55c4"
 msgid "བསྟེན་པ␣ར་ བྱ །"
-msgstr ""
+msgstr "s’en remettra à lui,"
 
-# 
 # 。︀	〝བསྙེན་བཀུར〞 1849
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Services et honneurs
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = bsnyen pa dang bkur sti Sens racine: Services et
@@ -1965,25 +1997,23 @@ msgstr ""
 # honneurs, bénéfices
 msgctxt "44add2ecbeac4a0295581d7dca320433"
 msgid "བསྙེན་བཀུར་ བར་ བྱ␣འོ ། །"
-msgstr ""
+msgstr "et le servira."
 
-# 
 # 。︀	〝རོ〞 5953
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
 msgctxt "e9d1164e849f4f84b05cf2bca9dc67d8"
 msgid "ཞེས་ གསུངས་པ་ ལྟར་ རོ ། །"
-msgstr ""
+msgstr "Il se doit de faire comme décrit ici. "
 
-# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "d5777f5ea2a347b98667253bcfb4791a"
 msgid "བཤེས་གཉེན་ ཇི་ལྟ་བུ་ ཞིག་ འཚོལ་ ཞེ་ན །"
 msgstr ""
+"Si vous demandez quelle genre de maitre spirituel doit-on rechercher ?"
 
-# 
 # 。︀	〝ཆེད་དུ་བརྗོད་པ〞 1351
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ textes biographiques des bouddhas (litt.)
 # 
@@ -2000,9 +2030,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "195849d7b7ad4a6ea8e9af05e57c9ba4"
 msgid "ཆེད་ དུ་ བརྗོད་པ␣འི་ ཚོམ་ ལ␣ས །"
-msgstr ""
+msgstr "les ''Propos énoncés intentionnellement'' disent : "
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2019,8 +2048,9 @@ msgstr ""
 msgctxt "f17c66c70a2d4ab5a13c66e8b31e77f8"
 msgid "དམན་པ་ བསྟེན་པ␣ས་ མི་ དག་ ཉམས་འགྱུར་ ཞིང༌ ། །"
 msgstr ""
+"Ceux qui s’en remettent à un (maitre) inférieur, (à eux en terme de "
+"qualités) dégénéreront;"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2046,9 +2076,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "f6d1a8fa103541fd8bdc05be5dbff302"
 msgid "ཐད་ཀ␣ར་ བབས་པ་ བསྟེན་པ␣ས་ སོ་ ན་ གནས ། །"
-msgstr ""
+msgstr "(Ceux qui) s’en remettent à (un maitre) égale à eux même, stagneront;"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2099,8 +2128,9 @@ msgstr ""
 msgctxt "d29045c0ca28422293e6b3b375c3a7d1"
 msgid "གཙོ་བོ་ བསྟེན་པ␣ས་ དམ་པ་ ཐོབ་པ␣ར་ འགྱུར ། །"
 msgstr ""
+"(Ceux qui) s’en remettent à (un maitre) supérieur excelleront (obtiendront la pureté);\n"
+"(ici གཙོ་བོ fait référence à une personne supérieur en qualité et non en une figure principale comme c'est souvent le cas)."
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2114,16 +2144,14 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "moi", "soi" ⁃ Soi
 msgctxt "dc110e22d8814e07a64e7fa1d388e9ec"
 msgid "དེ་ཕྱིར་ བདག་ བས་ གཙོ␣ར་ གྱུར་ བསྟེན་པ␣ར་ བྱ ། །"
-msgstr ""
+msgstr "Par conséquent, suivons-en un qui nous est supérieur."
 
-# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "1fcd48fc63084bdfbcced9ec719fc6af"
 msgid "བཤེས་གཉེན་ དེ␣འང་"
-msgstr ""
+msgstr "Concernant ce maître spirituel,"
 
-# 
 # 。︀	〝ཏིང་ངེ་འཛིན〞 1859
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
 # recueillement
@@ -2191,8 +2219,9 @@ msgid ""
 "ཚུལ་ཁྲིམས་ དང་ མང་ དུ་ ཐོས་པ་ དང་ ཏིང་ངེ་འཛིན་ ལ་སོགས་པ་ རང་ ལ␣ས་ ཀྱང་ "
 "ཡོན་ཏན་ གྱིས་ དམན་པ་ བསྟེན་པ␣ས་"
 msgstr ""
+"en s'en remettant (à un maitre )aux qualités inférieurs aux nôtres en terme "
+"de discipline, d’érudition, d’absorption méditatives  etc, "
 
-# 
 # 。︀	〝སྐྱེ་བ〞 241
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Naître Naissance, venir à l'existence
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ naissance (11ème des douze facteurs de la relation
@@ -2217,8 +2246,8 @@ msgstr ""
 msgctxt "54ec622002404411b616fc28053bde25"
 msgid "སྟེན་པ␣འི་ མི་ དག་ ལ་ ཡང་ ཡོན་ཏན་ གང་ཡང་ མི་ སྐྱེ་བ␣ར་"
 msgstr ""
+"chez ceux qui s’en remettent ainsi ne génèrent aucune qualité, alors que"
 
-# 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Défauts
@@ -2235,12 +2264,12 @@ msgstr ""
 msgctxt "7cf461e2c51e41179cd10af2744fcd9c"
 msgid "སྐྱོན་ མང་པོ་ སྐྱེད་པ␣ས་ ཉམས་པ␣ར་ འགྱུར་ ཞིང༌ །"
 msgstr ""
+"de nombreux défaut s’accroissent et donc, (ces personnes) dégénéreront. "
 
 msgctxt "067761db836a4499a7b98d80b2603406"
 msgid "ཐད་ཀ␣ར་ བབས་པ་ སྟེ་"
-msgstr ""
+msgstr "Si (le maitre) est identique à soi"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2302,8 +2331,9 @@ msgctxt "7940fab456ea4175ba99f94e470dc7e4"
 msgid ""
 "ཡོན་ཏན་ རང་ དང་ མཉམ་པ་ བསྟེན་པ␣ས་ འཕེལ་འགྲིབ་ མེད་པ␣ར་ རང་སོ་ ན་ གནས་ ཤིང༌ །"
 msgstr ""
+"en se remettant à (une personne ) dont les qualités égales les nôtres, on ne"
+" progresse  ni ne régresse, on stagne. "
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2360,8 +2390,9 @@ msgstr ""
 msgctxt "6451322658d0471796534c85255700b2"
 msgid "རང་ ལ␣ས་ ཡོན་ཏན་ ལྷག་པར་ གྱུར་པ␣འི་ གཙོ་བོ་ བསྟེན་པ␣ས་ དམ་པ་ སྟེ་"
 msgstr ""
+"s’en remettant à (un maitre) supérieur en terme de qualités, nous "
+"excellerons (on sera parfait) et"
 
-# 
 # 。︀	〝འགྱུར་བ〞 715
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
 # traduire,
@@ -2407,8 +2438,8 @@ msgstr ""
 msgctxt "68a2b84f66c8486ab1a87e2e9e3aa44d"
 msgid "འདོད་པ␣འི་ དོན་ མཆོག་ཐོབ་པ␣ར་ འགྱུར་བ་ དེ␣འི་ ཕྱིར་"
 msgstr ""
+"on atteindra les objectifs suprêmes auxquels on aspire.  Par conséquent,"
 
-# 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
@@ -2470,8 +2501,9 @@ msgctxt "0f4a4d19f6094593bbadaebf6adb9c39"
 msgid ""
 "རྣམ་པ་ ཀུན་ ཏུ་ བདག་ བས་ ལྷག་ ཅིང་ འཕགས་པ་ གཙོ་བོ་ བསྟེན་པ␣ར་ བྱ་ སྟེ །"
 msgstr ""
+"Toujours, il nous faut s’en remettre à un (maitre) supérieur à nous même, "
+"plus noble que nous, plus avancé que nous. "
 
-# 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
 # l'état d'être tel que c'est, réalité
@@ -2491,9 +2523,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "33dcf7183e3748058b0f96d81cee65ad"
 msgid "དེ་ཉིད་ ལ␣ས །"
-msgstr ""
+msgstr "Dans ce même soutra : "
 
-# 
 # 。︀	〝མཆོག〞 1458
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ agra, vara, uttama, uttara, parama Sens racine:
@@ -2589,11 +2620,12 @@ msgid ""
 "ཚུལ་ཁྲིམས་ ཉེ་བར་ ཞི་བ་ དང༌ ། ། ཤེས་རབ་ ཆེས་ མཆོག་ ལྷག་པ་ ཡི ། ། གཙོ་བོ་ "
 "གང་ཡིན་ དེ་ བསྟེན་ ན ། ། གཙོ་བོ་ ལ␣ས་ ཀྱང་ ཆེས་ གཙོ␣ར་ འགྱུར ། །"
 msgstr ""
+"Si on s’en remet à un maitre supérieur en discipline, pacification et "
+"sagesse suprême, on deviendra supérieur à celui qui nous est supérieur. "
 
-# 
 # 。︀	〝བཤད〞 6272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
 # Etudier,
 msgctxt "f1dc47a45c9d43d9bcd7e0b0be3f9dfb"
 msgid "ཞེས་ བཤད་ དོ ། །"
-msgstr ""
+msgstr "Voici ce qui y est dit."
