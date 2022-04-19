@@ -2628,4 +2628,4 @@ msgstr ""
 # Etudier,
 msgctxt "f1dc47a45c9d43d9bcd7e0b0be3f9dfb"
 msgid "ཞེས་ བཤད་ དོ ། །"
-msgstr "Tel est ce qui est dit."
+msgstr "Voici ce qui y est dit."
