@@ -38,6 +38,7 @@ class Po:
             source = []
             comment = []
             for pair in pairs:
+                print(pair)
                 c, s = pair.split(self.trans_delimiter)
                 source.append(s)
                 comment.append(f' {sent_num+1}. {c}')
@@ -52,6 +53,8 @@ class Po:
 
     def txt_to_po(self, filename):
         lines = filename.read_text(encoding='utf-8')
+        lines = '\n'.join([l.rstrip() for l in lines.split('\n')])
+        print('')
         if self.par_marker not in lines:
             print(' — has no paragraphs. passing...')
             return
