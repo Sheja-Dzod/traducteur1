@@ -40,7 +40,7 @@ msgid ""
 "les réalisations manifestes de la libération sacrée, nous entrainer aux "
 "trois vœux. Par conséquent, l’explication progressive et détaillée de "
 "l’entrainement à la discipline supérieure (forme) ce cinquième livre qui "
-"(lui-même) est divisée en 4 parties. "
+"(lui-même) est divisée en 4 parties."
 msgstr ""
 
 #  4. སློབ་དཔོན་དང་སློབ་མའི་མཚན་ཉིད་བསྟེན་ཚུལ་འཆད་ཉན་བཅས་བཤད་པ། 5. སོ་
@@ -185,7 +185,7 @@ msgid ""
 "conséquent, de quelque manière que ce soit, (à tous égards) la source des "
 "bienfaits et du bonheur ne se trouve que dans le seul enseignement du "
 "Bouddha et ne se trouve pas dans les enseignements des autres enseignants "
-"comme le Rishi Kapila et les autres. "
+"comme le Rishi Kapila et les autres."
 msgstr ""
 
 #  32. རྒྱལ་སྲས་ཞི་བ་ལྷས།་
@@ -202,7 +202,7 @@ msgctxt "line 15, livre5_1-1.txt"
 msgid ""
 "Unique remède (médicament) aux souffrances des êtres ; source de tous les "
 "bonheurs ; en soutenant et en servant l’enseignement; puisse-t-il demeurer "
-"longtemps. Il (Shantideva) a exprimé cela au travers d’une prière. "
+"longtemps. Il (Shantideva) a exprimé cela au travers d’une prière."
 msgstr ""
 
 #  35. གཉིས་པ་ནི།་
@@ -230,7 +230,7 @@ msgid ""
 "logique, raisonné) (note a vérifier le sens de རིགས་པའི་རྣལ་འབྱོར་, pour OR,"
 " une fois qu’ils ont compris qu’ils ont une précieuse existence humaine, les"
 " pratiquants (sages) s’engagent, grace à leur compréhension, dans la "
-"pratique). "
+"pratique)."
 msgstr ""
 
 #  40. དལ་འབྱོར་གྱི་མི་ལུས་ཐོབ་པ་དོན་ཡོད་པར་བྱེད་པ་ནི་སངས་
@@ -242,7 +242,7 @@ msgctxt "line 19, livre5_1-1.txt"
 msgid ""
 "Pour donner du sens à cette existence humaine obtenue avec ses libertés et "
 "richesses, il n’y a que (qu’une solution qui est de) s’engager avec foi en "
-"l’enseignement du Bouddha. "
+"l’enseignement du Bouddha."
 msgstr ""
 
 #  41. གསུམ་པ་ནི།་
@@ -267,7 +267,7 @@ msgid ""
 "Ainsi, un Bodhisattva Mahasattva aspirant à atteindre la bouddhéité en "
 "parachevant pleinement l’insurpassable, parfaitement pure et complet éveil "
 "commencera (litt. au tout début) par se rendre auprès d’un maitre spirituel,"
-" s’en remettra à lui, et le servira. Il se doit de faire comme décrit ici. "
+" s’en remettra à lui, et le servira. Il se doit de faire comme décrit ici."
 msgstr ""
 
 #  48. བཤེས་གཉེན་ཇི་ལྟ་བུ་ཞིག་འཚོལ་ཞེ་ན། 49. ཆེད་དུ་བརྗོད་པའི་ཚོམ་ལས། 50. དམན་
@@ -318,12 +318,12 @@ msgid ""
 "qualités, nous excellerons (on sera parfait) et on atteindra les objectifs "
 "suprêmes auxquels on aspire. Par conséquent, Toujours, il nous faut s’en "
 "remettre à un (maitre) supérieur à nous même, plus noble que nous, plus "
-"avancé que nous. "
+"avancé que nous."
 msgstr ""
 
 #  63. དེ་ཉིད་ལས།་
 msgctxt "line 25, livre5_1-1.txt"
-msgid "Dans ce même soutra : "
+msgid "Dans ce même soutra :"
 msgstr ""
 
 #  64. ཚུལ་ཁྲིམས་ཉེ་བར་ཞི་བ་དང༌། །ཤེས་རབ་ཆེས་མཆོག་ལྷག་པ་ཡི། །གཙོ་བོ་
