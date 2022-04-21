@@ -1091,7 +1091,7 @@ msgstr ""
 # l'opinion
 msgctxt "12ee088798a545afac4c852b35913919"
 msgid "འདི་ ལ་ ཕྱོགས་ གསུམ །"
-msgstr "Cette [partie a] trois aspects (trois angles)."
+msgstr "Il y a ici trois aspects (trois angles)."
 
 msgctxt "199d1e6b9ec34060bb2abc6d92f26387"
 msgid "དང་པོ་ ནི །"
