@@ -38,7 +38,7 @@ class Po:
             source = []
             comment = []
             for pair in pairs:
-                s, c = pair.split(self.trans_delimiter)
+                c, s = pair.split(self.trans_delimiter)
                 source.append(s)
                 comment.append(f' {sent_num+1}. {c}')
                 sent_num += 1
