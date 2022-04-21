@@ -9,7 +9,7 @@ class Po:
     def __init__(self):
         self.par_marker = '\n\n\n'
         self.trans_pattern = r'(.*?\n\t.*)\n'
-        self.trans_delimiter = '\n\t'
+        self.trans_delimiter = '\n(?:\t|[ ]{4})'
         self.file = polib.POFile()
         self.file.metadata = {
             'MIME-Version': '1.0',
@@ -38,7 +38,7 @@ class Po:
             source = []
             comment = []
             for pair in pairs:
-                c, s = pair.split(self.trans_delimiter)
+                c, s = re.split(self.trans_delimiter, pair)
                 source.append(s)
                 comment.append(f' {sent_num+1}. {c}')
                 sent_num += 1
