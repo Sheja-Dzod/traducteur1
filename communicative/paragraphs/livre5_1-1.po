@@ -1,0 +1,276 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. L’entrainement à la discipline supérieure. Livre cinq du Traité de la
+# Connaissance Globale (litt. qui englobe tout, qui englobe toutes les
+# sciences bouddhiques) – le trésor des précieux discours du bouddha qui
+# rassemble (compendium de) tous les véhicules et qui expose avec excellence
+# les trois entrainements.་
+msgctxt "line 1, livre5_1-1.txt"
+msgid ""
+"༄༅། "
+"།ཐེག་པའི་སྒོ་ཀུན་ལས་བཏུས་པ་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་བསླབ་པ་གསུམ་ལེགས་པར་སྟོན་པའི་བསྟན་བཅོས་ཤེས་བྱ་ཀུན་ཁྱབ་ཅེས་བྱ་བ་ལས་ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པར་ཕྱེ་བ་སྟེ་"
+" གནས་ལྔ་པའི་འགྲེལ་པ་བཞུགས་སོ།།"
+msgstr ""
+
+#  2. Quand on franchi la porte, dans ce très précieux et toujours présent,
+# vivant dans ce monde enseignement du Bouddha, pour commencer, il nous faut
+# impérativement s’en remettre parfaitement à un ami de bien, base de toutes
+# les réalisations manifestes de la libération sacrée,  3. nous entrainer aux
+# trois vœux. Par conséquent, l’explication progressive et détaillée de
+# l’entrainement à la discipline supérieure (forme) ce cinquième livre qui
+# (lui-même) est divisée en 4 parties. ་
+msgctxt "line 2, livre5_1-1.txt"
+msgid ""
+"༄༅། "
+"།དེ་ལྟར་རྒྱལ་བའི་བསྟན་པ་རིན་པོ་ཆེ་འཇིག་རྟེན་དུ་འཚོ་ཞིང་གཞེས་པའི་སྒོར་འཇུག་པ་དེའི་ཚེ།"
+" "
+"ཐོག་མ་ཁོ་ནར་ཐར་པ་དམ་པའི་མངོན་པར་རྟོགས་པ་ཐམས་ཅད་ཀྱི་གཞི་རྟེན་དགེ་བའི་བཤེས་གཉེན་ལེགས་པར་བསྟེན་ཞིང༌།"
+" "
+"སྡོམ་པ་གསུམ་ལ་སློབ་དགོས་པས་ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པར་ཕྱེ་བ་སྟེ་གནས་ལྔ་པ་ལ་སྐབས་བཞི།"
+msgstr ""
+
+#  4. Sont enseignés : les caractéristiques du maitre et du disciple, la
+# manière de s’en remettre (au maitre) et (comment) enseigner et écouter (le
+# dharma). 5. Classification extensive des vœux de libération personnelle.  6.
+# L’exposé des préceptes d’un bodhisattva. 7.  Présentation générale des vœux
+# du mantra secret – les vœux des Vidyadaras.་
+msgctxt "line 3, livre5_1-1.txt"
+msgid ""
+"སློབ་དཔོན་དང་སློབ་མའི་མཚན་ཉིད་བསྟེན་ཚུལ་འཆད་ཉན་བཅས་བཤད་པ། "
+"སོ་ཐར་གྱི་སྡོམ་པ་རབ་ཏུ་དབྱེ་བ། བྱང་སེམས་ཀྱི་བསླབ་པ་བརྗོད་པ། "
+"གསང་སྔགས་རིག་འཛིན་གྱི་སྡོམ་པ་སྤྱིར་བཤད་པ་དང་བཅས་པའོ། །"
+msgstr ""
+
+#  8. La première section contient dix points (sous-parties).་
+msgctxt "line 4, livre5_1-1.txt"
+msgid "དང་པོ་ལ་བཅུ།"
+msgstr ""
+
+#  9. Comment chercher un maître spirituel. 10. Le bien-fondé (pertinence) de
+# suivre un maître spirituel. 11. Les différents types de maitres auxquels on
+# s’en remet et leurs caractéristiques. 12. Une explication supplémentaire sur
+# comment s’engager (avec un maitre authentique) et comment se détourner (d’un
+# faux maitre). 13. Les caractéristiques du disciple, celui qui s’en remet (au
+# maitre). 14. Comment s’en remettre à lui. 15. La nécessité et quels
+# bienfaits s’en remettre ainsi. 16. Abandonner l’opposé du maitre: les amis
+# négatifs. (litt. les amis pour le mal) 17. Générer la foi, la condition
+# favorable. 18. Comment enseigner et écouter le Dharma sacré.་
+msgctxt "line 5, livre5_1-1.txt"
+msgid ""
+"དགེ་བའི་བཤེས་གཉེན་ཇི་ལྟར་འཚོལ་བ། བཤེས་གཉེན་བསྟེན་པའི་འཐད་པ། "
+"བསྟེན་བྱ་སློབ་དཔོན་གྱི་དབྱེ་བ་དང་མཚན་ཉིད། དེ་ལས་འཕྲོས་པའི་འཇུག་ལྡོག་བྱ་ཚུལ། "
+"སྟེན་བྱེད་སློབ་མའི་མཚན་ཉིད། ཇི་ལྟར་བསྟེན་པའི་ཚུལ། "
+"དེ་ལྟར་བསྟེན་པའི་དགོས་ཆེད་ཕན་ཡོན། འགལ་ཟླ་སྡིག་གྲོགས་སྤང་བ། "
+"མཐུན་རྐྱེན་དད་པ་སྐྱེད་པ། དམ་པའི་ཆོས་འཆད་ཉན་བྱ་བའི་ཚུལ་ལོ། །"
+msgstr ""
+
+#  19. Première [partie].་
+msgctxt "line 6, livre5_1-1.txt"
+msgid "དང་པོ་ནི།"
+msgstr ""
+
+#  20. Lorsqu’on s’engage, afin de donner du sens à (sa vie) avec ses libertés
+# et richesses; Dans l’enseignement du Vainqueur, source de bien et de
+# bonheur ; On commencera par chercher puis suivre un maître spirituel.་
+msgctxt "line 7, livre5_1-1.txt"
+msgid ""
+"ཕན་བདེའི་འབྱུང་གནས་རྒྱལ་བའི་བསྟན་པ་ལ། །དལ་འབྱོར་དོན་ཡོད་ཕྱིར་དུ་འཇུག་པ་ན། "
+"།ཐོག་མར་དགེ་བའི་བཤེས་གཉེན་བཙལ་ཞིང་བསྟེན། །"
+msgstr ""
+
+#  21. Alors que le précieux enseignement du Vainqueur, source de tous
+# bienfaits et bonheurs temporaire (dans cette vie) et éternel (stable,
+# définitif), n’apparait que très rarement et dont il est rare (difficile)
+# d’en entendre simplement le nom est présent dans notre monde, 22. ceux qui
+# ont obtenu une existence humaine (corps humain) semblable au joyau qui
+# exauce les souhaits possédant les qualités de libertés et de richesses, sans
+# la gaspiller et afin de lui donner du sens, ceux là qui possèdent
+# l’intelligence de s’engager (dans le dharma), commenceront impérativement
+# par chercher un maître spirituel qualifié (qui possède les caractéristiques)
+# puis, 23. quand ils l’auront trouvé, s’en remettront à lui tel qu’il se doit
+# (de la bonne manière).་
+msgctxt "line 8, livre5_1-1.txt"
+msgid ""
+"འདི་དང་གཏན་གྱི་ཕན་པ་དང་བདེ་བ་མ་ལུས་པའི་འབྱུང་གནས་རྒྱལ་བའི་བསྟན་པ་རིན་པོ་ཆེ་བརྒྱ་ལམ་ན་མཚན་ཙམ་ཡང་ཐོས་པར་དཀའ་བ་ཉིད་འཇིག་རྟེན་དུ་གནས་པ་ལ།"
+" "
+"དལ་འབྱོར་གྱི་ཆོས་དང་ལྡན་པའི་ཡིད་བཞིན་ནོར་བུ་ལྟ་བུའི་མི་ལུས་ཐོབ་པ་དག་ཆུད་ཟོས་སུ་མི་བཏང་བར་དོན་ཡོད་པར་བགྱི་བའི་ཕྱིར་དུ་འཇུག་པའི་བློ་གྲོས་དང་ལྡན་པ་དག"
+" །ཐོག་མར་ཁོ་ན་དགེ་བའི་བཤེས་གཉེན་མཚན་ཉིད་དང་ལྡན་པ་བཙལ་ནས་ "
+"རྙེད་པ་ན་ཚུལ་བཞིན་དུ་བསྟེན་པར་བྱའོ། །"
+msgstr ""
+
+#  24. Cette [partie a] trois aspects (trois angles).་
+msgctxt "line 9, livre5_1-1.txt"
+msgid "འདི་ལ་ཕྱོགས་གསུམ།"
+msgstr ""
+
+#  25. Premièrement:་
+msgctxt "line 10, livre5_1-1.txt"
+msgid "དང་པོ་ནི།"
+msgstr ""
+
+#  26. Le Miśrakastotra dit :་
+msgctxt "line 11, livre5_1-1.txt"
+msgid "སྤེལ་མར་བསྟོད་པ་ལས།"
+msgstr ""
+
+#  27. “Unique voie à parcourir et méthodes aisées ; qui nous relie à
+# l’excellence (relie aux qualités excellentes) et sans défauts ; vertueux au
+# début, au milieu et à la fin ; on ne retrouve un enseignement comme la vôtre
+# nulle part ailleurs. ”་
+msgctxt "line 12, livre5_1-1.txt"
+msgid ""
+"བགྲོད་པ་གཅིག་དང་ཐབས་བདེ་དང༌། །ལེགས་པར་འབྲེལ་དང་ཉེས་པ་མེད། "
+"།ཐོག་མ་བར་དང་མཐར་དགེ་བ། །ཁྱོད་ཀྱི་བསྟན་འདྲ་གཞན་ལ་མེད། །ཅེས"
+msgstr ""
+
+#  28. (L’enseignement du Bouddha est) la seule voie à parcourir pour la
+# libération et, 29. une fois installé dans les pratiques aisées de son
+# application (les pratiques sur la voie sont d’usage facile). 30. (le
+# pratiquant) est lié, (connecté), exclusivement qu’au fruit excellents. Il
+# (l’enseignement) est libre des défauts que sont l’attachement etc. Au début
+# avec l’écoute, au milieu avec la réflexion, à la fin avec la méditation, en
+# tout temps, il est uniquement une cause pour (l’obtention) des mondes
+# supérieurs et de l’excellence ultime (la libération), donc,  31. il est
+# vertueux et par conséquent, de quelque manière que ce soit, (à tous égards)
+# la source des bienfaits et du bonheur ne se trouve que dans le seul
+# enseignement du Bouddha et ne se trouve pas dans les enseignements des
+# autres enseignants comme le Rishi Kapila et les autres. ་
+msgctxt "line 13, livre5_1-1.txt"
+msgid ""
+"ཐར་པའི་ལམ་དུ་བགྲོད་པ་གཅིག་ཅིང་ འཇུག་པའི་ཐབས་བདེ་བ་ལ་ཞུགས་ནས་ "
+"ལེགས་པའི་འབྲས་བུ་ཁོ་ནར་འབྲེལ་ཞིང་ཆགས་སོགས་ཀྱི་ཉེས་སྐྱོན་མེད་པ། ཐོག་མར་ཐོས་པ།"
+" བར་དུ་བསམ་པ། "
+"ཐ་མ་སྒོམ་པའི་དུས་ཐམས་ཅད་མངོན་མཐོ་ངེས་ལེགས་ཀྱི་རྒྱུ་འབའ་ཞིག་ཏུ་གྱུར་པས་ "
+"དགེ་བའི་ཕྱིར་རྣམ་པ་ཀུན་ཏུ་ཕན་བདེའི་འབྱུང་གནས་ནི་སངས་རྒྱས་ཀྱི་བསྟན་པ་ཁོ་ན་ལས།"
+" དྲང་སྲོང་སེར་སྐྱ་སོགས་སྟོན་པ་གཞན་གྱི་བསྟན་པ་ལ་མེད་པས།"
+msgstr ""
+
+#  32. Shantideva le Fils des Vainqueur dit :་
+msgctxt "line 14, livre5_1-1.txt"
+msgid "རྒྱལ་སྲས་ཞི་བ་ལྷས།"
+msgstr ""
+
+#  33. Unique remède (médicament) aux souffrances des êtres ; source de tous
+# les bonheurs ; en soutenant et en servant l’enseignement; puisse-t-il
+# demeurer longtemps. 34. Il (Shantideva) a exprimé cela au travers d’une
+# prière. ་
+msgctxt "line 15, livre5_1-1.txt"
+msgid ""
+"འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། །བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། "
+"།བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང༌། །བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག །ཅེས་ "
+"སྨོན་ལམ་དུ་མཛད་པས་མཚོན་ནོ། །"
+msgstr ""
+
+#  35. Deuxièmement:་
+msgctxt "line 16, livre5_1-1.txt"
+msgid "གཉིས་པ་ནི།"
+msgstr ""
+
+#  36. Le soutra ‘’La rencontre du père et du fils’’ dit :་
+msgctxt "line 17, livre5_1-1.txt"
+msgid "ཡབ་སྲས་མཇལ་བའི་མདོ་ལས།"
+msgstr ""
+
+#  37. S’étant totalement défait (litt. ayant abandonné) des huit états sans
+# liberté (états dans lesquels on a pas le loisir de pratiquer) 38. Et, ayant
+# obtenu les parfaites libertés (qui sont) difficiles à obtenir (litt. à
+# trouver), 39. Les sages qui ont obtenus, (litt. trouvés) la foi en la
+# doctrine du Sugata, S’adonnent à la pratique (litt. le yoga) éclairée (litt.
+# qui est logique, raisonné) (note a vérifier le sens de རིགས་པའི་རྣལ་འབྱོར་,
+# pour OR, une fois qu’ils ont compris qu’ils ont une précieuse existence
+# humaine, les pratiquants (sages) s’engagent, grace à leur compréhension,
+# dans la pratique). ་
+msgctxt "line 18, livre5_1-1.txt"
+msgid ""
+"མི་ཁོམ་བརྒྱད་པོ་ཐམས་ཅད་རབ་སྤངས་ཤིང༌། ། དལ་བ་ཕུན་ཚོགས་རྙེད་དཀའ་ཐོབ་གྱུར་ནས། །"
+" བདེ་གཤེགས་བསྟན་ལ་དད་པ་རྙེད་གྱུར་པའི། "
+"།མཁས་པ་རྣམས་ཀྱིས་རིགས་པའི་རྣལ་འབྱོར་སྤྱོད། །ཅེས་"
+msgstr ""
+
+#  40. Pour donner du sens à cette existence humaine obtenue avec ses libertés
+# et richesses, il n’y a que (qu’une solution qui est de) s’engager avec foi
+# en l’enseignement du Bouddha. ་
+msgctxt "line 19, livre5_1-1.txt"
+msgid ""
+"དལ་འབྱོར་གྱི་མི་ལུས་ཐོབ་པ་དོན་ཡོད་པར་བྱེད་པ་ནི་སངས་རྒྱས་ཀྱི་བསྟན་པ་ལ་དད་ཅིང་འཇུག་པ་ཁོ་ན་ཡིན་ནོ།"
+" །"
+msgstr ""
+
+#  41. Troisièmement :་
+msgctxt "line 20, livre5_1-1.txt"
+msgid "གསུམ་པ་ནི།"
+msgstr ""
+
+#  42. La Prajnaparamita en Huit Mille Vers dit :་
+msgctxt "line 21, livre5_1-1.txt"
+msgid "འཕགས་པ་བརྒྱད་སྟོང་པ་ལས།"
+msgstr ""
+
+#  43. Ainsi, un Bodhisattva Mahasattva aspirant à atteindre la bouddhéité en
+# parachevant pleinement l’insurpassable, parfaitement pure et complet éveil 
+# 44. commencera (litt. au tout début) par se rendre auprès d’un maitre
+# spirituel, 45. s’en remettra à lui, 46. et le servira. 47. Il se doit de
+# faire comme décrit ici. ་
+msgctxt "line 22, livre5_1-1.txt"
+msgid ""
+"འདི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འདོད་པས།"
+" དང་པོ་ཉིད་དུ་དགེ་བའི་བཤེས་གཉེན་དག་ལ་བསྙེན་པར་བྱ། བསྟེན་པར་བྱ། "
+"བསྙེན་བཀུར་བར་བྱའོ། ། ཞེས་གསུངས་པ་ལྟར་རོ། །"
+msgstr ""
+
+#  48. Si vous demandez quelle genre de maitre spirituel doit-on rechercher ?
+# 49. les ‘’Propos énoncés intentionnellement’’ disent :  50. Ceux qui s’en
+# remettent à un (maitre) inférieur, (à eux en terme de qualités)
+# dégénéreront; 51. (Ceux qui) s’en remettent à (un maitre) égale à eux même,
+# stagneront; 52. (Ceux qui) s’en remettent à (un maitre) supérieur
+# excelleront (obtiendront la pureté); (ici གཙོ་བོ fait référence à une
+# personne supérieur en qualité et non en une figure principale comme c’est
+# souvent le cas). 53. Par conséquent, suivons-en un qui nous est supérieur.་
+msgctxt "line 23, livre5_1-1.txt"
+msgid ""
+"བཤེས་གཉེན་ཇི་ལྟ་བུ་ཞིག་འཚོལ་ཞེ་ན། ཆེད་དུ་བརྗོད་པའི་ཚོམ་ལས། "
+"དམན་པ་བསྟེན་པས་མི་དག་ཉམས་འགྱུར་ཞིང༌། ། ཐད་ཀར་བབས་པ་བསྟེན་པས་སོ་ན་གནས། ། "
+"གཙོ་བོ་བསྟེན་པས་དམ་པ་ཐོབ་པར་འགྱུར། ། དེ་ཕྱིར་བདག་བས་གཙོར་གྱུར་བསྟེན་པར་བྱ། །"
+msgstr ""
+
+#  54. Concernant ce maître spirituel, 55. en s’en remettant (à un maitre)aux
+# qualités inférieurs aux nôtres en terme de discipline, d’érudition,
+# d’absorption méditatives etc,  56. chez ceux qui s’en remettent ainsi ne
+# génèrent aucune qualité, alors que 57. de nombreux défaut s’accroissent et
+# donc, (ces personnes) dégénéreront.  58. Si (le maitre) est identique à soi
+# 59. en se remettant à (une personne) dont les qualités égales les nôtres, on
+# ne progresse ni ne régresse, on stagne.  60. s’en remettant à (un maitre)
+# supérieur en terme de qualités, nous excellerons (on sera parfait) et 61. on
+# atteindra les objectifs suprêmes auxquels on aspire. Par conséquent, 62.
+# Toujours, il nous faut s’en remettre à un (maitre) supérieur à nous même,
+# plus noble que nous, plus avancé que nous. ་
+msgctxt "line 24, livre5_1-1.txt"
+msgid ""
+"བཤེས་གཉེན་དེའང་ "
+"ཚུལ་ཁྲིམས་དང་མང་དུ་ཐོས་པ་དང་ཏིང་ངེ་འཛིན་ལ་སོགས་པ་རང་ལས་ཀྱང་ཡོན་ཏན་གྱིས་དམན་པ་བསྟེན་པས་"
+" སྟེན་པའི་མི་དག་ལ་ཡང་ཡོན་ཏན་གང་ཡང་མི་སྐྱེ་བར་ "
+"སྐྱོན་མང་པོ་སྐྱེད་པས་ཉམས་པར་འགྱུར་ཞིང༌། ཐད་ཀར་བབས་པ་སྟེ་ "
+"ཡོན་ཏན་རང་དང་མཉམ་པ་བསྟེན་པས་འཕེལ་འགྲིབ་མེད་པར་རང་སོ་ན་གནས་ཤིང༌། "
+"རང་ལས་ཡོན་ཏན་ལྷག་པར་གྱུར་པའི་གཙོ་བོ་བསྟེན་པས་དམ་པ་སྟེ་ "
+"འདོད་པའི་དོན་མཆོག་ཐོབ་པར་འགྱུར་བ་དེའི་ཕྱིར་ "
+"རྣམ་པ་ཀུན་ཏུ་བདག་བས་ལྷག་ཅིང་འཕགས་པ་གཙོ་བོ་བསྟེན་པར་བྱ་སྟེ།"
+msgstr ""
+
+#  63. Dans ce même soutra : ་
+msgctxt "line 25, livre5_1-1.txt"
+msgid "དེ་ཉིད་ལས།"
+msgstr ""
+
+#  64. Si on s’en remet à un maitre supérieur en discipline, pacification et
+# sagesse suprême, on deviendra supérieur à celui qui nous est supérieur.  65.
+# Voici ce qui y est dit.་
+msgctxt "line 26, livre5_1-1.txt"
+msgid ""
+"ཚུལ་ཁྲིམས་ཉེ་བར་ཞི་བ་དང༌། །ཤེས་རབ་ཆེས་མཆོག་ལྷག་པ་ཡི། "
+"།གཙོ་བོ་གང་ཡིན་དེ་བསྟེན་ན། །གཙོ་བོ་ལས་ཀྱང་ཆེས་གཙོར་འགྱུར། ཞེས་བཤད་དོ། །"
+msgstr ""
