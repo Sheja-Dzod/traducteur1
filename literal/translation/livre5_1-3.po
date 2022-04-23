@@ -169,6 +169,7 @@ msgstr ""
 msgctxt "7158ff3305154e94a713a60ea6ce6f3a"
 msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ གྱི་ དབྱེ་བ་ སྤྱི་ ཙམ་ དུ་ བཞི །"
 msgstr ""
+"Uniquement en générale, il y a 4 différents types de maitre spirituel : "
 
 # 。︀	〝སྐུ〞 200
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Corps ⁃ Corps
@@ -282,6 +283,8 @@ msgid ""
 "སོ་སོ་ སྐྱེ་བོ་ དང༌ །  བྱང་ཆུབ་ སེམས་དཔའ་ དང༌ །  སངས་རྒྱས་ སྤྲུལ་པ␣འི་ སྐུ་ "
 "དང༌ །  ལོངས་སྤྱོད་ རྫོགས་པ␣འི་ སྐུ␣འོ ། །"
 msgstr ""
+"Des individus ordinaires, des bodhisattva, des Corps émanés de bouddha et "
+"des Corps de Parfaite Jouissance "
 
 # 。︀	〝གནས་སྐབས〞 3015
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Temporairement, Pour un temps donné,
@@ -299,6 +302,8 @@ msgstr ""
 msgctxt "3e6df521a54c450dab60b54fc4bc5196"
 msgid "དེ་དག་ ཀྱང་ རང་ གི་ གནས་སྐབས་ བཞི་ དང་ སྦྱར་ ཏེ་"
 msgstr ""
+"Ces derniers correspondent ainsi aux quatre étapes (de notre avancement "
+"spirituel) :"
 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -426,6 +431,9 @@ msgid ""
 "རང་ཉིད་ ལ␣ས་ དང་པོ་བ␣འི་ དུས་ སུ་ སངས་རྒྱས་ དང་ ས་ ཆེན་པོ་ ལ་ གནས་པ␣འི་ "
 "བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ལ་ བསྟེན་པ␣འི་ ནུས་པ་ མེད་པ␣ས །"
 msgstr ""
+"Quand on est soi-même un débutant, on a pas la capacité de s’en remettre aux"
+" Bouddhas et aux Bodhisattvas qui résident sur les grandes terres (les "
+"bodhisattvas des 3 Bumis purs). Par conséquent,"
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -458,7 +466,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ être/personne ordinaire
 msgctxt "2f0db45cac7a453d89eb8b07fc04019e"
 msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ སོ་སོ་ སྐྱེ་བོ་ ལ་ བསྟེན་པ␣འོ ། །"
-msgstr ""
+msgstr "on s’en remet à un maitre spirituel qui est un individu ordinaire. "
 
 # 。︀	〝སྒྲིབ་པ〞 914
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voile ⁃ voile, obscurcissement
@@ -490,6 +498,8 @@ msgstr ""
 msgctxt "6e61ad0d654e4f9abb20b42c37726319"
 msgid "རང་ ལ␣ས་ ཀྱི་ སྒྲིབ་པ་ ཕལ་ཆེར་ ཟད་ ཙ་ན །"
 msgstr ""
+"Une fois (indique une condition à obtenir pour que la suite soit possible) "
+"nos voiles karmiques sont dans leur majorité épuisés,"
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -584,6 +594,8 @@ msgid ""
 "དགེ་བ␣འི་ བཤེས་གཉེན་ ས་ ཆེན་པོ་ ལ་ གནས་པ␣འི་ བྱང་ཆུབ་ སེམས་དཔའ་ ལ་ "
 "བསྟེན་པ␣ར་ ནུས་པ␣འོ ། །"
 msgstr ""
+"on a la capacité de s’en remettre à un maitre spirituel qui est un "
+"Bodhisattva demeurant sur les grandes terres. "
 
 # 。︀	〝སྐུ〞 200
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Corps ⁃ Corps
@@ -687,6 +699,8 @@ msgid ""
 "རང་ ཚོགས་ལམ་ ཆེན་པོ་ ཡན་ཆད་ ལ་ གནས་ ཙ་ན །  དགེ་བ␣འི་ བཤེས་གཉེན་ སངས་རྒྱས་ "
 "སྤྲུལ་པ␣འི་ སྐུ་ ལ་ བསྟེན་པ␣ར་ ནུས་པ␣འོ ། །"
 msgstr ""
+"A partir du moment où on a atteint le niveau supérieur de la voie de l’accumulation\n"
+"(litt. Une fois présent sur le niveau supérieur de la voie de l’accumulation et après…)  on a la capacité de s’en remettre à un maitre spirituel qui est un Corps Emané de Bouddha (un Nirmanakaya)."
 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -713,7 +727,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ en son lieu propre
 msgctxt "1e434562f04a489d969baadee9c58b57"
 msgid "རང་ས་ ཆེན་པོ་ ལ་ གནས་ ཙ་ན །"
-msgstr ""
+msgstr "Une fois présent sur les grandes terres "
 
 # 。︀	〝སྐུ〞 200
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Corps ⁃ Corps
@@ -776,6 +790,8 @@ msgctxt "8149be63b0a7402c82dc81c2b5c9cffa"
 msgid ""
 "དགེ་བ␣འི་ བཤེས་གཉེན་ ལོངས་སྤྱོད་ རྫོགས་པ␣འི་ སྐུ་ ལ་ བསྟེན་པ␣ར་ ནུས་པ␣འོ ། །"
 msgstr ""
+"on a la capacité de s’en remettre à un maitre spirituel qui est un Corps de "
+"Parfaite Jouissance (un Samboghakaya)."
 
 # 。︀	〝ཉོན་མོངས་པ〞 1738
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
@@ -806,6 +822,9 @@ msgid ""
 "དེ་དག་ ལ␣ས་ བདག་ཅག་ ལ␣ས་ དང་པོ་བ་ ལ␣ས་ དང་ ཉོན་མོངས་པ␣འི་ མུན་ ཁང་ ན་ "
 "འདུག་པ␣འི་ ཚེ །"
 msgstr ""
+"D’entre eux (tous ces types de maitres), alors que nous , les être "
+"ordinaires, sommes dans la chambre obscure de notre karma et de nos "
+"émotions,"
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -829,6 +848,8 @@ msgstr ""
 msgctxt "5ff85bacbe8b49889f8c25c415d92377"
 msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ གོང་མ་ རྣམས་ བསྟེན་པ་ ལྟ་ཞོག  །"
 msgstr ""
+"laissons de côté (l’idée même) de s’en remettre aux maitres spirituels "
+"supérieurs, "
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -893,6 +914,8 @@ msgid ""
 "ཞལ་ མཐོང་བ་ ཙམ་ ཡང་ མེད་པ་ ལ །  དགེ་བ␣འི་ བཤེས་གཉེན་ སོ་སོ་ སྐྱེ་བོ་ དང་ "
 "མཇལ་བ␣ས །"
 msgstr ""
+"nous ne pouvons même pas voir leur visage, alors, par la rencontre avec un "
+"maitre spirituel individu ordinaire,"
 
 # 。︀	〝སྣང་བ〞 3255
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "manifestation, apparence; perception"
@@ -935,6 +958,7 @@ msgstr ""
 msgctxt "274d81648570441f8a85e18bd1b21c35"
 msgid "དེ␣འི་ གསུང་ གི་ སྒྲོན་མེ␣ས་ ལམ་ སྣང་བ␣ར་ བྱས་ ནས །"
 msgstr ""
+"a lampe de ses paroles illuminera la voie puis, (ayant illuminé la voie) "
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -955,6 +979,8 @@ msgstr ""
 msgctxt "3ba5549d268a42748e2b3d1410e72121"
 msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ གོང་མ་ རྣམས་ དང་ མཇལ་བ␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
+"nous pourrons (nous serons à même de) de rencontrer les maitres spirituels "
+"supérieurs et,"
 
 # 。︀	〝དགེ་བ〞 636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertu, Bien, bon
@@ -1002,10 +1028,12 @@ msgid ""
 "དེས་ན་ ཐམས་ཅད་ ལ␣ས་ དྲིན་ ཆེ་བ་ ནི་ དགེ་བ␣འི་ བཤེས་གཉེན་ སོ་སོ་ སྐྱེ་བོ་ "
 "ཡིན་ ནོ ། །"
 msgstr ""
+"par conséquent, de tous (ces maitres) celui qui est le plus bon envers nous "
+"est le maitre spirituel individu ordinaire. "
 
 msgctxt "bcd8a035badd4db19d3be04c3db8d544"
 msgid "གཉིས་པ་ ནི །"
-msgstr ""
+msgstr "Deuxièmement:"
 
 # 。︀	〝མཚན་ཉིད〞 4755
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "caractéristique; caractère essentiel"
@@ -1030,6 +1058,8 @@ msgstr ""
 msgctxt "cde23a90cfc14e248dee0bd56f457bce"
 msgid "སོ་སྐྱེ␣འི་ མཚན་ཉིད་ ཡོན་ཏན་ བརྒྱད་ བཞི་ གཉིས ། །"
 msgstr ""
+"Huit, quatre ou deux qualités caractérisent les (maitres) individus "
+"ordinaires. "
 
 # 。︀	〝ཕན〞 3438
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ oriflamme, bannière (n159)
@@ -1078,6 +1108,8 @@ msgid ""
 "བཤེས་གཉེན་ གསུམ་པོ␣ས་ ལ␣ས་ དང་པོ་བ་ ལ་ ཕན་ མི་ ཐོགས་པ␣ས་ མཚན་ཉིད་ སྨོས་ མ་ "
 "དགོས །"
 msgstr ""
+"Puisque les trois (autres types de ) maîtres spirituels ne bénéficient pas "
+"aux débutants, nulle besoin d’en exposer les caractéristiques. "
 
 # 。︀	〝དགོས་པ〞 672
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
@@ -1110,10 +1142,12 @@ msgid ""
 "སོ་སྐྱེ␣འི་ བཤེས་གཉེན་ གྱི་ མཚན་ཉིད་ ལ་ ཡོན་ཏན་ བརྒྱད་ དམ་ བཞི␣འམ་ གཉིས་ དང་"
 " ལྡན་པ་ དགོས་པ␣ར་ གསུངས་ ཏེ །"
 msgstr ""
+"Il est enseigné qu’un maitre spirituel individu ordinaire doit avoir pour "
+"caractéristiques huit ou quatre ou deux qualités."
 
 msgctxt "8d4f8fcd6ff349c3a4b955316bd82bee"
 msgid "བརྒྱད་ ནི །"
-msgstr ""
+msgstr "Les huit sont :"
 
 # 。︀	〝སྐྱོ་བ〞 267
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Triste, désenchanté
@@ -1175,6 +1209,9 @@ msgid ""
 "ཚུལ་ཁྲིམས་ ལྡན་ ཞིང་ མང་ དུ་ ཐོས ། ། རྟོགས་པ་ དང་ ནི་ སྙིང་བརྩེ␣ར་ ལྡན ། ། "
 "མི་ འཇིགས་ བཟོད་ལྡན་ སྐྱོ་བ་ མེད ། ། ཚིག་ གི་ བྱ་བ་ ལྡན་པ␣འོ ། །"
 msgstr ""
+"Doté de l’éthique (discipline) et avoir beaucoup étudié, avoir compris (le "
+"sens) et compassionné ; sans peur, patient, ne se décourageant pas, éloquent"
+" (litt. Qui connais bien l’usage des mots)."
 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
@@ -1215,10 +1252,11 @@ msgstr ""
 msgctxt "bb18c0048c3b485a875c5304bfe4e7b9"
 msgid "ཞེས་ བྱང་ ས་ལས་ བཤད་པ␣འི་ དོན་ སྡོམ་ དུ་ བྱས་པ␣འོ ། །"
 msgstr ""
+"Ceci est le résumé du sens de ce qui est exposé dans le Bodhisattva-Bhumi."
 
 msgctxt "f12b6d0e79f24759b788822d302e3d22"
 msgid "བཞི་ ནི །"
-msgstr ""
+msgstr "Les quatre sont :"
 
 # 。︀	〝སྟོན་པ〞 2053
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseigner, Montrer L'enseignant, Le maître
@@ -1241,7 +1279,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "f0dcc8ed84ec4041b42ec141660d5076"
 msgid "མང་ དུ་ ཐོས་པ␣ས་ སྟོན་པ་ རྒྱ་ཆེ་བ་ དང༌ །"
-msgstr ""
+msgstr "Ayant beaucoup étudié, son enseignement est vaste."
 
 # 。︀	〝ཐེ་ཚོམ〞 2199
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ doute
@@ -1281,6 +1319,7 @@ msgstr ""
 msgctxt "fdaa8a5edeea43d0ac7731cf5b6647c3"
 msgid "ཤེས་རབ་ ཆེ་བ␣ས་ གཞན་ གྱི་ ཐེ་ཚོམ་ གཅོད་པ་ དང༌ །"
 msgstr ""
+"Par sa grande sagesse (connaissance) il tranche les doutes chez les autres."
 
 # 。︀	〝དམ་པ〞 2367
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Supérieur, noble; Sacré, sublime, suprême, saint;
@@ -1323,6 +1362,8 @@ msgstr ""
 msgctxt "4d11553c28d14d22b129b54b98d0e8ad"
 msgid "སྐྱེས་བུ་ དམ་པ␣འི་ ལ␣ས་ བྱེད་པ␣ས་ ཚིག་ བཟུང་བ␣ར་ འོས་པ་ དང༌ །"
 msgstr ""
+"De par ses actions d’individu pur, ses paroles sont dignes de confiance "
+"(litt. Acceptables)"
 
 # 。︀	〝ཀུན་ནས་ཉོན་མོངས་པ〞 67
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ phénomène affligé ⁃ phénomène affligé
@@ -1383,6 +1424,8 @@ msgid ""
 "ཀུན་ ནས་ ཉོན་མོངས་པ་ དང་ རྣམ་པ␣ར་ བྱང་བ་ གཉིས་ ཀྱི་ མཚན་ཉིད་ ཀྱི་ དེ་ "
 "ཁོ་ན་ཉིད་ སྟོན་པ་"
 msgstr ""
+"Il expose la nature exacte (telléité) des caractéristiques du monde perturbé"
+" et de sa purification."
 
 # 。︀	〝རྒྱན〞 762
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ ornement, parure
@@ -1411,10 +1454,11 @@ msgstr ""
 msgctxt "7f018a1e678346ca9c7a3c628ff92a05"
 msgid "བཞི␣ར་ མདོ་སྡེ་ རྒྱན་ ལ␣ས་ བཤད་ དོ ། །"
 msgstr ""
+"Ces quatre sont expliqués dans l’Ornement des Soutras (Sutra-alamkara)."
 
 msgctxt "dbae130e0e4041d8a7b76c60991d2497"
 msgid "གཉིས་ ནི །"
-msgstr ""
+msgstr "Deuxièmement:"
 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -1429,7 +1473,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "46ed1d52b27a46519e91ba3d96afc3d1"
 msgid "སྤྱོད་འཇུག་ ལ␣ས །"
-msgstr ""
+msgstr "Le Bodhisattvacaryavatara dit :"
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -1550,6 +1594,9 @@ msgid ""
 "བྱང་ཆུབ་ སེམས་དཔ␣འི་ བརྟུལ་ཞུགས་ མཆོག  ། སྲོག་ གི་ ཕྱིར་ཡང་ མི་ གཏོང་ ངོ༌ "
 "། །"
 msgstr ""
+"Le maitre spirituel est toujours érudit en le sens du grand véhicule et "
+"n’abandonne pas, même au péril de sa vie, la suprême ascèse (conduite) des "
+"bodhisattvas."
 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
@@ -1562,7 +1609,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 msgctxt "cf705c9c432c412fb77fed15d8323ccd"
 msgid "ཞེས་ གསུངས་པ་ ལྟར་ མཁས་ ཤིང་ སྡོམ་པ་ དང་ ལྡན་པ␣འོ ། །"
-msgstr ""
+msgstr "Comme exprimé ainsi : (le maitre) est érudit et possède les vœux."
 
 # 。︀	〝བྱེ་བྲག〞 3832
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Classe, Particularité, Spécificité, Particularité
@@ -1572,7 +1619,7 @@ msgstr ""
 # particularité, particulier, spécial, spécifique, spécificité, appendice
 msgctxt "6667464b7ad14518a438512467b30bae"
 msgid "གཉིས་པ་ བྱེ་བྲག་ ལ␣འང་ གཉིས །"
-msgstr ""
+msgstr "Deuxièmement, la présentation détaillée a aussi deux aspects : "
 
 # 。︀	〝དབྱེ་བ〞 4024
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divisions, Distinctions, Catégories, ⁃ classification
@@ -1606,11 +1653,11 @@ msgstr ""
 # différent, séparé
 msgctxt "bf85ad10a77548d681d5efcf68cdb738"
 msgid "དབྱེ་བ་ དང་ སོ་སོ␣འི་ མཚན་ཉིད་ དོ ། །"
-msgstr ""
+msgstr "les différents types (de maitres) et leurs caractéristiques."
 
 msgctxt "c81750f9a21c4a2c8eaec616a2208543"
 msgid "དང་པོ་ ནི །"
-msgstr ""
+msgstr "Premièrement:"
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -1638,6 +1685,8 @@ msgstr ""
 msgctxt "1d6f2b7ddee74660a1255dcb716b3f9c"
 msgid "བྱེ་བྲག་ སོ་ བྱང་ སྔགས་ གསུམ་ རིམ་པ་ བཞིན ། །"
 msgstr ""
+"Dans le détail (ils seront expliqués) dans l’ordre suivant : de libération "
+"personnelle, bodhisattvas et du mantra."
 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
@@ -1684,6 +1733,7 @@ msgctxt "ef02d7ee5d034802b2d8f6db3236617d"
 msgid ""
 "བྱེ་བྲག་ སྡོམ་པ་ གསུམ་ གང་ ལ␣ས་ བླངས་པ␣འི་ ཡུལ་ གྱི་ དབང་ གིས་ དབྱེ་ ན །"
 msgstr ""
+"Si on distingue les maitres selon lequel des trois vœux nous adoptons, "
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -1718,6 +1768,8 @@ msgstr ""
 msgctxt "e53c6585a6d2490c9ef18cd897d02cc2"
 msgid "སོ་ཐར །  བྱང་སེམས །  སྔགས་ ཀྱི་ སློབ་དཔོན་ གསུམ །"
 msgstr ""
+"on a les maitres pour la libération personnelle, les maitres pour (les vœux "
+"de  bodhisattvas) et les maitres pour (les vœux du) mantra.  "
 
 # 。︀	〝གོ་རིམ〞 508
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ ordre séquentiel
@@ -1739,7 +1791,7 @@ msgstr ""
 # Etudier,
 msgctxt "b324fadcbf5c43a4b30deb5985c2fec5"
 msgid "དེ་དག་ གི་ མཚན་ཉིད་ ཀྱང་ གོ་རིམ་ བཞིན་ བཤད་པ␣ར་ བྱ␣འོ ། །"
-msgstr ""
+msgstr "Leurs caractéristiques seront aussi expliqués dans cette ordre."
 
 # 。︀	〝མཚམས〞 4793
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intervalle, Intermédiaire, Limite, Jonction,
@@ -1750,11 +1802,11 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ reliaisons (renaissance)
 msgctxt "c8d81f6ea8f041a8977847a7f9a08dde"
 msgid "ཞེས་ མཚམས་ སྦྱར་ ནས །"
-msgstr ""
+msgstr "Ceci était une transition. Ensuite, "
 
 msgctxt "fc9108160b914c35804538a0301f8037"
 msgid "གཉིས་པ་ ལ་ གསུམ །"
-msgstr ""
+msgstr "La deuxième partie contient trois sections :"
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -1780,10 +1832,12 @@ msgstr ""
 msgctxt "6db4fe24a03542c98ec8f002d4d30603"
 msgid "སོ་ བྱང་ སྔགས་ ཀྱི་ སློབ་དཔོན་ བཤད་པ␣འོ ། །"
 msgstr ""
+"Exposé du maitre pour la libération personnelle, (pour les vœux de) "
+"boddhisattvas, et (pour) les mantras."
 
 msgctxt "14f6c131230942ce8e8d72e44e65ced6"
 msgid "དང་པོ་ ནི །"
-msgstr ""
+msgstr "Premièrement:"
 
 # 。︀	〝གནས〞 3014
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
@@ -1805,6 +1859,8 @@ msgstr ""
 msgctxt "588eb49c7fe14f2cbe7cd6671fafdc07"
 msgid "མཁན་སློབ་ གསང་སྟོན་ གནས་ ཀློག་སློབ་ དཔོན་ ལྔ ། །"
 msgstr ""
+"Le maitre d’ordination, de cérémonie, de l'intimité (examinateur), le "
+"placeur-instructeur et le cinquième."
 
 # 。︀	〝མཁན་པོ〞 399
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ abbé
@@ -1880,6 +1936,11 @@ msgid ""
 "མཁན་པོ །  ལ␣ས་ བྱེད་པ་ སློབ་དཔོན །  གསང་ སྟེ་ སྟོན་པ །  གནས་ སམ་ ཀློག་པ␣འི་ "
 "སློབ་དཔོན་ དང་ བཞི །"
 msgstr ""
+"De ces maitres, pour commencer, exclusivement pour le vinaya, il y a les "
+"quatre premiers : le maitre d’ordination de renonçant et de pleine "
+"ordination, le maitre de cérémonie (litt qui fait le travail), l’examinateur"
+" (le maître de l'intimité, litt. du secret), le placeur (celui qui décide "
+"d’où le moine va loger) ou l’instructeur."
 
 # 。︀	〝དགེ་ཚུལ〞 653
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
@@ -1904,6 +1965,8 @@ msgstr ""
 msgctxt "331b46eda2cd440e8a75b22f09a35b60"
 msgid "དེ་ སྟེང་ དགེ་ཚུལ་ གྱི་ སློབ་དཔོན་ བསྣན་ ན་ ལྔ␣ར་ ཡང་ བཤད་ དོ ། །"
 msgstr ""
+"Si on y ajoute le maitre pour les novices, on parle aussi de cinq "
+"(maitres).  "
 
 # 。︀	〝མཚན་ཉིད〞 4755
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "caractéristique; caractère essentiel"
@@ -1919,6 +1982,8 @@ msgstr ""
 msgctxt "b46d17df12d74de3a2e2fb7d3f843e23"
 msgid "དེ་དག་ སྤྱི␣འི་ མཚན་ཉིད་ ནི །"
 msgstr ""
+"les caractéristiques générale (ici, dans le sens de communes) de ces "
+"derniers:"
 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -1933,7 +1998,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "2bee5331dc6f43ef829137ca06aa4a69"
 msgid "སུམ་བརྒྱ་པ་ ལ␣ས །"
-msgstr ""
+msgstr "Dans les Trois cents :"
 
 # 。︀	〝འཁོར〞 419
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "assemblée, entourage; prolongement (appendice) (bar chad
@@ -2025,6 +2090,11 @@ msgid ""
 "དག་པ་ དང༌ ། །  ཆོས་ དང་ ཟང་ཟིང་ ཕན་ འདོགས་ ལ་ བརྩོན་པ ། ། དུས་ སུ་ འདོམས་པ་ "
 "དེ་དག་ བླ་མ␣ར་ བསྔགས ། ། ཞེས་"
 msgstr ""
+"Est considéré avec respect (litt, est louanger)  comme un maitre \n"
+"Celui qui a de l’éthique, et qui connais les rituels du vinaya\n"
+"Qui a de l’affection pour les malade et a un entourage pure,\n"
+"Qui est diligent pour être utile(trouver un mot qui exprime le fait que l’aide apporté soit utile à la personne qui en bénéficie) par le dharma et par les biens matériels\n"
+"Qui apporte ses conseils au bon moment."
 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
@@ -2076,6 +2146,9 @@ msgid ""
 "བསྙེན་པ␣ར་ རྫོགས་ ནས་ ལོ་ བཅུ་ ལོན་ ཞིང་ སྐྱོན་ མ་བྱུང་བ␣ས་ ཚུལ་ཁྲིམས་ དང་ "
 "ལྡན་པ་ ནི་ བརྟན་པ␣འི་ ཡན་ལག  །"
 msgstr ""
+"La branche de la stabilité (ou fiabilité) : Parce qu’il est  pleinement "
+"ordonné depuis plus de 10 ans et n’a pas  endommagé (ses vœux) , il a de  "
+"l’ éthique. "
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -2143,6 +2216,8 @@ msgctxt "4fdb6af1855a4db1b1ce793a8b405f70"
 msgid ""
 "སྡེ་སྣོད་ འདུལ་བ␣འི་ ཆོ་ག་ མ་འཁྲུལ་བ␣ར་ བློ་ ནས་ ཤེས་པ་ མཁས་པ␣འི་ ཡན་ལག  །"
 msgstr ""
+"La branche de l’érudition : il connaît par cœur et sans erreur les rituels "
+"de la corbeille du vinaya."
 
 # 。︀	〝འཁོར〞 419
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "assemblée, entourage; prolongement (appendice) (bar chad
@@ -2181,6 +2256,8 @@ msgid ""
 "སློབ་མ་ ནད་པ་ ལ་ སྙིང་བརྩེ་ ཞིང་ རང་ གི་ འཁོར་ ཚུལ་ཁྲིམས་ དང་ ལྡན་པ␣ས་ དག་པ "
 "།"
 msgstr ""
+"Avoir de l’affection pour ses disciples malades et, son entourage est pure "
+"car (il est composé de personnes qui) ont de l’éthique"
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -2216,6 +2293,8 @@ msgstr ""
 msgctxt "897b1c30878145dfa9f03f0d1ca4b3e6"
 msgid "ཆོས་ དང་ ཟང་ཟིང་ སྟེ་ ཕན་ འདོགས་ གཉིས་ ཀྱིས་ ཕན་ གདགས་པ་ ལ་ བརྩོན་པ །"
 msgstr ""
+"Il est diligent pour être utile grâce aux  deux aides –matériel et du dharma"
+" –"
 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
@@ -2243,6 +2322,8 @@ msgid ""
 "བསླབ་བྱ་ རྣམས་ དུས་ དང་ དུས་ སུ་ གདམས་པ་ རྣམས་ ནི་ ཕན་ འདོགས་པ␣འི་ ཡན་ལག་ "
 "སྟེ་"
 msgstr ""
+"Ses  conseils sont donnés au bon moment. Tout ceci forme la branche de "
+"l’aide. "
 
 # 。︀	〝ཐར་པ〞 2130
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Libération, Délivrance.
@@ -2274,17 +2355,19 @@ msgstr ""
 msgctxt "f292d5daceb749629ea15d66981b7f4c"
 msgid "དེ་ལྟ་ བུ་ ནི་ སོ་སོ་ ཐར་པ␣འི་ བླ་མ␣ར་ བསྔགས་ སོ ། །"
 msgstr ""
+"Une telle personne est louée comme étant un maitre de la libération "
+"individuelle."
 
 msgctxt "0a5686262d46464ea15e97dba5ffe4a6"
 msgid "བྱེ་བྲག་"
-msgstr ""
+msgstr "Dans le détail :"
 
 # 。︀	〝མཁན་པོ〞 399
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ abbé
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ abbé, précepteur érudit
 msgctxt "28f2bebb92c3465684e2d960bc77b211"
 msgid "མཁན་པོ་ ནི་"
-msgstr ""
+msgstr " le maitre de l’ordination:"
 
 # 。︀	〝འདོགས་པ〞 2798
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lier, Attacher, Affixer, Porter, Imputer, Désigner
@@ -2302,6 +2385,8 @@ msgstr ""
 msgctxt "e0f8dac583d24b69971fb447ffea8a01"
 msgid "བརྟན་ མཁས་ བཙུན་ དང་ ཕན་ འདོགས་པ␣འི་ ཡན་ལག་ བཞི་ དང་ ལྡན་པ །"
 msgstr ""
+"a quatre aspects (litt branches) : il est fiable (litt stable), érudit, de "
+"conduite pure et est bénéfique."
 
 # 。︀	〝གཅིག〞 1243
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
@@ -2353,6 +2438,10 @@ msgid ""
 "བརྟན་ མཁས་ ལ␣འང་ ལྷན་ཅིག་ ཏུ་ སྦྱར་བ␣འམ་ ལྔ་ཕྲུགས་ ཉེར་ གཅིག་ དང་ ལྡན་པ་ "
 "སྟེ་ མདོ་ རྩ␣འི་ འགྲེལ་ཆེན་ དང་ པད་དཀར་ ཞབས་ ཀྱིས་ བཤད་པ་ ལྟར་ ཤེས་པ␣ར་ བྱ །"
 msgstr ""
+"Stable et érudit peuvent être pris ensemble, ou encore posséder les 21 "
+"groupes de cinq (qualités). On les comprendra comme expliqué  (par karmapa "
+"Mikyo Dorje) dans le  Grand Commentaire du Soutra Racine du Vinaya, ainsi "
+"que l’éminent Pema Karpo."
 
 # 。︀	〝ཕན〞 3438
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ oriflamme, bannière (n159)
@@ -2367,7 +2456,7 @@ msgstr ""
 # Etudier,
 msgctxt "b15d0e0c9a204f99a45bd66240eee804"
 msgid "ཕན་ འདོགས་ ལ␣འང་ ཡན་ལག་ བཅུ་གཉིས་ སུ་ བཤད་ དེ །"
-msgstr ""
+msgstr "Le bénéfice est exprimée selon douze aspects( branches) :"
 
 # 。︀	〝སྙིང་རྗེ〞 1820
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bonté, Bon cour, compassion, amour ⁃ Honorifique de
@@ -2499,6 +2588,9 @@ msgid ""
 "ལྟ་བ་ མཐུན ། ། སྨྲ་ ཤེས་ ཐ་སྙད་ གསུམ་ མམ་ དོན་ གོ་ཤེས་པ་ རང་བཞིན་ གནས ། ། "
 "ཐ་མལ་ ལུས་ དང་ ས་ ནི་ རང་བཞིན་པ␣འོ ། །"
 msgstr ""
+"Compassionné, patient, entouré de serviteurs purs,\n"
+"Diligent dans l'aide double, de genre et de vue correspondante au disciple,\n"
+"Sachant s’exprimer, possédant les trois caractères, soit aussi, comprendre le sens (de ce qui est dit) et être sain d’esprit, avoir un corps ordinaire, et son domaine d’existence doit être le même que le notre (domaine du désir). "
 
 # 。︀	〝རོ〞 5953
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
@@ -2506,7 +2598,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
 msgctxt "cf5e8cc0878d4dd6a1e739f2352eac89"
 msgid "ཞེས་པ་ ལྟར་ རོ ། །"
-msgstr ""
+msgstr "Tel qu’ainsi exprimé."
 
 # 。︀	〝བྱེད་པ〞 3840
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
@@ -2532,7 +2624,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître
 msgctxt "9513a85dd58f4505a20d8e8e770e49c0"
 msgid "ལ␣ས་ བྱེད་པ␣འི་ སློབ་དཔོན་ ནི་"
-msgstr ""
+msgstr "Le maitre de cérémonie (litt, le maitre qui accompli les activités)."
 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
@@ -2560,7 +2652,7 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ pa’i sgron ma Sens racine: la luminosité parfaitement pure
 msgctxt "7a51878b86b24be28348345306fd573d"
 msgid "དགེ་སློང་ གི་ སྡོམ་པ་ རྣམ་པ␣ར་ དག་ ཅིང༌ །"
-msgstr ""
+msgstr "Tiens ses vœux à la perfection "
 
 # 。︀	〝མཐུན་པ〞 2301
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conforme, En accord avec, Harmonieux,
@@ -2576,6 +2668,7 @@ msgstr ""
 msgctxt "aae3f08d18524e04a049deeced215a68"
 msgid "མཚན་ མཐུན་པ །"
 msgstr ""
+"est du même genre ( litt. sexe ) (que la personne qui reçoit les vœux)"
 
 # 。︀	〝ལྟ་བ〞 1996
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "regarder, observer; vue"
@@ -2601,7 +2694,7 @@ msgstr ""
 # concourir, contribuer, favoriser, appuyer, épauleridentique, similaire
 msgctxt "e7f27a2fbf7a48c4b971ede7cdc65c09"
 msgid "ལྟ་བ་ མཐུན་པ །"
-msgstr ""
+msgstr "partager la même vue"
 
 # 。︀	〝ཐ་སྙད〞 2079
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conventionnel ⁃ conventionnel ⁃ désignation
@@ -2626,6 +2719,8 @@ msgstr ""
 msgctxt "38e0f655dd3d45cf924169dfd2013fb0"
 msgid "ཐ་སྙད་ གསུམ་ ལྡན །"
 msgstr ""
+"possédant les trois caractères d’un humain (savoir s’exprimer, comprendre "
+"avec justesse et être sain d’esprit),"
 
 # 。︀	〝ཐ་མལ〞 2091
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Ordinaire
@@ -2651,7 +2746,7 @@ msgstr ""
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
 msgctxt "5439ef17e49c4368b265445d6aa0bb6f"
 msgid "ལུས་ ཐ་མལ་ དུ་ གནས་པ །"
-msgstr ""
+msgstr "a un corps ordinaire (un corps humain)"
 
 # 。︀	〝གནས་པ〞 3031
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
@@ -2672,6 +2767,7 @@ msgstr ""
 msgctxt "e8645b2d29654173b6d41ce692af9392"
 msgid "ས་རང་ བཞིན་ དུ་ གནས་པ་ སྟེ་"
 msgstr ""
+"est du même domaine d’existence (que son disciple, cad, monde du désir)."
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -2719,13 +2815,13 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 msgctxt "135e87397fea4255952f7cdba2b29e42"
 msgid "ཆོས་ དྲུག་ གི་ སྟེང་ དུ་ སྡོམ་པ་ འབོགས་པ་ ལ་ མཁས་པ␣འོ ། །"
-msgstr ""
+msgstr "En plus des six qualités, il doit être expert pour conférer les vœux."
 
 # 。︀	〝གསང་སྟོན〞 6535
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maître secret (pour l'ordination)
 msgctxt "194669834839493c8fca1c59eafd6786"
 msgid "གསང་སྟོན་ ནི །"
-msgstr ""
+msgstr "L’interrogateur ( le maitre de l'intimité)"
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -2766,6 +2862,8 @@ msgstr ""
 msgctxt "f04ac22e53c643bebb8369c0b7052743"
 msgid "ཆོས་ དྲུག་པོ␣འི་ སྟེང་ དུ་བ␣ར་ ཆད་ དྲི་བ་ ལ་ མཁས་པ␣འོ ། །"
 msgstr ""
+"En plus des six qualités il doit être expert pour poser les questions sur "
+"les obstacles (qu’il y a pour prendre les vœux)."
 
 # 。︀	〝གནས〞 3014
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
@@ -2783,7 +2881,7 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
 msgctxt "05280526a8ba4c02b192009e005f2ab4"
 msgid "གནས་ སློབ་ ནི་"
-msgstr ""
+msgstr "Le maitre placeur :"
 
 # 。︀	〝མཁན་པོ〞 399
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ abbé
@@ -2849,10 +2947,13 @@ msgid ""
 "མཁན་པོ␣འི་ མཚན་ཉིད་ ཀྱི་ ཁ␣ར་ སྤང་བླང་ གི་ ལུང་ འབོགས་པ␣ས་ སློབ་མ␣འི་ རྒྱུད་"
 " དག་པ␣ར་ སྒྲུབ་ ནུས་པ␣འོ ། །"
 msgstr ""
+"En plus des qualités du maitre de l’ordination , il a la capacité de "
+"purifier l’esprit des disciples en leur conférant les instructions sur ce "
+"qu’y est à faire et ce qui est à abandonner. "
 
 msgctxt "729da5fe6b3b44e0813c2c8f501a4988"
 msgid "ཀློག་སློབ་ ནི་"
-msgstr ""
+msgstr "Le maitre d’étude :"
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -2917,6 +3018,8 @@ msgctxt "1411d34d0ee6400cbfc6f41849ac6ca5"
 msgid ""
 "སློབ་དཔོན་ གྱི་ ཆོས་ ཀྱི་ ཁ␣ར་ སྡེ་སྣོད་ གསུམ་ ལ་ བློ་གྲོས་ གསལ་བ␣འོ ། །"
 msgstr ""
+"En plus des qualités du maitre de cérémonie, il a l’intelligence qui "
+"comprends clairement les trois corbeilles. "
 
 # 。︀	〝སློབ་དཔོན〞 6528
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Maître, Maître d'étude, Professeur, Enseignant, Ami
@@ -2925,7 +3028,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître
 msgctxt "e53c6919c9b0464ab925dc8a52c23d08"
 msgid "གཉིས་པ་ བྱང་སྡོམ་ གྱི་ སློབ་དཔོན་ ནི །"
-msgstr ""
+msgstr "2. Le maitre spirituel pour les vœux de Bodhisattva."
 
 # 。︀	〝རྒྱན〞 762
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ ornement, parure
@@ -2949,7 +3052,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "aef7934badf848489a919f289a762aeb"
 msgid "མདོ་སྡེ་ རྒྱན་ ལ␣ས །"
-msgstr ""
+msgstr "L’Ornement des Soutras dit :"
 
 # 。︀	〝རྟོགས་པ〞 1980
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ réaliser, concrétiser en intégrant
@@ -3034,6 +3137,11 @@ msgid ""
 "ཕྱུག  །  དེ་ཉིད་ རབ་ཏུ་ རྟོགས་པ་ སྨྲ་མཁས་ ལྡན ། ། བརྩེ་བ␣འི་ བདག་ཉིད་ "
 "སྐྱོ་ངལ་ སྤངས་ ལ་ བསྟེན ། །  ཞེས་"
 msgstr ""
+"Remettez-vous en a un maître\n"
+"Maitrisé, pacifié, totalement pacifié,\n"
+"Aux qualités supérieures, diligent, riche des Instructions,\n"
+"Qui a complétement réalisé la telléité, enseignant expert,\n"
+"Personnifiant la bonté et libre de toute lassitude."
 
 # 。︀	〝དགོས་པ〞 672
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
@@ -3060,7 +3168,7 @@ msgstr ""
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 msgctxt "70e5fd7e2d204b47b8f297cf1af03e0c"
 msgid "ཆོས་ བཅུ་ དང་ ལྡན་པ་ ཞིག་ དགོས་པ␣ར་ གསུངས་ ཏེ་"
-msgstr ""
+msgstr "Il est dit qu’il lui faut posséder dix qualités parce que : "
 
 # 。︀	〝ཏིང་ངེ་འཛིན〞 1859
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
@@ -3159,6 +3267,11 @@ msgid ""
 "ཤེས་བཞིན་ གྱིས་ ཏིང་ངེ་འཛིན་ རྩེ་གཅིག་པ་ ལ་ བསླབ་པ␣ས་ སེམས་ ནང་ དུ་ ཞི་བ␣ར་ "
 "གནས་པ །"
 msgstr ""
+"Avec l’excellente bride de l’entrainement à l’éthique, il a maitrisé le "
+"cheval sauvage de l’esprit.Par l’entrainement à l’absorption méditative "
+"(samadhi) unifiée induite par la présence méditative(litt, le rappel, aka "
+"pleine conscience) et la vigilance, son esprit demeure pacifié à "
+"l’intérieur."
 
 # 。︀	〝ཉེ་བར་ཞི་བ〞 1712
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ pacification totale (7e stade mental)
@@ -3268,6 +3381,8 @@ msgid ""
 "སེམས་ལས་ སུ་ རུང་བ␣འི་ ཞི་གནས་ ལ་ བརྟེན་ ཏེ་ ཡང་དག་པ␣འི་ དོན་ ལ་སོ་ སོ␣ར་ "
 "དཔྱོད་པ␣འི་ ཤེས་རབ་ སྐྱེས་པ␣ས་ རྨོངས་པ་ ཉེ་བར་ ཞི་བ །"
 msgstr ""
+"Basé sur l’esprit fonctionnel de la pacification mentale (du calme mental, de shamata), il a, généré une sagesse a même de discerner les différents aspects du sens ultime et a ainsi totalement pacifié l’obscurité mentale.\n"
+"note : comme ici on fait référence à Lhaktong, je me demande si དཔྱོད་པ  n’est pas plus dans le sens d’analyser. "
 
 # 。︀	〝ཡོན་ཏན〞 5538
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
@@ -3295,6 +3410,8 @@ msgstr ""
 msgctxt "e554d1ead29b43a58dc0a82fbdf9edb3"
 msgid "སློབ་མ་ ལ␣ས་ དམན་པ␣འམ་ མཉམ་པ་ མ་ཡིན་པ་ ཡོན་ཏན་ ཆེས་ ལྷག་པ །"
 msgstr ""
+"Ses qualités sont nettement supérieures au sens où elles ne sont ni "
+"inférieures ni égales à celles des disciples."
 
 # 。︀	〝བརྟན་པ〞 2061
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stable, fixe,  La stabilité. Ce a quoi l'on peut se
@@ -3364,6 +3481,8 @@ msgstr ""
 msgctxt "00a201169a5849a49f4610ec8db27ddb"
 msgid "གཞན་ གྱི་ དོན་ ལ་ སྤྲོ་བ་ བརྟན་པ␣འི་ བརྩོན་འགྲུས་ དང་ བཅས་པ །"
 msgstr ""
+"Il possède la diligence de l’enthousiasme stable à faire le bien des autres."
+" "
 
 # 。︀	〝ཐོས་པ〞 2255
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entendre, Ecouter, Etudier, Audition.
@@ -3387,6 +3506,8 @@ msgstr ""
 msgctxt "3bf1f3380c9746e98520d2088b86926a"
 msgid "སྡེ་སྣོད་ གསུམ་ མང་ དུ་ ཐོས་པ␣འི་ ལུང་ གིས་ ཕྱུག་པ །"
 msgstr ""
+"Il a la richesse des Instructions pour avoir beaucoup étudié les trois corbeilles. (litt : ལུང་གིས་ཕྱུག་པ c’est la richesse des Instructions \n"
+"Son étude approfondie des trois Corbeilles lui procure la richesse des Instructions. "
 
 # 。︀	〝བསྒོམ་པ〞 958
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'entraîner Méditer Entraînement, Méditation ⁃
@@ -3452,6 +3573,8 @@ msgid ""
 "ཐོས་བསམ་ བསྒོམ་པ␣འི་ སྟོབས་ ཀྱིས་ ཆོས་ ཐམས་ཅད་ ཀྱི་ དེ་ ཁོ་ན་ཉིད་ རབ་ཏུ་ "
 "རྟོགས་པ །"
 msgstr ""
+"La force de l’ écoute, de la réflexion et de la méditation font qu’il a une "
+"réalisation (compréhension) complète de la telléité de tous les phénomènes. "
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -3513,6 +3636,9 @@ msgid ""
 "གདུལ་བྱ␣འི་ བློ་ ཚོད་ དང་ བསྟུན་པ␣འི་ ལམ་ གྱི་ རིམ་པ་ སྨྲ་བ་ སྟེ་ བཤད་ "
 "མཁས་པ་ དང་ ལྡན་པ །"
 msgstr ""
+"Il est doté de l’expertise pour l’enseignement de l’exposé de la voie "
+"progressive qui s’accord avec les dispositions mentales de ceux à "
+"discipliner. "
 
 # 。︀	〝རྙེད་བཀུར〞 1808
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Gains et honneurs
@@ -3570,6 +3696,9 @@ msgid ""
 "རྙེད་བཀུར་ སོགས་ ལ་ མི་ལྟ་བ␣ར་ སྙིང་རྗེ␣ས་ ཆོས་སྟོན་པ␣འི་ ཀུན་སློང་ དག་པ␣ས་ "
 "བརྩེ་བ␣འི་ བདག་ཉིད །"
 msgstr ""
+"Sans considération pour les biens et les honneurs, il a la motivation pure "
+"d’enseigner la dharma par compassion. Il est donc la personnification de la "
+"bonté. "
 
 # 。︀	〝བརྟེན་པ〞 2067
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supporté, contenu
@@ -3598,6 +3727,9 @@ msgid ""
 "ཡང་ཡང་ འཆད་པ␣ས་ མི་ ངལ་ ཞིང་ ཁོང་ཁྲོ་བ་ སོགས་ བཟོད་པ␣འི་ སྐྱོ་ངལ་ སྤངས་པ་ ལ་"
 " བརྟེན་པ␣ར་ བྱ␣འོ ། །"
 msgstr ""
+"Enseignant encore et encore sans s’épuiser et patient vis-à-vis de "
+"l’agressivité et des autres émotions,  il a abandonné toute lassitude "
+"(mentale et physique).  Remettez-vous en (à lui)."
 
 # 。︀	〝ཉེ་བར་ཞི་བ〞 1712
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ pacification totale (7e stade mental)
@@ -3652,13 +3784,15 @@ msgid ""
 "དེ␣འང་ དུལ་བ་ ཞི་བ་ ཉེ་བར་ ཞི་བ་ དེ་ཉིད་ རྟོགས་པ་ རྣམས་ ནི་ རྟོགས་པ␣འི་ "
 "ཡན་ལག  །"
 msgstr ""
+"De plus, maitrisé, pacifié, totalement pacifié, réaliser la telléité, "
+"forment la branche de la réalisation."
 
 # 。︀	〝ཡན་ལག〞 5331
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Branches, Subdivisions,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ membre / partie
 msgctxt "5f19d255caba4295bc4ce159dd542c50"
 msgid "ལུང་ གིས་ ཕྱུག་པ་ ནི་ ལུང་ གི་ ཡན་ལག  །"
-msgstr ""
+msgstr "Etre riche d’Instructions forme la branche des Instructions."
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -3701,6 +3835,8 @@ msgstr ""
 msgctxt "3124346d7b0b436992edee54110a8876"
 msgid "ཡོན་ཏན་ ལྷག་པ་ བཅས་ ཆོས་ དྲུག་པོ་ རང་ གིས་ ཐོབ་པ␣འི་ ཡོན་ཏན །"
 msgstr ""
+"Avec les qualités supérieures, cela fait six qui forment les qualités "
+"propres (litt acquises par lui-même)"
 
 # 。︀	〝སྐྱེས་བུ་ཆེན་པོ〞 262
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ grand être
@@ -3738,6 +3874,8 @@ msgid ""
 "ལྷག་མ་ བཞི་པོ་ གཞན་ རྗེས་སུ་ འཛིན་པ␣འི་ ཡོན་ཏན་ ཏེ་ དེ་དག་ དང་ ལྡན་པ་ ནི་ "
 "སྐྱེས་བུ་ ཆེན་པོ་ ཞེས་ བྱ␣འོ ། །"
 msgstr ""
+"Les quatre restantes sont les qualités de la prise en charge de l’autre. "
+"Celui qui les possède  est appelé un grand être. "
 
 # 。︀	〝མཆོག〞 1458
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
@@ -3752,6 +3890,8 @@ msgstr ""
 msgctxt "b13fbf48f53345a1a029e6015f2236ed"
 msgid "གཞན་ ཡང་ ཐོས་ སོགས་ བཅུ་གཉིས་ ལྡན་པ་ མཆོག  །"
 msgstr ""
+"Une autre présentation considère comme suprême celui doté de douze "
+"(qualités) : l’étude etc. "
 
 # 。︀	〝མཆོག〞 1458
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
@@ -3781,6 +3921,8 @@ msgid ""
 "དེ་ལས་ གཞན་ ཡང་ མང་ཐོས་ ལ་སོགས་པ␣འི་ ཡོན་ཏན་ བཅུ་གཉིས་ དང་ ལྡན་པ་ ནི་ མཆོག་ "
 "ཏུ་ གསུངས་ ཏེ །"
 msgstr ""
+"De plus  (dans une autre présentation), il est dit qu’est suprême celui  "
+"dotés des douze qualités –l’étude approfondie et les autres.  En effet,"
 
 # 。︀	〝འཕགས་པ〞 3614
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ noble, sublime
@@ -3796,7 +3938,7 @@ msgstr ""
 # ârya
 msgctxt "725b3300931445f1bbb33ac9c1cebd22"
 msgid "འཕགས་པ་ ཀླུ་སྒྲུབ་ ཀྱིས །"
-msgstr ""
+msgstr "Nagarjuna  dit :"
 
 # 。︀	〝སྙིང་རྗེ〞 1820
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bonté, Bon cour, compassion, amour ⁃ Honorifique de
@@ -3941,6 +4083,12 @@ msgid ""
 "ཞིང་ ལམ་ ལ␣ས་ གྲོལ ། ། རིགས་ ལ་ མཁས་ ཤིང་ དྲོད་ཚད་ ཤེས ། ། བཅུ་གཉིས་ ལྡན་ ལ་"
 " བསྟེན་པ␣ར་ བྱ །"
 msgstr ""
+"Etude approfondie et grande sagesse ; sans intérêt pour l’obtention des "
+"objets matériels ; doté de l’esprit d’ éveil  et une grande compassion ; "
+"fait face aux difficultés et se lasse peu ; (capable de donner) de grandes "
+"instructions directes et libéré de la voie ; expert en le potentiel "
+"spirituel et connaisseur de l’avancement. Remettez- vous en  à celui qui "
+"possède ces douze (qualités)"
 
 # 。︀	〝རོ〞 5953
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
@@ -3948,7 +4096,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
 msgctxt "41269995c32948a6befc2980e9b59651"
 msgid "ཞེས་ གསུངས་པ་ ལྟར་ རོ ། །"
-msgstr ""
+msgstr "Tel qu’il l’a dit ainsi. "
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -3969,7 +4117,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître
 msgctxt "e36a8c42d9b947709c47cfd5797aa06f"
 msgid "གསུམ་པ་ སྔགས་ ཀྱི་ སློབ་དཔོན་ ནི །"
-msgstr ""
+msgstr "3. Le maitre spirituel du Mantra."
 
 # 。︀	〝རྡོ་རྗེ〞 2833
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
@@ -4030,6 +4178,8 @@ msgid ""
 "རྡོ་རྗེ་ སློབ་དཔོན་ བརྟན་ དུལ་ བློ་གྲོས་ ཅན ། ། བཟོད་ལྡན་ གཡོ་མེད་ "
 "སྔགས་རྒྱུད་ སྦྱོར་བ་ ཤེས ། །"
 msgstr ""
+"Le maître vajra est stable, maitrisé, intelligent;\n"
+"Patient, honnête, connaisseur des pratiques des mantras et tantras;"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4039,6 +4189,8 @@ msgstr ""
 msgctxt "80d81738f40c40b5b3eca76c164bcd6c"
 msgid "བརྩེ་ ལྡན་ མཁས་ ཤིང་ དེ་ཉིད་ བཅུ་ མཐ␣ར་ སོན ། །"
 msgstr ""
+"Aimant, érudit, parfait connaisseur (litt. qui a parachevé) des dix domaines"
+" essentiels ;"
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -4095,6 +4247,8 @@ msgstr ""
 msgctxt "4550108679dd49a2bda5aeae67377056"
 msgid "དཀྱིལ་འཁོར་ ལ␣ས་ མཁས་ སྔགས་ བཤད་ སྤྱོད་པ་ ཤེས །།"
 msgstr ""
+"Expert en l'art (litt. activité) du mandala et habile (qui sait) en "
+"l'explication du mantra. "
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -4152,6 +4306,8 @@ msgstr ""
 msgctxt "a92aa9ff645146d6b3b7be5e41cdc7e2"
 msgid "སྔགས་ ཀྱི་ རྡོ་རྗེ་ སློབ་དཔོན་ གྱི་ དབྱེ་བ་ ནི་ འོག་ ཏུ་ འཆད །"
 msgstr ""
+"Les différents types de maitres vajra seront expliqués plus loins (litt. "
+"plus bas)."
 
 # 。︀	〝ཐུན་མོང་གི〞 2179
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gdul bya Sens racine: les êtres ordinaires les apprentis
@@ -4198,6 +4354,9 @@ msgid ""
 "མཚན་ཉིད་ རྒྱ་ ཆེ␣ར་ གསུངས་ ཀྱང་ མདོར་བསྡུས་ བླ་མ་ ལྔ་ བཅུ་པ་ ལ␣ས་ བཤད་པ་ "
 "ལྟར་ ན་ ཐུན་མོང་ གི་ མཚན་ཉིད །"
 msgstr ""
+"Bien que leurs caractéristiques aient été exposé en détail, pour les résumer"
+" selon les cinquante vers sur la dévotion au maître (par Ashvagosha), leurs "
+"caractéristiques communes sont:"
 
 # 。︀	〝བརྟན་པ〞 2061
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stable, fixe,  La stabilité. Ce a quoi l'on peut se
@@ -4227,6 +4386,7 @@ msgstr ""
 msgctxt "3da50908eff3463daa3e1ca3f04be184"
 msgid "ལུས་ངག་ སེམས་ རྣམས་ མ་ འཚུབས་པ␣ས་ བརྟན་པ །"
 msgstr ""
+"Parce que leur corps, parole, esprit n'est pas agité, ils sont stable."
 
 # 。︀	〝འདུལ་བ〞 2781
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ vinaya, maîtrise (5e stade mental)
@@ -4260,6 +4420,8 @@ msgstr ""
 msgctxt "985a617c554a4d0ba2ce1160b2fd933d"
 msgid "སེམས་ ཀྱི་ བསླབ་པ་ དང་ ལྡན་པ␣ས་ འདུལ་བ །"
 msgstr ""
+"Parce qu'ils ont acquis (litt. possèdent ) l'apprentissage de l'esprit, ils "
+"sont maitrisé."
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -4318,6 +4480,8 @@ msgstr ""
 msgctxt "779c412417b44b0aae81c12c1480f716"
 msgid "ཆོས་ རབ་ཏུ་ རྣམ་པ␣ར་ འབྱེད་པ␣འི་ བློ་གྲོས་ ཅན །"
 msgstr ""
+"Ils ont l'intelligence qui discerne dans le moindre détail les phénomènes. "
+"(qui connais les phénomènes sous tous leurs aspects)."
 
 # 。︀	〝ཁྲོ་བ〞 394
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Colère
@@ -4355,6 +4519,8 @@ msgstr ""
 msgctxt "232fa4cf7910484fba16291ff83b0ac9"
 msgid "སློབ་མ␣འི་ བྱ་བ་ ལ་ བཟོད་པ་ དང་ ལྡན་པ␣ས་ ཁོང་ མི་ ཁྲོ་བ །"
 msgstr ""
+"Puisqu'ils sont patients, ils ne s'énervent pas face aux actions des "
+"disciples."
 
 # 。︀	〝སྒྱུ〞 880
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ hypocrisie, vantardise (manifester des vertus que l'on a
@@ -4446,6 +4612,8 @@ msgid ""
 "རང་ གི་ ཉེས་པ་ བཅབ་པ␣འི་ གཡོ་ དང་ གཞན་ བསླུ་བ␣འི་ བསམ་པ␣ས་ ཡང་དག་པ་ "
 "མ་ཡིན་པ␣འི་ དོན་ སྟོན་པ␣འི་ སྒྱུ་ མེད་པ␣ས་ དྲང་བ་ སྟེ་ དྲུག  །"
 msgstr ""
+"Parce qu' ils n'ont pas l'hypocrisie de cacher leurs défauts, ni la malhonnêteté d'exposer aux autre ce qui n'est pas vrai avec l'intention de les tromper, ils sont honnêtes.\n"
+"cela fait six (caractéristiques générales)."
 
 # 。︀	〝ཁྱད་པར〞 336
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
@@ -4564,13 +4732,17 @@ msgid ""
 "ཁྱད་པར་ གྱི་ མཚན་ཉིད་ ཕྲིན་ལས་ བཞི་ ལ་སོགས་པ␣འི་ སྔགས་ ཀྱི་ སྦྱོར་བ་ དང་ "
 "མཐའ་ དྲུག་ ལ་སོགས་པ་ རྒྱུད་ ཀྱི་ སྦྱོར་བ་ ཤེས་པ །"
 msgstr ""
+"Ils ont pour caractéristiques  spécifiques de connaitre les quatre activités"
+" éveillées etc.,-les pratiques (techniques) concernant les Tantras -,  ainsi"
+" que les six paramètres de l'enseignement (litt. 6 limites) etc. - les "
+"pratiques du Mantra -."
 
 # 。︀	〝གཞན〞 4962
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
 msgctxt "4183cec3efa34218849d4d3201d90c25"
 msgid "གཞན་ ལ་ སྙིང་བརྩེ་བ་ དང་ ལྡན་པ །"
-msgstr ""
+msgstr "Ils ont de l'amour (affection) pour les autres."
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4600,6 +4772,8 @@ msgid ""
 "ཐུན་མོང་བ␣འི་ གཞུང་ལུགས་ རྣམས་ ལ␣འང་ ཅི་རིགས་པ␣ར་ མཁས་ ཤིང༌ །  དེ་ཉིད་ "
 "རྣམ་པ་ བཅུ␣འི་ མཐ␣ར་ སོན་པ །"
 msgstr ""
+"Ils connaissent avec exactitude les traités communs et connaissent à la "
+"perfection les dix domaines essentiels (des tantras)."
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -4650,6 +4824,10 @@ msgid ""
 "བསྙེན་ སོགས་ དག་པ␣ར་ བྱས་ ཤིང་དབང་ བསྐུར་བ␣འི་ བྱ་བ་ ཁོང་ དུ་ ཆུད་པ␣ས་ "
 "དཀྱིལ་འཁོར་ བྲི་བ␣འི་ ལ␣ས་ ལ་ མཁས་པ །"
 msgstr ""
+"Ayant parfaitement accompli la phase d'approche (de la divinité) etc. ainsi "
+"qu'ayant pleinement intégré les rituels (litt, ce qui est a faire) pour "
+"conférer les initiations, ils sont experts en l'art de dessiner les "
+"mandalas."
 
 # 。︀	〝སྔགས〞 1190
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
@@ -4738,6 +4916,9 @@ msgid ""
 "དབང་པོ་ རབ་ འབྲིང་ ཐ་མ␣འི་ ཚུལ་ དང་ མཐུན་པ␣ར་ སྔགས་ བཤད་པ␣འི་ སྤྱོད་པ་ "
 "ཤེས་པ་ སྟེ་"
 msgstr ""
+"Ils connaissent la pratique de l'enseignement (ils savent exprimer "
+"l'enseignement ....)du Mantra en accord avec les capacités -supérieures, "
+"moyennes ou inférieures (des disciples)."
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4753,6 +4934,8 @@ msgstr ""
 msgctxt "9cf3119fd70b4e2f984ec78f7ef463a7"
 msgid "དེ་ཉིད་ བཅུ་ ལ་ ཚན་པ་ གསུམ་ དུ་ དབྱེ་ ནས་ བསྡོམས་པ␣ས་ དགུ །"
 msgstr ""
+"Si on distingue (litt. divise) en trois sections les dix domaines essentiels"
+" on obtient neuf (caractéristiques). "
 
 # 。︀	〝ཐུན〞 2176
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Période ou session (de pratique.) Support rituel
@@ -4775,6 +4958,9 @@ msgstr ""
 msgctxt "afdc5ef44c584988bef7ba6899815293"
 msgid "ཐུན་ ཁྱད་ གཉིས་ཀ་ བསྡོམས་པ␣ས་ བཅོ་ལྔ␣འོ ། །"
 msgstr ""
+"En combinant celles communes et spécifiques on a un total de quinze caractéristiques.\n"
+"Note: 1. བརྟན་པ 2.འདུལ་བ། 3.བློ་གྲོས་ཅན 4.བཟོད་པ་དང་ལྡན་པ 5. གཡོ་བ་མེད་པ 6. སྒྱུ་མེད་པ 7.8.9: དེ་ཉིད་བཅུ་ལ་ཚན་པ་གསུམ་\n"
+"10.སྔགས་ཀྱི་སྦྱོར་བ་ཤེས་པ 11.རྒྱུད་ཀྱི་སྦྱོར་བ་ཤེས་པ 12.གཞན་ལ་སྙིང་བརྩེ་བ་དང་ལྡན་པ 13.ཐུན་མོང་བའི་གཞུང་ལུགས་རྣམས་ལའང་ཅི་རིགས་པར་མཁས་པ 14. དཀྱིལ་འཁོར་བྲི་བའི་ལས་ལ་མཁས་པ 15. སྔགས་བཤད་པའི་སྤྱོད་པ་ཤེས་པ"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4784,6 +4970,7 @@ msgstr ""
 msgctxt "2e2eb44890bd4c7da86353d023d653f0"
 msgid "དེ་ཉིད་ བཅུ་ ལ་ ནང་གསེས་ སུ་ དབྱེ་ ན་"
 msgstr ""
+"Dans (cette) division en trois (sections )des dix domaines essentiels,"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4822,6 +5009,8 @@ msgctxt "b816c4ef1387432aa65f058f2a3bbce8"
 msgid ""
 "གསུམ་ གྱི་ དང་པོ་ རྡོ་རྗེ་ སློབ་དཔོན་ ལ་ཉེ་ བར་ མཁོ་བ␣འི་ དེ་ཉིད་ བཅུ་ ནི །"
 msgstr ""
+"La première consiste en les dix domaines essentiels indispensables au maitre"
+" vajra."
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -4859,7 +5048,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "7c543f03110a43bdbd1a98b612ba909f"
 msgid "རབ་གནས་ ཀྱི་ རྒྱུད་ ལ␣ས །"
-msgstr ""
+msgstr "Le Tantra de la consécration dit :"
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -4932,6 +5121,10 @@ msgid ""
 "། ། བཟླས་བརྗོད་ སྦྱིན་སྲེག་ གཏོར་མ་ དང༌ ། ། ལ␣ས་ ལ་ སྦྱར་ དང་ སླར་བསྡུ་བ␣འོ "
 "། །"
 msgstr ""
+"Mandalas, samadhis, moudras;\n"
+"Postures, mantras, positions assises\n"
+"Récitations, offrandes dans le feu, tormas;\n"
+"S'appliquer aux actions (irrités) et la dissolution (du mandala)."
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
@@ -4943,7 +5136,7 @@ msgstr ""
 # arriver de, jaillir de, émerger de, avoir son origine en, résulter de
 msgctxt "e49174e152ef4837af85895e649144ee"
 msgid "ཞེས་ འབྱུང་བ་ ལྟར་ དང༌ །"
-msgstr ""
+msgstr "Telle qu'on les trouves ici."
 
 # 。︀	〝དགོངས་པ〞 666
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ intention, idée ⁃ intention, idée
@@ -5002,6 +5195,9 @@ msgid ""
 "ཆོ་ག␣འི་ དེ་ཉིད་ བཅུ་ གུར་ གྱི་ དགོངས་པ་ ཌོམྦྷི་པ␣འི་ དེ་ཉིད་ བཅུ་པ་ ལ␣ས་ "
 "འབྱུང་བ །"
 msgstr ""
+"Les dix domaines essentiels concernant les rituels sont tels qu'on les "
+"trouve dans ''La réalisation de la tente vajra'' et selon les dix domaines "
+"essentiels Dombhipa."
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -5081,6 +5277,10 @@ msgid ""
 "དཀྱིལ་འཁོར་ སྒྲུབ་པ་ དང༌ ། ། སྡིག་ སྦྱོང་བ་ དང་ གཤེགས་ སུ་ གསོལ་བ་ དང༌ ། ། "
 "དེ་ཉིད་ བཅུ་ ཞེས་ རྒྱལ་བ་ རྣམས་ ཀྱིས་ གསུངས ། །"
 msgstr ""
+"Enceinte protectrice, initiation, torma, recitation, méditation;\n"
+"Repulsion, accomplissement du mandala;\n"
+"Purification du négatifs et requête de départ;\n"
+"Les Vainqueurs ont enseignés ces ''dix domaines essentiels''"
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
@@ -5092,7 +5292,7 @@ msgstr ""
 # arriver de, jaillir de, émerger de, avoir son origine en, résulter de
 msgctxt "35f1117e9aa343eaa92637c43aba3407"
 msgid "ཞེས་ འབྱུང་བ་ དང༌ །"
-msgstr ""
+msgstr "Telle qu'on les trouves ici."
 
 # 。︀	〝དགོངས་པ〞 666
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ intention, idée ⁃ intention, idée
@@ -5195,6 +5395,9 @@ msgid ""
 "དེ་ ཁོ་ན་ཉིད་ ཀྱི་ དེ་ཉིད་ བཅུ་ རྒྱུད་ འབུམ་ ལྔ␣འི་ དགོངས་པ་ རིན་ཆེན་ འབར་བ་"
 " ལ␣ས་ འབྱུང་བ །"
 msgstr ""
+"Les dix domaines essentiels en liens avec la telléité sont présentés dans le"
+" Tantra [de Hevajra] en Cinq Cent Mille vers et relaté dans le [Sadhana « "
+"Glorieux] Joyau Flamboyant » [de Prajnendraruchi]."
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -5315,10 +5518,14 @@ msgid ""
 "རྡོ་རྗེ་ དྲིལ་བུ་ ཡེ་ཤེས་ དང༌ ། ། ལྷ་ དང་ དཀྱིལ་འཁོར་ སྦྱིན་སྲེག་ དང༌ ། ། "
 "སྔགས་ དང་ རྡུལ་ཚོན་ གཏོར་མ་ དང༌ ། ། དབང་ བསྐུར་ དེ་ཉིད་ བཅུ་ རིག་པ␣ས ། །"
 msgstr ""
+"Connaissez ces dix domaines essentiels:\n"
+"Vajra, cloche, sagesse primordiale;\n"
+"Divinité, mandala, l'offrande dans le feu;\n"
+"Mantra, sable coloré, torma et initiation. "
 
 msgctxt "d349cc489008461b9807613cb74b11b4"
 msgid "ཞེས་ གསུངས་ ཏེ"
-msgstr ""
+msgstr "ceci puis, "
 
 # 。︀	〝དེ་ཁོ་ན་ཉིད〞 2428
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ le réel, l'ainsité ⁃ le réel, l'ainsité ⁃ ainsité, réel
@@ -5337,7 +5544,7 @@ msgstr ""
 # vraiment, tattva
 msgctxt "e2494c917b9d4da0977fcf0b52134102"
 msgid "དེ་ལྟར་ ན་ དེ་ ཁོ་ན་ཉིད་ སུམ་ཅུ་ ཐམ་པ␣འོ ། །"
-msgstr ""
+msgstr "Ce qui fait exactement trente domaines essentiels."
 
 # 。︀	〝རྒྱན〞 762
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ ornement, parure
@@ -5425,6 +5632,11 @@ msgid ""
 "ལ␣ས་ ཕྱི␣འི་ དེ་ཉིད་ བཅུར་ གསུངས་པ་ དང༌ །  དེ་ཉིད་ འདུས་པ་ ལ␣ས་ དེ་ དང་ "
 "ཕྱོགས་མཚུངས་ གསུངས་པ་ རྣམས་ ནི་ ཡོ་ག␣འི་ ལུགས་ ཡིན་ ལ །"
 msgstr ""
+"De plus, similaire à ce que l'on retrouve dans le Tantra de la consecration,"
+" dans le Vajrahṛdayālaṃkāra-tantra (le Tantra ornement de l'essence vajra) "
+"les dix points essentiels extérieurs sont exposée et, dans le Compendium des"
+" points essentiels, (propose) une présentation (exposé) similaire. Tous font"
+" parti (litt. sont) du système du Yoga Tantra. "
 
 # 。︀	〝རྒྱན〞 762
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ ornement, parure
@@ -5445,7 +5657,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "c7eff9e111934d1a8e14fb8d825748e8"
 msgid "སྙིང་ རྒྱན་ ལ␣ས །"
-msgstr ""
+msgstr "Le Tantra ornement de l'essence vajra dit :"
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -5579,6 +5791,12 @@ msgid ""
 " དབྱེ་བ␣འི་ ཆོ་ག་ དང༌ ། ། གཏོར་མ་ རྡོ་རྗེ␣འི་ བཟླས་པ་ དང༌ ། ། དྲག་ཤུལ་ "
 "སྒྲུབ་པ␣འི་ ཆོ་ག་ དང༌ ། ། རབ་ཏུ་ གནས་ དང་ དཀྱིལ་འཁོར་ སྒྲུབ ། །"
 msgstr ""
+"Deux rituels de répulsion; \n"
+"Les  (initiations) secrète et de connaissance-sagesse;\n"
+"Le rituel de  séparation de l'union (litt. l'embrassade);\n"
+"(le rituel de) La torma et la recitation vajra;\n"
+"Le rituel pour accomplir (l'action) féroce\n"
+"La consécration et la réalisation du mandala"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -5595,7 +5813,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ secret, mystère
 msgctxt "02a29010001f4a5d8e8dc8497e73d4d0"
 msgid "གསང་བ␣འི་ དེ་ཉིད་ བཅུ་ ཡིན་ ནོ ། །"
-msgstr ""
+msgstr "sont les dix domaines essentiels secrets."
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
@@ -5607,7 +5825,7 @@ msgstr ""
 # arriver de, jaillir de, émerger de, avoir son origine en, résulter de
 msgctxt "214043fb348649f8a36b00ef08058e1d"
 msgid "ཞེས་ འབྱུང་བ་ དང༌ ། །"
-msgstr ""
+msgstr "voici  ce que l'on trouve puis,"
 
 # 。︀	〝འགྲེལ་པ〞 725
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ commentaire
@@ -5700,6 +5918,10 @@ msgid ""
 "སོགས་ ལ␣ས་ འབྱུང་བ་ ནི་ བླ་མེད་ ཀྱི་ དབང་ དུ་ བྱས་པ␣ར་ མི་ བསྐྱོད་ ཡབ་ སྲས་ "
 "བཞེད་ དོ ། །"
 msgstr ""
+"Les présentation que l'on trouve dans le Tantra la contemplation des "
+"qualités du maitre, dans le commentaire du Buddhasamayayoga et dans L'appui "
+"des instructions directes, relèvent, selon Karmapa Mikyeu Dorjé et ses Fils,"
+" du Tantra Insurpassable."
 
 # 。︀	〝མཛོད〞 4846
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Magasin, Grenier, Entrepôt, Anthologie, Trésor,
@@ -5711,6 +5933,8 @@ msgstr ""
 msgctxt "1509e2f6945a4610bac7df7abf978d4e"
 msgid "ཡང་ན་ མཛོད་ གསུམ་ ལྡན་ ཞིང་ཆུ་བོ་ རྫོགས ། །"
 msgstr ""
+"Alternativement, il est riche (possède) de trois trésors, et à totalement "
+"reçu le fleuve (des initiations)"
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -5746,6 +5970,8 @@ msgstr ""
 msgctxt "174442e78f814c97a26a721d345d342b"
 msgid "གཉེར་ ལྡན་ རྒྱུད་ དང་ལ␣ས་ མཁས་ དྲོད་ཚད་ འཆང༌ ། །"
 msgstr ""
+"Montre de l'intéret , est érudit en les tantras et pour l'activité et montre"
+" les signes."
 
 # 。︀	〝སྔ་འགྱུར〞 1183
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ premières traductions, traductions de la première
@@ -5814,6 +6040,9 @@ msgid ""
 "ཡང་གསང་ སྔགས་ སྔ་ འགྱུར་ གྱི་ ཕྱོགས་ ལ␣ས་ བཤད་པ་ ལྟར་ ན །  དམ་པ␣འི་ མཛོད་ "
 "གསུམ་ ལྡན་པ་ སྟེ །"
 msgstr ""
+"Alternativement (d'autre part), selon les explications données du point de "
+"vue de l'école de la traduction ancienne du Mantra Secret (les Nyigmapas), "
+"posséder les trois trésors sacrés signifie"
 
 # 。︀	〝བསྐྱེད་རྫོགས〞 285
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ transformation/perfection, utpattikrama/sampannakrama
@@ -5914,6 +6143,10 @@ msgid ""
 "ཕྱིན་པ␣འི་ ཏིང་འཛིན །  སྤྱི་ དང་ བྱེ་བྲག་ གི་ དམ་ཚིག་ ལས་མི་ འདའ་བ་ སྟེ་ "
 "གསུམ་ དང༌ །  ཡང་ན །"
 msgstr ""
+"La vue qui réalise l'inséparabilité de la vérité (des 2 vérités?), "
+"l'absorption méditative des phases de créations et complétions parachevées "
+"et  ne pas dévier pas des promesses sacrées( samaya) générales et "
+"spécifiques, forment trois (trésors)."
 
 # 。︀	〝བསྐྱེད་པ〞 283
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Développer, générer
@@ -5964,6 +6197,10 @@ msgid ""
 "བསྐྱེད་པ␣འི་ མཛོད་ མཧཱ །  རྫོགས་པ␣འི་ མཛོད་ ཨ་ནུ །  ལྟ་བ␣འི་ མཛོད་ ཨ་ ཏི་ "
 "གསུམ་ ལ་ མཁས་པ །"
 msgstr ""
+"Alternativement  (une autre présentation) ces trois sont : une expertise en "
+"le Maha yoga pour le trésor de la phase de création, en la Anu Yoga, pour le"
+" trésor de la phase de complétion et en le Ati yoga, pour le trésor de la "
+"vue."
 
 # 。︀	〝རྫོགས་པ〞 4886
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parachever, Parfaire, Parachevé, Parfait, Accompli,
@@ -5975,6 +6212,9 @@ msgstr ""
 msgctxt "7c542c15bf144c06a4a0617a37914ff8"
 msgid "ཕན་ནུས་ ཟབ་མོ␣འི་ དབང་ གི་ ཆུ་བོ་ རྫོགས་པ །"
 msgstr ""
+"(le maitre) possède l'intégralité du fleuve des initiations bénéfiques, "
+"habilitantes et profondes (3 catégories d'initiations et non des "
+"qualificatif des initiations)"
 
 # 。︀	〝སྣོད〞 3294
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réceptacle/récipient/récepteur
@@ -6012,6 +6252,8 @@ msgid ""
 "གསང་སྔགས་ ཡལ་བ␣ར་ མི་ འདོར་ ཞིང་ སྣོད་ ལྡན་ རྗེས་སུ་ འཛིན་པ␣འི་ གཉེར་ དང་ "
 "ལྡན་པ །"
 msgstr ""
+"Ils ne négligent pas (litt. n'abandonnent pas) le Mantra Secret et sont "
+"intéressés par prendre en charge les réceptacles appropriés. "
 
 # 。︀	〝རྒྱུད་སྡེ〞 822
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ la section des tantras (les 18 Tantras du Mahâyoga)
@@ -6046,6 +6288,8 @@ msgstr ""
 msgctxt "0b8bd05212354514922001abd05d161f"
 msgid "རྒྱུད་སྡེ་ ལ་ མཁས་ ཤིང་ ལུང་ གི་ དོན་ ཁྲོལ་བ །"
 msgstr ""
+"Ils sont érudit en les classes de tantras et capable d'élucider le sens des "
+"écritures."
 
 # 。︀	〝མཁས་པ〞 413
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
@@ -6083,6 +6327,8 @@ msgstr ""
 msgctxt "c39c891bc11c480abb3dea7512e8fe8f"
 msgid "ཕྲིན་ལས་ ཏེ་ སྒྲུབ་པ␣འི་ ཆོག་ ཁྲིགས་ ལ་ མཁས་པ །"
 msgstr ""
+"Sont experts pour préparer les rituels d'accomplissement de l'activité "
+"éveillée."
 
 # 。︀	〝ཉམས〞 1669
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
@@ -6163,6 +6409,8 @@ msgstr ""
 msgctxt "8ef85cf8afaf4b2fa72864d1dc53ac24"
 msgid "སྙན་བརྒྱུད་ ཀྱི་ མན་ངག་ ཉམས་ སུ་ མྱོང་བ␣འི་ དྲོད་ རྟགས་ འཆང་བ་ སྟེ་"
 msgstr ""
+"Ils ont obtenus (litt. brandissent) les signes d'une experience des "
+"instructions directes de la lignée de transmission orale. Ceci..."
 
 # 。︀	〝རྡོ་རྗེ〞 2833
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
@@ -6273,6 +6521,9 @@ msgid ""
 "མཛོད་ གསུམ་ སོ་སོ␣ར་ བགྲང་བ␣ས་ རང་བཞིན་ བརྒྱད་ ལྡན་ གྱི་ རྡོ་རྗེ་ སློབ་དཔོན་"
 " དུ་ སངས་རྒྱས་ གསང་བ␣འི་ ལམ་རིམ་ ལ␣ས་ བཤད་ དོ ། །"
 msgstr ""
+"Dans la Voie Secrète Progressive Composée,  Buddhaguhya, expose les huit "
+"qualités intrinsèques d'un maitre vajra en comptant séparément les trois "
+"trésors (en comptant pour 3 les 3 trésors)."
 
 # 。︀	〝བརྒྱུད་པ〞 956
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lignée Etre transmit ⁃ lignée de transmission, lignée
@@ -6320,6 +6571,8 @@ msgstr ""
 msgctxt "6c51bcb04cce4c14ad39d7ba73148b0f"
 msgid "མདོར་ན་ བརྒྱུད་པ་ དམ་ཚིག་ མན་ངག་ ལྡན ། །"
 msgstr ""
+"En résumé, il est riche (possède) de la lignée, des promesses sacrées et des"
+" instructions directes."
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -6406,6 +6659,8 @@ msgstr ""
 msgctxt "47b7d81625cc47c781c99faa85fc144b"
 msgid "རྒྱུད་ དོན་ རིག་པ་ གསུམ་ ལ␣ས་ དགེ་སློང་ མཆོག  །"
 msgstr ""
+"Connais les Tantras. Des trois (supports), celui pleinement ordonné est le "
+"meilleur."
 
 # 。︀	〝མདོ〞 2727
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
@@ -6447,6 +6702,8 @@ msgstr ""
 msgctxt "de9384b9b5fa470e826068e29c46bd05"
 msgid "བླ་མ␣འི་ མཚན་ཉིད་ ཇི་སྐད་ བཤད་པ་ ཐམས་ཅད་ མདོ␣ར་ བསྡུ་ ན །"
 msgstr ""
+"Les caractéristiques du maître que l'on vient de mentionnées sont, en "
+"résumé,"
 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
@@ -6493,6 +6750,9 @@ msgid ""
 "རྡོ་རྗེ་ འཆང་ ནས་ ད་ལྟ␣འི་ བར་ དུ་ སྨིན་གྲོལ་ གྱི་ བརྒྱུད་པ་ མ་ ཆད་ ཅིང་ "
 "དམ་སེལ་ གྱི་ སྐྱོན་ མ་ ཞུགས་པ །"
 msgstr ""
+"Il appartient a une lignée de maturation et de libération ininterrompue "
+"depuis Vajradhara jusqu'à maintenant et n'a pas le défaut d'avoir endommagé"
+"  ses promesse sacrées."
 
 # 。︀	〝བརྟུལ་ཞུགས〞 2064
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline yogique
@@ -6553,6 +6813,8 @@ msgstr ""
 msgctxt "965ae02a2e1e475c9052c42d38840e8f"
 msgid "སྡོམ་པ་ དང་ དམ་ཚིག་ བརྟུལ་ཞུགས་ ལ་ གནས་པ །"
 msgstr ""
+"Il maintient (litt. il demeure dans) ses vœux, ses promesses sacrées et son "
+"ascèse (ici fait ref a conduite tantrique.)"
 
 # 。︀	〝བརྒྱུད་པ〞 956
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lignée Etre transmit ⁃ lignée de transmission, lignée
@@ -6584,6 +6846,8 @@ msgstr ""
 msgctxt "6984367f38df4f10840ede5d1539551d"
 msgid "བརྒྱུད་པ་ ནས་ བརྒྱུད་པ␣ར་ བྱུང་བ␣འི་ མན་ངག་ དང་ ལྡན་པ །"
 msgstr ""
+"Il possède les instructions directes transmises tout au long de la lignée "
+"(de maitres à disciple de manière ininterrompue)."
 
 # 。︀	〝བཀའ〞 152
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parole (honorifique) Parole du Buddha ⁃ verbe,
@@ -6683,6 +6947,8 @@ msgstr ""
 msgctxt "1d79085e43c04dd29797d292d05ea309"
 msgid "བཀའ་ བསྟན་བཅོས་ སྤྱི་ དང་ ཁྱད་པར་ རྒྱུད་ ཀྱི་ དོན་ རིག་པ །"
 msgstr ""
+"Il comprend en général les Paroles du Bouddhas et ses Commentaires et en "
+"particulier (il comprend) le sens des Tantras. "
 
 # 。︀	〝སྙིང་རྗེ〞 1820
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bonté, Bon cour, compassion, amour ⁃ Honorifique de
@@ -6708,6 +6974,8 @@ msgstr ""
 msgctxt "9132d5b3ab0a4cb3a0ef17e3eb06d096"
 msgid "གཞན་ཕན་ སྙིང་རྗེ␣འི་ ཐུགས་ དང་ ལྡན་པ་ ལ་ ཐམས་ཅད་ འདུ␣འོ ། །"
 msgstr ""
+"Il a un esprit compassionné et altruiste.  Toutes (les qualités) sont "
+"contenues ici. "
 
 # 。︀	〝དགེ་བསྙེན〞 627
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Upasaka / Upasika. Apprenti de la vertu  Pratiquant
@@ -6777,6 +7045,10 @@ msgid ""
 "མཚན་ཉིད་ དེ་ལྡན་ གྱི་ རྟེན་ ཡང་ དགེ་བསྙེན་ དགེ་ཚུལ་ དགེ་སློང་ གསུམ་ ལ␣ས །  "
 "དང་པོ་ ནི་ ས་ ཐོབ་པ་ མ་གཏོགས་ ཐ་མ␣ར་ གསུངས་ ཏེ །"
 msgstr ""
+"Le support (en terme de vœux) de ceux possédant ces qualités est :  laique, "
+"moine novice ou moine pleinement ordonné. Parmi ces trois, pour le premier, "
+"a moins qu'il n'ai atteint les terres (de bodhisattva) il est considéré "
+"comme étant le dernier (le moins bons). "
 
 # 。︀	〝རྡོ་རྗེ〞 2833
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
@@ -6804,7 +7076,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "e95d5783c7bb4a338b87c112a9e8d5e3"
 msgid "རྡོ་རྗེ་ སྙིང་ འགྲེལ་ ལ␣ས །"
-msgstr ""
+msgstr "le Commentaire de Vajragarbha dit:"
 
 # 。︀	〝ཁྱིམ་པ〞 353
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître de maison, laïc
@@ -6835,6 +7107,8 @@ msgstr ""
 msgctxt "5a0f28c861464d4585b9aebb6924ca9f"
 msgid "ས་ ཐོབ་ མ་གཏོགས་ ཁྱིམ་པ་ ནི ། ། རྒྱལ་པོ␣ས་ བླ་མ␣ར་ མི་ བྱ་ སྟེ ། །"
 msgstr ""
+"Un roi ne s’en remet pas à un laïc comme maître,\n"
+"Sauf à ce qu’il ait atteint les Terres :"
 
 # 。︀	〝རྟགས〞 1943
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ signe, marque, caractéristique, preuve, symbole
@@ -6870,6 +7144,8 @@ msgstr ""
 msgctxt "5f231480247645f0b929160a1bdd04f1"
 msgid "དེ་ ལ་ ཐོས་པ་ ཡོངས་ཤེས་པ␣ས ། ། གང་ཞིག་ རྟགས་ ཅན་ བྱ་བ་ ཉིད ། །"
 msgstr ""
+"Ce dernier par une étude complete\n"
+"Porte les signes (monastiques)"
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
@@ -6944,10 +7220,14 @@ msgid ""
 "ཚེ་ སངས་རྒྱས་ ཆོས་ དང་ ནི ། ། དགེ་འདུན་ རྣམས་ ལ་ གུས་ མེད་ འགྱུར ། ། ཞེས་ སོ"
 " ། །"
 msgstr ""
+"A moins qu'il n'ait atteint les Terres, chaque fois qu'on  fait offrande à "
+"un maître spirituel Laïque (litt. qui demeure dans un foyer familiale), à ce"
+" moment là, il n'y a plus de respect pour le Bouddha, le Dharma et la Sangha"
+" (litt. BDS deviennent ne sont pas respecté)."
 
 msgctxt "6504141d86a34d309aa6c5548f71669c"
 msgid "གཉིས་པ་ ནི་"
-msgstr ""
+msgstr "Le deuxième (le gestul), "
 
 # 。︀	〝ཕྱོགས〞 3568
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Thèse ⁃ Thèse
@@ -6983,6 +7263,9 @@ msgid ""
 "རབ་བྱུང་ གི་ ཕྱོགས་ ཡིན་པ␣ས་ སྔ་མ་ ལ␣ས་ འཕགས་ ཀྱང་ ཕྱི་མ་ ལ་ ལྟོས་ ན་ འབྲིང་"
 " ཡིན་ ལ །"
 msgstr ""
+"Puisqu'il fait parti (litt. il est du coté) des renonçant , il est supérieur"
+" au précédent (le laique), mais, par rapport au suivant (le pleinement "
+"ordonné), il est moyen (intermédiaire)."
 
 # 。︀	〝མཆོག〞 1458
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
@@ -6995,7 +7278,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 msgctxt "cd7a36ed28f040539dd6256fa6a5dd72"
 msgid "དགེ་སློང་ ཁོ་ན་ མཆོག་ ཡིན་ ཏེ །"
-msgstr ""
+msgstr "Seul celui pleinement ordonné est le meilleur."
 
 # 。︀	〝རྩ་རྒྱུད〞 4532
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ tantra racine (dans la division sextuple)
@@ -7014,7 +7297,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "d19b1cb18df9481b9604d92da4c11d0c"
 msgid "དུས་འཁོར་ རྩ་རྒྱུད་ ལ␣ས །"
-msgstr ""
+msgstr "Le texte racine du Kalachakra dit :"
 
 # 。︀	〝མཆོག〞 1458
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
@@ -7046,6 +7329,8 @@ msgstr ""
 msgctxt "87a32ed5a91d4ebc8334dcfcb5b7604d"
 msgid "དེ་ཉིད་ བཅུ་ ནི་ ཡོངས་ཤེས་པ ། ། གསུམ་ ལ␣ས་ དགེ་སློང་ མཆོག་ ཡིན་ ནོ ། །"
 msgstr ""
+"Des trois qui connaissent parfaitement les dix domaines spécifiques, celui "
+"pleinement ordonné (le bikku) est suprême."
 
 # 。︀	〝དགེ་ཚུལ〞 653
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
@@ -7059,13 +7344,15 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moine novice
 msgctxt "0ea4af2508bd4b96a7e5ea98be3c8f4b"
 msgid "འབྲིང་ ནི་ དགེ་ཚུལ་ ཞེས་ བྱ་ སྟེ ། །"
-msgstr ""
+msgstr "Celui qu'on appel le novice est moyen et,"
 
 # 。︀	〝ཐ་མ〞 2090
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Fin, les derniers, inférieur
 msgctxt "bb82467fc15f4e8d8295309ecf45708e"
 msgid "ཁྱིམ་གནས་ དེ་ ལ་ ཐ་མ␣འོ ། །"
 msgstr ""
+"celui qui vit (litt. demeure) dans un foyer familial est, d'entre eux, le "
+"dernier. "
 
 # 。︀	〝རོ〞 5953
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
@@ -7073,7 +7360,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
 msgctxt "fc043426adc44f7c8f52808ae371e8d9"
 msgid "ཞེས་ གསུངས་པ་ ལྟར་ རོ ། །"
-msgstr ""
+msgstr "Il en est tel que c'est énoncé. "
 
 # 。︀	〝ཁྱད་པར〞 336
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
@@ -7158,6 +7445,8 @@ msgid ""
 "ཁྱད་པར་ ཟུང་འཇུག་ རྡོ་རྗེ␣འི་ ཡེ་ཤེས་ གང༌ ། ། རྒྱུད་ ལ་ སྐྱེད་ ནུས་ དཔལ་ལྡན་"
 " བླ་མ་ སྟེ ། །"
 msgstr ""
+"En particulier, le Glorieux Lama est celui qui a la capacité de faire naitre"
+" en l'esprit  cette sagesse primordiale adamantine de l'union."
 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
@@ -7322,6 +7611,9 @@ msgid ""
 "རྒྱུད་ ལ་ སྐྱེད་པ␣ར་ ནུས་པ␣ས་ མཆོག་ གི་ དངོས་གྲུབ་ ཀྱི་ ལྷན་ཅིག་ བྱེད་ "
 "རྐྱེན་ དུ་ གྱུར་པ་ ནི་ དཔལ་ལྡན་ བླ་མ་ ཞེས་ བྱ་ སྟེ"
 msgstr ""
+"En particulier, est appelé Glorieux Lama, celui qui, ayant la capacité de "
+"faire naitre en le disciple  cette sagesse primordiale adamantine de "
+"l'union, deviens la condition auxiliaire des accomplissement suprêmes. "
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -7367,6 +7659,7 @@ msgstr ""
 msgctxt "a37ac0da7f364aeda7e5310d5d62e6ef"
 msgid "དེ␣འི་ མཚན་ཉིད་ བསྡུས་ རྒྱུད་ ལ␣ས །"
 msgstr ""
+"Le Résumé du Tantra (de Kalachakra) expose ses caractéristiques ainsi  :"
 
 # 。︀	〝ཐུགས〞 2160
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Honrifique pour esprit, mental, intellect, coeur.
@@ -7436,6 +7729,8 @@ msgid ""
 "སངས་རྒྱས་ ཞལ་ འདི་ གང་ གི་ ཐུགས་ དང་ ཞལ་ལ་ གནས་པ␣ར་ གྱུར་པ་ དེ་ ནི་ དཔལ་ལྡན་"
 " བླ་མ␣འོ ། །"
 msgstr ""
+"Est un Glorieux Lama, celui qui à présent en son esprit et dans sa parole, "
+"ce visage du Bouddha."
 
 # 。︀	〝འགྲེལ་པ〞 725
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ commentaire
@@ -7562,6 +7857,10 @@ msgid ""
 "འགྲེལ་པ␣ས་ གསལ་བ␣ར་ བྱས་པ་ བཞིན་ དུ་ སློབ་མ␣འི་ བློ་ ལ་ འགོད་པ␣ར་ ནུས་ ཤིང༌ "
 "།"
 msgstr ""
+"Ce visage ou port du Bouddha, est la quatrième initiation, la voie de "
+"l'union. Celui qui par sa parole  (litt. de sa bouche) a la capacité, comme "
+"cela est clairement exposé dans le Commentaire du Bodhisattva, de "
+"l'instiller dans l'esprit du disciple le sens définitif du Tantra et qui "
 
 # 。︀	〝ཁྱད་པར〞 336
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
@@ -7745,3 +8044,8 @@ msgid ""
 " ནི་ བླ་མ་ ཙམ་ ལ␣ས་ ཀྱང་ ཆེས་ ཁྱད་པར་ དུ་ གྱུར་པ␣འི་ དཔལ་ལྡན་ བླ་མ་ ཞེས་ "
 "བྱ␣འོ ། །"
 msgstr ""
+"parce qu'il possède en son esprit la branche (qualité) de l'absorption "
+"méditative, a la capacité de transférer en l'esprit du disciple la "
+"réalisation de l'essence de la bénédiction (lui qui) a la certitude du "
+"Mantra, a atteint la première Terre. On appel un Glorieux Lama, ce maître "
+"extraordinairement supérieur au Lama ordinaire.   "
