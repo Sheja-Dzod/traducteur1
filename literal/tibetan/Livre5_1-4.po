@@ -64,16 +64,46 @@ msgid ""
 msgstr ""
 
 # 
+# 。︀	〝ལྡོག་པ〞 2898
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement (conceptuel) ⁃ isolement (conceptuel)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Retourner, Renverser, Réfuter, S'opposer, Contrecarrer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ opposé
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine:
+# Retourner,Renverser,Réfuter,S’opposer,Contrecarrer Alternatives: retourner,
+# stopper, renverser, repousser, enrayer, réfuter, entraver, inverser, (se)
+# détourner (de), reculerfacette, aspectfacteurs isolés
+# 
+# 。︀	〝མཚན་ཉིད〞 4755
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "caractéristique; caractère essentiel"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Caractéristique, Attribut, Marque, ⁃ caractéristique
+# même, caractère définitif de, définition, caractéristique en soi,
+# caractéristique propre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ caractère/caractéristiques, définition, aussi: dimension
+# (bar cha 669) ⁃ signifiant ⁃ définition
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ caractéristiques ⁃ fabrication, signe, marque ⁃ Marque,
+# l'attribut, caractéristique
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lakshana, caractéristique même caractère
+# définitif de, définition, caractéristique en soi, caractéristique propre
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "d5ca6930d13e4785b02bc71ddf263ded"
+msgid "གོང་ སྨོས་ ཀྱི་ མཚན་ཉིད་ རྣམས་ ལ␣ས་ ལྡོག་པ་ ནི་"
+msgstr ""
+
+# 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Défauts
-# 
-# 。︀	〝བཏང་སྙོམས〞 1923
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Equanimité,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upekṣā Sens racine: Equanimité, Alternatives: état
-# d'équanimité (de l'esprit), égalitéun des onze facteurs vertueux un des
-# quatre infinisl'indifférence(sensation) neutre, impartialité
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ équanimité, impartialité
 # 
 # 。︀	〝བསྟན་པ〞 2075
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseignement, Exposé, «Ce qui est montré» ⁃
@@ -86,28 +116,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Démonstration ⁃ Enseignement
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shâsana, enseignement, exposé ‘ce qui est
 # montré’, enseigné, révéler, définir comme
-# 
-# 。︀	〝ལྡོག་པ〞 2898
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement (conceptuel) ⁃ isolement (conceptuel)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Retourner, Renverser, Réfuter, S'opposer, Contrecarrer
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ opposé
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine:
-# Retourner,Renverser,Réfuter,S’opposer,Contrecarrer Alternatives: retourner,
-# stopper, renverser, repousser, enrayer, réfuter, entraver, inverser, (se)
-# détourner (de), reculerfacette, aspectfacteurs isolés
-# 
-# 。︀	〝བླ་མ〞 3870
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
-# maître, Père-Mère de bonté
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ guru (= guṇa-ru : “lourd de qualités”) Sens racine:
-# Lama,Gourou,Maître,Père-Mère de bonté Alternatives: Lama, maître (spirituel,
-# insurpassable), guide, mentor, conseiller d'orientation sprirituelle
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître spirituel
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
-# 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
 # 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
@@ -160,12 +168,31 @@ msgstr ""
 # ténèbres des deux voiles et a développé la brillance des deux connaissances
 # », définition que l'on trouve dans le Grand Dictionnaire tibétain-chinois
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
-msgctxt "cb9043b16b6c465cb280e8864df7124f"
+msgctxt "0e344dad91374e2d857509852306bb8b"
 msgid ""
-"གོང་ སྨོས་ ཀྱི་ མཚན་ཉིད་ རྣམས་ ལ␣ས་ ལྡོག་པ་ ནི་ སངས་རྒྱས་ ཀྱི་ བསྟན་པ་ ལ␣ས་ "
-"ཕྱི་རོལ་ ཏུ་ གྱུར་པ་ མཚན་ཉིད་ དང་ མི་ ལྡན་པ␣འི་ སྐྱོན་ ཅན་ ཡིན་པ␣འི་ ཕྱིར་ "
-"འདུ་འཛི་ སྙན་གྲགས་ ལ་སོགས་པ་ ཆེ་ ཡང་ དཔྱོད་ལྡན་ རྣམས་ ཀྱིས་ བརྟགས་ ལ་ སྔོན་ "
-"བླ་མ␣ར་ འབྲེལ་ ན␣འང་ བཏང་སྙོམས་ སུ་ བཞག་ ཅིང༌ །  མ་ འབྲེལ་ ན་"
+"སངས་རྒྱས་ ཀྱི་ བསྟན་པ་ ལ␣ས་ ཕྱི་རོལ་ ཏུ་ གྱུར་པ་ མཚན་ཉིད་ དང་ མི་ ལྡན་པ␣འི་ "
+"སྐྱོན་ ཅན་ ཡིན་པ␣འི་ ཕྱིར་ འདུ་འཛི་ སྙན་གྲགས་ ལ་སོགས་པ་ ཆེ་ ཡང་ དཔྱོད་ལྡན་ "
+"རྣམས་ ཀྱིས་ བརྟགས་ ལ་"
+msgstr ""
+
+# 
+# 。︀	〝བཏང་སྙོམས〞 1923
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Equanimité,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upekṣā Sens racine: Equanimité, Alternatives: état
+# d'équanimité (de l'esprit), égalitéun des onze facteurs vertueux un des
+# quatre infinisl'indifférence(sensation) neutre, impartialité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ équanimité, impartialité
+# 
+# 。︀	〝བླ་མ〞 3870
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
+# maître, Père-Mère de bonté
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ guru (= guṇa-ru : “lourd de qualités”) Sens racine:
+# Lama,Gourou,Maître,Père-Mère de bonté Alternatives: Lama, maître (spirituel,
+# insurpassable), guide, mentor, conseiller d'orientation sprirituelle
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître spirituel
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
+msgctxt "b1cf763681674d1396bef64a3d642423"
+msgid "སྔོན་ བླ་མ␣ར་ འབྲེལ་ ན␣འང་ བཏང་སྙོམས་ སུ་ བཞག་ ཅིང༌ །"
 msgstr ""
 
 # 
@@ -183,12 +210,16 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
 # 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
 # (êtres) humains, hommes, homo sapiens
 msgctxt "ae3e6130c94040309e60cc6b2d1ea7b7"
-msgid "ཐོག་མ་ ནས་ མི་ བསྟེན་པ␣ར་ སྤང་བ␣ར་ བྱ་ སྟེ"
+msgid "མ་ འབྲེལ་ ན་ ཐོག་མ་ ནས་ མི་ བསྟེན་པ␣ར་ སྤང་བ␣ར་ བྱ་ སྟེ"
 msgstr ""
 
 # 
