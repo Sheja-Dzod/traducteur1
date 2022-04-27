@@ -2090,11 +2090,12 @@ msgid ""
 "དག་པ་ དང༌ ། །  ཆོས་ དང་ ཟང་ཟིང་ ཕན་ འདོགས་ ལ་ བརྩོན་པ ། ། དུས་ སུ་ འདོམས་པ་ "
 "དེ་དག་ བླ་མ␣ར་ བསྔགས ། ། ཞེས་"
 msgstr ""
-"Est considéré avec respect (litt, est louanger)  comme un maitre \n"
-"Celui qui a de l’éthique, et qui connais les rituels du vinaya\n"
-"Qui a de l’affection pour les malade et a un entourage pure,\n"
-"Qui est diligent pour être utile(trouver un mot qui exprime le fait que l’aide apporté soit utile à la personne qui en bénéficie) par le dharma et par les biens matériels\n"
-"Qui apporte ses conseils au bon moment."
+"Est considéré avec respect (litt, est louanger)  comme un maitre, Celui qui "
+"a de l’éthique, et qui connais les rituels du vinaya Qui a de l’affection "
+"pour les malade et a un entourage pure, Qui est diligent pour être "
+"utile(trouver un mot qui exprime le fait que l’aide apporté soit utile à la "
+"personne qui en bénéficie) par le dharma et par les biens matériels Qui "
+"apporte ses conseils au bon moment."
 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
@@ -2588,9 +2589,12 @@ msgid ""
 "ལྟ་བ་ མཐུན ། ། སྨྲ་ ཤེས་ ཐ་སྙད་ གསུམ་ མམ་ དོན་ གོ་ཤེས་པ་ རང་བཞིན་ གནས ། ། "
 "ཐ་མལ་ ལུས་ དང་ ས་ ནི་ རང་བཞིན་པ␣འོ ། །"
 msgstr ""
-"Compassionné, patient, d'un entourage proche pure,\n"
-"Diligent dans l'aide double, de genre et de vue correspondante au disciple,\n"
-"Sachant s’exprimer, possédant les trois caractères, soit aussi, comprendre le sens (de ce qui est dit) et être sain d’esprit, avoir un corps ordinaire, et tenir son rang monastique (litt. rester à sa place naturelle, ne pas avoir été punis pour une faute)."
+"Compassionné, patient, d'un entourage proche pure, Diligent dans l'aide "
+"double, de genre et de vue correspondante au disciple, Sachant s’exprimer, "
+"possédant les trois caractères, soit aussi, comprendre le sens (de ce qui "
+"est dit) et être sain d’esprit, avoir un corps ordinaire, et tenir son rang "
+"monastique (litt. rester à sa place naturelle, ne pas avoir été punis pour "
+"une faute)."
 
 # 。︀	〝རོ〞 5953
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
@@ -3136,11 +3140,10 @@ msgid ""
 "ཕྱུག  །  དེ་ཉིད་ རབ་ཏུ་ རྟོགས་པ་ སྨྲ་མཁས་ ལྡན ། ། བརྩེ་བ␣འི་ བདག་ཉིད་ "
 "སྐྱོ་ངལ་ སྤངས་ ལ་ བསྟེན ། །  ཞེས་"
 msgstr ""
-"Remettez-vous en a un maître\n"
-"Maitrisé, pacifié, totalement pacifié,\n"
-"Aux qualités supérieures, diligent, riche des Instructions,\n"
-"Qui a complétement réalisé la telléité, enseignant expert,\n"
-"Personnifiant la bonté et libre de toute lassitude."
+"Remettez-vous en a un maître Maitrisé, pacifié, totalement pacifié, Aux "
+"qualités supérieures, diligent, riche des Instructions, Qui a complétement "
+"réalisé la telléité, enseignant expert, Personnifiant la bonté et libre de "
+"toute lassitude."
 
 # 。︀	〝དགོས་པ〞 672
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
@@ -3380,8 +3383,11 @@ msgid ""
 "སེམས་ལས་ སུ་ རུང་བ␣འི་ ཞི་གནས་ ལ་ བརྟེན་ ཏེ་ ཡང་དག་པ␣འི་ དོན་ ལ་སོ་ སོ␣ར་ "
 "དཔྱོད་པ␣འི་ ཤེས་རབ་ སྐྱེས་པ␣ས་ རྨོངས་པ་ ཉེ་བར་ ཞི་བ །"
 msgstr ""
-"Basé sur l’esprit adaptable (fonctionnel) de la pacification mentale (du calme mental, de shamata), il a, généré une sagesse a même de discerner les différents aspects du sens ultime et a ainsi totalement pacifié l’obscurité mentale.\n"
-"note : comme ici on fait référence à Lhaktong, je me demande si དཔྱོད་པ  n’est pas plus dans le sens d’analyser. "
+"Basé sur l’esprit adaptable (fonctionnel) de la pacification mentale (du "
+"calme mental, de shamata), il a, généré une sagesse a même de discerner les "
+"différents aspects du sens ultime et a ainsi totalement pacifié l’obscurité "
+"mentale. note : comme ici on fait référence à Lhaktong, je me demande si "
+"དཔྱོད་པ  n’est pas plus dans le sens d’analyser. "
 
 # 。︀	〝ཡོན་ཏན〞 5538
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
@@ -3505,8 +3511,10 @@ msgstr ""
 msgctxt "3bf1f3380c9746e98520d2088b86926a"
 msgid "སྡེ་སྣོད་ གསུམ་ མང་ དུ་ ཐོས་པ␣འི་ ལུང་ གིས་ ཕྱུག་པ །"
 msgstr ""
-"Il a la richesse des Instructions pour avoir beaucoup étudié les trois corbeilles. (litt : ལུང་གིས་ཕྱུག་པ c’est la richesse des Instructions \n"
-"Son étude approfondie des trois Corbeilles lui procure la richesse des Instructions. "
+"Il a la richesse des Instructions pour avoir beaucoup étudié les trois "
+"corbeilles. (litt : ལུང་གིས་ཕྱུག་པ c’est la richesse des Instructions, Son "
+"étude approfondie des trois Corbeilles lui procure la richesse des "
+"Instructions. "
 
 # 。︀	〝བསྒོམ་པ〞 958
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'entraîner Méditer Entraînement, Méditation ⁃
@@ -4177,8 +4185,8 @@ msgid ""
 "རྡོ་རྗེ་ སློབ་དཔོན་ བརྟན་ དུལ་ བློ་གྲོས་ ཅན ། ། བཟོད་ལྡན་ གཡོ་མེད་ "
 "སྔགས་རྒྱུད་ སྦྱོར་བ་ ཤེས ། །"
 msgstr ""
-"Le maître vajra est stable, maitrisé, intelligent;\n"
-"Patient, honnête, connaisseur des pratiques des mantras et tantras;"
+"Le maître vajra est stable, maitrisé, intelligent; Patient, honnête, "
+"connaisseur des pratiques des mantras et tantras;"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -4611,8 +4619,9 @@ msgid ""
 "རང་ གི་ ཉེས་པ་ བཅབ་པ␣འི་ གཡོ་ དང་ གཞན་ བསླུ་བ␣འི་ བསམ་པ␣ས་ ཡང་དག་པ་ "
 "མ་ཡིན་པ␣འི་ དོན་ སྟོན་པ␣འི་ སྒྱུ་ མེད་པ␣ས་ དྲང་བ་ སྟེ་ དྲུག  །"
 msgstr ""
-"Parce qu' ils n'ont pas l'hypocrisie de cacher leurs défauts, ni la malhonnêteté d'exposer aux autre ce qui n'est pas vrai avec l'intention de les tromper, ils sont honnêtes.\n"
-"cela fait six (caractéristiques générales)."
+"Parce qu' ils n'ont pas l'hypocrisie de cacher leurs défauts, ni la "
+"malhonnêteté d'exposer aux autre ce qui n'est pas vrai avec l'intention de "
+"les tromper, ils sont honnêtes. cela fait six (caractéristiques générales)."
 
 # 。︀	〝ཁྱད་པར〞 336
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
@@ -4957,9 +4966,8 @@ msgstr ""
 msgctxt "afdc5ef44c584988bef7ba6899815293"
 msgid "ཐུན་ ཁྱད་ གཉིས་ཀ་ བསྡོམས་པ␣ས་ བཅོ་ལྔ␣འོ ། །"
 msgstr ""
-"En combinant celles communes et spécifiques on a un total de quinze caractéristiques.\n"
-"Note: 1. བརྟན་པ 2.འདུལ་བ། 3.བློ་གྲོས་ཅན 4.བཟོད་པ་དང་ལྡན་པ 5. གཡོ་བ་མེད་པ 6. སྒྱུ་མེད་པ 7.8.9: དེ་ཉིད་བཅུ་ལ་ཚན་པ་གསུམ་\n"
-"10.སྔགས་ཀྱི་སྦྱོར་བ་ཤེས་པ 11.རྒྱུད་ཀྱི་སྦྱོར་བ་ཤེས་པ 12.གཞན་ལ་སྙིང་བརྩེ་བ་དང་ལྡན་པ 13.ཐུན་མོང་བའི་གཞུང་ལུགས་རྣམས་ལའང་ཅི་རིགས་པར་མཁས་པ 14. དཀྱིལ་འཁོར་བྲི་བའི་ལས་ལ་མཁས་པ 15. སྔགས་བཤད་པའི་སྤྱོད་པ་ཤེས་པ"
+"En combinant celles communes et spécifiques on a un total de quinze "
+"caractéristiques."
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -5120,10 +5128,9 @@ msgid ""
 "། ། བཟླས་བརྗོད་ སྦྱིན་སྲེག་ གཏོར་མ་ དང༌ ། ། ལ␣ས་ ལ་ སྦྱར་ དང་ སླར་བསྡུ་བ␣འོ "
 "། །"
 msgstr ""
-"Mandalas, samadhis, moudras;\n"
-"Postures, mantras, positions assises\n"
-"Récitations, offrandes dans le feu, tormas;\n"
-"S'appliquer aux actions (irrités) et la dissolution (du mandala)."
+"Mandalas, samadhis, moudras; Postures, mantras, positions assises "
+"Récitations, offrandes dans le feu, tormas; S'appliquer aux actions "
+"(irrités) et la dissolution (du mandala)."
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
@@ -5276,9 +5283,8 @@ msgid ""
 "དཀྱིལ་འཁོར་ སྒྲུབ་པ་ དང༌ ། ། སྡིག་ སྦྱོང་བ་ དང་ གཤེགས་ སུ་ གསོལ་བ་ དང༌ ། ། "
 "དེ་ཉིད་ བཅུ་ ཞེས་ རྒྱལ་བ་ རྣམས་ ཀྱིས་ གསུངས ། །"
 msgstr ""
-"Enceinte protectrice, initiation, torma, recitation, méditation;\n"
-"Repulsion, accomplissement du mandala;\n"
-"Purification du négatifs et requête de départ;\n"
+"Enceinte protectrice, initiation, torma, recitation, méditation; Repulsion, "
+"accomplissement du mandala; Purification du négatifs et requête de départ; "
 "Les Vainqueurs ont enseignés ces ''dix domaines essentiels''"
 
 # 。︀	〝འབྱུང་བ〞 4057
@@ -5517,10 +5523,9 @@ msgid ""
 "རྡོ་རྗེ་ དྲིལ་བུ་ ཡེ་ཤེས་ དང༌ ། ། ལྷ་ དང་ དཀྱིལ་འཁོར་ སྦྱིན་སྲེག་ དང༌ ། ། "
 "སྔགས་ དང་ རྡུལ་ཚོན་ གཏོར་མ་ དང༌ ། ། དབང་ བསྐུར་ དེ་ཉིད་ བཅུ་ རིག་པ␣ས ། །"
 msgstr ""
-"Connaissez ces dix domaines essentiels:\n"
-"Vajra, cloche, sagesse primordiale;\n"
-"Divinité, mandala, l'offrande dans le feu;\n"
-"Mantra, sable coloré, torma et initiation. "
+"Connaissez ces dix domaines essentiels: Vajra, cloche, sagesse primordiale; "
+"Divinité, mandala, l'offrande dans le feu; Mantra, sable coloré, torma et "
+"initiation. "
 
 msgctxt "d349cc489008461b9807613cb74b11b4"
 msgid "ཞེས་ གསུངས་ ཏེ"
@@ -5790,12 +5795,10 @@ msgid ""
 " དབྱེ་བ␣འི་ ཆོ་ག་ དང༌ ། ། གཏོར་མ་ རྡོ་རྗེ␣འི་ བཟླས་པ་ དང༌ ། ། དྲག་ཤུལ་ "
 "སྒྲུབ་པ␣འི་ ཆོ་ག་ དང༌ ། ། རབ་ཏུ་ གནས་ དང་ དཀྱིལ་འཁོར་ སྒྲུབ ། །"
 msgstr ""
-"Deux rituels de répulsion; \n"
-"Les  (initiations) secrète et de connaissance-sagesse;\n"
-"Le rituel de  séparation de l'union (litt. l'embrassade);\n"
-"(le rituel de) La torma et la recitation vajra;\n"
-"Le rituel pour accomplir (l'action) féroce\n"
-"La consécration et la réalisation du mandala"
+"Deux rituels de répulsion;  Les  (initiations) secrète et de connaissance-"
+"sagesse; Le rituel de  séparation de l'union (litt. l'embrassade); (le "
+"rituel de) La torma et la recitation vajra; Le rituel pour accomplir "
+"(l'action) féroce La consécration et la réalisation du mandala"
 
 # 。︀	〝དེ་ཉིད〞 2430
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ainsité, Tathatâ ⁃ Tathatâ, ainsité (n337), tathatâ,
@@ -7106,8 +7109,8 @@ msgstr "le Commentaire de Vajragarbha dit:"
 msgctxt "5a0f28c861464d4585b9aebb6924ca9f"
 msgid "ས་ ཐོབ་ མ་གཏོགས་ ཁྱིམ་པ་ ནི ། ། རྒྱལ་པོ␣ས་ བླ་མ␣ར་ མི་ བྱ་ སྟེ ། །"
 msgstr ""
-"Un roi ne s’en remet pas à un laïc comme maître,\n"
-"Sauf à ce qu’il ait atteint les Terres :"
+"Un roi ne s’en remet pas à un laïc comme maître, Sauf à ce qu’il ait atteint"
+" les Terres :"
 
 # 。︀	〝རྟགས〞 1943
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ signe, marque, caractéristique, preuve, symbole
@@ -7142,9 +7145,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "5f231480247645f0b929160a1bdd04f1"
 msgid "དེ་ ལ་ ཐོས་པ་ ཡོངས་ཤེས་པ␣ས ། ། གང་ཞིག་ རྟགས་ ཅན་ བྱ་བ་ ཉིད ། །"
-msgstr ""
-"Ce dernier par une étude complete\n"
-"Porte les signes (monastiques)"
+msgstr "Ce dernier par une étude complete Porte les signes (monastiques)"
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
