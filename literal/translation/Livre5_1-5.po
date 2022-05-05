@@ -886,7 +886,7 @@ msgstr "de la bienveillance envers les êtres,"
 # ‘d’esprit vif’
 msgctxt "a0d98931bed642d78514ea37486a1f06"
 msgid "ཟབ་ ཅིང་ རྒྱ་ཆེ་བ་ རྟོགས་པ␣འི་ བློ་གྲོས་ དང་ ལྡན་པ །"
-msgstr "possède l'intelligence d'une compréhension profonde et vaste,"
+msgstr "et l'intelligence d'une compréhension profonde et vaste,"
 
 # 。︀	〝དངོས〞 1084
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ réel, vrai, manifeste, évident, direct, principal
