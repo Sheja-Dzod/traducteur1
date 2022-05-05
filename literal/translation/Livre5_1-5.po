@@ -2354,7 +2354,7 @@ msgstr ""
 # Etudier,
 msgctxt "6369fd37a71b4d64bed09a8334b9127e"
 msgid "གཉིས་པ་ སྤང་བྱ་ ཞར་བྱུང་ བཅས་ བཤད་པ་ ནི །"
-msgstr "Deuxièmement :  explications auxiliaires, le disciple à ignorer"
+msgstr "Deuxièmement :  le disciple à ignorer et explications auxiliaires."
 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
