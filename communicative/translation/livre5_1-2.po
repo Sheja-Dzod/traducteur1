@@ -12,7 +12,7 @@ msgstr ""
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#  1. ﻿གཉིས་པ་ནི།་
+#  1. གཉིས་པ་ནི།་
 msgctxt "line 1, livre5_1-2.txt"
 msgid "Deuxièmement"
 msgstr "Deuxièmement"
