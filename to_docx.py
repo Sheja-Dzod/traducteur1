@@ -93,7 +93,7 @@ def create_total_docx(chunks, path):
         p.style = 'Other paragraph'
 
         for pair in others:
-            bo, sem = pair
+            sem, bo = pair
             bo = re.split('(<.+?>)', bo)
             for b in bo:
                 run = p.add_run(b)
