@@ -496,6 +496,13 @@ msgstr ""
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
 # 
+# 。︀	〝ཐུབ་པ〞 2193
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pouvoir Doté de pouvoirs, Capable, Puissant.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ muni Sens racine: PouvoirDoté de
+# pouvoirs,Capable,Puissant. Alternatives: opportunité, possibilité, trouver
+# l'occasion de Muni, le sage, le silencieux, le puissantle Puissant, abr
+# Śākyamuni buddhaêtre capable, capacité, pouvoir, puissance
+# 
 # 。︀	〝ཚངས་པ〞 4623
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Brahmâ, Le Tout pur
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Brahma est le créateur de l'univers dans l'hindouisme. Il
@@ -504,10 +511,28 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Brahmā Sens racine: Brahmâ,Le Tout pur
 # Alternatives: Brahmā pureté
 # 
+# 。︀	〝རྫོགས་པ〞 4886
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parachever, Parfaire, Parachevé, Parfait, Accompli,
+# Complet, ⁃ parfait, complet, plein, parachevé
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: parfait, complet plein, parachevé, terminé
+# 
+# 。︀	〝ཡོངས་སུ་རྫོགས་པ〞 5527
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Complétement parfait, Compléte perfection, Parachevé,
+# ⁃ paripûrna, complètement parfait, parachèvement, totalement complet, en
+# intégralité, absolument complet
+# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-msgctxt "6b80967a1c054d60adae76f614ebb251"
-msgid "དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་པ་ ཚངས་པ␣ར་ སྤྱོད ། །"
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "90bd63f74f65495b841f06889bf70708"
+msgid ""
+"དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་པ་ ཚངས་པ␣ར་ སྤྱོད ། ། ཡོངས་སུ་ རྫོགས་པ␣ར་ "
+"ཐུབ་པ␣ས་ གསུངས་ དེ␣འི་ ཕྱིར ། །"
 msgstr ""
 
 # 
@@ -528,18 +553,6 @@ msgstr ""
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
 # 
-# 。︀	〝ཐུབ་པ〞 2193
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pouvoir Doté de pouvoirs, Capable, Puissant.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ muni Sens racine: PouvoirDoté de
-# pouvoirs,Capable,Puissant. Alternatives: opportunité, possibilité, trouver
-# l'occasion de Muni, le sage, le silencieux, le puissantle Puissant, abr
-# Śākyamuni buddhaêtre capable, capacité, pouvoir, puissance
-# 
-# 。︀	〝རྫོགས་པ〞 4886
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parachever, Parfaire, Parachevé, Parfait, Accompli,
-# Complet, ⁃ parfait, complet, plein, parachevé
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: parfait, complet plein, parachevé, terminé
-# 
 # 。︀	〝ཞི་བ〞 4928
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "apaisement (6e stade mental); paix; paix (du nirvana)"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
@@ -552,11 +565,6 @@ msgstr ""
 # paisible, pacification, calme, tranquillité, sérénité, quiétude, repos 2. =
 # nirvâna, paix ultime
 # 
-# 。︀	〝ཡོངས་སུ་རྫོགས་པ〞 5527
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Complétement parfait, Compléte perfection, Parachevé,
-# ⁃ paripûrna, complètement parfait, parachèvement, totalement complet, en
-# intégralité, absolument complet
-# 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 # 
@@ -567,8 +575,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "3ab4a2cd3168451bbf316af032d4799e"
 msgid ""
-"ཡོངས་སུ་ རྫོགས་པ␣ར་ ཐུབ་པ␣ས་ གསུངས་ དེ␣འི་ ཕྱིར ། ། དགེ་བ␣འི་ བཤེས་གཉེན་ "
-"བསྟེན་ བགྱི་ བཤེས་གཉེན་ ལ ། ། བསྟེན་ ནས་ རབ་ཏུ་ མང་པོ␣ས་ ཞི་བ་ ཐོབ ། །"
+"དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་ བགྱི་ བཤེས་གཉེན་ ལ ། ། བསྟེན་ ནས་ རབ་ཏུ་ "
+"མང་པོ␣ས་ ཞི་བ་ ཐོབ ། །"
 msgstr ""
 
 msgctxt "cd80c708c62f4d8da481e65e169d7d60"
