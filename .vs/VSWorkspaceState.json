@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\communicative",
-    "\\communicative\\paragraphs",
-    "\\communicative\\translation",
-    "\\literal",
-    "\\literal\\tibetan",
-    "\\literal\\translation",
-    "\\to_segment"
+    "\\communicative\\translation"
   ],
+  "SelectedNode": "\\to_docx.py",
   "PreviewInSolutionExplorer": false
 }

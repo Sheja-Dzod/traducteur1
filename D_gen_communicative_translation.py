@@ -16,7 +16,7 @@ class Po:
         self._format_fields()
         self.par_marker = '\n\n\n'
         self.trans_pattern = r'(.*?\n\t.*)\n'
-        self.trans_delimiter = '\n\t'
+        self.trans_delimiter = '\n(?:\t|[ ]{4})'
 
     def format_entries(self):
         entries = []
@@ -54,7 +54,10 @@ class Po:
             pairs = [p for p in pairs if p]
             parsed_pairs = []
             for pair in pairs:
-                c, s = pair.split(self.trans_delimiter)
+                try:
+                    c, s = pair.split(self.trans_delimiter)
+                except ValueError:
+                    print()
                 parsed_pairs.append((s, c))
             parsed.append(parsed_pairs)
         return parsed

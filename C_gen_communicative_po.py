@@ -38,7 +38,11 @@ class Po:
             source = []
             comment = []
             for pair in pairs:
-                c, s = re.split(self.trans_delimiter, pair)
+                try:
+                    c, s = re.split(self.trans_delimiter, pair)
+                except ValueError as e:
+                    print('Il y a un problème')
+                    raise SyntaxError(e)
                 source.append(s)
                 comment.append(f' {sent_num+1}. {c}')
                 sent_num += 1

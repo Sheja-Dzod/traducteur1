@@ -152,7 +152,7 @@ msgstr ""
 # 。︀	〝ལྷག་པ〞 6720
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Supérieur,  Meilleur,  Excellent,  Reste, qqch qui
 # reste,  Exception, (comme dans sans exception)  Rahoula comme planète
-msgctxt "bca98a3eb87148afa23193f8f1c1a1ec"
+msgctxt "ce032fd2d63b4eeba1d13c933e957a6e"
 msgid ""
 "༄༅། ། ཐེག་པ␣འི་ སྒོ་ཀུན་ ལ␣ས་ བཏུས་པ་ གསུང་རབ་ རིན་པོ་ཆེ␣འི་ མཛོད་ བསླབ་པ་ "
 "གསུམ་ ལེགས་པ␣ར་ སྟོན་པ␣འི་ བསྟན་བཅོས་ ཤེས་བྱ་ ཀུན་ཁྱབ་ ཅེས་བྱ་བ་ ལ␣ས་ ལྷག་པ་"
@@ -452,7 +452,7 @@ msgstr ""
 # 。︀	〝ལྷག་པ〞 6720
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Supérieur,  Meilleur,  Excellent,  Reste, qqch qui
 # reste,  Exception, (comme dans sans exception)  Rahoula comme planète
-msgctxt "c288da1cd0a04556973713a074663a1a"
+msgctxt "12cdb325ba6342c38b454331b4c08f87"
 msgid ""
 "དེ་ལྟར་ རྒྱལ་བ␣འི་ བསྟན་པ་ རིན་པོ་ཆེ་ འཇིག་རྟེན་ དུ་ འཚོ་ ཞིང་ གཞེས་པ␣འི་ "
 "སྒོར་ འཇུག་པ་ དེ␣འི་ ཚེ །  ཐོག་མ་ ཁོ་ན␣ར་ ཐར་པ་ དམ་པ␣འི་ མངོན་པར་ རྟོགས་པ་ "
@@ -669,7 +669,7 @@ msgstr ""
 # 
 # 。︀	〝སློབ་མ〞 6529
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
-msgctxt "56c6d38ae38d49fbbda4ae55334c252d"
+msgctxt "1752091e9bcd4cfdb25b6df687cbf385"
 msgid ""
 "དང་པོ་ ལ་ བཅུ །  དགེ་བ␣འི་ བཤེས་གཉེན་ ཇི་ལྟར་ འཚོལ་བ །  བཤེས་གཉེན་ "
 "བསྟེན་པ␣འི་ འཐད་པ །  བསྟེན་ བྱ་ སློབ་དཔོན་ གྱི་ དབྱེ་བ་ དང་ མཚན་ཉིད །  "
@@ -707,7 +707,7 @@ msgstr ""
 # 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-msgctxt "b4fd4ed9a51741ab91660e03dd6e87a1"
+msgctxt "812414440ff8479ea7d9363c0637f470"
 msgid "ཐོག་མ␣ར་ དགེ་བ␣འི་ བཤེས་གཉེན་ བཙལ་ ཞིང་ བསྟེན ། །"
 msgstr ""
 
@@ -907,7 +907,7 @@ msgstr ""
 # 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-msgctxt "04fc2874281d4c5f892de8410ca01846"
+msgctxt "9538f9e94ed34f349fa40faa83dec87e"
 msgid ""
 "འདི་ དང་ གཏན་ གྱི་ ཕན་པ་ དང་ བདེ་བ་ མ་ལུས་པ␣འི་ འབྱུང་གནས་ རྒྱལ་བ␣འི་ "
 "བསྟན་པ་ རིན་པོ་ཆེ་ བརྒྱ་ལམ་ ན་ མཚན་ ཙམ་ ཡང་ ཐོས་པ␣ར་ དཀའ་བ་ ཉིད་ འཇིག་རྟེན་ "
@@ -970,7 +970,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "bb9347c0b2334f4e81ff7ed218a7fb09"
+msgctxt "1fe573459f5c449c9aa575382a794ff2"
 msgid ""
 "འདི་ ལ་ ཕྱོགས་ གསུམ །  དང་པོ་ ནི །  སྤེལ་མ␣ར་ བསྟོད་པ་ ལ␣ས །  བགྲོད་པ་ གཅིག་"
 " དང་ ཐབས་ བདེ་ དང༌ ། ། ལེགས་པ␣ར་ འབྲེལ་ དང་ ཉེས་པ་ མེད ། །"
@@ -1000,7 +1000,7 @@ msgstr ""
 # 。︀	〝གཞན〞 4962
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
-msgctxt "95d96c5cfe9d4d159e00de0ce58ef045"
+msgctxt "4c726dbd293c4daf90c94b6cc7f54645"
 msgid "ཐོག་མ་ བར་ དང་ མཐ␣ར་ དགེ་བ ། ། ཁྱོད་ ཀྱི་ བསྟན་ འདྲ་ གཞན་ ལ་ མེད ། །"
 msgstr ""
 
@@ -1061,7 +1061,7 @@ msgstr ""
 # lam comme articule grammaticale, ⁃ voie, chemin
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
-msgctxt "ebe9b7b2bd674687ab43b31f82acf6dd"
+msgctxt "494894b05da54e8fb6087346fcdaa813"
 msgid ""
 "ཅེས་  ཐར་པ␣འི་ ལམ་ དུ་ བགྲོད་པ་ གཅིག་ ཅིང་  འཇུག་པ␣འི་ ཐབས་ བདེ་བ་ ལ་ ཞུགས་ "
 "ནས་"
@@ -1327,7 +1327,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi contemplation (ex. dans tantra de
 # l'action, tantra de bsam pa de la déité)
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ intention d'agir, pensée
-msgctxt "f493489946fc44268f3cda6c4e280679"
+msgctxt "e681af7a8c2943279b1d96bab56f65eb"
 msgid ""
 "ལེགས་པ␣འི་ འབྲས་བུ་ ཁོ་ན␣ར་ འབྲེལ་ ཞིང་ ཆགས་ སོགས་ ཀྱི་ ཉེས་སྐྱོན་ མེད་པ །  "
 "ཐོག་མ␣ར་ ཐོས་པ །  བར་ དུ་ བསམ་པ །  ཐ་མ་ སྒོམ་པ␣འི་ དུས་ ཐམས་ཅད་ མངོན་མཐོ་ "
@@ -1365,7 +1365,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "df80d943255c4a808ddfcc405c9c63cb"
+msgctxt "4e938da5f1424cd78a81fc8666b5b64c"
 msgid "ཅེས་  སྨོན་ལམ་ དུ་ མཛད་པ␣ས་ མཚོན་ ནོ ། །"
 msgstr ""
 
@@ -1425,7 +1425,7 @@ msgstr ""
 # 
 # 。︀	〝སྲས〞 6471
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
-msgctxt "afb4752e298146a7ad52d6952e2d83a6"
+msgctxt "3d2b60db363447a893ef57855bc5b02d"
 msgid ""
 "གཉིས་པ་ ནི །  ཡབ་ སྲས་ མཇལ་བ␣འི་ མདོ་ ལ␣ས །  མི་ ཁོམ་ བརྒྱད་པོ་ ཐམས་ཅད་ རབ་ "
 "སྤངས་ ཤིང༌ ། །  དལ་བ་ ཕུན་ཚོགས་ རྙེད་ དཀའ་ ཐོབ་ གྱུར་ ནས ། །"
@@ -1481,7 +1481,7 @@ msgstr ""
 # 。︀	〝རིགས་པ〞 5883
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ logique
-msgctxt "80f6f64a75f449fdbd84aa91da34f53a"
+msgctxt "9281a70c7f194b4db63dc94d02586e4d"
 msgid ""
 "བདེ་གཤེགས་ བསྟན་ ལ་ དད་པ་ རྙེད་ གྱུར་པ␣འི ། ། མཁས་པ་ རྣམས་ ཀྱིས་ རིགས་པ␣འི་ "
 "རྣལ་འབྱོར་ སྤྱོད ། །"
@@ -1546,7 +1546,7 @@ msgstr ""
 # ténèbres des deux voiles et a développé la brillance des deux connaissances
 # », définition que l'on trouve dans le Grand Dictionnaire tibétain-chinois
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
-msgctxt "c27fdf44663c4e2a8b2f5f9054fb4785"
+msgctxt "64578ee786af40ddb8cddadc9737116c"
 msgid ""
 "ཅེས་  དལ་འབྱོར་ གྱི་ མི་ལུས་ ཐོབ་པ་ དོན་ཡོད་པ␣ར་ བྱེད་པ་ ནི་ སངས་རྒྱས་ ཀྱི་ "
 "བསྟན་པ་ ལ་ དད་ ཅིང་ འཇུག་པ་ ཁོ་ན་ ཡིན་ ནོ ། །"
@@ -1724,7 +1724,7 @@ msgstr ""
 # 
 # 。︀	〝སེམས་དཔའ〞 6391
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vaillant, Courageux, Héro, Bodhisattva, Présence
-msgctxt "19c70b8569d7498aba61ebf0e36d916b"
+msgctxt "50e37d271e58448385402d83eab64acc"
 msgid ""
 "གསུམ་པ་ ནི །  འཕགས་པ་ བརྒྱད་ སྟོང་པ་ ལ␣ས །  འདི་ལྟར་ བྱང་ཆུབ་ སེམས་དཔའ་ "
 "སེམས་དཔའ་ ཆེན་པོ་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ མངོན་པར་ "
@@ -1735,7 +1735,7 @@ msgstr ""
 # 
 # 。︀	〝བསྟེན་པ〞 2078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ s'en remettre à, suivre, servir
-msgctxt "bd6265d230ef4ab9b2344e2e099c3971"
+msgctxt "92c00d56b0e54fb79da3604876c0b7fa"
 msgid "བསྟེན་པ␣ར་ བྱ །"
 msgstr ""
 
@@ -1746,7 +1746,7 @@ msgstr ""
 # honneurs Alternatives: approcher (faire des offrandes), respect, servir et
 # respecter, offrir son service respecteuxplaisirs personnels et respect,
 # honneurs, bénéfices
-msgctxt "61b61e2675de473180bf52077015937f"
+msgctxt "8efc6ba82aea4517ba02367829c10f98"
 msgid "བསྙེན་བཀུར་ བར་ བྱ␣འོ ། །"
 msgstr ""
 
@@ -1758,7 +1758,7 @@ msgstr ""
 # 
 # 。︀	〝བཤེས་གཉེན〞 6280
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
-msgctxt "81e625d208374fb68b384b1bb18d0fc5"
+msgctxt "cc1ef17ad4bf48c0b096554c2b1ca1be"
 msgid "ཞེས་ གསུངས་པ་ ལྟར་ རོ ། །  བཤེས་གཉེན་ ཇི་ལྟ་བུ་ ཞིག་ འཚོལ་ ཞེ་ན །"
 msgstr ""
 
@@ -1839,7 +1839,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "78c621cd72f441cd8f42c9721894636a"
+msgctxt "ff3855cf027f423aa21e1d1a830273b5"
 msgid ""
 "ཆེད་ དུ་ བརྗོད་པ␣འི་ ཚོམ་ ལ␣ས །  དམན་པ་ བསྟེན་པ␣ས་ མི་ དག་ ཉམས་འགྱུར་ ཞིང༌ "
 "། །  ཐད་ཀ␣ར་ བབས་པ་ བསྟེན་པ␣ས་ སོ་ ན་ གནས ། །  གཙོ་བོ་ བསྟེན་པ␣ས་ དམ་པ་ "
@@ -1858,7 +1858,7 @@ msgstr ""
 # être.Maître,, self, self-entity  (SL BP) Alternatives: soi, ego, je,
 # ātmanentité, identitéêtreexistence propre, l'ego, le moi, substance
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "moi", "soi" ⁃ Soi
-msgctxt "60b87c92ac9a40739ce316a0b0291e2d"
+msgctxt "273208edb12e4d8781b26b2acafb80f5"
 msgid "དེ་ཕྱིར་ བདག་ བས་ གཙོ␣ར་ གྱུར་ བསྟེན་པ␣ར་ བྱ ། །"
 msgstr ""
 
@@ -2108,7 +2108,7 @@ msgstr ""
 # 。︀	〝ལྷག་པར〞 6726
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particuliérement,  Spécialement,  Excellement,
 # Intensément,  Extremement,  Haut,   Elever,  Altier,  Supérieur,
-msgctxt "ef889d3b05584303833a92b4fc71248b"
+msgctxt "7e4c2a8d2e5a4a8f9ea68b192d745f5a"
 msgid ""
 "xx  བཤེས་གཉེན་ དེ␣འང་  ཚུལ་ཁྲིམས་ དང་ མང་ དུ་ ཐོས་པ་ དང་ ཏིང་ངེ་འཛིན་ "
 "ལ་སོགས་པ་ རང་ ལ␣ས་ ཀྱང་ ཡོན་ཏན་ གྱིས་ དམན་པ་ བསྟེན་པ␣ས་  སྟེན་པ␣འི་ མི་ དག་ "
@@ -2217,7 +2217,7 @@ msgstr ""
 # 。︀	〝ལྷག་པ〞 6720
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Supérieur,  Meilleur,  Excellent,  Reste, qqch qui
 # reste,  Exception, (comme dans sans exception)  Rahoula comme planète
-msgctxt "6b985076085047cb92f55eef462cbcc3"
+msgctxt "38935cbbc7da4520aebc99f765f90674"
 msgid ""
 "དེ་ཉིད་ ལ␣ས །  ཚུལ་ཁྲིམས་ ཉེ་བར་ ཞི་བ་ དང༌ ། ། ཤེས་རབ་ ཆེས་ མཆོག་ ལྷག་པ་ ཡི "
 "། ། གཙོ་བོ་ གང་ཡིན་ དེ་ བསྟེན་ ན ། །"
@@ -2256,7 +2256,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "cd3f1c2a2e9d47b8bab063952807b86e"
+msgctxt "6d545fa1ae2042358e08596611fa42d4"
 msgid "གཙོ་བོ་ ལ␣ས་ ཀྱང་ ཆེས་ གཙོ␣ར་ འགྱུར ། །"
 msgstr ""
 
@@ -2264,7 +2264,7 @@ msgstr ""
 # 。︀	〝བཤད〞 6272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
 # Etudier,
-msgctxt "a050e0612c73494d87896ecd1b1fccb3"
+msgctxt "36c6b6fb21754b539e93067bf4a9c5c9"
 msgid "ཞེས་ བཤད་ དོ ། །"
 msgstr ""
 
@@ -2365,7 +2365,7 @@ msgstr ""
 # 
 # 。︀	〝སློབ་མ〞 6529
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
-msgctxt "1a713626d8c64832ba540f5368b88f01"
+msgctxt "07a29e9e0cd440b7b7b3fbf804679e66"
 msgid ""
 "གཉིས་པ་ ནི །  འཐད་པ་ ལུང་རིགས་ དཔེ་ ཡི་ སྒོ་ ནས་ བཙལ ། །  དགེ་བ␣འི་ "
 "བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣འི་ འཐད་པ་ ལ་ལུང་ དང་ རིགས་པ་ དཔེ་ ཡི་ སྒོ་ ནས་ "
@@ -2389,7 +2389,7 @@ msgstr ""
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Qualités, Connaissances,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Qualités
-msgctxt "e4861710a001428987164471aec3a126"
+msgctxt "0c7bce342c724273950cd587dea4ac61"
 msgid "ཅི་ཕྱིར་ ཞེ་ན་ མཁས་པ␣འི་ ཡོན་ཏན་ དེ་ལས་ འབྱུང༌ ། །"
 msgstr ""
 
@@ -2465,7 +2465,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "7e65aeb14d5f4ba18d8ef2637e20eb43"
+msgctxt "24d8441ce5774edc8c4760342f54ca8c"
 msgid ""
 "ཞེས་ དང༌ །  སྡོང་པོ་ བཀོད་པ་ ལ␣ས །  རིགས་ ཀྱི་ བུ་ ཁྱོད་ ཀྱི་ དགེ་བ␣འི་ ཆོས་"
 " ཐམས་ཅད་ ནི་ དགེ་བ␣འི་ བཤེས་གཉེན་ ལ␣ས་ འབྱུང་ ངོ༌ ། །"
@@ -2544,7 +2544,7 @@ msgstr ""
 # 。︀	〝བསགས་པ〞 6615
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Pratiquer, Développer, Faire, Fabriquer, Instaurer,
 # Installer,  (différent de ""tshogs pa"") "
-msgctxt "ecb683acff8645c7b8afad948f5c5008"
+msgctxt "9368c3bc2ce04b50b298c5747555f06b"
 msgid ""
 "དགེ་བ␣འི་ བཤེས་གཉེན་ དེ་ ནི་ བསྐལ་པ་ རྒྱ་མཚོ་ ཐམས་ཅད་ ནས་བསོད་ ནམས་ དང་ "
 "ཡེ་ཤེས་ ཀྱི་ ཚོགས་ བསགས་པ་ དག་ གིས་ རྙེད་ ནས་"
@@ -2609,7 +2609,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "1bfa5480653c4c2a920c94d0b525a48c"
+msgctxt "b8162630610646369cc2399636b2932f"
 msgid ""
 "ཆོས་ ཐོབ་པ␣ར་ འགྱུར་ གྱི །  གཞན་ དུ་ ནོར་བུ␣འི་ མཆོག་ རྙེད་པ་ ལ␣ས་ ཀྱང་ "
 "ཕྲད་པ␣ར་ ཤིན་ཏུ་ དཀ␣འོ ། །"
@@ -2645,11 +2645,11 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "628b538862014fbfadca3a30bab853cd"
+msgctxt "8fa28a727c9749a5a52ab8095889be9c"
 msgid "དེ␣འི་ ཕྱིར་ རྟག་ ཏུ་ གུས་པ␣ས་ བསྙེན་བཀུར་ ལ་ མི་ སྐྱོ་བ␣ར་ བྱ␣འོ ། །"
 msgstr ""
 
-msgctxt "b38f895510cb4bd8a864068fe5d6e0cd"
+msgctxt "3442273e484b4a69b373fcb7d29e8a1c"
 msgid "ཞེས་ སོགས་ ལུང་ མཐའ་ཡས་པ་ འབྱུང་ ངོ༌ ། །"
 msgstr ""
 
@@ -2821,7 +2821,7 @@ msgstr ""
 # ténèbres des deux voiles et a développé la brillance des deux connaissances
 # », définition que l'on trouve dans le Grand Dictionnaire tibétain-chinois
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
-msgctxt "f0f21b2d47a444ceb42c8b18c2df33f6"
+msgctxt "141975be29cf47e091f8cf8e416bfa42"
 msgid ""
 "གཉིས་པ་ ནི །  ཐམས་ཅད་ མཁྱེན་པ་ ཐོབ་པ␣ར་ འདོད་པ␣འི་ གང་ཟག་ དེ་ ཆོས་ཅན །  "
 "ཁྱོད་ ཀྱིས་ དགེ་བ␣འི་ བཤེས་གཉེན་ བསྟེན་ དགོས་པ␣ར་ དམ་བཅའ །  རང་ཉིད་ ཀྱིས་ "
@@ -2897,7 +2897,7 @@ msgstr ""
 # ténèbres des deux voiles et a développé la brillance des deux connaissances
 # », définition que l'on trouve dans le Grand Dictionnaire tibétain-chinois
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
-msgctxt "c109b508eaee456aace07fa5a3ee3964"
+msgctxt "a2873086711141c2bfb81ebe6567744b"
 msgid ""
 "བཟློག་པ␣འི་ དཔེ་ རང་ སངས་རྒྱས་ བཞིན་  ཞེས་པ་ ལ་སོགས་པ␣འི་ དཔེ་ དུ་མ␣ས་ "
 "༼␣ཝཾ␣༣ བ␣༽ བསྟན་པ་ བཞིན་ ནོ ། །"
@@ -2969,7 +2969,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "3a149fcbc620467788bcb9ee41a6dbe2"
+msgctxt "4a3fb69a43c949c0a1ee09374fc36783"
 msgid ""
 "གསུམ་པ་ ནི །  དཔལ་ འབྱུང་ གི་ རྣམ་ཐར་ ལ␣ས །  དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ ཕ་རོལ་"
 " ཏུ་ ཕྱིན་པ␣འི་ ལམ་ དུ་ འཛུད་པ␣ས་ ལམ་མཁན་ ལྟ་བུ␣འོ ། །"
@@ -3065,7 +3065,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "a44dbf88cab4442fa830d1ac1547b73f"
+msgctxt "485f1eeef3244c698b1fec13cc724def"
 msgid ""
 "ཞེས་ དང༌ །  དགེ་བསྙེན་མ་ མི་གཡོ་བ␣འི་ རྣམ་ཐར་ ལ␣ས་ ཀྱང༌ །  དགེ་བ␣འི་ "
 "བཤེས་གཉེན་ རྣམས་ ནི་ བདག་ཅག་ ཐམས་ཅད་ མཁྱེན་པ␣འི་ གནས་ སུ་ ཕྱིན་པ␣ར་ "
@@ -3136,7 +3136,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "27c73ae880ea4cfea9e204a92e95185a"
+msgctxt "eead7e41ea8244158dbf2657f2f94418"
 msgid ""
 "ཞེས་ དང༌ །  སྡོང་པོ་ བཀོད་པ་ ལ␣ས །  དགེ་བ␣འི་ བཤེས་གཉེན་ ནི་ འཁོར་བ␣འི་ "
 "ཆུ་བོ་ ཆེན་པོ་ ལ␣ས་ སྒྲོལ་བ␣ས་ ན་ མཉན་པ་ ལྟ་བུ␣འོ ། །"
@@ -3166,6 +3166,6 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "f705eb7efae848ec927f095860a9c6b5"
+msgctxt "a96d89254e294e5192af73094258d0ca"
 msgid "ཞེས་པ་ ལ་སོགས་པ་ དུ་མ␣ས་ བསྟན་པ་ བཞིན་ ནོ ། །"
 msgstr ""
