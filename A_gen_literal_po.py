@@ -11,6 +11,7 @@ from antx import transfer
 from botok import Text
 
 from format_unicode import bold
+from utils import normalize
 
 
 def segment_in_words(string):
@@ -80,7 +81,7 @@ class Po:
         return '\n'.join(out)
 
     def txt_to_po(self, filename):
-        lines = filename.read_text(encoding='utf-8')
+        lines = normalize(filename.read_text(encoding='utf-8'))
         outfile = filename.parent / (filename.stem + ".po")
 
         self.lines_to_entries(lines, outfile)

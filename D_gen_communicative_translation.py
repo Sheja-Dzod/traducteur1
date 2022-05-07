@@ -2,16 +2,20 @@ from pathlib import Path
 import re
 import sys
 import shutil
+import subprocess
+
 import polib
 from antx import transfer
+
 from to_docx import create_total_docx, create_trans_docx
 from text_formatting import format_fr
-import subprocess
+from utils import normalize
 
 
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
+        self.infile.write_text(normalize(self.infile.read_text()))
         self.file = polib.pofile(self.infile)
         self._format_fields()
         self.par_marker = '\n\n\n'
@@ -26,7 +30,7 @@ class Po:
 
         all = []
         pair_dump = Path('communicative/paragraphs/') / (self.infile.stem + '.txt')
-        source_sem_pairs = self.parse_txt_dump(pair_dump.read_text(encoding='utf-8'))
+        source_sem_pairs = self.parse_txt_dump(normalize(pair_dump.read_text(encoding='utf-8')))
         if len(entries) != len(source_sem_pairs):
             exit('source/semantic paragraphs and communicative paragraph have different lengths.\nExiting...')
         sent_num = 1
@@ -64,12 +68,12 @@ class Po:
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
         if self.is_changed(orig_trans, bitext) or enforce or not bitext.is_file():
-            bitext.write_text(orig_trans)
+            bitext.write_text(orig_trans, encoding='utf-8')
 
         trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
         trans = self._update_translation_pars(trans, trans_txt)
         if self.is_changed(trans, trans_txt) or enforce or not trans_txt.is_file():
-            trans_txt.write_text(trans)
+            trans_txt.write_text(trans, encoding='utf-8')
 
             trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
             create_trans_docx(trans, trans_docx)

@@ -2,11 +2,13 @@ from pathlib import Path
 import polib
 from antx import transfer
 from text_formatting import format_fr
+from utils import normalize
 
 
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
+        self.infile.write_text(normalize(self.infile.read_text()))
         self.file = polib.pofile(self.infile)
         self._format_fields()
 

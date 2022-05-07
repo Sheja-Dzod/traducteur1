@@ -3,6 +3,7 @@ import re
 import sys
 import polib
 from text_formatting import format_fr
+from utils import normalize
 
 
 class Po:
@@ -55,7 +56,7 @@ class Po:
             self._create_entry(msgid=source, msgctxt=f'line {num + 1}, {origin}', tcomment=comment)
 
     def txt_to_po(self, filename):
-        lines = filename.read_text(encoding='utf-8')
+        lines = normalize(filename.read_text(encoding='utf-8'))
         # cleanup
         lines = '\n'.join([l.rstrip() for l in lines.split('\n')])
 
