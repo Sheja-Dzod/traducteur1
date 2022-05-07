@@ -42,7 +42,7 @@ class Po:
                 try:
                     c, s = re.split(self.trans_delimiter, pair)
                 except ValueError as e:
-                    print('Il y a un problème')
+                    print('The input file is not well formated. Most likely a Windows line-sep error.')
                     raise SyntaxError(e)
                 source.append(s)
                 comment.append(f' {sent_num+1}. {c}')
