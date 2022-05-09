@@ -2723,7 +2723,7 @@ msgstr "partager la même vue"
 msgctxt "38e0f655dd3d45cf924169dfd2013fb0"
 msgid "ཐ་སྙད་ གསུམ་ ལྡན །"
 msgstr ""
-"possédant les trois caractères d’un humain (savoir s’exprimer, comprendre "
+"posséder les trois caractères d’un humain (savoir s’exprimer, comprendre "
 "avec justesse et être sain d’esprit),"
 
 # 。︀	〝ཐ་མལ〞 2091
