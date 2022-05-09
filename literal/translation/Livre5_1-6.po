@@ -1799,4 +1799,4 @@ msgstr ""
 
 msgctxt "bd03ada460b84bd9b7fe4bf4860f829f"
 msgid "ཞེས་ སོགས་ གསུངས་ སོ ། །"
-msgstr "Ceci etc.  (ainsi que d'autres choses) sont dites."
+msgstr "Ceci etc.  (ainsi que d'autres choses) sont dites (dans ce soutra)."
