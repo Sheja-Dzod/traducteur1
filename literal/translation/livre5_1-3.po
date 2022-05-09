@@ -2323,7 +2323,7 @@ msgid ""
 "བསླབ་བྱ་ རྣམས་ དུས་ དང་ དུས་ སུ་ གདམས་པ་ རྣམས་ ནི་ ཕན་ འདོགས་པ␣འི་ ཡན་ལག་ "
 "སྟེ་"
 msgstr ""
-"Ses  conseils sont donnés au bon moment. Tout ceci forme la branche de "
+"Leurs conseils sont donnés au bon moment. Tout ceci forme la branche de "
 "l’aide. "
 
 # 。︀	〝ཐར་པ〞 2130
