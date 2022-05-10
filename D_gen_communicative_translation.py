@@ -15,7 +15,7 @@ from utils import normalize
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
-        self.infile.write_text(normalize(self.infile.read_text()))
+        self.infile.write_text(normalize(self.infile.read_text(encoding='utf-8')))
         self.file = polib.pofile(self.infile)
         self._format_fields()
         self.par_marker = '\n\n\n'
