@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\communicative",
+    "\\communicative\\paragraphs",
+    "\\communicative\\translation",
+    "\\literal",
+    "\\literal\\tibetan",
+    "\\to_segment"
   ],
-  "SelectedNode": "\\C:\\Users\\damie\\Source\\Repos\\traducteur1",
+  "SelectedNode": "\\A_gen_literal_po.py",
   "PreviewInSolutionExplorer": false
 }
