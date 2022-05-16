@@ -1,4 +1,4 @@
-windows_lsep = ' '
+windows_lsep = "\r\n"
 
 
 def normalize(string):

@@ -8,7 +8,7 @@ from utils import normalize
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
-        self.infile.write_text(normalize(self.infile.read_text()))
+        self.infile.write_text(normalize(self.infile.read_text(encoding='utf-8')), encoding='utf-8')
         self.file = polib.pofile(self.infile)
         self._format_fields()
 
@@ -22,7 +22,7 @@ class Po:
             entries.append((text, trans))
         return '\n'.join(['\n'.join([e[0], '\t' + e[1]]) for e in entries]), \
                '\n'.join([e[1].strip() for e in entries]), \
-               '\n'.join(['\n'.join([e[1], '\t' + e[0]]) for e in entries])
+               '\n'.join(['\n'.join([e[1].replace('\n', ' '), '\t' + e[0]]) for e in entries])
 
     def write_txt(self):
         orig_trans, trans, pars_trans = self.format_entries()
