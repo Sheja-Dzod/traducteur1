@@ -472,13 +472,40 @@ msgstr ""
 # ātmanentité, identitéêtreexistence propre, l'ego, le moi, substance
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "moi", "soi" ⁃ Soi
 # 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
 # 。︀	〝གཤེགས་པ〞 6266
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ h. Aller, Partir, Allé, Parti, Passé, Qui est passé,
 # Qui s'est est allé
-msgctxt "20512801a1d44c4583aa2403f7cb6b04"
+msgctxt "f03bd4b6190745ff98bfd5f1f898e338"
 msgid ""
 "བདག་ ལ་སྨན་པ །  ཆོས་ ལ་སྨན །  ཉན་པ་པོ་ ནད་པ །  དེ་བཞིན་ གཤེགས་པ་ ལ་ "
-"སྐྱེས་བུ་ དམ་པ །"
+"སྐྱེས་བུ་ དམ་པ །  ཆོས་ ཀྱི་ ཚུལ་ ཡུན་རིང་ དུ་ གནས་པ་ སྟེ་"
 msgstr ""
 
 # 
@@ -493,27 +520,6 @@ msgstr ""
 # vanter
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
-# 
-# 。︀	〝ཆོས〞 1364
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
-# Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
-# connaissable, ⁃ 1. Dharma, réalité, 2. les dharmas, phénomènes, 3. Dharma,
-# l'enseignement du Bouddha, (affaires) spirituelles, 4.facteurs
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ doctrine
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dharma Sens racine:
-# DharmaEnseignement,L’enseignement de réalité Ce qui est expérimenté,
-# expérience,Chose, connu. réalité, réel, connaissable,, phenomenon (SL
-# BP)teaching (SL MW) Alternatives: construire, réparerconnaissable, connu,
-# chose, éléments, phénomène, objet de connaissance, existants phénoménaux
-# objet du mental, événements mentaux, sujetsbienfaitsqualités, aspect,
-# facteur, attributs, éléments del'instant, la circonstance, l'occasionles
-# enseignements (du Bouddha), vérité, doctrine, pratique religieusela
-# certitude, le réel, réaliténature essentiellequi se tient, qui est en
-# cohésion
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doctrine, phénomènes, réalité ⁃ "Dharma du Bouddha;
-# Phénomène  "
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
-# 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 # 
 # 。︀	〝བདུད〞 2666
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Malin, Mara
@@ -549,27 +555,28 @@ msgstr ""
 # force, pouvoir, faculté (occulte), énergie éveillée
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Capacité
 # 
-# 。︀	〝གནས་པ〞 3031
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
-# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
-# sans bouger), état calme, être établi
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
-# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
-# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
-# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
-# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
-# immobilité, stabilité, immobiledisciple
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
-# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
-# Immobilité, stabilité, le calme
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
-# tranquille, sans bouger), état calme, être établi
-# 
 # 。︀	〝དཔག་ཚད〞 3314
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Yojana: une ancienne mesure indienne environ 14,8 km
 # selon le tantra de Kalacakra, 7,4 km d'après le Trésor de phénoménologie.
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mesure de distance
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝རིས〞 5929
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dessin, Direction, Orientation, Coté, Groupe, Parti,
+# 
+# 。︀	〝ལྷ〞 6701
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Deva, Dieu, Divinité, Déité, ⁃ divinité, déité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dieux, déités ⁃ Déité ⁃ Dieux
+msgctxt "2210c2382eea4199aefe783e5e7c0492"
+msgid ""
+"འདུ་ཤེས་ ལྔ་ བསྐྱེད་ ལ་ དཔག་ཚད་ བརྒྱ་ ཚུན་ཆད་ དུ་ བདུད་ རིས་ ཀྱི་ ལྷ་ "
+"འོང་བ␣ར་ མི་ ནུས་པ␣འི་ སྔགས་ བསྒྲག་པ␣ར་"
+msgstr ""
+
 # 
 # 。︀	〝བྱ་བ〞 3753
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
@@ -579,35 +586,10 @@ msgstr ""
 # fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
 # taches, occupé, responsabilités, engagements, agissementspieds métriques
 # 
-# 。︀	〝མི〞 4227
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
-# (êtres) humains, hommes, homo sapiens
-# 
-# 。︀	〝ཚུལ〞 4680
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
-# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
-# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
-# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
-# correctd'apparence
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
-# 
 # 。︀	〝ཡིན〞 5390
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
-# 
-# 。︀	〝རིས〞 5929
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dessin, Direction, Orientation, Coté, Groupe, Parti,
-# 
-# 。︀	〝ལྷ〞 6701
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Deva, Dieu, Divinité, Déité, ⁃ divinité, déité
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dieux, déités ⁃ Déité ⁃ Dieux
 msgctxt "8506bd91715943b987eb3d7820f4d063"
-msgid ""
-"ཆོས་ ཀྱི་ ཚུལ་ ཡུན་རིང་ དུ་ གནས་པ་ སྟེ་ འདུ་ཤེས་ ལྔ་ བསྐྱེད་ ལ་ དཔག་ཚད་ "
-"བརྒྱ་ ཚུན་ཆད་ དུ་ བདུད་ རིས་ ཀྱི་ ལྷ་ འོང་བ␣ར་ མི་ ནུས་པ␣འི་ སྔགས་ "
-"བསྒྲག་པ␣ར་ གསུངས་པ་ བཞིན་ བྱ་བ་ ཡིན་ ནོ ། །"
+msgid "གསུངས་པ་ བཞིན་ བྱ་བ་ ཡིན་ ནོ ། །"
 msgstr ""
 
 # 
@@ -858,6 +840,10 @@ msgid ""
 "དབབ་བོ་ སྙམ་པ␣ར་ བྱ␣འོ ། །"
 msgstr ""
 
+msgctxt "04c144d98c334435bf763b906ded54e1"
+msgid "གཉིས་པ་ ནི །"
+msgstr ""
+
 # 
 # 。︀	〝དགའ་བ〞 620
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ joie
@@ -873,7 +859,7 @@ msgstr ""
 # conduite, d'action, faits et gestes, attitudes (corporelles), façon de
 # vivre, de se comporter
 msgctxt "cb55625aec684ad79c74eb8ceb10c001"
-msgid "གཉིས་པ་ ནི །  ཡོན་ དབུལ་ སྤྱོད་ལམ་ བསྟེན་ ཞིང་ དགའ་བ་ བསྒོམ ། །"
+msgid "ཡོན་ དབུལ་ སྤྱོད་ལམ་ བསྟེན་ ཞིང་ དགའ་བ་ བསྒོམ ། །"
 msgstr ""
 
 # 
@@ -1077,17 +1063,6 @@ msgid "དགའ་ དང་ ལྡན་པ␣འི་ མིག་ གིས
 msgstr ""
 
 # 
-# 。︀	〝གུས་པ〞 498
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ respect
-# 
-# 。︀	〝དང་བ〞 2351
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Clair, transparent, Limpide, pur, sincère,
-# 
-# 。︀	〝དྲི་མེད〞 2565
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Immaculé ⁃ nirmala, immaculé
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sans tache, immaculé
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ dri ma med pa Sens racine: nirmala, immaculé
-# 
 # 。︀	〝བདུད་རྩི〞 2668
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Amrita, Ambroisie, nectar, élixir, Médecine à démons,
 # Remède aux démons
@@ -1098,6 +1073,27 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: amrita, le nectar, le remède aux démons
 # (démons des illusions, saisies, attachements… d’où procèdent les différents
 # mal-êtres)
+# 
+# 。︀	〝ཚིག〞 4659
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot, Phonéme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pāda, kathā Sens racine: Mot,Phonéme, Alternatives:
+# mot, parole, palabre, phrase, syllabe, déclaration, vers, verset, ligne,
+# stance
+msgctxt "eba787ed33094191bbf3608cf7730a09"
+msgid "ཚིག་ ནི་ བདུད་རྩི་ འཐུང་བ་ བཞིན ། །"
+msgstr ""
+
+# 
+# 。︀	〝གུས་པ〞 498
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ respect
+# 
+# 。︀	〝དང་བ〞 2351
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Clair, transparent, Limpide, pur, sincère,
+# 
+# 。︀	〝དྲི་མེད〞 2565
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Immaculé ⁃ nirmala, immaculé
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sans tache, immaculé
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ dri ma med pa Sens racine: nirmala, immaculé
 # 
 # 。︀	〝རྩེ་གཅིག〞 4571
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "attention unifiée/focalisée en un point; attention
@@ -1123,12 +1119,6 @@ msgstr ""
 # tout absorbé en un seul point, en unicité, ‘one point only’,
 # ‘onepointedness’, uniquement
 # 
-# 。︀	〝ཚིག〞 4659
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot, Phonéme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pāda, kathā Sens racine: Mot,Phonéme, Alternatives:
-# mot, parole, palabre, phrase, syllabe, déclaration, vers, verset, ligne,
-# stance
-# 
 # 。︀	〝ཡིད〞 5362
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
 # esprit discursif, esprit fonctionnel
@@ -1143,8 +1133,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "688894156a464f38b3e7e989c37383af"
 msgid ""
-"ཚིག་ ནི་ བདུད་རྩི་ འཐུང་བ་ བཞིན ། ། དྲི་མེད་ རབ་ཏུ་ དང་བ␣འི་ ཡིད ། ། "
-"གུས་པ␣ས་ བསྐྱེད་ དེ་ རྩེ་གཅིག་ བཏུད ། །"
+"དྲི་མེད་ རབ་ཏུ་ དང་བ␣འི་ ཡིད ། ། གུས་པ␣ས་ བསྐྱེད་ དེ་ རྩེ་གཅིག་ བཏུད ། །"
 msgstr ""
 
 # 
