@@ -3,8 +3,11 @@
     "",
     "\\communicative",
     "\\communicative\\paragraphs",
+    "\\communicative\\translation",
+    "\\literal",
+    "\\literal\\tibetan",
     "\\literal\\translation"
   ],
-  "SelectedNode": "\\communicative\\paragraphs",
+  "SelectedNode": "\\B_gen_literal_translation.py",
   "PreviewInSolutionExplorer": false
 }

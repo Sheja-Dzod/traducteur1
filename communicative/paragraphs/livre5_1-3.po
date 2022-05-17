@@ -777,7 +777,9 @@ msgstr ""
 # 
 # ཏེ། 166. དུས་འཁོར་རྩ་རྒྱུད་ལས། 167. དེ་ཉིད་བཅུ་ནི་ཡོངས་ཤེས་པ། །གསུམ་ལས་དགེ་
 # 
-# སློང་མཆོག་ཡིན་ནོ། །་
+# སློང་མཆོག་ཡིན་ནོ། ། 168. འབྲིང་ནི་དགེ་ཚུལ་ཞེས་བྱ་སྟེ། ། 169. ཁྱིམ་གནས་དེ་ལ་
+# 
+# ཐ་མའོ། ། 170. ཞེས་གསུངས་པ་ལྟར་རོ། །་
 msgctxt "line 41, livre5_1-3.txt"
 msgid ""
 "Le deuxième (le gestul), Puisqu’il fait parti (litt. il est du coté) des "
@@ -785,18 +787,9 @@ msgid ""
 "suivant (le pleinement ordonné), il est moyen (intermédiaire). Seul celui "
 "pleinement ordonné est le meilleur. Le texte racine du Kalachakra dit : Des "
 "trois qui connaissent parfaitement les dix domaines spécifiques, celui "
-"pleinement ordonné (le bikku) est suprême."
-msgstr ""
-
-#  168. འབྲིང་ནི་དགེ་ཚུལ་ཞེས་བྱ་སྟེ། ། 169. ཁྱིམ་གནས་དེ་ལ་ཐ་མའོ། ། 170.
-# ཞེས་གསུངས་པ་
-# 
-# ལྟར་རོ། །་
-msgctxt "line 42, livre5_1-3.txt"
-msgid ""
-"Celui qu’on appel le novice est moyen et, celui qui vit (litt. demeure) dans"
-" un foyer familial est, d’entre eux, le dernier. Il en est tel que c’est "
-"énoncé."
+"pleinement ordonné (le bikku) est suprême. Celui qu’on appel le novice est "
+"moyen et, celui qui vit (litt. demeure) dans un foyer familial est, d’entre "
+"eux, le dernier. Il en est tel que c’est énoncé."
 msgstr ""
 
 #  171. ཁྱད་པར་ཟུང་འཇུག་རྡོ་རྗེའི་ཡེ་ཤེས་གང༌། །རྒྱུད་ལ་སྐྱེད་ནུས་དཔལ་ལྡན་
@@ -826,7 +819,7 @@ msgstr ""
 # ཐོབ་པ་ནི་བླ་མ་ཙམ་ལས་ཀྱང་ཆེས་ཁྱད་པར་དུ་གྱུར་
 # 
 # པའི་དཔལ་ལྡན་བླ་མ་ཞེས་བྱའོ། །་
-msgctxt "line 43, livre5_1-3.txt"
+msgctxt "line 42, livre5_1-3.txt"
 msgid ""
 "En particulier, le Glorieux Lama est celui qui a la capacité de faire naitre"
 " en l’esprit cette sagesse primordiale adamantine de l’union. En "
