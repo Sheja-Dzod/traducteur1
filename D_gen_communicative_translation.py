@@ -15,7 +15,7 @@ from utils import normalize
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
-        self.infile.write_text(normalize(self.infile.read_text(encoding='utf-8')))
+        self.infile.write_text(normalize(self.infile.read_text(encoding='utf-8')), encoding='utf-8')
         self.file = polib.pofile(self.infile)
         self._format_fields()
         self.par_marker = '\n\n\n'
@@ -82,7 +82,7 @@ class Po:
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
         if self.is_changed(all, total) or enforce or not total.is_file():
-            total.write_text(all)
+            total.write_text(all, encoding='utf-8')
 
             total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
             create_total_docx(data, total_docx)
