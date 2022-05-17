@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#  1. ﻿གཉིས་པ་ནི།་
+#  1. གཉིས་པ་ནི།་
 msgctxt "line 1, livre5_1-2.txt"
 msgid "Deuxièmement"
 msgstr ""

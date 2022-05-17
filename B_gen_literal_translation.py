@@ -1,6 +1,9 @@
 from pathlib import Path
+import re
+
 import polib
 from antx import transfer
+
 from text_formatting import format_fr
 from utils import normalize
 
@@ -47,6 +50,8 @@ class Po:
     def _update_pars(source, target):
         pattern = [["pars", "(\n\n\n)"]]
         updated = transfer(source, pattern, target, "txt")
+        # updated = '\n'.join([u.strip() for u in updated.split('\n')])  # strip lines for applying the hack below
+        updated = re.sub(r'\n[  \t]*\n[  \t]*\n[  \t]*\n[  \t]*', '\n\n\n', updated)
         updated = updated.replace('\n\n\n\n', '\n\n\n')  # hack for a strange behaviour
         return updated
 

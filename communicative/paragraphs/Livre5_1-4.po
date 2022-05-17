@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#  1. ﻿བཞི་པ་དེ་ལས་འཕྲོས་པའི་འཇུག་ལྡོག་བྱ་བའི་ཚུལ་ནི།་
+#  1. བཞི་པ་དེ་ལས་འཕྲོས་པའི་འཇུག་ལྡོག་བྱ་བའི་ཚུལ་ནི།་
 msgctxt "line 1, Livre5_1-4.txt"
 msgid ""
 "Quatrième point: pour complémenter ceci (ce qui vient d’être dit), comment "
