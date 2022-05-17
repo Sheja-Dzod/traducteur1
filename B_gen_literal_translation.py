@@ -18,7 +18,7 @@ class Po:
             text = entry.msgid
             text = text.replace(' ', '').replace('␣', '').replace(' ', ' ')
             text = text.replace('\n', ' ')
-            trans = entry.msgstr
+            trans = entry.msgstr.replace('\n', ' ')
             entries.append((text, trans))
         return '\n'.join(['\n'.join([e[0], '\t' + e[1]]) for e in entries]), \
                '\n'.join([e[1].strip() for e in entries]), \
@@ -38,10 +38,10 @@ class Po:
             pars.write_text(pars_trans, encoding='utf-8')
         else:
             # update file retaining the paragraph delimitations
-            pars_old = pars.read_text(encoding='utf-8')
+            pars_old = normalize(pars.read_text(encoding='utf-8'))
             if pars_old.replace('\n\n\n', '\n') != orig_trans:
                 updated = self._update_pars(pars_old, orig_trans)
-                pars.write_text(updated, encoding='utf-8')
+                pars.write_text(normalize(updated), encoding='utf-8')
 
     @staticmethod
     def _update_pars(source, target):

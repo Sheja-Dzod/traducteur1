@@ -122,7 +122,12 @@ class Transfer:
         for line in updated.strip().split('\n'):
             line = line.strip()
             line = self.remove_extra_uuid(line)
-            txt, ctxt = line[:-1].split('—')
+            try:
+                txt, ctxt = line[:-1].split('—')
+            except ValueError as e:
+                parts = line[:-1].split('—')
+                ctxt = parts[1]
+                txt = ''.join([parts[n] for n in range(0, len(parts), 2)])
             entries.append([txt, ctxt])
         return entries
 

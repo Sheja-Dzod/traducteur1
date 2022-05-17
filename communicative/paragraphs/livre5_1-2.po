@@ -5,136 +5,155 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#  1. Deuxièmement་
+#  1. ﻿གཉིས་པ་ནི།་
 msgctxt "line 1, livre5_1-2.txt"
-msgid "﻿གཉིས་པ་ནི།"
+msgid "Deuxièmement"
 msgstr ""
 
-#  2. La pertinence : citations, raisonnement et exemples (pour prouver la
-# nécessité de) rechercher (le maitre).་
+#  2. འཐད་པ་ལུང་རིགས་དཔེ་ཡི་སྒོ་ནས་བཙལ། །་
 msgctxt "line 2, livre5_1-2.txt"
-msgid "འཐད་པ་ལུང་རིགས་དཔེ་ཡི་སྒོ་ནས་བཙལ། །"
+msgid ""
+"La pertinence : citations, raisonnement et exemples (pour prouver la "
+"nécessité de) rechercher (le maitre)."
 msgstr ""
 
-#  3. Trois éléments: citation, raisonnement et exemple, expriment la
-# pertinence qu’il y a à devoir s’en remettre à un maître spirituel et donc
-# d’en rechercher un.་
+#  3. དགེ་བའི་བཤེས་གཉེན་བསྟེན་དགོས་པའི་འཐད་པ་ལ་ལུང་དང་རིགས་པ་
+# 
+# དཔེ་ཡི་སྒོ་ནས་བཙལ་བ་གསུམ་གྱི།་
 msgctxt "line 3, livre5_1-2.txt"
 msgid ""
-"དགེ་བའི་བཤེས་གཉེན་བསྟེན་དགོས་པའི་འཐད་པ་ལ་ལུང་དང་རིགས་པ་དཔེ་ཡི་སྒོ་ནས་བཙལ་བ་གསུམ་གྱི།"
+"Trois éléments: citation, raisonnement et exemple, expriment la pertinence "
+"qu’il y a à devoir s’en remettre à un maître spirituel et donc d’en "
+"rechercher un."
 msgstr ""
 
-#  4. Premièrement:་
+#  4. དང་པོ་ནི།་
 msgctxt "line 4, livre5_1-2.txt"
-msgid "དང་པོ་ནི།"
+msgid "Premièrement:"
 msgstr ""
 
-#  5. La Prajnaparamita condensée dit :་
+#  5. སྡུད་པ་ལས།་
 msgctxt "line 5, livre5_1-2.txt"
-msgid "སྡུད་པ་ལས།"
+msgid "La Prajnaparamita condensée dit :"
 msgstr ""
 
-#  6. Les bons disciples qui ont du respect pour le maitre, s’en remettent
-# toujours à un maitre sage (litt érudit). 7. Voici pourquoi : de lui, viennes
-# les qualités des sages. 8. puis,་
+#  6. སློབ་མ་བཟང་པོ་བླ་མ་གུས་ལྡན་དེ་དག་གིས། །བླ་མ་མཁས་པ་
+# 
+# དག་ལ་རྟག་ཏུ་བསྟེན་པར་བྱ། ། 7. ཅི་ཕྱིར་ཞེ་ན་མཁས་པའི་ཡོན་
+# 
+# ཏན་དེ་ལས་འབྱུང༌། ། 8. ཞེས་དང༌།་
 msgctxt "line 6, livre5_1-2.txt"
 msgid ""
-"སློབ་མ་བཟང་པོ་བླ་མ་གུས་ལྡན་དེ་དག་གིས། །བླ་མ་མཁས་པ་དག་ལ་རྟག་ཏུ་བསྟེན་པར་བྱ། །"
-" ཅི་ཕྱིར་ཞེ་ན་མཁས་པའི་ཡོན་ཏན་དེ་ལས་འབྱུང༌། ། ཞེས་དང༌།"
+"Les bons disciples qui ont du respect pour le maitre, s’en remettent "
+"toujours à un maitre sage (litt érudit). Voici pourquoi : de lui, viennes "
+"les qualités des sages. puis,"
 msgstr ""
 
-#  9. Le Gandavyuha dit :་
+#  9. སྡོང་པོ་བཀོད་པ་ལས།་
 msgctxt "line 7, livre5_1-2.txt"
-msgid "སྡོང་པོ་བཀོད་པ་ལས།"
+msgid "Le Gandavyuha dit :"
 msgstr ""
 
-#  10. Fils de noble famille, tous tes dharmas vertueux (tous ce qui est
-# vertueux) viendront du maitre spirituel. (Note : ici, le Bouddha s’adresse à
-# un de ses disciples et parle au futur : viendrons) 11. Quant à ce maître
-# spirituel, ceux qui auront rassemblé les accumulations de mérite et de
-# sagesse durant tout un océan d’éons le trouverons et 12.  (de lui),
-# recevrons le Dharma, autrement (s’il en est autrement), le rencontrer sera
-# encore plus difficile que de trouver le suprême joyau. 13. Par conséquent,
-# ne te lasse pas de toujours le servir avec respect.་
+#  10. རིགས་ཀྱི་བུ་ཁྱོད་ཀྱི་དགེ་བའི་ཆོས་ཐམས་ཅད་ནི་དགེ་བའི་བཤེས་
+# 
+# གཉེན་ལས་འབྱུང་ངོ༌། ། 11. དགེ་བའི་བཤེས་གཉེན་དེ་ནི་བསྐལ་པ་རྒྱ་མཚོ་
+# 
+# ཐམས་ཅད་ནས་བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བསགས་པ་དག་
+# 
+# གིས་རྙེད་ནས་ 12. ཆོས་ཐོབ་པར་འགྱུར་གྱི།གཞན་དུ་ནོར་བུའི་མཆོག་རྙེད་
+# 
+# པ་ལས་ཀྱང་ཕྲད་པར་ཤིན་ཏུ་དཀའོ། ། 13. དེའི་ཕྱིར་རྟག་ཏུ་གུས་པས་
+# 
+# བསྙེན་བཀུར་ལ་མི་སྐྱོ་བར་བྱའོ། །་
 msgctxt "line 8, livre5_1-2.txt"
 msgid ""
-"རིགས་ཀྱི་བུ་ཁྱོད་ཀྱི་དགེ་བའི་ཆོས་ཐམས་ཅད་ནི་དགེ་བའི་བཤེས་གཉེན་ལས་འབྱུང་ངོ༌། །"
-" "
-"དགེ་བའི་བཤེས་གཉེན་དེ་ནི་བསྐལ་པ་རྒྱ་མཚོ་ཐམས་ཅད་ནས་བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བསགས་པ་དག་གིས་རྙེད་ནས་"
-" ཆོས་ཐོབ་པར་འགྱུར་གྱི།གཞན་དུ་ནོར་བུའི་མཆོག་རྙེད་པ་ལས་ཀྱང་ཕྲད་པར་ཤིན་ཏུ་དཀའོ།"
-" ། དེའི་ཕྱིར་རྟག་ཏུ་གུས་པས་བསྙེན་བཀུར་ལ་མི་སྐྱོ་བར་བྱའོ། །"
+"Fils de noble famille, tous tes dharmas vertueux (tous ce qui est vertueux) "
+"viendront du maitre spirituel. (Note : ici, le Bouddha s’adresse à un de ses"
+" disciples et parle au futur : viendrons) Quant à ce maître spirituel, ceux "
+"qui auront rassemblé les accumulations de mérite et de sagesse durant tout "
+"un océan d’éons le trouverons et (de lui), recevrons le Dharma, autrement "
+"(s’il en est autrement), le rencontrer sera encore plus difficile que de "
+"trouver le suprême joyau. Par conséquent, ne te lasse pas de toujours le "
+"servir avec respect."
 msgstr ""
 
-#  14. Les citations comme celles-ci se trouvent en profusion.་
+#  14. ཞེས་སོགས་ལུང་མཐའ་ཡས་པ་འབྱུང་ངོ༌། །་
 msgctxt "line 9, livre5_1-2.txt"
-msgid "ཞེས་སོགས་ལུང་མཐའ་ཡས་པ་འབྱུང་ངོ༌། །"
+msgid "Les citations comme celles-ci se trouvent en profusion."
 msgstr ""
 
-#  15. Deuxièmement:་
+#  15. གཉིས་པ་ནི།་
 msgctxt "line 10, livre5_1-2.txt"
-msgid "གཉིས་པ་ནི།"
+msgid "Deuxièmement:"
 msgstr ""
 
-#  16. L’ individu aspirant à l’obtention de l’omniscience, le sujet de débat
-# (la base de notre raisonnement), 17. j’affirme (lit. je promets que) qu’il
-# doit s’en remettre à un maître spirituel, 18. car il ne sait pas, par lui-
-# même, rassembler les accumulations ni se purifier des voiles. L’exemple
-# corroborant ce syllogisme est : comme les Bouddhas des trois temps. 19. Le
-# contre-exemple est : comme les Bouddhas-par-soi.་
+#  16. ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པར་འདོད་པའི་གང་ཟག་དེ་ཆོས་ཅན། 17. ཁྱོད་ཀྱིས་
+# 
+# དགེ་བའི་བཤེས་གཉེན་བསྟེན་དགོས་པར་དམ་བཅའ། 18. རང་ཉིད་ཀྱིས་ཚོགས་གསོག་
+# 
+# པ་དང༌། སྒྲིབ་པ་སྦྱོང་མི་ཤེས་པའི་ཕྱིར།གཏན་ཚིག་དེའི་མཐུན་པའི་དཔེ་
+# 
+# དུས་གསུམ་གྱི་སངས་རྒྱས་བཞིན་ནོ། ། 19. བཟློག་པའི་དཔེ་རང་སངས་རྒྱས་བཞིན་
+# 
+# ཞེས་པ་ལ་སོགས་པའི་དཔེ་དུ་མས་བསྟན་པ་བཞིན་ནོ། །་
 msgctxt "line 11, livre5_1-2.txt"
 msgid ""
-"ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པར་འདོད་པའི་གང་ཟག་དེ་ཆོས་ཅན། "
-"ཁྱོད་ཀྱིས་དགེ་བའི་བཤེས་གཉེན་བསྟེན་དགོས་པར་དམ་བཅའ། "
-"རང་ཉིད་ཀྱིས་ཚོགས་གསོག་པ་དང༌། "
-"སྒྲིབ་པ་སྦྱོང་མི་ཤེས་པའི་ཕྱིར།གཏན་ཚིག་དེའི་མཐུན་པའི་དཔེ་དུས་གསུམ་གྱི་སངས་རྒྱས་བཞིན་ནོ།"
-" ། བཟློག་པའི་དཔེ་རང་སངས་རྒྱས་བཞིན་ཞེས་པ་ལ་སོགས་པའི་དཔེ་དུ་མས་བསྟན་པ་བཞིན་ནོ།"
-" །"
+"L’ individu aspirant à l’obtention de l’omniscience, le sujet de débat (la "
+"base de notre raisonnement), j’affirme (lit. je promets que) qu’il doit s’en"
+" remettre à un maître spirituel, car il ne sait pas, par lui-même, "
+"rassembler les accumulations ni se purifier des voiles. L’exemple "
+"corroborant ce syllogisme est : comme les Bouddhas des trois temps. Le "
+"contre-exemple est : comme les Bouddhas-par-soi."
 msgstr ""
 
-#  20. Troisièmement :་
+#  20. གསུམ་པ་ནི།་
 msgctxt "line 12, livre5_1-2.txt"
-msgid "གསུམ་པ་ནི།"
+msgid "Troisièmement :"
 msgstr ""
 
-#  21. La biographie de Shri Sambhava dit :་
+#  21. དཔལ་འབྱུང་གི་རྣམ་ཐར་ལས།་
 msgctxt "line 13, livre5_1-2.txt"
-msgid "དཔལ་འབྱུང་གི་རྣམ་ཐར་ལས།"
+msgid "La biographie de Shri Sambhava dit :"
 msgstr ""
 
-#  22. Un maitre spirituel est comme un guide par ce qu’il nous fait entrer
-# sur la voie de la perfection (litt la transcendance). 23. puis,་
+#  22. དགེ་བའི་བཤེས་གཉེན་ནི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་དུ་འཛུད་པས་
+# 
+# ལམ་མཁན་ལྟ་བུའོ། ། 23. ཞེས་དང༌།་
 msgctxt "line 14, livre5_1-2.txt"
 msgid ""
-"དགེ་བའི་བཤེས་གཉེན་ནི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་དུ་འཛུད་པས་ལམ་མཁན་ལྟ་བུའོ། ། "
-"ཞེས་དང༌།"
+"Un maitre spirituel est comme un guide par ce qu’il nous fait entrer sur la "
+"voie de la perfection (litt la transcendance). puis,"
 msgstr ""
 
-#  24. La biographie de la Laique Acala dit aussi:་
+#  24. དགེ་བསྙེན་མ་མི་གཡོ་བའི་རྣམ་ཐར་ལས་ཀྱང༌།་
 msgctxt "line 15, livre5_1-2.txt"
-msgid "དགེ་བསྙེན་མ་མི་གཡོ་བའི་རྣམ་ཐར་ལས་ཀྱང༌།"
+msgid "La biographie de la Laique Acala dit aussi:"
 msgstr ""
 
-#  25. Les maitres spirituels sont comme une escorte parce qu’il nous
-# escortent pour arriver au lieu de l’omniscience. 26. puis,་
+#  25. དགེ་བའི་བཤེས་གཉེན་རྣམས་ནི་བདག་ཅག་ཐམས་ཅད་མཁྱེན་པའི་གནས་སུ་
+# 
+# ཕྱིན་པར་སྐྱེལ་བས་སྐྱེལ་མ་ལྟ་བུའོ། ། 26. ཞེས་དང༌།་
 msgctxt "line 16, livre5_1-2.txt"
 msgid ""
-"དགེ་བའི་བཤེས་གཉེན་རྣམས་ནི་བདག་ཅག་ཐམས་ཅད་མཁྱེན་པའི་གནས་སུ་ཕྱིན་པར་སྐྱེལ་བས་སྐྱེལ་མ་ལྟ་བུའོ།"
-" ། ཞེས་དང༌།"
+"Les maitres spirituels sont comme une escorte parce qu’il nous escortent "
+"pour arriver au lieu de l’omniscience. puis,"
 msgstr ""
 
-#  27. Dans le Gandavyuha :་
+#  27. སྡོང་པོ་བཀོད་པ་ལས།་
 msgctxt "line 17, livre5_1-2.txt"
-msgid "སྡོང་པོ་བཀོད་པ་ལས།"
+msgid "Dans le Gandavyuha :"
 msgstr ""
 
-#  28. Le maitre spirituel est comme le batelier parce qu’il nous fait
-# traverser (litt nous libère) l’immense fleuve du samsara.་
+#  28. དགེ་བའི་བཤེས་གཉེན་ནི་འཁོར་བའི་ཆུ་བོ་ཆེན་པོ་ལས་སྒྲོལ་བས་
+# 
+# ན་མཉན་པ་ལྟ་བུའོ། །་
 msgctxt "line 18, livre5_1-2.txt"
 msgid ""
-"དགེ་བའི་བཤེས་གཉེན་ནི་འཁོར་བའི་ཆུ་བོ་ཆེན་པོ་ལས་སྒྲོལ་བས་ན་མཉན་པ་ལྟ་བུའོ། །"
+"Le maitre spirituel est comme le batelier parce qu’il nous fait traverser "
+"(litt nous libère) l’immense fleuve du samsara."
 msgstr ""
 
-#  29. Beaucoup d’autres (histoires) expriment ce propos.་
+#  29. ཞེས་པ་ལ་སོགས་པ་དུ་མས་བསྟན་པ་བཞིན་ནོ། །་
 msgctxt "line 19, livre5_1-2.txt"
-msgid "ཞེས་པ་ལ་སོགས་པ་དུ་མས་བསྟན་པ་བཞིན་ནོ། །"
+msgid "Beaucoup d’autres (histoires) expriment ce propos."
 msgstr ""

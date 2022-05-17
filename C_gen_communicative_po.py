@@ -40,7 +40,7 @@ class Po:
             comment = []
             for pair in pairs:
                 try:
-                    s, c = re.split(self.trans_delimiter, pair)
+                    c, s = re.split(self.trans_delimiter, pair)
                 except ValueError as e:
                     print('The input file is not well formated. Most likely a Windows line-sep error.')
                     print(num + 1, pair)
