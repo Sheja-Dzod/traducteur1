@@ -131,7 +131,7 @@ msgid ""
 "remettent sans se laisser distraire (litt.sans distraction id a ་གཡེང་བ),, "
 "aux maitres spirituels. A l’instar de ce qui vient d’être dit (ainsi), ceux "
 "qui fort d’une motivation ferme, aspirent à l’état authentique de "
-"l’insurpassable éveil, révéreront et serviront sans vaciller le maître."
+"l’insurpassable éveil, révéreront et serviront sans vaciller le maître"
 msgstr ""
 
 #  31. གཉིས་པ་སྦྱོར་བ་ནི། 32. བསྙེན་བཀུར་བའི་ཚུལ་ཡང༌། 33. མདོ་སྡེ་རྒྱན་ལས། 34.
@@ -162,7 +162,7 @@ msgid ""
 "son propre corps.)"
 msgstr ""
 
-#  38. བཀུར་སྟིའི་རིམ་པ་ནི། 39. མཐོང་ཕྱག་དང་ལྡང་བ་དང་བསྔགས་པ་བརྗོད་པ་
+#  38. བཀུར་སྟིའི་རིམ་པ་ནི། 39. མཐོང་ཕྱག་དང་ལྡང་བ་༼ཝཾ༡༠ན༽དང་བསྔགས་པ་བརྗོད་པ་
 # 
 # ལ་སོགས་པ་རྟག་ཏུ་གུས་པའི་སྤྱོད་ལམ་བསྟེན་ཞིང༌། སྐུའི་གྲིབ་མའང་
 # 
@@ -195,27 +195,30 @@ msgstr ""
 # 
 # དྲིལ་ཕྱིས་སོགས་འཕྲལ་གྱི་བྱ་བ་ཐམས་ཅད་ཞི་དེས་དང་ཡིད་
 # 
-# གཞུངས་པར་བྱ། 44. གསུམ་པ་སྒྲུབ་པའི་སྒོ་ནས་བསྟེན་པ་ནི། 45. བླ་མས་བསྒོ་
-# 
-# བ་ཐམས་ཅད་ལ་སྒྲུབ་པ་བཀའ་བློ་བདེ་བ་དང༌། 46. ཆོས་བསྟན་པ་
-# 
-# ཐམས་ཅད་ལ་ཐོས་བསམ་སྒོམ་པ་སོགས་ཅི་རིགས་པར་ནན་ཏན་
-# 
-# གྱིས་སྒྲུབ་པ་ནི་ 47. སྔ་མ་རྣམས་ལས་ཀྱང་བསྙེན་བཀུར་གྱི་མཆོག་
-# 
-# སྟེ་ཡང་དག་པའི་དགེ་བའི་བཤེས་གཉེན་སྒྲུབ་པའི་མཆོད་པས་མཉེས་
-# 
-# པར་བྱ་བ་ཡིན་གྱི་རྙེད་སོགས་ཀྱིས་མ་ཡིན་པའི་ཕྱིར་རོ། །་
-# 
-# 
+# གཞུངས་པར་བྱ།་
 msgctxt "line 11, Livre5_1-6.txt"
 msgid ""
 "Deuxièmement, le service : (servir le maitre). Après avoir rendu hommage "
 "(litt. prosterné), agir avec calme, application et l’esprit clair et avisé "
 "(professionnel) pour accomplir les tâches quotidiennes (litt. activités "
 "temporaires) comme la toilette, les massages, l’ablation des callosités etc."
-" S’en remettre à lui par la pratique. Accepter avec plaisir d’accomplir tout"
-" ce que le lama commande de faire (les directives) et, Pratiquer avec "
+msgstr ""
+
+#  44. 	གསུམ་པ་སྒྲུབ་པའི་སྒོ་ནས་བསྟེན་པ་ནི། 45. བླ་མས་བསྒོ་བ་ཐམས་ཅད་
+# 
+# ལ་སྒྲུབ་པ་བཀའ་བློ་བདེ་བ་དང༌། 46. ཆོས་བསྟན་པ་ཐམས་ཅད་ལ་
+# 
+# ཐོས་བསམ་སྒོམ་པ་སོགས་ཅི་རིགས་པར་ནན་ཏན་གྱིས་སྒྲུབ་པ་
+# 
+# ནི་ 47. སྔ་མ་རྣམས་ལས་ཀྱང་བསྙེན་བཀུར་གྱི་མཆོག་སྟེ་ཡང་དག་
+# 
+# པའི་དགེ་བའི་བཤེས་གཉེན་སྒྲུབ་པའི་མཆོད་པས་མཉེས་པར་བྱ་བ་
+# 
+# ཡིན་གྱི་རྙེད་སོགས་ཀྱིས་མ་ཡིན་པའི་ཕྱིར་རོ། །་
+msgctxt "line 12, Livre5_1-6.txt"
+msgid ""
+"S’en remettre à lui par la pratique. Accepter avec plaisir d’accomplir tout "
+"ce que le lama commande de faire (les directives) et, Pratiquer avec "
 "application tous les Dharmas enseignés que ce soit par l’écoute, la "
 "réflexion, la méditation etc (ou d’une autre manière),& est un service "
 "encore plus suprême que ce qui a été exposé précédemment. La raison est que "
@@ -232,7 +235,7 @@ msgstr ""
 # བས་ས་ལྟ་བུའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། ། 52. ཅི་བསྒོ་བ་ཉན་པར་
 # 
 # བྲན་ལྟ་བུའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། ། 53. ཞེས་སོགས་གསུངས་སོ། །་
-msgctxt "line 12, Livre5_1-6.txt"
+msgctxt "line 13, Livre5_1-6.txt"
 msgid ""
 "Le Avataṃsaka sūtra dit : Ne vous découragez jamais dans votre quête d’un "
 "maitre spirituel. Même après l’avoir trouvé, ensuite, honorez le par une "
