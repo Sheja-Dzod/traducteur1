@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2022
+# Drupchen Dorje <drupchen@dharmasagar.org>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2022\n"
+"Last-Translator: Drupchen Dorje <drupchen@dharmasagar.org>, 2022\n"
 "Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,7 +68,7 @@ msgstr ""
 # 
 msgctxt "line 3, livre5_1-1.txt"
 msgid ""
-"Sont enseignés : les caractéristiques du maitre et du disciple, la manière "
+"Sont enseignés : les caractéristiques du maitre et du disciple, la manière "
 "de s’en remettre (au maitre) et (comment) enseigner et écouter (le dharma). "
 "Classification extensive des vœux de libération personnelle. L’exposé des "
 "préceptes d’un bodhisattva. Présentation générale des vœux du mantra secret "
@@ -135,7 +135,7 @@ msgid ""
 msgstr ""
 "L’enseignement du Vainqueur est source de bienfait et de bonheur.\n"
 "Ceux qui s’y engagent afin de donner du sens à leurs libertés et richesses, \n"
-"Commencerons  par chercher un maître spirituel puis s’en remettrons à lui."
+"Commencerons  par chercher un maître spirituel puis s’en remettrons à lui."
 
 #  21. འདི་དང་གཏན་གྱི་ཕན་པ་དང་བདེ་བ་མ་ལུས་པའི་འབྱུང་གནས་
 # 
@@ -166,12 +166,12 @@ msgid ""
 " l’auront trouvé, s’en remettront à lui tel qu’il se doit (de la bonne "
 "manière)."
 msgstr ""
-"Le précieux enseignement du Vainqueur, source de tous bienfaits et de tous bonheurs dans  cette vie et pour toujours, n’apparait que très rarement. Rien qu’entendre son nom est chose rare et difficile. Un tel enseignement est pourtant présent dans notre monde.\n"
-"Ceux qui, intelligents, s’y engagent afin de ne pas gaspiller et de donner du sens à leur existence humaine qui avec ses libertés et richesses est comparable au joyau qui exauce les souhaits, commencerons  impérativement par chercher un maitre spirituel qualifié. Puis, l’ayant trouvé, s’en remettrons à lui comme il se doit."
+"Le précieux enseignement du Vainqueur, source de tous bienfaits et de tous bonheurs dans  cette vie et pour toujours, n’apparait que très rarement. Rien qu’entendre son nom est chose rare et difficile. Un tel enseignement est pourtant présent dans notre monde.\n"
+"Ceux qui, intelligents, s’y engagent afin de ne pas gaspiller et de donner du sens à leur existence humaine qui avec ses libertés et richesses est comparable au joyau qui exauce les souhaits, commencerons  impérativement par chercher un maitre spirituel qualifié. Puis, l’ayant trouvé, s’en remettrons à lui comme il se doit."
 
 #  24. འདི་ལ་ཕྱོགས་གསུམ།་
 msgctxt "line 9, livre5_1-1.txt"
-msgid "Cette [partie a] trois aspects (trois angles)."
+msgid "Il y a ici trois aspects (trois angles)."
 msgstr "Ceci est exprimé sous trois angles :"
 
 #  25. དང་པོ་ནི།་
@@ -181,12 +181,12 @@ msgstr "Premièrement:"
 
 #  26. སྤེལ་མར་བསྟོད་པ་ལས།་
 msgctxt "line 11, livre5_1-1.txt"
-msgid "Le Miśrakastotra dit :"
-msgstr "Le Miśrakastotra dit :"
+msgid "Le Miśrakastotra dit :"
+msgstr "Le Miśrakastotra dit :"
 
 #  27. བགྲོད་པ་གཅིག་དང་ཐབས་བདེ་དང༌། །ལེགས་པར་འབྲེལ་དང་ཉེས་པ་མེད། །ཐོག་མ་
 # 
-# བར་དང་མཐར་དགེ་བ། །ཁྱོད་ཀྱི་བསྟན་འདྲ་གཞན་ལ་མེད། །ཅེས་
+# བར་དང་མཐར་དགེ་བ། །ཁྱོད་ཀྱི་བསྟན་འདྲ་གཞན་ལ་མེད། །ཅེས་་
 msgctxt "line 12, livre5_1-1.txt"
 msgid ""
 "“Unique voie à parcourir et méthodes aisées ; qui nous relie à l’excellence "
@@ -243,11 +243,11 @@ msgstr ""
 "ultime, il est vertu. Ainsi, l’enseignement du Bouddha est, à tous égards, "
 "la source des bienfaits et des bonheurs que l’on ne retrouve pas dans les "
 "enseignements des autres enseignants comme celle du Rishi Kapila ou les "
-"autres. "
+"autres. "
 
 #  32. རྒྱལ་སྲས་ཞི་བ་ལྷས།་
 msgctxt "line 14, livre5_1-1.txt"
-msgid "Shantideva le Fils des Vainqueur dit :"
+msgid "Shantideva le Fils des Vainqueur dit :"
 msgstr "Shantideva, Le Fils des Vainqueurs, a exprimé cela dans une prière : "
 
 #  33. འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། །བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། །བསྟན་པ་
@@ -262,7 +262,7 @@ msgid ""
 "longtemps. Il (Shantideva) a exprimé cela au travers d’une prière."
 msgstr ""
 "Unique remède à la souffrance des êtres \n"
-"Et source de tous bonheur : \n"
+"Et source de tous bonheur : \n"
 "Puisse l’enseignement être soutenu et servi\n"
 "Et ainsi demeurer pour longtemps."
 
@@ -273,8 +273,8 @@ msgstr "Deuxièmement:"
 
 #  36. ཡབ་སྲས་མཇལ་བའི་མདོ་ལས།་
 msgctxt "line 17, livre5_1-1.txt"
-msgid "Le soutra ‘’La rencontre du père et du fils’’ dit :"
-msgstr "Le soutra ‘’La rencontre entre le père et le fils’’ dit :"
+msgid "Le soutra ‘’La rencontre du père et du fils’’ dit :"
+msgstr "Le soutra ‘’La rencontre entre le père et le fils’’ dit :"
 
 #  37. མི་ཁོམ་བརྒྱད་པོ་ཐམས་ཅད་རབ་སྤངས་ཤིང༌། ། 38. དལ་བ་ཕུན་ཚོགས་རྙེད་དཀའ་
 # 
@@ -315,12 +315,12 @@ msgstr ""
 
 #  41. གསུམ་པ་ནི།་
 msgctxt "line 20, livre5_1-1.txt"
-msgid "Troisièmement :"
-msgstr "Troisièmement :"
+msgid "Troisièmement :"
+msgstr "Troisièmement :"
 
 #  42. འཕགས་པ་བརྒྱད་སྟོང་པ་ལས།་
 msgctxt "line 21, livre5_1-1.txt"
-msgid "La Prajnaparamita en Huit Mille Vers dit :"
+msgid "La Prajnaparamita en Huit Mille Vers dit :"
 msgstr " La Prajnaparamita en Huit Mille Vers dit :"
 
 #  43. འདི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བླ་ན་མེད་པ་
@@ -352,7 +352,7 @@ msgstr ""
 msgctxt "line 23, livre5_1-1.txt"
 msgid ""
 "Si vous demandez quelle genre de maitre spirituel doit-on rechercher ? les "
-"‘’Propos énoncés intentionnellement’’ disent : Ceux qui s’en remettent à un "
+"‘’Propos énoncés intentionnellement’’ disent : Ceux qui s’en remettent à un "
 "(maitre) inférieur, (à eux en terme de qualités) dégénéreront; (Ceux qui) "
 "s’en remettent à (un maitre) égale à eux même, stagneront; (Ceux qui) s’en "
 "remettent à (un maitre) supérieur excelleront (obtiendront la pureté); (ici "
@@ -360,7 +360,7 @@ msgid ""
 "figure principale comme c’est souvent le cas). Par conséquent, suivons-en un"
 " qui nous est supérieur."
 msgstr ""
-"Si vous demandez quelle genre de maitre spirituel doit-on rechercher ? les ‘’Propos énoncés intentionnellement’’ disent : \n"
+"Si vous demandez quelle genre de maitre spirituel doit-on rechercher ? les ‘’Propos énoncés intentionnellement’’ disent : \n"
 "\n"
 "Ceux qui s’en remettent à un maitre inférieur, dégénéreront\n"
 "Ceux qui s’en remettent à un maitre égale à eux même, stagneront\n"
@@ -398,19 +398,19 @@ msgid ""
 "remettre à un (maitre) supérieur à nous même, plus noble que nous, plus "
 "avancé que nous."
 msgstr ""
-"Chez ceux qui s’en remettent à un maître dont les qualités sont inférieures aux leurs en termes de discipline, d’érudition, d’absorption méditative etc, les défauts s’accroissent en nombre sans qu’aucune qualité ne naisse. Ces personnes dégénéreront. \n"
-"Ceux qui s’en remettent à un maître spirituel identique à eux-mêmes –un maitre dont les qualités égales les leurs –ni ne progressent, ni ne régressent. Ils stagneront.  \n"
+"Chez ceux qui s’en remettent à un maître dont les qualités sont inférieures aux leurs en termes de discipline, d’érudition, d’absorption méditative etc, les défauts s’accroissent en nombre sans qu’aucune qualité ne naisse. Ces personnes dégénéreront. \n"
+"Ceux qui s’en remettent à un maître spirituel identique à eux-mêmes –un maitre dont les qualités égales les leurs –ni ne progressent, ni ne régressent. Ils stagneront.  \n"
 "Ceux qui s’en remettent à un maitre spirituel aux qualités supérieures aux leurs, excelleront et atteindront les objectifs suprêmes auxquels ils aspirent. \n"
 "Il nous faut donc toujours s’en remettre à un maitre supérieur à nous même, plus noble que nous, plus avancé que nous. "
 
 #  63. དེ་ཉིད་ལས།་
 msgctxt "line 25, livre5_1-1.txt"
-msgid "Dans ce même soutra :"
-msgstr "Dans ce même soutra : "
+msgid "Dans ce même soutra :"
+msgstr "Dans ce même soutra : "
 
 #  64. ཚུལ་ཁྲིམས་ཉེ་བར་ཞི་བ་དང༌། །ཤེས་རབ་ཆེས་མཆོག་ལྷག་པ་ཡི། །གཙོ་བོ་
 # 
-# གང་ཡིན་དེ་བསྟེན་ན། །གཙོ་བོ་ལས་ཀྱང་ཆེས་གཙོར་འགྱུར། 65. ཞེས་བཤད་དོ། །་
+# གང་ཡིན་དེ་བསྟེན་ན། །གཙོ་བོ་ལས་ཀྱང་ཆེས་གཙོར་འགྱུར། ། 65. ཞེས་བཤད་དོ། །་
 # 
 # 
 msgctxt "line 26, livre5_1-1.txt"
