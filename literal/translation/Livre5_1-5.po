@@ -278,7 +278,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "419b2ec41eb64647ab256c9bb8c45262"
 msgid "ཁྱད་པར་ སུམ་བརྒྱ་པ་ ལ␣ས །"
-msgstr " Les Trois Cent Vers sur le Vinaya disent :"
+msgstr " Plus spécifiquement, les Trois Cent Vers sur le Vinaya disent :"
 
 # 。︀	〝རྟག〞 1928
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ permanence, éternel, constance
