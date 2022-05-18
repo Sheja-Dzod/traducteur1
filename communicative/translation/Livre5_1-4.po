@@ -1,0 +1,139 @@
+# 
+# Translators:
+# Damien Jampa, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2022\n"
+"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#  1. བཞི་པ་དེ་ལས་འཕྲོས་པའི་འཇུག་ལྡོག་བྱ་བའི་ཚུལ་ནི།་
+msgctxt "line 1, Livre5_1-4.txt"
+msgid ""
+"Quatrième point: pour complémenter ceci (ce qui vient d’être dit), comment "
+"suivre ou se détourner (d’un vrai ou d’un faux maitre)."
+msgstr ""
+"4. Explication complémentaire sur comment suivre un maître authentique ou se"
+" détourner d'un faux maître."
+
+#  2. ལྡོག་པ་སྐྱོན་ཅན་སྤངས་ལ་མཚན་ཉིད་ཀྱང༌། །ཐམས་ཅད་ཚང་དཀོན་ཡོན་ཏན་
+# 
+# མང་བ་བཟུང༌། །་
+msgctxt "line 2, Livre5_1-4.txt"
+msgid ""
+"Leurs contraire marqués de défauts sont a abandonner, alors que même si ceux"
+" avec toutes les qualités sont rare, on suit ceux avec beaucoup de qualités."
+msgstr ""
+"Ceux contraires, marqués de défauts, sont a abandonner. Bien que ceux "
+"possédantes toutes les qualités soient rares, ceux en possédant beaucoup "
+"sont à suivre."
+
+#  3. གོང་སྨོས་ཀྱི་མཚན་ཉིད་རྣམས་ལས་ལྡོག་པ་ནི་ 4. སངས་རྒྱས་ཀྱི་བསྟན་
+# 
+# པ་ལས་ཕྱི་རོལ་ཏུ་གྱུར་པ་མཚན་ཉིད་དང་མི་ལྡན་པའི་
+# 
+# སྐྱོན་ཅན་ཡིན་པའི་ཕྱིར་འདུ་འཛི་སྙན་གྲགས་ལ་སོགས་པ་ཆེ་
+# 
+# ཡང་དཔྱོད་ལྡན་རྣམས་ཀྱིས་བརྟགས་ལ་ 5. སྔོན་བླ་མར་འབྲེལ་ནའང་བཏང་
+# 
+# སྙོམས་སུ་བཞག་ཅིང༌། 6. མ་འབྲེལ་ན་ཐོག་མ་ནས་མི་བསྟེན་པར་སྤང་
+# 
+# བར་བྱ་སྟེ 7. ས་སྐྱ་པཎ་ཆེན་གྱིས། 8. སངས་རྒྱས་བསྟན་བཞིན་མི་བྱེད་པའི། །བླ་
+# 
+# མ་ཡིན་ཀྱང་བཏང་སྙོམས་བཞག ། 9. ཅེས་གསུངས་སོ། །་
+msgctxt "line 3, Livre5_1-4.txt"
+msgid ""
+"Ceux qui sont le contraire (l’opposé) de toutes les caractéristiques "
+"exposées précédemment, sont étranger (litt. sont à l’extérieur de) à "
+"l’enseignement du Bouddha et ont (sont marqués) le défaut de ne pas avoir "
+"les caractéristiques (des vrais maîtres). Par conséquent, même si ils sont "
+"très actif (s’afférent dans beaucoup de choses) et célèbres, ceux qui ont du"
+" discernement (perspicace), basé sur leur observation (analyse du maitre), "
+"même si ils étaient précédemment (déjà) liés à lui (ce maitre), se "
+"désintéresseront de lui (litt. le laisserons ‘’tomber’’ avec indifférence), "
+"ou alors, s’ils ne sont pas (encore) en lien avec lui, s’en détourneront "
+"sans s’en remettre à lui (litt. l’abandonneront sans s’en remettre a lui). "
+"Pour appuyer cela : Le Grand Sakya Pandita a dit : Désintéressez (soyez "
+"indifférent) vous à celui qui n’applique pas l’enseignement du Bouddha comme"
+" il se doit, même si c’est un Lama. il a dit."
+msgstr ""
+"Ceux qui sont le contraire  de toutes les caractéristiques exposées précédemment, sont étranger à l’enseignement du Bouddha et ont le défaut de ne pas avoir les caractéristiques des maîtres authentiques. Par conséquent, même si ils sont très actif et célèbres, les disciples perspicaces, observeront ces maîtres et, même si ils étaient déjà en lien avec eux, il s'en désintéresseront. S’ils n'en sont pas encore lié, dés le début,  ils s’en détourneront sans s’en remettre à eux.  Allant dans ce sens,  le Grand Sakya Pandita a dit : \n"
+"Désintéressez  vous de celui qui, même si c'est un Lama, N’applique pas comme il se doit, l’enseignement du Bouddha ."
+
+#  10. གཞན་ཡང་བསྡུས་རྒྱུད་ལས། 11. ང་རྒྱལ་དང་ལྡན་ཁྲོ་བས་ཟིལ་མནན་དམ་ཚིག་
+# 
+# རྣམས་བྲལ་རྫས་ལ་བརྐམ་ཞིང་ཐོས་པ་དག་ཀྱང་མེད། ། 12. སློབ་མ་རྣམས་
+# 
+# ནི་བསླུ་བ་དོན་དུ་གཉེར་ཞིང་མཆོག་གི་བདེ་བའི་གནས་ལས་
+# 
+# སེམས་ཉམས་དབང་མ་བསྐུར། ། 13. ལོངས་སྤྱོད་དག་ལ་ཀུན་ཆགས་བག་མེད་རྩུབ་
+# 
+# མོའི་ཚིག་དང་བཅས་ཤིང་དབང་པོའི་དོན་དུ་འདོད་ལྡན་པ། ། 14. དེ་ཉིད་
+# 
+# དམྱལ་བ་བཞིན་དུ་སློབ་མ་མཁས་པ་རྣམས་ཀྱིས་རྫོགས་པའི་བྱང་
+# 
+# ཆུབ་རྒྱུར་ནི་སྤང་བར་བྱ། ། 15. ཞེས་པས་མཚོན་གཞན་དག་ལས་ཀྱང་མང་
+# 
+# དུ་བྱུང་བའི་ཚུལ་ཤེས་པར་བྱས་ལ་སྤང་ངོ༌། །་
+msgctxt "line 4, Livre5_1-4.txt"
+msgid ""
+"Le Résumé du Tantra (de Kalachakra) dit : Orgueilleux, dominé par la colère,"
+" vide de ses promesses sacrées (litt. séparé), attachés aux objets matériels"
+" (avide de toutes sortes de choses), il n’a même pas étudié, Il s’applique "
+"(litt. il est intéressé, il s’adonne avec intérêt) à tromper les disciples, "
+"son esprit n’a pas obtenu (litt. à dégénéré. il a échoué à atteindre cet "
+"état) l’état de suprême félicité et n’a pas reçu les initiations. obsédé par"
+" les plaisirs sensoriels, négligent (désinvolte, cad: l’opposé de "
+"consciencieux ou attentif à ce qu’il fait), il fait usage de mots grossiers "
+"et avide de sexe (litt. à du désir pour les organes sexuels). Le disciple "
+"sages, (qui aspirent) pour créer les causes de l’éveil complet, les "
+"abandonneront comme (on abandonne) les enfers. Ceci exprime cela. Dans "
+"d’autres sources aussi, (leurs défauts) sont exprimés en nombre. Il faut en "
+"avoir connaissance et abandonner (ces maitres) (se détourner de ces faux "
+"lamas)."
+msgstr ""
+"Le Résumé du Tantra de Kalachakra exprime ceci en ces mots : \n"
+"Orgueilleux, dominé par la colère, vide de ses promesses sacrées et avide d'objets matériels, il n’a même pas étudié.\n"
+"Il s’applique à tromper les disciples, son esprit s'est éloigné de l’état de suprême félicité et il n’a pas reçu les initiations. \n"
+"Il est obsédé par les plaisirs sensoriels, négligeant, usagé des mots grossiers et avide de sexe. \n"
+"Le disciple sages, afin de créer les causes de l’éveil complet, les éviterons comme l'enfer. \n"
+"On retrouve aussi ces défauts exprimés en nombre d'autres sources. Il faut en avoir connaissance et abandonner ces maitres."
+
+#  16. ལེགས་པའི་མཚན་ཉིད་ཀྱང་ཐམས་ཅད་ཚང་བ་དུས་དབང་གིས་ཤིན་ཏུ་
+# 
+# དཀོན་པས་དེ་ལྟར་མ་རྙེད་ཀྱང་སྐྱོན་ཉུང་ཞིང་ཡོན་ཏན་མང་
+# 
+# བ་བླ་མར་བཟུང་བར་བྱ་སྟེ། 17. དོན་དམ་བསྙེན་པ་ལས། 18. རྩོད་ལྡན་དབང་
+# 
+# གིས་བླ་མར་སྐྱོན་དང་ཡོན་ཏན་འདྲེས། ། 19. རྣམ་པ་ཀུན་ཏུ་སྡིག་དང་
+# 
+# བྲལ་བ་ཡོད་མ་ཡིན། ། 20. དེ་ཕྱིར་ཡོན་ཏན་ལྷག་པ་ཡང་ནི་ལེགས་
+# 
+# དཔྱད་ནས། ། 21. བུ་རྣམས་ཀྱིས་ནི་དེ་ལ་བསྟེན་པར་བྱ་བའོ། ། 22. ཞེས་གསུངས་པ་
+# 
+# ལྟར་རོ། །་
+msgctxt "line 5, Livre5_1-4.txt"
+msgid ""
+"Notre époque fait que (litt. a cause de notre époque) rare sont ceux dotés "
+"de l’intégralité des caractéristique d’excellence, cependant, même si on "
+"n’en trouves pas, il faut prendre pour Lama ceux qui ont le moins de défauts"
+" et le plus de qualités. Le Paramartha Seva (l’Approche de L’ultime) dit : "
+"La période de conflit fait que (dans cet âge de conflit), chez les Lamas, "
+"défauts et qualités sont mêlées. Il n’y en a aucun qui soit totalement libre"
+" de négativité (Litt. d’actes négatif) Par conséquent, même, ceux aux "
+"qualités supérieures (à la norme), après les avoir excellement identifié Les"
+" fils (ici dans le sens des disciples), s’en remettent à eux. On se doit de "
+"faire comme exprimé ici."
+msgstr ""
+"Notre époque fait que très rare sont ceux dotés de l’intégralité des caractéristique d’excellent. Par conséquent, même si on ne trouve pas de telles maîtres,  il faut prendre pour Lama ceux qui ont le moins de défauts et le plus de qualités. \n"
+"Nous devons faire comme exprimé dans le Paramartha Seva (l’Approche de L’ultime) : \n"
+"Dans cet âge de conflit, chez les Lamas, défauts et qualités sont mêlées. \n"
+"Il n’y en a aucun qui soit totalement libre de négativité.\n"
+"Par conséquent, les disciples s'en remettrons à ceux\n"
+"Dont les qualités dépassent la norme \n"
+"Après les avoir, eux aussi, précisément identifiés. "
