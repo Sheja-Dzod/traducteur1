@@ -1,0 +1,202 @@
+# 
+# Translators:
+# Damien Jampa, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2022\n"
+"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#  1. དགུ་པ་དད་པ་བསྟེན་པར་བཤད་པ་ནི།་
+msgctxt "line 1, Livre5_1-9.txt"
+msgid "9. Explication sur l’usage de la foi"
+msgstr "9. S'appuyer sur la foi"
+
+#  2. དང་བ་ཡིད་ཆེས་འདོད་པའི་དད་པ་བསྐྱེད། ། 3. སྤྱིར་དཀར་པོའི་ཆོས་ཐམས་ཅད་
+# 
+# ཀྱི་སྔོན་དུ་འགྲོ་ཞིང་ཁྱད་པར་བཤེས་གཉེན་བསྟེན་ཞིང་ལམ་ལ་
+# 
+# བརྩོན་པའི་ཐོག་མ་ཁོ་ནར་དད་པ་རྣམ་གསུམ་བསྐྱེད་པ་གལ་
+# 
+# ཆེ་སྟེ།་
+msgctxt "line 2, Livre5_1-9.txt"
+msgid ""
+"Développez la foi pure, confiante et inspirée. avant tout dharma blanc et "
+"plus particulièrement quand on commence à s‘en remettre à un maître et quand"
+" on commence nos efforts sur la voie, il est important d’ impérativement "
+"développer les trois (types de) fois. En effet,"
+msgstr ""
+"Développez la foi pure, confiante et inspirée. \n"
+"\n"
+"Avant de s'adonner à tout dharma blanc et plus particulièrement lorsque l'on commence à s‘en remettre à un maître et à appliquer nos efforts sur la voie, il est important d’ impérativement développer les trois types de fois."
+
+#  4. དཀོན་མཆོག་ཏ་ལའི་མདོ་ལས། 5. དད་པ་སྔོན་འགྲོ་མ་ལྟར་བསྐྱེད་པ་སྟེ། ། 6. དོགས་
+# 
+# པ་སེལ་ཞིང་ཆུ་བོ་རྣམས་ལས་སྒྲོལ། 7. དད་པ་བདེ་ལེགས་གྲོང་ཁྱེར་
+# 
+# མཚོན་བྱེད་ཡིན། ། 8. ཅེས་སོགས་གསུངས་སོ། །་
+msgctxt "line 3, Livre5_1-9.txt"
+msgid ""
+"Le Soutra Dharani du Rare et Précieux Palmier dit : Commencez (en "
+"préliminaire) par développer la foi comme envers une mère (comme un enfant "
+"envers sa mère), puis, Elle résous (le temps utilisé est le présent) les "
+"doutes et libère des fleuves (du samsara) La foi illustre (ce qu’est) la "
+"cité du bonheur et de l’excellence. Ceci etc. (ainsi que d’autres choses) "
+"sont dites (dans ce soutra)."
+msgstr ""
+"A ce sujet, le Soutra Dharani du Rare et Précieux Palmier dit de nombreuse chose dont :\n"
+"\n"
+"Commencez par développer la foi comme un enfant envers sa mère: \n"
+"Elle résout  les doutes et libère du fleuve.\n"
+"La foi illustre ce qu’est la cité du bonheur et de l’excellence. "
+
+#  9. དེ་ལ་དང་བའི་ངོ་བོ་ནི། 10. སྤང་བླང་གི་ཡུལ་འཇུག་ལྡོག་ལ་དམིགས་
+# 
+# པའི་བློ་རབ་ཏུ་དང་བ་སྟེ།་
+msgctxt "line 4, Livre5_1-9.txt"
+msgid ""
+"En lien avec cela (ce qui vient d’être exposé, la foi), l’essence de la "
+"pureté : C’est un état d’esprit extrêmement (totalement) pur (claire, "
+"limpide) orienté sur l’application et le rejet de ce qui est à faire et à "
+"rejeter."
+msgstr ""
+"Dans ce contexte, l’essence de la pureté se définit comme étant  un état "
+"d’esprit extrêmement pur orienté sur l’application et le rejet de ce qui est"
+" à faire et à rejeter."
+
+#  11. དེ་ལ་དབྱེ་ན་ཆོས་མངོན་པར། དད་པ་གང་ཞེ་ན། 12. ལས་དང་འབྲས་བུ་
+# 
+# དང་བདེན་པ་དང༌། 13. དཀོན་མཆོག་ལ་མངོན་པར་ཡིད་ཆེས་པ་དང༌། 14. འདོད་པ་
+# 
+# དང༌། སེམས་དང་བའོ། ། 15. ཞེས་གསུངས་པས།་
+msgctxt "line 5, Livre5_1-9.txt"
+msgid ""
+"Ses divisions sont selon Le Condensé de l’ Abhidharma: Qu’est-ce que la "
+"foi ? le actes et leurs résultats, la vérité, et envers les (3) joyaux, une "
+"confiance claire (manifeste), un inspiration et un esprit pur. (la foi "
+"consiste à avoir confiance claire, de l’inspiration et l’esprit pure envers "
+"les actes et leurs résultats, la vérité et les trois joyaux). Il est dit, "
+"donc,"
+msgstr ""
+"Ses divisions sont selon Le Condensé de l’ Abhidharma: \n"
+"\n"
+"Qu’est-ce que la foi ? La foi consiste à avoir une conviction claire, de l’inspiration, ou un regard pur envers les actes et leurs résultats, la vérité et les trois joyaux."
+
+#  16. དང་བའི་དད་པ། ཡིད་ཆེས་པའི་དད་པ། འདོད་པའི་དད་པ་རྣམས་སུ་ཡོད་
+# 
+# པ་ལས། ད 17. ང་པོ་ནི། 18. ཡུལ་དཀོན་མཆོག་ལ་བརྟེན་ཏེ། 19. དཀོན་མཆོག་གསུམ་དང་བླ་
+# 
+# མར་མོས་ཤིང་སེམས་དང་བའོ། ། 20. གཉིས་པ་ནི། 21. ལས་རྒྱུ་འབྲས་ལ་ཡིད་ཆེས་
+# 
+# པའོ། ། 22. གསུམ་པ་ནི། 23. བླ་ན་མེད་པའི་བྱང་ཆུབ་ཐོབ་པའི་ཆེད་དུ་གུས་
+# 
+# པ་དང་བཅས་ཏེ་ལམ་ལ་སློབ་པའོ། །་
+msgctxt "line 6, Livre5_1-9.txt"
+msgid ""
+"Il y a la foi pure, la foi confiante, et la foi inspirée, parmi elles, En "
+"premier : (Le premier de ces trois aspects) porte sur les joyaux comme "
+"objet, c’est être inspiré et avoir un état d’esprit pur envers les trois "
+"joyaux et les Lamas. La deuxième : C’est la confiance en les actes, causes "
+"et résultat (la loi du karma) La troisième : c’est pratiquer (litt. "
+"apprendre, s’entrainer) avec respect à la voie dans le but d’atteindre "
+"l’éveil insurpassable."
+msgstr ""
+"Il y a donc la foi pure, la foi convainques, et la foi inspirée. La foi pure"
+" porte sur les joyaux comme objet. Elle revient à  être inspiré et porté un "
+"regard pur sur les trois joyaux et les Lamas. La foi convainque, c’est la "
+"confiance en les actes, causes et résultat (la loi du karma).  La foi "
+"inspirée consiste à s'appliquer avec respect à la voie dans le but "
+"d’atteindre l’éveil insurpassable."
+
+#  24. དེ་ཉིད་ལས། 25. འདུན་དང་ཞེ་སྡང་འཇིགས་པ་དང༌། །རྨོངས་པས་གང་ཞིག་ཆོས་མི་
+# 
+# འདའ། །དེ་ནི་དད་པ་ཅན་ཞེས་བྱ། ། 26. ངེས་པར་ལེགས་པའི་སྣོད་མཆོག་ཡིན། ། 27. ཅེས་
+# 
+# ཆགས་སྡང་རྨོངས་གསུམ་སོགས་ཀྱི་དོན་དུ་ཆོས་མི་གཏོང་བ་ནི་
+# 
+# དད་པ་སྐྱེས་པའི་ཚད་ཡིན་ལ། ཕན་ཡོན་ནི། 28. སྐྱེས་བུ་མཆོག་གི་སེམས་
+# 
+# སྐྱེ། མི་ཁོམས་པ་བརྒྱད་སྤངས་པ་སོགས་མཐའ་ཡས་ཤིང༌། 29. དད་པ་དང་ལྡན་
+# 
+# ན་ 30. དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱང་དེའི་དྲུང་དུ་བྱོན་ནས་ཆོས་
+# 
+# སྟོན་ཏེ།་
+msgctxt "line 7, Livre5_1-9.txt"
+msgid ""
+"Ce même [texte] dit : Celui qui ne se détourne (ne va pas à l’encontre) pas "
+"du Dharma ni par envie, par aversion et peur ou par confusion est dit être "
+"un être de foi. (un homme de foi). Il est le suprême réceptacle pour "
+"l’excellence définitive. Ne pas se détourner de l’enseignement à cause de "
+"l’attachement, de l’aversion, de la confusion etc, (ou d’autres émotions "
+"perturbatrices) défini (indique) le fait que l’on a la foi. Les bienfaits "
+"(de la foi): ils sont infinis comme générer l’esprit d’un être sublime, "
+"abandonner des huit conditions défavorables etc. Celui qui a la foi, même "
+"les ainsi-allés viendront à lui et lui enseignera le Dharma."
+msgstr ""
+"Ce même texte dit : \n"
+"\n"
+"Celui qui ne se détourne pas du Dharma \n"
+"Par envie, par aversion et peur ou par confusion \n"
+"Est dit être un être un être de foi. \n"
+"Il est le suprême réceptacle pour l’excellence définitive. \n"
+"\n"
+"Ne pas se détourner du Dharma  à cause de l’attachement, de l’aversion, de la confusion etc., indique le fait que l’on a la foi. \n"
+"\n"
+"Les bienfaits de la foi sont infinis. Par exemple, quand on a la foi, on génère l’esprit d’un être sublime, on abandonne les huit conditions défavorables etc. \n"
+"De plus, pour celui qui à la foi, même les Tataghatas viendront à lui et lui enseigneront le Dharma."
+
+#  31. དཀོན་མཆོག་ཏ་ལར། 32. རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་དད་གྱུར་ཅིང༌།
+# །རྒྱལ་སྲས་རྣམས་
+# 
+# ཀྱི་སྤྱོད་ལ་དད་བྱེད་ལ། །བྱང་ཆུབ་བླ་ན་མེད་ལ་དད་གྱུར་
+# 
+# ནསྐྱེས་བུ་ཆེན་པོ་རྣམས་ཀྱི་སེམས་སྐྱེའོ། ། 33. ཞེས་དང༌།་
+msgctxt "line 8, Livre5_1-9.txt"
+msgid ""
+"Le Soutra Dharani du Rare et Précieux Palmier dit : Avoir la foi en le "
+"Vainqueur et le Dharma du Vainqueur et avoir de la foi envers la conduite "
+"des Fils des Vainqueurs. Celui qui a la foi en l’insurpassable éveil, à "
+"généré l’esprit des grands êtres. puis,"
+msgstr ""
+"Le Soutra Dharani du Rare et Précieux Palmier dit : \n"
+"\n"
+"Celui qui a la foi en le Vainqueur et le Dharma du Vainqueur,\n"
+"A la foi envers la conduite des Fils des Vainqueurs. \n"
+"Et a la foi en l’insurpassable éveil, \n"
+"A généré l’esprit des grands êtres. "
+
+#  34. བྱང་སེམས་ཀྱི་སྡེ་སྣོད་ལས། 35. དེ་ལྟར་དད་པ་ལ་གནས་པའི་བྱང་ཆུབ་
+# 
+# སེམས་དཔའ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་སངས་རྒྱས་ཀྱི་ཆོས་
+# 
+# རྣམས་ཀྱི་སྣོད་དུ་རིག་ནས་ 36. དེའི་དྲུང་དུ་གཤེགས་ཏེ་ 37. བྱང་ཆུབ་
+# 
+# སེམས་དཔའི་ལམ་ཡང་དག་པར་སྟོན་ཏོ། ། 38. ཞེས་གསུངས་སོ། ། 39. མདོར་ན་དད་པ་
+# 
+# ནི་དཀར་པོའི་ཆོས་ཐམས་ཅད་ཀྱི་རྟེན་དུ་གྱུར་པས་སྐྱེད་ཅིང་
+# 
+# འཕེལ་བའི་རྒྱུ་དང་རྐྱེན་བསྟེན། 40. འགྲིབས་པའི་རྒྱུ་རྐྱེན་སྤངས་ལ་སྐྱེས་པ་
+# 
+# རྣམས་ཀྱང་བརྟན་པ་ལ་འབད་པར་བྱའོ། །་
+msgctxt "line 9, Livre5_1-9.txt"
+msgid ""
+"Le Soutra intitulé ’’La Corbeille des Bodhisattvas” dit : Ainsi, les "
+"Bouddhas Baghavans sauront que les Bodhisattvas qui ont la foi (litt; qui "
+"demeure dans la foi), sont des réceptacles pour le Dharma du Bouddha puis, "
+"viendront à eux et, lui enseigneront la voie authentique (parfaite) des "
+"Bodhisattvas. Ce qui est dit. Pour résumer, puisque la foi s’avère être la "
+"base de tous les dharmas blancs (de tout le vertueux), appliquez vous aux "
+"causes et conditions la faisant naître et se développer. abandonnez les "
+"causes et conditions la détériorant et efforcez vous à affermir ce qui est "
+"déjà né en vous."
+msgstr ""
+"Le Soutra intitulé ’’La Corbeille des Bodhisattvas” dit : \n"
+"\n"
+"Ainsi, les Bouddhas Baghavans sachant que les Bodhisattvas qui ont la foi sont des réceptacles pour le Dharma du Bouddha viendront à eux et, leur enseigneront la parfaite voie des Bodhisattvas. \n"
+"\n"
+"Pour résumer, puisque la foi s’avère être la base de tous les dharmas blancs, appliquez vous aux causes et conditions la faisant naître et se développer, abandonnez les causes et conditions la détériorant et efforcez vous à affermir tous ce qui de cette foi est déjà né en vous."
