@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 # 。︀	〝གྲོགས〞 565
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ami, aide
@@ -62,7 +62,7 @@ msgstr ""
 # Etudier,
 msgctxt "0c9f78ecceee440f8d09a02af6f84ab4"
 msgid ""
-"﻿བརྒྱད་པ་ འགལ་ཟླ་ སྤང་བ␣ར་ བཤད་པ་ ལ་ གཉིས །  སྡིག་པ␣འི་ གྲོགས་ དང༌ །  བདུད་ "
+"བརྒྱད་པ་ འགལ་ཟླ་ སྤང་བ␣ར་ བཤད་པ་ ལ་ གཉིས །  སྡིག་པ␣འི་ གྲོགས་ དང༌ །  བདུད་ "
 "ཀྱི་ བར་ཆད་ དོ ། །"
 msgstr ""
 "8. Se détourner des conditions adverses s’expose en deux parties , les amis "
@@ -1430,8 +1430,7 @@ msgid ""
 "ཐར་པ་ ལ་བ␣ར་ དུ་ གཅོད་པ␣འི་ བདུད་ དུ་ ངོ་ ཤེས་པ␣ར་ བྱས་ ལ །"
 msgstr ""
 "Etre sous l’emprise des pensée de désir attachement etc. Quand on a reconnu "
-"comme étant les démons faiseurs d’obstacle à la libération  toutes ces "
-"emprises,"
+"comme étant les démons faiseurs d’obstacle à la libération"
 
 # 。︀	〝བླ་མ〞 3870
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
