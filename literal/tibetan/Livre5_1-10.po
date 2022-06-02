@@ -4296,6 +4296,18 @@ msgid "གསུམ་པ་ ཚིག་ གི་ དོན་ ནི་"
 msgstr ""
 
 # 
+# 。︀	〝སྒོ〞 858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dvāra, mukhāni, mukha, gṛha Sens racine: Porte,
+# portail, Alternatives: porte (sensorielle), avenues (des sens), media,
+# opportunité, portail, approche (à), seuilaspect
+# 
+# 。︀	〝སྒོ་ནས〞 859
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au moyen de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Au moyen de Alternatives: grâce
+# auquel, par voie de, en vertu de quoi, par lequel, quoi, au moyen de, par le
+# biais de, à cause de quoi, sur la base duquel, grâce à ça
+# 
 # 。︀	〝དངོས〞 1084
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ réel, vrai, manifeste, évident, direct, principal
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réel ⁃ existence réelle ⁃ concret, explicite; proprement
@@ -4303,6 +4315,12 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: réel, vrai, manifeste, évident,
 # direct, principal Alternatives: réel, manifeste, évident direct, principal
 # vrai, authentique
+# 
+# 。︀	〝ཡི་གེ〞 5347
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lettre, Nom, Mot, Missive,
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
 # 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -4323,36 +4341,18 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois niveaux ou plans: supérieur (au dessus de la
 # terre), terrestre (sur la terre), et souterrain (sous la terre). Les trois
 # (premiers) niveaux de bodhisattvas ⁃ Voir : sa gsum
-msgctxt "67e7402fa2674c019185107468093677"
-msgid "ལེགས་སྦྱར་ ལ་ བྱེད་ དངོས་ ལ␣ས་ གསུམ །"
+msgctxt "71a0d8cbc1d94a87af975d621e34243b"
+msgid ""
+"ལེགས་སྦྱར་ ལ་ བྱེད་ དངོས་ ལ␣ས་ གསུམ །  ཡི་གེ་ ཕྱིས་ བསྣན་ ལ་སོགས་པ␣འི་ སྒོ་ "
+"ནས་ འཆད་པ་ དང༌ །"
 msgstr ""
 
-# 
-# 。︀	〝སྒོ〞 858
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dvāra, mukhāni, mukha, gṛha Sens racine: Porte,
-# portail, Alternatives: porte (sensorielle), avenues (des sens), media,
-# opportunité, portail, approche (à), seuilaspect
-# 
-# 。︀	〝སྒོ་ནས〞 859
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au moyen de
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Au moyen de Alternatives: grâce
-# auquel, par voie de, en vertu de quoi, par lequel, quoi, au moyen de, par le
-# biais de, à cause de quoi, sur la base duquel, grâce à ça
-# 
-# 。︀	〝ཡི་གེ〞 5347
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lettre, Nom, Mot, Missive,
-# 
-# 。︀	〝ལ་སོགས་པ〞 6000
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
 # 
 # 。︀	〝བཤད〞 6272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
 # Etudier,
 msgctxt "5c42b1bef63442f4bc581438ecf4f609"
-msgid ""
-"ཡི་གེ་ ཕྱིས་ བསྣན་ ལ་སོགས་པ␣འི་ སྒོ་ ནས་ འཆད་པ་ དང༌ །  བོད་སྐད་ ལ་ གང་ བཤད་ "
-"བྱ །"
+msgid "བོད་སྐད་ ལ་ གང་ བཤད་ བྱ །"
 msgstr ""
 
 msgctxt "9679708f6f0041f6948ded8aef5c37db"
