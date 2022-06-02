@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr_FR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #  1. བརྒྱད་པ་འགལ་ཟླ་སྤང་བར་བཤད་པ་ལ་གཉིས། སྡིག་པའི་གྲོགས་དང༌། བདུད་ཀྱི་
 # 
@@ -227,6 +227,6 @@ msgid ""
 msgstr ""
 "En général, on distingue 4 démons : le démon des émotions perturbatrices etc.\n"
 "\n"
-"Dans le détail, les soutras et les instructions directes décrivent trois fois six, soit dix-huit des démons ( six démons extérieurs, six intérieurs et six secrets. Ils décrivent aussi dans le détail, les causes qui les font entrer en nous, leurs actions et leurs domaines d’activité, les signes que l’on a reçu leur bénédiction ainsi que les méthodes ordinaires et extraordinaires  pour les pacifier. \n"
-"Dans le présent contexte, il nous faut reconnaitre comme  des démons faisant obstacle à la libération les situations les situations dans lesquelles nous ne sommes plus maître de nous même, comme être sous l'emprise des démons est chercher la faute chez le maître et ne pas avoir envie de persévérer dans l’écoute et la réflexion, s’adonner aux cause de la colère comme semer la discorde ou les bavardages inutiles, être distrait par la nourriture, la boisson, sa maison et son mobilier, le commerce ou autre activité mondaine, sombrer dans le sommeil, la torpeur et la paresse, être sous l’emprise des pensée de désir attachement \n"
+"Dans le détail, les soutras et les instructions directes décrivent trois fois six, soit dix-huit des démons ( six démons extérieurs, six intérieurs et six secrets). Ils décrivent aussi dans le détail, les causes qui les font entrer en nous, leurs actions et leurs domaines d’activité, les signes que l’on a reçu leur bénédiction ainsi que les méthodes ordinaires et extraordinaires  pour les pacifier. \n"
+"Dans le présent contexte, il nous faut reconnaitre comme  des démons faisant obstacle à la libération le fait de chercher la faute chez le maître et ne pas avoir envie de persévérer dans l’écoute et la réflexion, de s’adonner aux cause de la colère comme semer la discorde ou les bavardages inutiles, d'être distrait par la nourriture, la boisson, sa maison et son mobilier, le commerce ou autre activité mondaine, de sombrer dans le sommeil, la torpeur et la paresse et être sous l’emprise des pensée de désir attachement etc.  \n"
 "Ensuite,  il faut avoir foi et respect pour le Lama et les frères et sœurs du Dharma, persévérance pour, l'écoute, la réflexion et la méditation, une confiance sans faille envers le Dharma, et, sans tomber sous l’emprise des pensées discursives et de la distraction, enfiler l’armure de l’antidote, et ainsi être expert en l'anéantissement des démons."
