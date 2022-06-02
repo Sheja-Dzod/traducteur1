@@ -24,7 +24,7 @@ msgstr ""
 # correctd'apparence
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 msgctxt "2ac67e8b86214136a0e461459bd645cc"
-msgid "﻿བཞི་པ་ དེ་ལས་ འཕྲོས་པ␣འི་ འཇུག་ལྡོག་ བྱ་བ␣འི་ ཚུལ་ ནི །"
+msgid "བཞི་པ་ དེ་ལས་ འཕྲོས་པ␣འི་ འཇུག་ལྡོག་ བྱ་བ␣འི་ ཚུལ་ ནི །"
 msgstr ""
 
 # 

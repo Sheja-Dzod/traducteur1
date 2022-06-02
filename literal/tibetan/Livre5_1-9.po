@@ -22,7 +22,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
 # Etudier,
 msgctxt "4f85e7f33d0f41c69a6daacc5c4cf4d8"
-msgid "﻿དགུ་པ་ དད་པ་ བསྟེན་པ␣ར་ བཤད་པ་ ནི །"
+msgid "དགུ་པ་ དད་པ་ བསྟེན་པ␣ར་ བཤད་པ་ ནི །"
 msgstr ""
 
 # 
