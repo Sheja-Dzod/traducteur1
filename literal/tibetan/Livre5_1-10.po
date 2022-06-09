@@ -9160,15 +9160,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ sgrib pa gnyis Sens racine: voile, obscurcissement ; les
 # deux voiles, le double voile
 # 
-# 。︀	〝ཐོབ་པ〞 2249
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
-# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
-# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
-# imminente, réalisation, gain, achèvement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
-# Obtention
-# 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
@@ -9186,6 +9177,25 @@ msgstr ""
 # Alternatives: la totalité, sans exception, sans en oulier, omettre un seul,
 # sans en laisser derrière, tous
 # 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "020c6ed979044df09c7b1b99d87c0ef5"
+msgid "ལམ་ དུས་ སུ་ སྒྲིབ་པ་ མ་ལུས་པ་ སྤོང་བ །"
+msgstr ""
+
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
 # 。︀	〝རྫོགས་པ〞 4886
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parachever, Parfaire, Parachevé, Parfait, Accompli,
 # Complet, ⁃ parfait, complet, plein, parachevé
@@ -9193,12 +9203,6 @@ msgstr ""
 # 
 # 。︀	〝རྫོགས་པའི་སངས་རྒྱས〞 4891
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le parfait Bouddha,
-# 
-# 。︀	〝ལམ〞 6008
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
-# lam comme articule grammaticale, ⁃ voie, chemin
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
 # 
 # 。︀	〝སངས་རྒྱས〞 6308
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ l'état d'éveil, bouddha, un être éveillé
@@ -9218,8 +9222,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
 msgctxt "36c99d710f56413cab3e4c484d959320"
 msgid ""
-"ལམ་ དུས་ སུ་ སྒྲིབ་པ་ མ་ལུས་པ་ སྤོང་བ །  འབྲས་དུས་ སུ་ རྫོགས་པ␣འི་ སངས་རྒྱས་"
-" ཐོབ་པ␣འི་ ལུང་ རྒྱ་ ཆེ␣ར་ འབྱུང་ ངོ༌ ། །"
+"འབྲས་དུས་ སུ་ རྫོགས་པ␣འི་ སངས་རྒྱས་ ཐོབ་པ␣འི་ ལུང་ རྒྱ་ ཆེ␣ར་ འབྱུང་ ངོ༌ ། །"
 msgstr ""
 
 # 
