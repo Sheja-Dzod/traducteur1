@@ -8463,6 +8463,32 @@ msgid "བྱེ་བྲག་ ཆོས་ ཉན་པ␣འི་ ཕན་�
 msgstr ""
 
 # 
+# 。︀	〝རྣམ་བཤད〞 3194
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parfaite explication
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rnam par bshad pa vyākhyā, vivṛtti Sens racine:
+# Parfaite explication Alternatives: explication (détaillée), commentaire,
+# exposer, commenter, exposition
+# 
+# 。︀	〝རིགས་པ〞 5883
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ logique
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "8b4984b4294142ad8a8c99eb3691cd37"
+msgid "རྣམ་བཤད་ རིགས་པ་ ལ␣ས །"
+msgstr ""
+
+# 
 # 。︀	〝བཅོམ་ལྡན་འདས〞 1272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bhagavan, Le Bienheureux «Le Subjugueur des démons,
 # détenteur des excellentes qualités, transcendant les extrêmes du samsara et
@@ -8499,32 +8525,8 @@ msgstr ""
 # Phénomène  "
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
-# 
-# 。︀	〝རྣམ་བཤད〞 3194
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parfaite explication
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rnam par bshad pa vyākhyā, vivṛtti Sens racine:
-# Parfaite explication Alternatives: explication (détaillée), commentaire,
-# exposer, commenter, exposition
-# 
-# 。︀	〝རིགས་པ〞 5883
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ logique
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "610eed12c37842238031b434741d0f68"
-msgid ""
-"རྣམ་བཤད་ རིགས་པ་ ལ␣ས །  བཅོམ་ལྡན་འདས་ ཀྱིས་ ཆོས་ ཉན་པ་ ལ་ ཕན་ཡོན་ ལྔ་ གསུངས་"
-" ཏེ"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཆོས་ ཉན་པ་ ལ་ ཕན་ཡོན་ ལྔ་ གསུངས་ ཏེ"
 msgstr ""
 
 # 
