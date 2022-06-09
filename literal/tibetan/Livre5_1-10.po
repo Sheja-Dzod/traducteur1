@@ -8228,12 +8228,6 @@ msgid "དེ་ ལ་ སྤྱིར་ ཐོས་བསམ་ བྱས་
 msgstr ""
 
 # 
-# 。︀	〝ཐོས་པ〞 2255
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entendre, Ecouter, Etudier, Audition.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śruta Sens racine:
-# Entrendre,Ecouter,Etudier,Audition., learning (SL MW) Alternatives:
-# écouterentendre, comprendreétudierécoute, audition, compréhension
-# 
 # 。︀	〝རྣམ་འབྱེད〞 3165
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
 # Différenciation, ⁃ Parfaite analyse,  Complet examen,
@@ -8241,9 +8235,6 @@ msgstr ""
 # vibhaṅga, vibhāga Sens racine: Parfaite analyse, Complet examen,
 # Alternatives: analyse, discerner, discernemntles textes analytiques de
 # Maitreya
-# 
-# 。︀	〝ཡོད〞 5528
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
 # 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -8256,8 +8247,21 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "84d472cd10014ba899f306c829b84d4d"
+msgid "ལུང་ རྣམ་འབྱེད་ ལ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝ཐོས་པ〞 2255
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entendre, Ecouter, Etudier, Audition.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śruta Sens racine:
+# Entrendre,Ecouter,Etudier,Audition., learning (SL MW) Alternatives:
+# écouterentendre, comprendreétudierécoute, audition, compréhension
+# 
+# 。︀	〝ཡོད〞 5528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
 msgctxt "8fb03024fa9f47c488069fde543abbcd"
-msgid "ལུང་ རྣམ་འབྱེད་ ལ␣ས །  མང་ དུ་ ཐོས་པ་ ལ་ ཕན་ཡོན་ ལྔ་ ཡོད་ དེ །"
+msgid "མང་ དུ་ ཐོས་པ་ ལ་ ཕན་ཡོན་ ལྔ་ ཡོད་ དེ །"
 msgstr ""
 
 # 
