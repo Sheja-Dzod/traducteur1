@@ -2661,7 +2661,7 @@ msgid ""
 "གང་ འཆད་པ␣འི་ དོན་ དེ་ ལེགས་པ␣ར་ ཤེས་ ཤིང་ ཕན་ འདོད་ ཀྱིས་ ཟང་ཟིང་ ལ་ "
 "ལྟོས་མེད་ དུ་ འཆད་པ␣འི་ སྙིང་རྗེ་ ངེས་པར་ དགོས་ ཏེ"
 msgstr ""
-"il doit nécessairement avoir la compassion consistant à très bien enseigner,"
+"il doit nécessairement avoir la compassion consistant à très bien connaitre,"
 " sans porter d'intérêt aux biens matériels,  le sens de ce qu'il enseigne  "
 "et avec l'intention que ce soit bénéfique. En effet,"
 
