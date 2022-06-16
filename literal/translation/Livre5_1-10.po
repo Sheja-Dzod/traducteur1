@@ -8361,7 +8361,9 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
 msgctxt "cad8b9ec5264441c9b06bf0a1383e29d"
 msgid "དེ་ ལ་ སྤྱིར་ ཐོས་བསམ་ བྱས་པ␣འི་ ཕན་ཡོན་ ནི །"
-msgstr "A ce sujet, les bienfaits qu'il y a l'écoute et la réflexion sont"
+msgstr ""
+"A ce sujet, en général, les bienfaits qu'il y a l'écoute et la réflexion "
+"sont"
 
 # 。︀	〝རྣམ་འབྱེད〞 3165
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
