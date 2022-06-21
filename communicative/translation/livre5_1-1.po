@@ -356,10 +356,10 @@ msgid ""
 msgstr ""
 "Si vous demandez quelle genre de maitre spirituel doit-on rechercher ? les ‘’Propos énoncés intentionnellement’’ disent : \n"
 "\n"
-"Ceux qui s’en remettent à un maitre inférieur, dégénéreront\n"
-"Ceux qui s’en remettent à un maitre égale à eux même, stagneront\n"
+"\"Ceux qui s’en remettent à un maitre inférieur, dégénéreront\n"
+"Ceux qui s’en remettent à un maitre égale à eux même, stagneront,\n"
 "Ceux qui s’en remettent à un maitre supérieur, excelleront\n"
-"Par conséquent, remettons-en nous à un maitre qui nous est supérieur."
+"Par conséquent, remettons-en nous à un maitre qui nous est supérieur.\""
 
 #  54. བཤེས་གཉེན་དེའང་ 55. ཚུལ་ཁྲིམས་དང་མང་དུ་ཐོས་པ་དང་ཏིང་ངེ་འཛིན་
 # 
