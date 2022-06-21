@@ -29,7 +29,8 @@ class Po:
 
     def write_txt(self):
         orig_trans, trans, pars_trans = self.format_entries()
-
+        if '5_1-10' in self.infile.stem:
+            print()
         bitext = self.infile.parent / (self.infile.stem + '.txt')
         bitext.write_text(orig_trans, encoding='utf-8')
 

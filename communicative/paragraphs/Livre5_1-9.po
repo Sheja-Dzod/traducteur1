@@ -34,10 +34,10 @@ msgctxt "line 3, Livre5_1-9.txt"
 msgid ""
 "Le Soutra Dharani du Rare et Précieux Palmier dit : Commencez (en "
 "préliminaire) par développer la foi comme envers une mère (comme un enfant "
-"envers sa mère), puis, Elle résous (le temps utilisé est le présent) les "
-"doutes et libère des fleuves (du samsara) La foi illustre (ce qu’est) la "
-"cité du bonheur et de l’excellence. Ceci etc. (ainsi que d’autres choses) "
-"sont dites (dans ce soutra)."
+"envers sa mère) : Elle résous (le temps utilisé est le présent) les doutes "
+"et libère des fleuves (de la naissance, vieillesse, maladie et de la mort). "
+"La foi illustre (ce qu’est) la cité du bonheur et de l’excellence. Ceci etc."
+" (ainsi que d’autres choses) sont dites (dans ce soutra)."
 msgstr ""
 
 #  9. དེ་ལ་དང་བའི་ངོ་བོ་ནི། 10. སྤང་བླང་གི་ཡུལ་འཇུག་ལྡོག་ལ་དམིགས་
@@ -51,48 +51,45 @@ msgid ""
 "rejeter."
 msgstr ""
 
-#  11. དེ་ལ་དབྱེ་ན་ཆོས་མངོན་པར། དད་པ་གང་ཞེ་ན། 12. ལས་དང་འབྲས་བུ་
+#  11. དེ་ལ་དབྱེ་ན་ཆོས་མངོན་པར། 12. དད་པ་གང་ཞེ་ན། 13. ལས་དང་འབྲས་བུ་
 # 
-# དང་བདེན་པ་དང༌། 13. དཀོན་མཆོག་ལ་མངོན་པར་ཡིད་ཆེས་པ་དང༌། 14. འདོད་པ་
+# དང་བདེན་པ་དང༌། དཀོན་མཆོག་ལ་མངོན་པར་ཡིད་ཆེས་པ་དང༌། འདོད་པ་
 # 
-# དང༌། སེམས་དང་བའོ། ། 15. ཞེས་གསུངས་པས།་
+# དང༌། སེམས་དང་བའོ། ། 14. ཞེས་གསུངས་པས།་
 msgctxt "line 5, Livre5_1-9.txt"
 msgid ""
 "Ses divisions sont selon Le Condensé de l’ Abhidharma: Qu’est-ce que la "
-"foi ? le actes et leurs résultats, la vérité, et envers les (3) joyaux, une "
-"confiance claire (manifeste), un inspiration et un esprit pur. (la foi "
-"consiste à avoir confiance claire, de l’inspiration et l’esprit pure envers "
-"les actes et leurs résultats, la vérité et les trois joyaux). Il est dit, "
-"donc,"
+"foi ? Avoir une réelle confiance, aspiration et inspiration envers les actes"
+" et leurs conséquences, la vérité et les trois joyaux (litt. les rares et "
+"suprêmes) Il est dit, donc,"
 msgstr ""
 
-#  16. དང་བའི་དད་པ། ཡིད་ཆེས་པའི་དད་པ། འདོད་པའི་དད་པ་རྣམས་སུ་ཡོད་
+#  15. དང་བའི་དད་པ། ཡིད་ཆེས་པའི་དད་པ། འདོད་པའི་དད་པ་རྣམས་སུ་ཡོད་
 # 
-# པ་ལས། ད 17. ང་པོ་ནི། 18. ཡུལ་དཀོན་མཆོག་ལ་བརྟེན་ཏེ། 19. དཀོན་མཆོག་གསུམ་དང་བླ་
+# པ་ལས། 16. དང་པོ་ནི། 17. ཡུལ་དཀོན་མཆོག་ལ་བརྟེན་ཏེ། 18. དཀོན་མཆོག་གསུམ་དང་བླ་
 # 
-# མར་མོས་ཤིང་སེམས་དང་བའོ། ། 20. གཉིས་པ་ནི། 21. ལས་རྒྱུ་འབྲས་ལ་ཡིད་ཆེས་
+# མར་མོས་ཤིང་སེམས་དང་བའོ། ། 19. གཉིས་པ་ནི། 20. ལས་རྒྱུ་འབྲས་ལ་ཡིད་ཆེས་
 # 
-# པའོ། ། 22. གསུམ་པ་ནི། 23. བླ་ན་མེད་པའི་བྱང་ཆུབ་ཐོབ་པའི་ཆེད་དུ་གུས་
+# པའོ། ། 21. གསུམ་པ་ནི། 22. བླ་ན་མེད་པའི་བྱང་ཆུབ་ཐོབ་པའི་ཆེད་དུ་གུས་
 # 
 # པ་དང་བཅས་ཏེ་ལམ་ལ་སློབ་པའོ། །་
 msgctxt "line 6, Livre5_1-9.txt"
 msgid ""
-"Il y a la foi pure, la foi confiante, et la foi inspirée, parmi elles, En "
-"premier : (Le premier de ces trois aspects) porte sur les joyaux comme "
-"objet, c’est être inspiré et avoir un état d’esprit pur envers les trois "
-"joyaux et les Lamas. La deuxième : C’est la confiance en les actes, causes "
-"et résultat (la loi du karma) La troisième : c’est pratiquer (litt. "
-"apprendre, s’entrainer) avec respect à la voie dans le but d’atteindre "
-"l’éveil insurpassable."
+"Il existe la foi inspirée, la foi confiante et la foi aspirante. Parmi "
+"celles ci, La première, porte sur les joyaux comme objet, c’est être inspiré"
+" et avoir un état d’esprit pur envers les trois joyaux et les Lamas. La "
+"deuxième : C’est la confiance en les actes, causes et résultat (la loi du "
+"karma) La troisième : c’est pratiquer (litt. apprendre, s’entrainer) avec "
+"respect à la voie dans le but d’atteindre l’éveil insurpassable."
 msgstr ""
 
-#  24. དེ་ཉིད་ལས། 25. འདུན་དང་ཞེ་སྡང་འཇིགས་པ་དང༌། །རྨོངས་པས་གང་ཞིག་ཆོས་མི་
+#  23. དེ་ཉིད་ལས། 24. འདུན་དང་ཞེ་སྡང་འཇིགས་པ་དང༌། །རྨོངས་པས་གང་ཞིག་ཆོས་མི་
 # 
-# འདའ། །དེ་ནི་དད་པ་ཅན་ཞེས་བྱ། ། 26. ངེས་པར་ལེགས་པའི་སྣོད་མཆོག་ཡིན། ། 27. ཅེས་
+# འདའ། །དེ་ནི་དད་པ་ཅན་ཞེས་བྱ། ། 25. ངེས་པར་ལེགས་པའི་སྣོད་མཆོག་ཡིན། ། 26. ཅེས་
 # 
 # ཆགས་སྡང་རྨོངས་གསུམ་སོགས་ཀྱི་དོན་དུ་ཆོས་མི་གཏོང་བ་ནི་
 # 
-# དད་པ་སྐྱེས་པའི་ཚད་ཡིན་ལ། ཕན་ཡོན་ནི། 28. སྐྱེས་བུ་མཆོག་གི་སེམས་
+# དད་པ་སྐྱེས་པའི་ཚད་ཡིན་ལ། 27. ཕན་ཡོན་ནི། 28. སྐྱེས་བུ་མཆོག་གི་སེམས་
 # 
 # སྐྱེ། མི་ཁོམས་པ་བརྒྱད་སྤངས་པ་སོགས་མཐའ་ཡས་ཤིང༌། 29. དད་པ་དང་ལྡན་
 # 
@@ -107,9 +104,9 @@ msgid ""
 "l’excellence définitive. Ne pas se détourner de l’enseignement à cause de "
 "l’attachement, de l’aversion, de la confusion etc, (ou d’autres émotions "
 "perturbatrices) défini (indique) le fait que l’on a la foi. Les bienfaits "
-"(de la foi): ils sont infinis comme générer l’esprit d’un être sublime, "
-"abandonner des huit conditions défavorables etc. Celui qui a la foi, même "
-"les ainsi-allés viendront à lui et lui enseignera le Dharma."
+"sont infinis comme celui de générer l’esprit d’un être sublime, abandonner "
+"des huit conditions défavorables etc. Celui qui a la foi, même les ainsi-"
+"allés viendront à lui et lui enseignera le Dharma."
 msgstr ""
 
 #  31. དཀོན་མཆོག་ཏ་ལར། 32. རྒྱལ་དང་རྒྱལ་བའི་ཆོས་ལ་དད་གྱུར་ཅིང༌།
@@ -148,6 +145,6 @@ msgid ""
 "Bodhisattvas. Ce qui est dit. Pour résumer, puisque la foi s’avère être la "
 "base de tous les dharmas blancs (de tout le vertueux), appliquez vous aux "
 "causes et conditions la faisant naître et se développer. abandonnez les "
-"causes et conditions la détériorant et efforcez vous à affermir ce qui est "
-"déjà né en vous."
+"causes et conditions la détériorant et affermissez ce qui est déjà né en "
+"vous. Efforcez vous à cela."
 msgstr ""
