@@ -236,8 +236,8 @@ msgstr ""
 "tout temps, il n’est cause que de conditions supérieures et d’excellence "
 "ultime, il est vertu. Ainsi, l’enseignement du Bouddha est, à tous égards, "
 "la source des bienfaits et des bonheurs que l’on ne retrouve pas dans les "
-"enseignements des autres enseignants comme celle du Rishi Kapila ou les "
-"autres. "
+"enseignements des autres enseignants comme celui du Rishi Kapila ou d'autres"
+" enseignants."
 
 #  32. རྒྱལ་སྲས་ཞི་བ་ལྷས།་
 msgctxt "line 14, livre5_1-1.txt"
