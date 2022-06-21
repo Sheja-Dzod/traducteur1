@@ -1,16 +1,17 @@
 # 
 # Translators:
 # Drupchen Dorje <drupchen@dharmasagar.org>, 2022
+# Damien Jampa, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Drupchen Dorje <drupchen@dharmasagar.org>, 2022\n"
+"Last-Translator: Damien Jampa, 2022\n"
 "Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr_FR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #  1. ༄༅། །ཐེག་པའི་སྒོ་ཀུན་ལས་བཏུས་པ་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་བསླབ་
 # 
@@ -53,9 +54,9 @@ msgid ""
 msgstr ""
 "Quand on franchi la porte, de ce très précieux et toujours présent en notre "
 "monde enseignement du Bouddha, il faut impérativement, pour commencer, s’en "
-"remettre excellement un maître spirituel qui est la base de toutes les "
-"réalisations manifestes de la libération sacrée. Puis, il faut s' entrainer "
-"aux trois vœux. Par conséquent, l’explication progressive et détaillée de "
+"remettre excellement un ami de vertu qui est la base de toutes les "
+"réalisations manifestes de la libération sacrée et s' entrainer aux trois "
+"vœux. Par conséquent, l’explication progressive et détaillée de "
 "l’entrainement à la discipline supérieure forme ce cinquième livre. Il est "
 "divisée en 4 parties. "
 
