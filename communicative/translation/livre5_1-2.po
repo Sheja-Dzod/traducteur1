@@ -183,8 +183,8 @@ msgid ""
 "Le maitre spirituel est comme le batelier parce qu’il nous fait traverser "
 "(litt nous libère) l’immense fleuve du samsara."
 msgstr ""
-"Le maitre spirituel est comme le batelier parce qu’il nous fait traverser "
-"l’immense fleuve du samsara."
+"\"Le maitre spirituel est comme le batelier parce qu’il nous fait traverser "
+"l’immense fleuve du samsara.\""
 
 #  29. ཞེས་པ་ལ་སོགས་པ་དུ་མས་བསྟན་པ་བཞིན་ནོ། །་
 msgctxt "line 19, livre5_1-2.txt"
