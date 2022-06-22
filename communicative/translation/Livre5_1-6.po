@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr_FR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #  1. དྲུག་པ་ཇི་ལྟར་བསྟེན་པའི་ཚུལ་བཤད་པ་ལ་གཉིས། །ཐོག་མར་འབྲེལ་བ་
 # 
@@ -21,7 +21,7 @@ msgid ""
 "deux : l’examen initial de la (leur) relation puis, s’en remettre."
 msgstr ""
 "6.  Comment s’en remettre au maître. Cet exposé se divise en deux parties : "
-"L'examen initial, puis, comment s’en remettre à lui."
+"L'examen initial de la relation puis, comment s’en remettre à lui."
 
 #  2. དང་པོ་ནི། 3. རིན་ཆེན་ལྟ་བུའི་དཔོན་སློབ་འབྲེལ་བརྟགས་ནས། །་
 msgctxt "line 2, Livre5_1-6.txt"
