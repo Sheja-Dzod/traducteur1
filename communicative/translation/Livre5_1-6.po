@@ -255,47 +255,37 @@ msgstr ""
 # 
 # དྲིལ་ཕྱིས་སོགས་འཕྲལ་གྱི་བྱ་བ་ཐམས་ཅད་ཞི་དེས་དང་ཡིད་
 # 
-# གཞུངས་པར་བྱ།་
+# གཞུངས་པར་བྱ། 44. གསུམ་པ་སྒྲུབ་པའི་སྒོ་ནས་བསྟེན་པ་ནི། 45. བླ་མས་བསྒོ་
+# 
+# བ་ཐམས་ཅད་ལ་སྒྲུབ་པ་བཀའ་བློ་བདེ་བ་དང༌། 46. ཆོས་བསྟན་པ་
+# 
+# ཐམས་ཅད་ལ་ཐོས་བསམ་སྒོམ་པ་སོགས་ཅི་རིགས་པར་ནན་ཏན་
+# 
+# གྱིས་སྒྲུབ་པ་ནི་ 47. སྔ་མ་རྣམས་ལས་ཀྱང་བསྙེན་བཀུར་གྱི་མཆོག་
+# 
+# སྟེ་ཡང་དག་པའི་དགེ་བའི་བཤེས་གཉེན་སྒྲུབ་པའི་མཆོད་པས་མཉེས་
+# 
+# པར་བྱ་བ་ཡིན་གྱི་རྙེད་སོགས་ཀྱིས་མ་ཡིན་པའི་ཕྱིར་རོ། །་
+# 
+# 
 msgctxt "line 11, Livre5_1-6.txt"
 msgid ""
 "Deuxièmement, le service : (servir le maitre). Après avoir rendu hommage "
 "(litt. prosterné), agir avec calme, application et l’esprit clair et avisé "
 "(professionnel) pour accomplir les tâches quotidiennes (litt. activités "
 "temporaires) comme la toilette, les massages, l’ablation des callosités etc."
-msgstr ""
-"Deuxièmement, servir le maitre. \n"
-"\n"
-"Après s'être prosterné, le disciple agit avec calme, application et avec un esprit clair et avisé pour accomplir les tâches quotidiennes comme la toilette, les massages, l’ablation des callosités."
-
-#  44. 	གསུམ་པ་སྒྲུབ་པའི་སྒོ་ནས་བསྟེན་པ་ནི། 45. བླ་མས་བསྒོ་བ་ཐམས་ཅད་
-# 
-# ལ་སྒྲུབ་པ་བཀའ་བློ་བདེ་བ་དང༌། 46. ཆོས་བསྟན་པ་ཐམས་ཅད་ལ་
-# 
-# ཐོས་བསམ་སྒོམ་པ་སོགས་ཅི་རིགས་པར་ནན་ཏན་གྱིས་སྒྲུབ་པ་
-# 
-# ནི་ 47. སྔ་མ་རྣམས་ལས་ཀྱང་བསྙེན་བཀུར་གྱི་མཆོག་སྟེ་ཡང་དག་
-# 
-# པའི་དགེ་བའི་བཤེས་གཉེན་སྒྲུབ་པའི་མཆོད་པས་མཉེས་པར་བྱ་བ་
-# 
-# ཡིན་གྱི་རྙེད་སོགས་ཀྱིས་མ་ཡིན་པའི་ཕྱིར་རོ། །་
-msgctxt "line 12, Livre5_1-6.txt"
-msgid ""
-"S’en remettre à lui par la pratique. Accepter avec plaisir d’accomplir tout "
-"ce que le lama commande de faire (les directives) et, Pratiquer avec "
+" S’en remettre à lui par la pratique. Accepter avec plaisir d’accomplir tout"
+" ce que le lama commande de faire (les directives) et, Pratiquer avec "
 "application tous les Dharmas enseignés que ce soit par l’écoute, la "
 "réflexion, la méditation etc (ou d’une autre manière),& est un service "
 "encore plus suprême que ce qui a été exposé précédemment. La raison est que "
 "l’on réjouit un maitre spirituel authentique par l’offrande de la pratique "
 "et non par les offrande matérielles etc."
 msgstr ""
-"Troisièmement, s’en remettre au maître par la pratique consiste à accepter "
-"avec plaisir d’accomplir tout ce que le lama commande de faire ainsi que "
-"pratiquer avec application tous les Dharmas enseignés que ce soit par "
-"l’écoute, la réflexion, la méditation ou de toute autre manière. La pratique"
-" est un service encore plus suprême que tout ce qui a été exposé "
-"précédemment car c'est par l'offrande de la pratique que l’on réjouit un "
-"maitre spirituel authentique et non par les offrande matérielles et autres "
-"services."
+"Deuxièmement, servir le maitre. \n"
+"Après s'être prosterné, le disciple agit avec calme, application et avec un esprit clair et avisé pour accomplir les tâches quotidiennes comme la toilette, les massages, l’ablation des callosités etc. \n"
+"\n"
+"Troisièmement, s’en remettre au maître par la pratique consiste à accepter avec plaisir d’accomplir tout ce que le lama commande de faire ainsi que  pratiquer avec application tous les Dharmas enseignés que ce soit par l’écoute, la réflexion, la méditation ou de toute autre manière.  La pratique est un service encore plus suprême que tout ce qui a été exposé précédemment car c'est par l'offrande de la pratique que l’on réjouit un maitre spirituel authentique et non par les offrande matérielles et autres services. "
 
 #  48. སྡོང་པོ་བཀོད་པ་ལས་ཀྱང༌། 49. ཁྱོད་ཀྱིས་དགེ་བའི་བཤེས་གཉེན་འཚོལ་བ་ལ་
 # 
@@ -306,7 +296,7 @@ msgstr ""
 # བས་ས་ལྟ་བུའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། ། 52. ཅི་བསྒོ་བ་ཉན་པར་
 # 
 # བྲན་ལྟ་བུའི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། ། 53. ཞེས་སོགས་གསུངས་སོ། །་
-msgctxt "line 13, Livre5_1-6.txt"
+msgctxt "line 12, Livre5_1-6.txt"
 msgid ""
 "Le Avataṃsaka sūtra dit : Ne vous découragez jamais dans votre quête d’un "
 "maitre spirituel. Même après l’avoir trouvé, ensuite, honorez le par une "
@@ -322,4 +312,4 @@ msgstr ""
 "\"Ne vous découragez jamais dans votre quête d’un maitre spirituel. \n"
 "Même après l’avoir trouvé, honorez le par une pratique qui rien n'omet. \n"
 "Développez l’idée que vous êtes comme la Terre qu’aucune charges ne lasse. \n"
-"Développez l’idée que vous êtes comme un serviteur qui répond à toutes les injonctions.\" "
+"Développez l’idée que vous êtes comme un serviteur qui répond à toutes les injonctions. \""
