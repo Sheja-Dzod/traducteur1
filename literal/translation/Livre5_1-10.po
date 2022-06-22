@@ -4446,7 +4446,7 @@ msgstr "En tibétain: ce qui est enseigné,"
 
 msgctxt "9679708f6f0041f6948ded8aef5c37db"
 msgid "གང་ གིས་ འཆད་ བྱེད །"
-msgstr "par qui c'est enseigné,"
+msgstr "de quelle manière c'est enseigné"
 
 # 。︀	〝སྒྲ〞 898
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ son
@@ -4494,7 +4494,7 @@ msgid ""
 "ཇི་ལྟར་ བཤད་པ␣འི་ ལ␣ས་ གསུམ་ དང་ སྦྱར་ ཞིང༌ །  དེ␣འང་ ཐོག་མ␣ར་ སྒྲ␣འམ་ ཚིག་ "
 "ལ་ བརྟེན་ ནས་"
 msgstr ""
-"comment enseigner. (ces trois) sont les trois activités appliquées ( a "
+"comment c'est enseigné. (ces trois) sont les trois activités appliquées ( a "
 "l'enseignement). A ce sujet, il commencera en s'appuyant sur les sons ou les"
 " mots "
 
