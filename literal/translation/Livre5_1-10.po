@@ -4494,7 +4494,7 @@ msgid ""
 "ཇི་ལྟར་ བཤད་པ␣འི་ ལ␣ས་ གསུམ་ དང་ སྦྱར་ ཞིང༌ །  དེ␣འང་ ཐོག་མ␣ར་ སྒྲ␣འམ་ ཚིག་ "
 "ལ་ བརྟེན་ ནས་"
 msgstr ""
-"comment enseigner. (ces trois) sont les trois activités appliquées ( a "
+"comment c'est enseigné. (ces trois) sont les trois activités appliquées ( a "
 "l'enseignement). A ce sujet, il commencera en s'appuyant sur les sons ou les"
 " mots "
 
