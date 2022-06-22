@@ -384,10 +384,10 @@ msgid ""
 msgstr ""
 "Puis, tel qu' énoncé dans Le Pancakrama : \n"
 "\n"
-"Celui qui déprécie, trompe et n’a pas de foi envers le Lama,\n"
+"\"Celui qui déprécie, trompe et n’a pas de foi envers le Lama,\n"
 "Qui est enorgueilli par les Mantras et fier d’avoir lu des textes, \n"
 "Qui n’a pas de foi et n’a pas reçu d’initiation,\n"
-"A celui là, il ne faut pas enseigner les instructions progressives. "
+"A celui là, il ne faut pas enseigner les instructions progressives. \""
 
 #  71. སྐྱོན་ཡོན་འདྲེས་པ་ལ་དད་པ་དང་སོགས་ཁོངས་ནས་དོན་གཉེར་ལྡན་
 # 
