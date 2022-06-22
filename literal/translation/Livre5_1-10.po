@@ -4446,7 +4446,7 @@ msgstr "En tibétain: ce qui est enseigné,"
 
 msgctxt "9679708f6f0041f6948ded8aef5c37db"
 msgid "གང་ གིས་ འཆད་ བྱེད །"
-msgstr "par qui c'est enseigné,"
+msgstr "de quelle manière c'est enseigné"
 
 # 。︀	〝སྒྲ〞 898
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ son
