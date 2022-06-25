@@ -1176,9 +1176,7 @@ msgstr ""
 # plaisir, béatitude, suprême béatitude
 msgctxt "00c26d64d73c441c83f3553335432deb"
 msgid "ཀུན་རྫོབ་ ཀུནྡ་ ལྟ་བུ་ སྟེ ། ། དོན་དམ་ བདེ་བ␣འི་ གཟུགས་ཅན་ ནོ ། །"
-msgstr ""
-"\"Le relatif, semblable au jasmin, est l'incarnation de la félicité "
-"ultime.\""
+msgstr "\"Le relatif, est semblable au jasmin; L'absolu représente la félicité.\""
 
 # 。︀	〝ཁམས〞 309
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ constituant ⁃ constituant ⁃ élément (cognitif)
