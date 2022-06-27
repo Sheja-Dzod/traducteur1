@@ -1012,6 +1012,27 @@ msgid ""
 msgstr ""
 
 # 
+# 。︀	〝སྔགས〞 1190
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mantra Parole efficiente Charme ⁃ mantra, parole
+# efficiente, charme
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: MantraParole efficienteCharme
+# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrés,
+# formule magique, incantation, parole active, parole de force, ce qui
+# rappelle le suprêmeprotège-esprit, conscience, mental charme, sortlouer,
+# vanter
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
+# 
+# 。︀	〝ཆོ་ག〞 1357
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Rite, le rituel
+# 
+# 。︀	〝གཉེན་པོ〞 1772
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ antidote
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ antidote, contrecarrant, opposé ⁃ Antidote
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pratipaksha, antidote, remède
+# 
 # 。︀	〝ཐུན་མོང་གི〞 2179
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gdul bya Sens racine: les êtres ordinaires les apprentis
 # ordinaires
@@ -1053,51 +1074,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam par rtog pa Sens racine: vikalpa, penser duel,
 # dualiste concepts, conception, pensées discursives, pensées dualistes,
 # pensées
-# 
-# 。︀	〝སྤང་བྱ〞 3355
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est: à abandonner, à rejeter, à délaisser,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Ce qui est :à abandonner,à rejeter,à
-# délaisser, Alternatives: ce qui est à abandonner, à dépasser, à éviter, à se
-# débarrasser, à laisser tomber, à rejeter, à purifier, ce à quoi il faut
-# renoncer
-# 
-# 。︀	〝གཟུང་འཛིན〞 5194
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ objet (perçu) et sujet (percevant)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisie dualiste,   Saisie duelle, ⁃ Saisi et
-# saisisseur, L'objet saisi et le sujet saisisseur, Sujet et objet, ⁃ la
-# saisie duelle, sujet et objet, perception dualiste, esprit dualiste
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "appréhendé & appréhendant/d'appréhension; connu et
-# connaissant ; préhensible et préhension"
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sujet-objet (dualité) ⁃ Sujet
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: la saisie duelle sujet et objet, perception
-# dualiste, esprit dualiste
-msgctxt "5f26b270167b47b0811b2c9885e5d254"
-msgid ""
-"དེ་ལྟར་ ན་ ཐེག་པ་ ཐུན་མོང་ གི་ སྤང་བྱ་ གཟུང་འཛིན་ གྱི་ རྣམ་རྟོག་ ཕྲ་རགས་ "
-"བཞི་ དང༌ །"
-msgstr ""
-
-# 
-# 。︀	〝སྔགས〞 1190
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mantra Parole efficiente Charme ⁃ mantra, parole
-# efficiente, charme
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: MantraParole efficienteCharme
-# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrés,
-# formule magique, incantation, parole active, parole de force, ce qui
-# rappelle le suprêmeprotège-esprit, conscience, mental charme, sortlouer,
-# vanter
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
-# 
-# 。︀	〝ཆོ་ག〞 1357
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Rite, le rituel
-# 
-# 。︀	〝གཉེན་པོ〞 1772
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ antidote
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ antidote, contrecarrant, opposé ⁃ Antidote
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pratipaksha, antidote, remède
 # 
 # 。︀	〝སྤང་བྱ〞 3355
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est: à abandonner, à rejeter, à délaisser,
@@ -1170,10 +1146,22 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
 # (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཟུང་འཛིན〞 5194
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ objet (perçu) et sujet (percevant)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisie dualiste,   Saisie duelle, ⁃ Saisi et
+# saisisseur, L'objet saisi et le sujet saisisseur, Sujet et objet, ⁃ la
+# saisie duelle, sujet et objet, perception dualiste, esprit dualiste
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "appréhendé & appréhendant/d'appréhension; connu et
+# connaissant ; préhensible et préhension"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sujet-objet (dualité) ⁃ Sujet
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: la saisie duelle sujet et objet, perception
+# dualiste, esprit dualiste
 msgctxt "ace2dffd1b4e438d92118f6f82e30740"
 msgid ""
-"ཐུན་མོང་ མ་ཡིན་པ་ སྔགས་ ཀྱི་ སྤང་བྱ་ འཕོ་བ␣འི་ བག་ཆགས་ ཕྲ་རགས་ བཞི␣འི་ "
-"གཉེན་པོ␣ར་ ཆོ་ག་ མི་ འདྲ་བ་ བཞི␣འི་ དབྱེ་བ␣ས་"
+"དེ་ལྟར་ ན་ ཐེག་པ་ ཐུན་མོང་ གི་ སྤང་བྱ་ གཟུང་འཛིན་ གྱི་ རྣམ་རྟོག་ ཕྲ་རགས་ "
+"བཞི་ དང༌ །  ཐུན་མོང་ མ་ཡིན་པ་ སྔགས་ ཀྱི་ སྤང་བྱ་ འཕོ་བ␣འི་ བག་ཆགས་ ཕྲ་རགས་ "
+"བཞི␣འི་ གཉེན་པོ␣ར་ ཆོ་ག་ མི་ འདྲ་བ་ བཞི␣འི་ དབྱེ་བ␣ས་"
 msgstr ""
 
 # 
