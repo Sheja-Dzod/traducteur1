@@ -10,12 +10,12 @@ def create_total_docx(chunks, path):
     # CONFIG
     indentation = 0.5
     tibetan_style = {
-        'font': 'Jomolhari',
+        'font': 'Monlam Uni OuChan2',
         'size': 12
     }
     pedurma_style = {
         'color': (112, 128, 144),
-        'font': 'Jomolhari',
+        'font': 'Monlam Uni OuChan2',
         'size': 8
     }
     semantic_style = {
