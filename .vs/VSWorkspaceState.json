@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\communicative",
-    "\\literal",
-    "\\literal\\tibetan"
+    "\\communicative\\paragraphs",
+    "\\communicative\\translation",
+    "\\literal"
   ],
-  "SelectedNode": "\\literal\\tibetan\\Livre5_1-9.po",
+  "SelectedNode": "\\communicative\\translation\\livre5_1-1_total.docx",
   "PreviewInSolutionExplorer": false
 }
