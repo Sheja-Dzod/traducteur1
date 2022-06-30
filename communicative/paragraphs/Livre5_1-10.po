@@ -835,60 +835,73 @@ msgstr ""
 # ཁྱོད་ལ་བཤད་དོ། ། 164. ཞེས་གསུངས་ཏེ་དེའི་དོན་ནི། 165.
 # སྣོད་ཀྱི་སྐྱོན་གསུམ་སྤངས་
 # 
-# ནས་ཉན་པ་སྟེ། 166. དེའང་ལེགས་པར་ཉོན་ཞེས་པ་ནི། 167. སྣོད་ཁ་སྦུབས་ལྟ་
-# 
-# བུའི་སྐྱོན་སྤོང་བ་སྟེ། 168. སྣོད་ཁ་སྦུབས་པར་བཅུད་མི་ཡོང་བ་བཞིན། ཉན་
-# 
-# པའི་དུས་སུ་ཆོས་ལ་དོན་གཉེར་མེད་པ་དང༌། སེམས་ཡུལ་ལ་གཡེང་
-# 
-# བ་དང༌། གཉིད་རྨུགས་ཀྱི་དབང་དུ་སོང་བས་ཡིད་བསྡུས་ཏེ་ 169. ཆོས་ལ་
-# 
-# རྣ་བ་མི་གཏོད་པ་སྤངས་ལ་ཉོན། 170. ཞེས་པའོ། ། 171. རབ་ཏུ་ཉོན་ཞེས་པ་
-# 
-# ནི། 172. སྣོད་དྲི་མ་ཅན་ལྟ་བུའི་སྐྱོན་སྤོང་བ་སྟེ། 173. སྣོད་དྲི་མ་ཅན་
-# 
-# དུ་བཅུད་བླུགས་ཀྱང་ཕན་མི་ཐོགས་པ་བཞིན། སེམས་ཉོན་མོངས་པའི་དྲི་
-# 
-# མ་དང་བཅས་པས་ཆོས་ཉན་ན་ 174. རང་གཞན་གྱི་རྒྱུད་ལ་ཕན་
-# 
-# མི་ཐོགས་པས། ང་རྒྱལ་དང་མ་དད་པ་ལ་སོགས་པའི་ཉོན་མོངས་
-# 
-# པའི་བསམ་པ་སྤངས་ཏེ་ཉོན་ཞེས་པའོ། ། 175. ཡིད་ལ་ཟུངས་ལ་ཉོན་ཞེས་
-# 
-# པ་ནི། 176. སྣོད་ཞབས་རྡོལ་ལྟ་བུའི་སྐྱོན་སྤང་བ་སྟེ། 177. སྣོད་ཞབས་རྡོལ་དུ་
-# 
-# བཅུད་མི་ཆགས་པ་བཞིན། ཆོས་ཉན་པ་ལ་སྐྱོ་སྟེ་ 178. ཚིག་དོན་ལ་
-# 
-# ནན་ཏན་མ་བྱས་ན་ཕན་མི་ཐོགས་པས། 179. མི་ནུས་པའི་སྐྱོ་བ་
-# 
-# སྤངས་ལ་འབད་དེ་ཉོན། ཞེས་པའོ། །་
+# ནས་ཉན་པ་སྟེ།་
 msgctxt "line 59, Livre5_1-10.txt"
 msgid ""
 "A ce sujet un Soutra (le Soutra du Grand Véhicule appelé “questions de "
 "Maitreya”) dit: Ecoute avec excellence, complétement et de sorte à retenir! "
 "je t’enseignerai. Voila ce qui est dit. Le sens est: Ecouter après avoir "
-"abandonné les trois défauts d’un réceptacle : à ce sujet, “écoute avec "
-"excellence’’ c’est comme rejeter (abandonner) le défaut du réceptacle "
-"renversé. En effet, comme l’eau ne peut pas entrer dans un récipient "
-"renversé, quand on écoute, quand on ne s’intéresse pas au Dharma, que "
-"l’esprit vagabonde ailleurs (litt. vers “d’autres” objets) et que l’on "
-"sombre sous l’emprise du sommeil et de la torpeur, l’esprit est enfermé sur "
-"lui même (litt. rassemblé en lui même), alors, abandonne le fait de ne pas "
-"écouter attentivement (litt. orienter ses oreilles vers) le Dharma et "
-"écoute. C’est ce qui est dit. “écoute complétement’’ C’est comme abandonner "
-"le défaut du réceptacle souillé, en effet, de même qu’un liquide de qualité "
-"versé dans un récipient souillé, ne sera d’aucune utilité, écouter le Dharma"
-" (litt. si on écoute le Dharma) avec un esprit empreint (litt. possédant) "
-"des souillures des émotions perturbatrices, ne sera bénéfique ni à son "
-"esprit ni à celui des autres, par conséquent, après avoir abandonné les "
-"pensées empreintes d’émotions perturbatrices comme l’orgueil ou l’absence de"
-" foi, écoute! C’est ce qui est dit. ”écoute de sorte à retenir’’ c’est comme"
-" abandonner le défaut du récipient au fond percé. En effet, de même qu’un "
-"liquide de qualité ne reste pas dans un récipient percé, quand on s’ennuie "
-"en écoutant le Dharma, et que l’on ne prête pas attention aux mots, cela ne "
-"sera d’aucune utilité (litt. non bénéfique), par conséquent en éliminant "
-"(abandonner) l’ennui qui met en incapacité (a retenir le dharma), écoute "
-"avec assiduité. C’est ce qui est dit."
+"abandonné les trois défauts d’un réceptacle :"
+msgstr ""
+
+#  166. དེའང་ལེགས་པར་ཉོན་ཞེས་པ་ནི། 167. སྣོད་ཁ་སྦུབས་ལྟ་བུའི་སྐྱོན་སྤོང་བ་
+# 
+# སྟེ། 168. སྣོད་ཁ་སྦུབས་པར་བཅུད་མི་ཡོང་བ་བཞིན། ཉན་པའི་དུས་སུ་ཆོས་
+# 
+# ལ་དོན་གཉེར་མེད་པ་དང༌། སེམས་ཡུལ་ལ་གཡེང་བ་དང༌། གཉིད་རྨུགས་ཀྱི་
+# 
+# དབང་དུ་སོང་བས་ཡིད་བསྡུས་ཏེ་ 169. ཆོས་ལ་རྣ་བ་མི་གཏོད་
+# 
+# པ་སྤངས་ལ་ཉོན། 170. ཞེས་པའོ། །་
+msgctxt "line 60, Livre5_1-10.txt"
+msgid ""
+"à ce sujet, “écoute avec excellence’’ c’est comme rejeter (abandonner) le "
+"défaut du réceptacle renversé. En effet, comme l’eau ne peut pas entrer dans"
+" un récipient renversé, quand on écoute, quand on ne s’intéresse pas au "
+"Dharma, que l’esprit vagabonde ailleurs (litt. vers “d’autres” objets) et "
+"que l’on sombre sous l’emprise du sommeil et de la torpeur, l’esprit est "
+"enfermé sur lui même (litt. rassemblé en lui même), alors, abandonne le fait"
+" de ne pas écouter attentivement (litt. orienter ses oreilles vers) le "
+"Dharma et écoute. C’est ce qui est dit."
+msgstr ""
+
+#  171. རབ་ཏུ་ཉོན་ཞེས་པ་ནི། 172. སྣོད་དྲི་མ་ཅན་ལྟ་བུའི་སྐྱོན་སྤོང་བ་
+# 
+# སྟེ། 173. སྣོད་དྲི་མ་ཅན་དུ་བཅུད་བླུགས་ཀྱང་ཕན་མི་ཐོགས་པ་བཞིན། སེམས་
+# 
+# ཉོན་མོངས་པའི་དྲི་མ་དང་བཅས་པས་ཆོས་ཉན་ན་ 174. རང་གཞན་
+# 
+# གྱི་རྒྱུད་ལ་ཕན་མི་ཐོགས་པས། ང་རྒྱལ་དང་མ་དད་པ་ལ་
+# 
+# སོགས་པའི་ཉོན་མོངས་པའི་བསམ་པ་སྤངས་ཏེ་ཉོན་ཞེས་པའོ། །་
+msgctxt "line 61, Livre5_1-10.txt"
+msgid ""
+"\"écoute complétement’’ C’est comme abandonner le défaut du réceptacle "
+"souillé, en effet, de même qu’un liquide de qualité versé dans un récipient "
+"souillé, ne sera d’aucune utilité, écouter le Dharma (litt. si on écoute le "
+"Dharma) avec un esprit empreint (litt. possédant) des souillures des "
+"émotions perturbatrices, ne sera bénéfique ni à son esprit ni à celui des "
+"autres, par conséquent, après avoir abandonné les pensées empreintes "
+"d’émotions perturbatrices comme l’orgueil ou l’absence de foi, écoute! C’est"
+" ce qui est dit."
+msgstr ""
+
+#  175. ཡིད་ལ་ཟུངས་ལ་ཉོན་ཞེས་པ་ནི། 176. སྣོད་ཞབས་རྡོལ་ལྟ་བུའི་སྐྱོན་སྤང་
+# 
+# བ་སྟེ། 177. སྣོད་ཞབས་རྡོལ་དུ་བཅུད་མི་ཆགས་པ་བཞིན། ཆོས་ཉན་པ་ལ་
+# 
+# སྐྱོ་སྟེ་ 178. ཚིག་དོན་ལ་ནན་ཏན་མ་བྱས་ན་ཕན་མི་ཐོགས་
+# 
+# པས། 179. མི་ནུས་པའི་སྐྱོ་བ་སྤངས་ལ་འབད་དེ་ཉོན། ཞེས་པའོ། །་
+msgctxt "line 62, Livre5_1-10.txt"
+msgid ""
+"\"écoute de sorte à retenir’’ c’est comme abandonner le défaut du récipient "
+"au fond percé. En effet, de même qu’un liquide de qualité ne reste pas dans "
+"un récipient percé, quand on s’ennuie en écoutant le Dharma, et que l’on ne "
+"prête pas attention aux mots, cela ne sera d’aucune utilité (litt. non "
+"bénéfique), par conséquent en éliminant (abandonner) l’ennui qui met en "
+"incapacité (a retenir le dharma), écoute avec assiduité. C’est ce qui est "
+"dit."
 msgstr ""
 
 #  180. དྲི་མ་དྲུག་ནི། 181. རྣམ་བཤད་རིགས་པ་ལས། 182. ང་རྒྱལ་དང་ནི་མ་དད་དང༌།
@@ -897,7 +910,7 @@ msgstr ""
 # དུ་གཉེར་བ་མེད་ཉིད་དང༌། །ཕྱི་རོལ་རྣམ་གཡེང་ཡིད་བསྡུས་དང༌། །སྐྱོ་བས་
 # 
 # ཉན་པ་དྲི་མ་ཡིན། །་
-msgctxt "line 60, Livre5_1-10.txt"
+msgctxt "line 63, Livre5_1-10.txt"
 msgid ""
 "Les six souillures sont: La science de l’explication parfaite dit: Ecouter "
 "avec orgueil, absence de foi; manque d’intérêt; distrait par l’extérieur, "
@@ -917,7 +930,7 @@ msgstr ""
 # ཕྱི་མ་གཉིས་ལ་ནང་གསེས་ལྔ་
 # 
 # ལྔར་བཅས་པའང་གསུངས་སོ། །་
-msgctxt "line 61, Livre5_1-10.txt"
+msgctxt "line 64, Livre5_1-10.txt"
 msgid ""
 "Il en est comme énoncé ici. En outre, ces (6 souillures) sont inclues dans "
 "les trois défauts. De plus, dans l’expression etcétéra on retrouve les "
@@ -939,7 +952,7 @@ msgstr ""
 # མེད། ཆོས་ལ་ཞོན་པ། བླ་མ་ལ་ལམ་མཁན་ལ་སོགས་པའི་འདུ་ཤེས་
 # 
 # ཉེ་བར་བཞག་ནས་མཉན་པར་བྱའོ། །་
-msgctxt "line 62, Livre5_1-10.txt"
+msgctxt "line 65, Livre5_1-10.txt"
 msgid ""
 "Quand on écoute le Dharma, il nous faut faire comme exposé par les nombreux "
 "exemples données dans l’ Avataṃsaka sūtra Vous êtes le malade, le Dharma est"
@@ -950,12 +963,12 @@ msgid ""
 msgstr ""
 
 #  196. གསུམ་པ་གཉིས་ཀས་ཕར་ཕྱིན་དྲུག་ལྡན་དུ་བྱ་བ་ནི།་
-msgctxt "line 63, Livre5_1-10.txt"
+msgctxt "line 66, Livre5_1-10.txt"
 msgid "3. Les deux appliquent les six transcendances"
 msgstr ""
 
 #  197. གཉིས་ཀས་ཕར་ཕྱིན་དྲུག་ལྡན་ཉམས་སུ་ལེན། །་
-msgctxt "line 64, Livre5_1-10.txt"
+msgctxt "line 67, Livre5_1-10.txt"
 msgid "Les deux pratique avec les six transcendances."
 msgstr ""
 
@@ -972,7 +985,7 @@ msgstr ""
 # གཅིག་པའི་བསམ་གཏན། 204. ཚིག་དང་དོན་རྣམ་པར་འབྱེད་པའི་ཤེས་རབ་སྟེ། 205. ཕ་
 # 
 # རོལ་ཏུ་ཕྱིན་པ་དྲུག་དང་ལྡན་པར་ཉམས་སུ་ལེན་ནོ། །་
-msgctxt "line 65, Livre5_1-10.txt"
+msgctxt "line 68, Livre5_1-10.txt"
 msgid ""
 "Au moment d’enseigner et d’écouter, l’enseignant et l’auditeur doivent tout "
 "deux appliquer les six transcendances, La générosité d’ offrir les mots du "
@@ -986,14 +999,14 @@ msgid ""
 msgstr ""
 
 #  206. གསུམ་པ་རྗེས་ཀྱི་བྱ་བ་ལ་གཉིས། སློབ་དཔོན་དང༌། སློབ་མའི་བྱ་བའོ། །་
-msgctxt "line 66, Livre5_1-10.txt"
+msgctxt "line 69, Livre5_1-10.txt"
 msgid ""
 "3. Ce qu’il y a a faire ensuite à deux parties: l’activité du maître et "
 "l’activité du disciple."
 msgstr ""
 
 #  207. དང་པོ་ནི། 208. རྗེས་ནས་བཟོད་གསོལ་བསྔོ་བ་རྒྱ་ཡིས་གདབ། །་
-msgctxt "line 67, Livre5_1-10.txt"
+msgctxt "line 70, Livre5_1-10.txt"
 msgid ""
 "Premièrement : Ensuite, sceller par la demande de pardon et la dédicace."
 msgstr ""
@@ -1007,7 +1020,7 @@ msgstr ""
 # ནས་སུ། །བདག་གིས་དེ་དག་བཤགས་པར་བགྱི། ། 213. ཞེས་བྱ་བ་ལ་སོགས་པ་
 # 
 # ཇི་ལྟར་རིགས་པས་སོ། །་
-msgctxt "line 68, Livre5_1-10.txt"
+msgctxt "line 71, Livre5_1-10.txt"
 msgid ""
 "Après avoir enseigné et écouté le Dharma, demander pardon pour les erreurs "
 "commises est la première des trois actions dignes d’un maître. L’esprit sous"
@@ -1025,7 +1038,7 @@ msgstr ""
 # ནི་འགྲོ་ཀུན་ཐེག་མཆོག་དམ་པའི་ཆོས། །རིན་ཆེན་དྲི་མ་མེད་པའི་
 # 
 # སྣོད་གྱུར་ཅིག ། 218. ཅེས་སོགས་རྣམ་པར་དག་པའི་བསྔོ་སྨོན་བྱའོ། །་
-msgctxt "line 69, Livre5_1-10.txt"
+msgctxt "line 72, Livre5_1-10.txt"
 msgid ""
 "2. Dédier la vertu pour l’éveil. Par ce mérite, (puissè-je atteindre) "
 "l’omniscience etc. Ou encore, ce qu’a énoncé le Noble Asanga: Par "
@@ -1044,7 +1057,7 @@ msgstr ""
 # གསུངས་པ་ལྟརལ་འཁོར་གསུམ་རྣམ་པར་མི་རྟོག་པའི་ཤེས་རབ་ཀྱིས་
 # 
 # རྒྱས་གདབ་བོ། །་
-msgctxt "line 70, Livre5_1-10.txt"
+msgctxt "line 73, Livre5_1-10.txt"
 msgid ""
 "3. Le sceau de la non-référence L’introduction à la voie médiane dit: Vide "
 "du don, de l’objet donné, du receveur et du donneur, est ce qu’on appelle la"
@@ -1053,12 +1066,12 @@ msgid ""
 msgstr ""
 
 #  223. གཉིས་པ་སློབ་མའི་བྱ་བ་ནི།་
-msgctxt "line 71, Livre5_1-10.txt"
+msgctxt "line 74, Livre5_1-10.txt"
 msgid "2. Ce que le disciple doit faire"
 msgstr ""
 
 #  224. སློབ་མས་ཡོན་དབུལ་བསྔོ་སྨོན་དྲན་ཤེས་བསྟེན། །་
-msgctxt "line 72, Livre5_1-10.txt"
+msgctxt "line 75, Livre5_1-10.txt"
 msgid ""
 "Le disciple fait une offrande, la dédicace et les aspirations et s’applique "
 "au rappel et la vigilance"
@@ -1086,7 +1099,7 @@ msgstr ""
 # བཅས་པས་བླ་མ་མཉེས་པར་བྱའོ། ། 235. ཞེས་ཆོས་ལ་འཇུག་པའི་སྒོ་ལས་
 # 
 # གསུངས་པ་ལྟར་བྱའོ། །་
-msgctxt "line 73, Livre5_1-10.txt"
+msgctxt "line 76, Livre5_1-10.txt"
 msgid ""
 "Les trois choses que doit faire le disciple sont: en premier, l’offrande de "
 "remerciement. En se rappelant la gratitude, on offre prosternations et "
@@ -1102,14 +1115,14 @@ msgid ""
 msgstr ""
 
 #  236. བཞི་པ་ཕན་ཡོན་ནི།་
-msgctxt "line 74, Livre5_1-10.txt"
+msgctxt "line 77, Livre5_1-10.txt"
 msgid "4. Les bienfaits"
 msgstr ""
 
 #  237. ཐོས་བསམ་ཉན་བཤད་འཛིན་ཞིང་སྒྲུབ་པ་དང༌། །སྤེལ་མར་བྱས་པའི་ཕན་ཡོན་
 # 
 # མཐའ་ཡས་སོ། །་
-msgctxt "line 75, Livre5_1-10.txt"
+msgctxt "line 78, Livre5_1-10.txt"
 msgid ""
 "Infinis sont les bienfaits de l’écoute et la contemplation, d’écouter, "
 "enseigner, retenir et pratiquer et d’alterner."
@@ -1127,7 +1140,7 @@ msgstr ""
 # རག་མ་ལས་པ་ཡིན་ནོ། ། 242. ཞེས་དང༌། 243. སྐྱེས་རབས་སོགས་ལས་ཀྱང་རྒྱ་ཆེར་
 # 
 # འབྱུང་བ་ལྟར་རོ། །་
-msgctxt "line 76, Livre5_1-10.txt"
+msgctxt "line 79, Livre5_1-10.txt"
 msgid ""
 "A ce sujet, en général, les bienfaits qu’il y a l’écoute et la réflexion "
 "sont L’ Analyse des Paroles dit : Il y a cinq bienfaits à l’écoute appuyée :"
@@ -1150,7 +1163,7 @@ msgstr ""
 # སྤྱིར་ཆོས་ཐོས་པའི་ཕན་ཡོན་
 # 
 # ནི་བསམ་གྱིས་མི་ཁྱབ་པ་མདོ་རྒྱུད་ཀུན་ནས་གསུངས་སོ། །་
-msgctxt "line 77, Livre5_1-10.txt"
+msgctxt "line 80, Livre5_1-10.txt"
 msgid ""
 "En particulier, les bienfaits à écouter le Dharma. La science de "
 "l’explication parfaite dit: Le Baghavan à énoncé cinq bienfaits à écouter le"
@@ -1172,7 +1185,7 @@ msgstr ""
 # ཡོན་ཉི་ཤུ་ཐམ་པ་ལྷག་པའི་བསམ་པ་བསྐུལ་བའི་མདོ་ལས་
 # 
 # བཤད་པ་སོགས་ཤིན་ཏུ་མང་ངོ༌། །་
-msgctxt "line 78, Livre5_1-10.txt"
+msgctxt "line 81, Livre5_1-10.txt"
 msgid ""
 "Il y a aussi des bienfaits a enseigner ; (enseigner) est la meilleure des "
 "offrandes au Bouddha, le meilleur don aux êtres, le mérite s’accroitra et "
@@ -1190,7 +1203,7 @@ msgstr ""
 # བྱེ་བར་བརྗོད་མཛད་ཀྱང༌། །མཐར་མི་ཕྱིན་པར་འགྱུར་བ་ལགས། ། 257. ཞེས་སོགས་རྒྱ་
 # 
 # ཆེར་འབྱུང་ངོ༌། །་
-msgctxt "line 79, Livre5_1-10.txt"
+msgctxt "line 82, Livre5_1-10.txt"
 msgid ""
 "Les bienfaits à retenir le Dharma. Le Soutra exposant le secret des Ainsi-"
 "allés dit: Même si pendant dix million d’éons, tous les Bouddhas "
@@ -1214,7 +1227,7 @@ msgstr ""
 # གོམ་པ་བདུན་བོར་བའི་བསོད་ནམས་ཀྱང་བསམ་ལས་འདས་པར་གསུངས་
 # 
 # སོ། །་
-msgctxt "line 80, Livre5_1-10.txt"
+msgctxt "line 83, Livre5_1-10.txt"
 msgid ""
 "En particulier, les bienfaits qu’il y a a écouter et enseigner le Dharma du "
 "Grand Véhicule. Au moment de la base, (écouter et enseigner) éclipse la "
@@ -1248,7 +1261,7 @@ msgstr ""
 # པར་ཡང་སྒོམ་འཇུག་འགྱུར་ན་བསྟན་པ་དོན་མེད་འགྱུར། ། 271. ཞེས་གསུངས་པ་
 # 
 # ལྟར་རོ། །་
-msgctxt "line 81, Livre5_1-10.txt"
+msgctxt "line 84, Livre5_1-10.txt"
 msgid ""
 "Puisque s’étendre dans un enseignement dénué de pratique n’aura absolument "
 "aucun sens, les Soutras mentionnent les vingt défauts qu’il y a à se "
@@ -1274,7 +1287,7 @@ msgstr ""
 # ཡང་ནི་རབ་ཏུ་འབྱུང༌། ། 276. དེས་ནི་བྱང་ཆུབ་བླ་ན་མེད་པ་འཐོབ། ། 277. ཅེས་
 # 
 # གསུངས་སོ། །་
-msgctxt "line 82, Livre5_1-10.txt"
+msgctxt "line 85, Livre5_1-10.txt"
 msgid ""
 "Les qualités d’alterner enseignement et pratique sont dites êtres "
 "incommensurables. En effet, le Noble Nargarjuna à dit : l’écoute qui fait "
@@ -1286,7 +1299,7 @@ msgstr ""
 #  278. སློབ་དཔོན་དང་སློབ་མའི་མཚན་ཉིད་དམ་ཆོས་འཆད་ཉན་གྱི་ཚུལ་བཅས་
 # 
 # བཤད་པ་སྐབས་དང་པོའི་འགྲེལ་པའོ།། །།་
-msgctxt "line 83, Livre5_1-10.txt"
+msgctxt "line 86, Livre5_1-10.txt"
 msgid ""
 "Ceci conclut le commentaire de la première section concernant l’enseignement"
 " sur les caractéristiques du maitre et du disciple, ainsi que la manière "
