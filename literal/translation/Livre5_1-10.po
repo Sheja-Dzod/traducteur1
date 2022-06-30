@@ -4852,10 +4852,10 @@ msgid ""
 " འདི་ལྟར་ འབྲེལ་ ཞེས་ གོ་ བདེ་བ␣ར་ འཆད་པ་ དང༌ །"
 msgstr ""
 "Il doit expliquer de manière facile à comprendre, le lien qu'il y a entre "
-"les phrases. Dans certains cas, l'explication d'une première phrase ne "
-"permet pas la compréhension de la suivant, et même si elle le permet, elle "
-"n'est pas claire, même si c'est clair, certains liens sont difficiles à "
-"comprendre. "
+"les mots (et les sections de phrases). Dans certains cas, l'explication d'un"
+" premier mot ne permet pas la compréhension du suivant, et même si elle le "
+"permet, elle n'est pas claire, même si c'est clair, certains liens sont "
+"difficiles à comprendre. "
 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
