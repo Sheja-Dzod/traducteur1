@@ -4750,7 +4750,10 @@ msgstr "4. Il y a aussi deux points en ce qui concerne les connections. "
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: rejoindre, effectuer la jonction
 msgctxt "90ae466429a3449fbf83f8204eb19495"
 msgid "ཚིག་ གི་ མཚམས་ སྦྱོར་ ནི །"
-msgstr "La connexion des phrases: "
+msgstr ""
+"La connexion des mots (idi ce sont les mots et les sections de phrases "
+"reliés par des mots comme la'ang, skyang etc. ce sont ces mots  qui sont "
+"expliqués): "
 
 # 。︀	〝དངོས〞 1084
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ réel, vrai, manifeste, évident, direct, principal
