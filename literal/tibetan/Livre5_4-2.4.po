@@ -6,6 +6,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 # 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝མཚམས〞 4793
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intervalle, Intermédiaire, Limite, Jonction,
+# Frontière, Extrémité, Angle, Direction, Période,
+msgctxt "1eece67c10344777a04824c89498b0f3"
+msgid "བཞི་པ་ ཐོབ་ མཚམས་ ཀྱི་ དུས་ ནི །"
+msgstr ""
+
+# 
 # 。︀	〝དངོས་གཞི〞 1114
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratique principale, corps de la pratique, corps
 # principal de la pratique, pratique proprement dite, sujet principal
@@ -25,10 +37,6 @@ msgstr ""
 # limites, arriver au bout, finalement, dernièrement, à l'accomplissement,
 # concluant, définitif, final, ultimement, culmination
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aboutissement
-# 
-# 。︀	〝དུས〞 2405
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
 # 
 # 。︀	〝སྡོམ〞 2920
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ .des voux
@@ -54,10 +62,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conférer l'initiation
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: conférer une initiation
 # 
-# 。︀	〝མཚམས〞 4793
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intervalle, Intermédiaire, Limite, Jonction,
-# Frontière, Extrémité, Angle, Direction, Période,
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -73,9 +77,9 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ s'appliquer à la clarté (p100)
 msgctxt "be9d96e844134c7abe16fd3e1faf03c6"
 msgid ""
-"བཞི་པ་ ཐོབ་ མཚམས་ ཀྱི་ དུས་ ནི །  ཐོབ་ དུས་སྒོ་ གསུམ་ བྱིན་རླབས་ ས་བོན་ ཐེབས"
-" ། ། སྡོམ་ བཟུང་ གསལ་ གདབ་ དབབ་པ␣ས་ བྱིན་ གྱིས་ བརླབས ། །  དབང་ བསྐུར་ "
-"དངོས་གཞི␣ས་ འཕེལ་རྒྱས་ མཐར་ཐུག་ གོ  །"
+"ཐོབ་ དུས་སྒོ་ གསུམ་ བྱིན་རླབས་ ས་བོན་ ཐེབས ། ། སྡོམ་ བཟུང་ གསལ་ གདབ་ "
+"དབབ་པ␣ས་ བྱིན་ གྱིས་ བརླབས ། །  དབང་ བསྐུར་ དངོས་གཞི␣ས་ འཕེལ་རྒྱས་ མཐར་ཐུག་ "
+"གོ  །"
 msgstr ""
 
 # 
