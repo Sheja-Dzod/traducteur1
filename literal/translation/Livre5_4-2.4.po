@@ -21,7 +21,7 @@ msgstr ""
 # Frontière, Extrémité, Angle, Direction, Période,
 msgctxt "1eece67c10344777a04824c89498b0f3"
 msgid "བཞི་པ་ ཐོབ་ མཚམས་ ཀྱི་ དུས་ ནི །"
-msgstr "4. Les phases dans l'obtention (des voeux). "
+msgstr "4. Le moment où l'on obtient (les voeux). "
 
 # 。︀	〝དངོས་གཞི〞 1114
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratique principale, corps de la pratique, corps
