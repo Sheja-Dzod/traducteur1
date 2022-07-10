@@ -412,8 +412,14 @@ msgstr ""
 # 
 # 。︀	〝ཡལ་བ〞 5343
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ S'évanouir, se dissiper
-msgctxt "cb4709dbea424e69a9131761199ab03c"
-msgid "སྲུང་སྡོམ་ ཡལ་བ␣ར་ དོར་ ནས་"
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "9f94cdeb052b4bfab3877f6ccfd5b414"
+msgid "སྲུང་སྡོམ་ ཡལ་བ␣ར་ དོར་ ནས་ ལམ་ ལ་ འབད་ ཀྱང་"
 msgstr ""
 
 # 
@@ -441,14 +447,8 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gzhi ma, gzhi mo, gzhi rtsa Sens racine: le fond la base,
 # fondation, la base d’existence, la base existentielle, le fondement de
 # l’existant ; la base fondamentale
-# 
-# 。︀	〝ལམ〞 6008
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
-# lam comme articule grammaticale, ⁃ voie, chemin
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
 msgctxt "c44035dd9d0743c39a97a27f52aba3b9"
-msgid "ལམ་ ལ་ འབད་ ཀྱང་ ཉེས་པ་ ཆེན་པོ␣འི་ གཞི␣ར་ འགྱུར་བ␣ས་"
+msgid "ཉེས་པ་ ཆེན་པོ␣འི་ གཞི␣ར་ འགྱུར་བ␣ས་"
 msgstr ""
 
 # 
