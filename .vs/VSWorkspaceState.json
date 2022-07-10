@@ -3,7 +3,9 @@
     "",
     "\\communicative",
     "\\communicative\\paragraphs",
-    "\\literal"
+    "\\literal",
+    "\\literal\\tibetan",
+    "\\literal\\translation"
   ],
   "SelectedNode": "\\A_gen_literal_po.py",
   "PreviewInSolutionExplorer": false
