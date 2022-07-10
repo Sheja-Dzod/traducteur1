@@ -153,7 +153,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Vrai, authentique, correct, véridique
 msgctxt "1f469e5238c046c688bcf6d8729b7726"
 msgid "གཞི་ ནི་ ཡང་དག་ ལྟ་ དང་ སྐྱབས་སེམས་ ལྡན ། །"
-msgstr "La base est la vue parfaite, le refuge et l'esprit d'éveil "
+msgstr "La base est la vue parfaite, le refuge, l'esprit d'éveil "
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
