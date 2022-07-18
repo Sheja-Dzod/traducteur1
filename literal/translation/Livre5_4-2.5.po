@@ -726,7 +726,7 @@ msgstr "puis,"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "e31d34fe856a4894bdeb0698d0b41fd4"
 msgid "འཇམ་དཔལ་ སྒྱུ་འཕྲུལ་ དྲྭ་བ་ ལ␣ས །"
-msgstr "Le Filet Magique de Manjusri dit:"
+msgstr "Le Filet Magique de Manjushri (le coral des noms de manjushri) dit:"
 
 # 。︀	〝འགྲོ་བ〞 730
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
