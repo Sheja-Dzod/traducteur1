@@ -797,7 +797,7 @@ msgstr "puis,"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 msgctxt "c98bc14d0ec5410498a08a095e136213"
 msgid "མཐོང་བ་ ཙམ་ གྱི་ མོད་ ལ་ ནི ། ། སྡོམ་པ་ དག་པ␣ར་ འགྱུར་བ་ ཡིན ། །"
-msgstr "\"Dès qu'il l'auront vu, les voeux deviennent purs\"."
+msgstr "\"Dès qu'il l'auront vu ( le mandala), les voeux deviennent purs\"."
 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
