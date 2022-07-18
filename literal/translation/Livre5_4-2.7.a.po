@@ -719,7 +719,7 @@ msgstr "La vue mondaine (ordinnaire) parfaitement pure, "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
 msgctxt "f7961c1baf3c4673a87251feeda9443f"
 msgid "དཀོན་མཆོག་ གསུམ་ ལ་ སྐྱབས་ སུ་ འགྲོ་བ །"
-msgstr "la prise de refuge en les trois joyaux,"
+msgstr "prendre refuge en les trois joyaux,"
 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -738,7 +738,7 @@ msgstr "la prise de refuge en les trois joyaux,"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: bodhi, éveil
 msgctxt "676da0ffa1a64ae4a787b02a143ffbc4"
 msgid "བྱང་ཆུབ་ ཆེན་པོ␣ར་ སེམས་བསྐྱེད་པ །"
-msgstr "le développement de l'esprit tourné vers le grand éveil,"
+msgstr "développer l'esprit tourné vers le grand éveil,"
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
