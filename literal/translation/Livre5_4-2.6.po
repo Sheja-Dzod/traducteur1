@@ -756,8 +756,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "766716495dca4a32b56a01dda157c838"
 msgid "དེ་ ལ་ལ␣ས་ ནི་ མི་ བྱ␣འོ ། །"
-msgstr ""
-"Ne leur conféréz pas l'initiation (litt. ne faites pas l'action pour eux)."
+msgstr "Ne leur conféréz pas l'initiation principale.\""
 
 msgctxt "6ee83ffa41ae4c0ca351b0f36fb766a2"
 msgid "ཞེས་ དང༌ །"
