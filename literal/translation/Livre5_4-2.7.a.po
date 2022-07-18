@@ -796,7 +796,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "4ad1a6903a48447b83548f2d6d680cb0"
 msgid "སྔགས་ ལ་ འཇུག་པ་ དྲུག་ཅུ་པ་ ལ␣ས །"
-msgstr "le Guide pour les Mantra en Soixante Vers  dit: "
+msgstr "L'Introduction aux Mantra Secret en Soixante Vers  dit: "
 
 # 。︀	〝རྣམ་པ〞 3113
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
