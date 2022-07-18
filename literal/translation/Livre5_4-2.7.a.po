@@ -1083,8 +1083,9 @@ msgstr "Oh Fils des Vainqueurs!"
 msgctxt "1e93d29a9452453baed272ce03392234"
 msgid "ང␣འི་ སྔགས་ ཀྱི་ ཡུལ་ རྨད་ དུ་ བྱུང་བ་ ལ␣ས་ འཇུག་པ␣འི་ དམ་ཚིག་ ནི་"
 msgstr ""
-"le promesses sacrées conséquentes à l'entrée dans le domaine merveilleux de "
-"mon Mantra "
+"les promesses sacrées conséquentes à l'entrée dans le domaine merveilleux de"
+" mon Mantra (ou es promesses sacrées nécessaire à l'entrée dans le domaine "
+"merveilleux de mon Mantra)"
 
 # 。︀	〝མདོ〞 2727
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
@@ -1185,7 +1186,7 @@ msgstr ""
 msgctxt "7d54985fd4d54bbdba0f58ce5e07d330"
 msgid "མངོན་པར་ དབང་ བསྐུར་བ་ མི་ གཏོང་བ་ ནི་ གཞི་ སྟེ །"
 msgstr ""
-"La base est de ne pas rejetter les iniations pleinement recues. De plus,"
+"La base est de ne pas rejetter les initiations pleinement recues. De plus,"
 
 # 。︀	〝ལྟ་བ〞 1996
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "regarder, observer; vue"
