@@ -202,7 +202,8 @@ msgstr ""
 # intégralité, absolument complet
 msgctxt "de74bb5d43c24c36a1bbbbdd823a85ca"
 msgid "དཀྱིལ་འཁོར་ ཆེན་པོ␣འི་ དབང་ བསྐུར་བ་ ཡོངས་སུ་ རྫོགས་པ་ ཐོབ་ ནས་"
-msgstr "Aprés avoir pleinement obtenu les intitations d'un grand mandala,"
+msgstr ""
+"Aprés avoir obtenu dans son intégralité l' intitation d'un grand mandala,"
 
 # 。︀	〝ཐེག་པ〞 2206
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Véhicule, Moyen de progression, ⁃ véhicule(s)
