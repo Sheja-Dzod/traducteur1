@@ -844,7 +844,7 @@ msgstr "L'Introduction aux Mantra Secret en Soixante Vers  dit: "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ connaissable ⁃ Objet de connaissance, le connaissable
 msgctxt "9f5d4f6c980a447599dce8643175703d"
 msgid "དེ་ ལ་ གཞི་ ཡི་དམ་ ཚིག་ ནི ། ། རྣམ་པ་ བཞི␣ར་ ནི་ ཤེས་བྱ་ སྟེ ། །"
-msgstr "\" \"Les quatre promesses sacrées de bases'' sont,"
+msgstr "\" Sachez que les quatre promesses sacrées de bases sont,"
 
 # 。︀	〝ཡང་དག〞 5282
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ correct, juste, vrai, parfait authentique
