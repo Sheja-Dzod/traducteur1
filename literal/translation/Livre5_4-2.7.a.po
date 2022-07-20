@@ -37,7 +37,9 @@ msgstr ""
 # solennelle, voeu solennel, engagement solennel, parole d’honneur
 msgctxt "37297ccefde74812985645efaf8d2e06"
 msgid "བདུན་པ་ བསྲུང་ བྱ␣འི་ དམ་ཚིག་ དངོས་ འཆད་པ་ ལ་ གཉིས །"
-msgstr "7. L'enseignement sur les promesses sacrées à tenir à deux parties,"
+msgstr ""
+"7. L'enseignement sur les promesses sacrées elles-mêmes (promesses sacrées "
+"ou voeux eux-mêmes) à tenir à deux parties,"
 
 # 。︀	〝རྒྱུད་སྡེ〞 822
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ la section des tantras (les 18 Tantras du Mahâyoga)
@@ -200,7 +202,8 @@ msgstr ""
 # intégralité, absolument complet
 msgctxt "de74bb5d43c24c36a1bbbbdd823a85ca"
 msgid "དཀྱིལ་འཁོར་ ཆེན་པོ␣འི་ དབང་ བསྐུར་བ་ ཡོངས་སུ་ རྫོགས་པ་ ཐོབ་ ནས་"
-msgstr "Aprés avoir pleinement obtenu les intitations d'un grand mandala,"
+msgstr ""
+"Aprés avoir obtenu dans son intégralité l' intitation d'un grand mandala,"
 
 # 。︀	〝ཐེག་པ〞 2206
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Véhicule, Moyen de progression, ⁃ véhicule(s)
@@ -339,9 +342,10 @@ msgid ""
 "འཇུག་པ་ ཙམ་ ལ␣འང་ སྡོམ་ བཟུང་ གི་ སྐབས་ སུ་ སྔགས་སྡོམ་ བཏགས་པ་བ་ ཁ␣ས་ "
 "བླངས་པ␣འི་ ཚུལ་ དུ་ ཐོབ་པ␣ས །"
 msgstr ""
-"le fait d'avoir obtenu  les voeux tantriques symboliques (litt. qui n'ont "
-"que le nom de voeux) pris sous forme d'engagement verbal, lors le "
-"l'engagement à tenir les voeux au moment de l'entrée (dans le mandala),  "
+"ou bien seulement aprés avoir obtenu  les voeux tantriques symboliques "
+"(litt. qui n'ont que le nom de voeux) pris sous forme d'engagement verbal, "
+"lors le l'engagement à tenir les voeux au moment de l'entrée (dans le "
+"mandala), "
 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -386,7 +390,7 @@ msgid ""
 "དེ་ ཕྱིན་ཆད་ ཇི་ལྟར་ ཁ␣ས་ བླངས་པ␣འི་ དམ་ཚིག་ དང་ སྡོམ་པ་ ལ་ བརྩོན་པ␣ར་ བྱས་ "
 "ནས་"
 msgstr ""
-"en s'appliquant ensuite (à maintenir) ces promesses sacrées telles qu'elle "
+"en s'appliquant ensuite (à maintenir) ces promesses sacrées telles qu'elles "
 "furent formulées et les voeux,"
 
 # 。︀	〝ལམ〞 6008
@@ -429,8 +433,8 @@ msgstr "on obtiendra rapidement les accomplissements. Alors que, "
 msgctxt "9f94cdeb052b4bfab3877f6ccfd5b414"
 msgid "སྲུང་སྡོམ་ ཡལ་བ␣ར་ དོར་ ནས་ ལམ་ ལ་ འབད་ ཀྱང་"
 msgstr ""
-"en ayant négligé (abandonné) les voeux à tenir même si on s'applique "
-"(pratique avec energie) sur la voie "
+"en ayant négligé (abandonné) les voeux pour lesquelles l'on s'est engagé, "
+"même si on s'applique (pratique avec energie) sur la voie "
 
 # 。︀	〝འགྱུར་བ〞 715
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
@@ -525,7 +529,7 @@ msgstr "Le Samvara Tantra dit :"
 # édifiant, exquis, rafiné, supérieur, meilleur, superbe, brillant
 msgctxt "072fd992bbfb4096b696c2a7ef7783ba"
 msgid "ཅི་སྟེ་ དངོས་གྲུབ་ མཆོག་ འདོད་ ན ། །"
-msgstr "Si tu aspires aux accomplissements suprêmes, "
+msgstr "\"Si tu aspires aux accomplissements suprêmes, "
 
 # 。︀	〝བླ〞 3863
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ âme vitale
@@ -716,7 +720,7 @@ msgstr "La vue mondaine (ordinnaire) parfaitement pure, "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
 msgctxt "f7961c1baf3c4673a87251feeda9443f"
 msgid "དཀོན་མཆོག་ གསུམ་ ལ་ སྐྱབས་ སུ་ འགྲོ་བ །"
-msgstr "la prise de refuge en les trois joyaux,"
+msgstr "prendre refuge en les trois joyaux,"
 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -735,7 +739,7 @@ msgstr "la prise de refuge en les trois joyaux,"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: bodhi, éveil
 msgctxt "676da0ffa1a64ae4a787b02a143ffbc4"
 msgid "བྱང་ཆུབ་ ཆེན་པོ␣ར་ སེམས་བསྐྱེད་པ །"
-msgstr "le développement de l'esprit tourné vers le grand éveil,"
+msgstr "développer l'esprit tourné vers le grand éveil,"
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
@@ -793,7 +797,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "4ad1a6903a48447b83548f2d6d680cb0"
 msgid "སྔགས་ ལ་ འཇུག་པ་ དྲུག་ཅུ་པ་ ལ␣ས །"
-msgstr "le Guide pour les Mantra en Soixante Vers  dit: "
+msgstr "L'Introduction aux Mantra Secret en Soixante Vers  dit: "
 
 # 。︀	〝རྣམ་པ〞 3113
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
@@ -841,7 +845,7 @@ msgstr "le Guide pour les Mantra en Soixante Vers  dit: "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ connaissable ⁃ Objet de connaissance, le connaissable
 msgctxt "9f5d4f6c980a447599dce8643175703d"
 msgid "དེ་ ལ་ གཞི་ ཡི་དམ་ ཚིག་ ནི ། ། རྣམ་པ་ བཞི␣ར་ ནི་ ཤེས་བྱ་ སྟེ ། །"
-msgstr "\" \"Les quatre promesses sacrées de bases'' sont,"
+msgstr "\" Sachez que les quatre promesses sacrées de bases sont,"
 
 # 。︀	〝ཡང་དག〞 5282
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ correct, juste, vrai, parfait authentique
@@ -1080,8 +1084,9 @@ msgstr "Oh Fils des Vainqueurs!"
 msgctxt "1e93d29a9452453baed272ce03392234"
 msgid "ང␣འི་ སྔགས་ ཀྱི་ ཡུལ་ རྨད་ དུ་ བྱུང་བ་ ལ␣ས་ འཇུག་པ␣འི་ དམ་ཚིག་ ནི་"
 msgstr ""
-"le promesses sacrées conséquentes à l'entrée dans le domaine merveilleux de "
-"mon Mantra "
+"les promesses sacrées conséquentes à l'entrée dans le domaine merveilleux de"
+" mon Mantra (ou es promesses sacrées nécessaire à l'entrée dans le domaine "
+"merveilleux de mon Mantra)"
 
 # 。︀	〝མདོ〞 2727
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
@@ -1182,7 +1187,7 @@ msgstr ""
 msgctxt "7d54985fd4d54bbdba0f58ce5e07d330"
 msgid "མངོན་པར་ དབང་ བསྐུར་བ་ མི་ གཏོང་བ་ ནི་ གཞི་ སྟེ །"
 msgstr ""
-"La base est de ne pas rejetter les iniations pleinement recues. De plus,"
+"La base est de ne pas rejetter les initiations pleinement recues. De plus,"
 
 # 。︀	〝ལྟ་བ〞 1996
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "regarder, observer; vue"
@@ -1499,7 +1504,7 @@ msgctxt "45bed7d26e144b2ba38ba98d8c83c27c"
 msgid "རྒྱུད་སྡེ་ བཞི␣འི་ ལམ་ གྱི་ རིམ་པ་ གང་ ལ་ འཇུག་ ཀྱང་ མེད་ ཐབས་མེད་པ␣ས་"
 msgstr ""
 "sont indispensables quand on s'engage sur les étapes de la voie des quatre "
-"classes de tantra,  quelque soit le tantra. Par conséquent,"
+"classes de tantra, quelque soit le tantra. Par conséquent,"
 
 # 。︀	〝ཐུན་མོང་གི〞 2179
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gdul bya Sens racine: les êtres ordinaires les apprentis

@@ -199,7 +199,7 @@ msgstr ""
 "1. En général dans les Tantras de l'Action, le détail des promesses sacrées "
 "sont enseignés de diverses manières, dans certains cas, leur nombre est "
 "défini, dans d'autres il ne l'est pas. Bien qu'à ce sujet, les érudits "
-"proposent une variété de présentation,"
+"proposent (litt. expriment, parlent de) une variété de présentation,"
 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -290,7 +290,7 @@ msgctxt "316ad3cedfd54b6c86d49c79d625d03c"
 msgid "ཞེས་ སོགས་ འདི་ ཡིན་ ནམ་ དཔྱད་ ཅེས་ འབྱུང་བ་ དང༌ །"
 msgstr ""
 "et ce qui suit(dans ce même Tantra), il (Buton) demande à ce que l'on "
-"vérifie si c'est la même chose. Aussi,"
+"vérifie si c'est la même chose. Aussi, "
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -394,8 +394,8 @@ msgid ""
 "ངོ␣ར་ ཆེན་ སོགས་ ཀྱིས་ སྤྱི་ རྒྱུད་ ལ␣ས་ གསུངས་པ་ དེ␣འི་ དང་པོ་ གསུམ་ "
 "སྤྱི␣འི་ དམ་ཚིག  །"
 msgstr ""
-"Norchen et d'autres, considèrent les trois premières du Tantra Commun comme "
-"étant les promesses sacrées générales "
+"Norchen et d'autres, considèrent les trois premières citées dans le Tantra "
+"Commun comme étant les promesses sacrées générales "
 
 # 。︀	〝ཐོབ་པ〞 2249
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
@@ -452,8 +452,8 @@ msgid ""
 "ཕྱི་མ་ རྣམས་ ལ་ ནང་གསེས་ དབྱེ་བ་ དང་ བཅས་པ␣འི་ བཅུ་གསུམ་ དབང་ ལ␣ས་ ཐོབ་པ␣འི་"
 " དམ་ཚིག་ ཅེས་ དབྱེ་བ␣ར་ མཛད་ ཅིང༌ །"
 msgstr ""
-"et les suivantes avec leur treize subdivisions comme étant les promesses "
-"sacrées obtenues par les initiations. Aussi,"
+"et les (onze) suivantes avec leur subdivisions comme étant les treize "
+"promesses sacrées obtenues par les initiations. Aussi,"
 
 # 。︀	〝ཀུན་མཁྱེན〞 22
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient   Connaissant tout ⁃ omniscient,
@@ -572,13 +572,15 @@ msgid ""
 "བཅུ་གཉིས །"
 msgstr ""
 "Dans cet présentation, le premier (groupe de 30) sont les douze promesses "
-"sacrées à appliquer énnoncées dans le Tantra de L'Action Parfaite"
+"sacrées à appliquer énnoncées dans le Tantra de L'Action Parfaite (les douze"
+" promesses sacrées énnoncées sous forme de douze consignes à appliquer)"
 
 msgctxt "29503f95b572418db2db5e5ceddf9ff5"
 msgid "དགག་ཚིག་ གིས་ གསུངས་པ་ བཅོ་བརྒྱད་ བཅས་ བསྡམས་པ་ དང༌ །"
 msgstr ""
-"ainsi que les dix-huite promesses sacrées concernant ce qu'il ne faut pas "
-"accomplir (aussi énnoncées dans ce tantra) et,"
+"s'additionnant aux dix-huit promesses sacrées concernant ce qu'il ne faut "
+"pas accomplir ( les consignes sur ce qu'il ne faut pas faire aussi énnoncées"
+" dans ce tantra) et,"
 
 msgctxt "8ff22a9ef966415581b773f310acd80c"
 msgid "གཉིས་པ་ ནི །"
@@ -651,8 +653,10 @@ msgid ""
 "རྩ་རྒྱུད་ ལ␣ས་ བསྟན་པ་ ལྔ །"
 msgstr ""
 "consiste en les quatre promesses sacrées générale énnoncées précédement "
-"auquelles s'ajoutes les cinq méprises -celle concernant le Lama etc- "
-"éxposées dans le Tantra Racine de Manjushri,"
+"auquelles s'ajoute l'aversion envers le Lama pour un total de cinq comme "
+"éxposé dans le Tantra Racine de Manjushri. (auquelles s'ajoutes les cinq "
+"méprises -celle concernant le Lama etc- éxposées dans le Tantra Racine de "
+"Manjushri,)"
 
 # 。︀	〝གནོད་པ〞 3060
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nuire, Porter préjudice.
@@ -699,9 +703,9 @@ msgid ""
 "དཔུང་ བཟང་ གིས་ ཞུས་པ་ ལ␣ས་ གསུངས་པ་ མཚམས་མེད་ ལྔ་ དང་ ཉེ་བ་ ལྔ་ དཀོན་མཆོག་ "
 "ལ་ གནོད་པ␣ར་ བྱེད་པ་ བཅས་ བཅུ་གཅིག་ བསྡམས་པ␣ས་ བཅུ་དྲུག་ གོ  །"
 msgstr ""
-"auquelles on ajoute les onze énnoncées dans le Tanra des Questions de Subahu"
-" : les cinq fautes à rétribution immédiate, les cinq qui en sont proches et "
-"nuire au trois joyaux, pour un total de seize."
+"auquelles on ajoute les onze énnoncées dans le Tantra des Questions de "
+"Subahu : les cinq fautes à rétribution immédiate, les cinq qui en sont "
+"proches et nuire au trois joyaux, pour un total de seize."
 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre

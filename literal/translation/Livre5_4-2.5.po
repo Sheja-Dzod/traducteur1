@@ -240,9 +240,10 @@ msgid ""
 "གོང་མ་ བླ་མེད་ དུ་ ཡོངས་སུ་ རྫོགས་པ␣འི་ སྔགས་སྡོམ་ ཞེས་ བྱ་བ␣འི་ ཐ་སྙད་ ཀྱང་"
 " ཐོབ་པ␣ར་ འགྱུར་བ་ མཁས་པ་ སྔ་མ་ རྣམས་ བཞེད་ དོ ། །"
 msgstr ""
-"et ceux des Tantras Insurpassables supérieurs \"les voeux tantriques "
-"totalement complêts. \" C'est par ces termes que que tous les sages érudits "
-"du passé désignez ces voeux. "
+"(ces 3) sont présents dans leur intégralité dans ceux des Tantras "
+"Insurpassables supérieurs \"les voeux tantriques totalement complêts. \" "
+"C'est par ces termes que que tous les sages érudits du passé désignaient ces"
+" voeux. "
 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -330,8 +331,8 @@ msgid ""
 "དོན་དམ་པ␣འི་ དམ་ཚིག  །"
 msgstr ""
 "En résumé, les voeux et les promesses sacrées se ramènent à deux (voeux):  "
-"ceux des moyens - les promesses sacrées ultimes en lien avec la grande "
-"félicité -"
+"ceux des moyens -  (la méditation de ) la grande félicité, la promesses "
+"sacrées ultimes - et"
 
 # 。︀	〝གཅིག་པུ〞 1257
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
@@ -395,9 +396,9 @@ msgid ""
 "ཤེས་རབ་ རྣམ་ བཅས་ སྟོང་ཉིད་ ཀུན་རྫོབ་པ␣འི་ དམ་ཚིག་ གཉིས་ སམ །  ཐབས་ཤེས་ "
 "ཟུང་འཇུག་ ཨེ་ ཝྃ་ གྱི་ སྡོམ་པ་ གཅིག་པུ␣ར་ ཡང་ འདུ་ སྟེ །"
 msgstr ""
-"ceux de la sagesse qui intègre tous les aspects - les promesses sacrées "
-"relatives en lien avec la vacuité -  ou bien, ils se ramènent (se résument) "
-"en le voeux unitaire d'EWAM, l'union des moyens et de la sagesse. "
+"ceux de la sagesse - (la perception de) la vacuité des apparences, les "
+"promesses sacrées relatives -  ou bien, ils se ramènent (se résument) en le "
+"voeux unitaire d'EWAM, l'union des moyens et de la sagesse. "
 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -683,7 +684,9 @@ msgctxt "d46bc76819bf4e0cba3d684a6d2c09a1"
 msgid "འཇིག་རྟེན་ སྤྱོད་ ལ␣ས་ རྣམ་གྲོལ་བ ། ། གང་ བཤད་ དམ་ཚིག་ སྡོམ་པ་ སྟེ ། །"
 msgstr ""
 "\"Il est le voeux, la promesse sacrée, Enseignée par celui qui est "
-"totalement libéré des coduites ordinnaires(mondaines). \""
+"totalement libéré des coduites ordinnaires(mondaines). \" (Ces voeux et "
+"promesses sacrées qu'il a enseigné et qui rendent totalement libre des "
+"conduites ordinnaires...)"
 
 msgctxt "2bfcbc186f0546a8b815157b57124307"
 msgid "ཞེས་ དང༌ །"
@@ -725,7 +728,7 @@ msgstr "puis,"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "e31d34fe856a4894bdeb0698d0b41fd4"
 msgid "འཇམ་དཔལ་ སྒྱུ་འཕྲུལ་ དྲྭ་བ་ ལ␣ས །"
-msgstr "Le Filet Magique de Manjusri dit:"
+msgstr "Le Filet Magique de Manjushri (le coral des noms de manjushri) dit:"
 
 # 。︀	〝འགྲོ་བ〞 730
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
@@ -771,8 +774,9 @@ msgstr "Le Filet Magique de Manjusri dit:"
 msgctxt "fcc42a028a8248c38d78eff1fd4cdaf3"
 msgid "འགྲོ་བ␣འི་ བླ་མ་ སྟོན་པ་པོ ། ། དམ་ཚིག་ ཆེན་པོ་ དེ་ཉིད་ མཁྱེན ། །"
 msgstr ""
-"\"Le Guide, maître des êtres érrants, Connais (à réalisé) cette grande "
-"promesse sacrée. \""
+"\"Le Guide, le Maître des êtres érrants, A réalisé (connais) cette grande "
+"promesse sacrée. \" (Le maître insurpassable, l'Enseignant, à réalisé la "
+"promesse sacrée, l'ainsité)."
 
 msgctxt "7d5df32a0a4d4e9aa7f05fa693b25e6d"
 msgid "ཅེས་ དང༌ །"
@@ -795,5 +799,5 @@ msgstr "puis,"
 msgctxt "042891913a444e8db7195e74cffc17e3"
 msgid "སྡོམ་ འབྱུང་ སོགས་ ལ␣ས་ ཀྱང་ རྒྱ་ ཆེ␣ར་ གསུངས་ སོ ། །"
 msgstr ""
-"Ceci est aussi enseigné extensivement dans leSamvarodaya et dans d’autres "
+"Ceci est aussi enseigné extensivement dans le Samvarodaya et dans d’autres "
 "tantras."
