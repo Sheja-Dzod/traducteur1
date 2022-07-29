@@ -1325,7 +1325,8 @@ msgstr ""
 # Extérieur, Externe, Extrinsèque,
 msgctxt "b2a3bf1550654223932da6de57e539ea"
 msgid "གཞན་ སུན་ མི་ འབྱིན་ གནས་ ངན་ ལེན་ རྣམས་ སྤངས ། །"
-msgstr "Ne pas réfuter l'autre (15) et abandonner les actions nuisibles (16)"
+msgstr ""
+"Ne pas réfuter l'autre (15) et abandonner les actions incorrectes (16)"
 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
@@ -1333,7 +1334,8 @@ msgstr "Ne pas réfuter l'autre (15) et abandonner les actions nuisibles (16)"
 # (êtres) humains, hommes, homo sapiens
 msgctxt "f74c1246108547a289c99a47c63921c2"
 msgid "ལྟད་མོ་ མི་ ལྟ་ བཤང་གཅི་ ཆུར་ མི་དོ␣ར ། །"
-msgstr "Ne pas regarder de spectacles ni déféquer et uriner dans l'eau;"
+msgstr ""
+"Ne pas regarder de spectacles (17) ni déféquer et uriner dans l'eau (18);"
 
 # 。︀	〝དགག་པ〞 610
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ négation
