@@ -5,22 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# 
-# 。︀	〝བཤད་པ〞 6278
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
-# Etudier,
-# 
-# 。︀	〝སོ་སོ〞 6426
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
-# 
-# 。︀	〝སོ་སོར〞 6439
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
-msgctxt "2a0b57bb40d745f2a2bab1e16b510a7e"
-msgid "གཉིས་པ་ སོ་སོ␣ར་ བཤད་པ་ ལ་ བཞི །"
+msgctxt "09baa9dd3d3748dbae9897d1fcdd4511"
+msgid "གཉིས་པ་ ནི །"
 msgstr ""
 
 # 
@@ -41,6 +27,201 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
 # existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝དམ་ཚིག〞 2372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
+# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
+# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
+# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
+# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# 
+# 。︀	〝རིགས〞 5858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Famille, Lignée, Filiation, Caste, Classe, Type,
+# Genre, Graine, Gênes, Cause, Essence, Etat, Nature, Potentiel, Aptitude,
+# Capacité, Possibilité, Système de versification, Correct, Approprié,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique (nyaya) (adjectif)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lignée, famille, lignée spirituelle ⁃ raison
+# 
+# 。︀	〝སོ་སོ〞 6426
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+msgctxt "190bc049ab8045adb8fe820d37bcec31"
+msgid "སོ་སོ␣འི་ རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ ལྟར་ སྤྱད ། །"
+msgstr ""
+
+# 
+# 。︀	〝འཇིག་རྟེན〞 1547
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le monde (périssable) ⁃ toute possibilité d'apparence,
+# le monde phénoménal apparent, le monde phénoménal de tous les possibles, les
+# apparences phénoménales constituant le monde manifeste, le monde des
+# apparences et de tous les possibles, = le monde périssable, notre monde ce
+# support dégradable (ou éphémère), le monde, = habitacle-habitant, le monde
+# et les vivants, l'univers
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ loka Sens racine: Le monde (périssable), world (SL
+# BP) Alternatives: le monde (et ses habitants), systèmes de mondes, univers,
+# monde samsarique, physique, mondain
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
+# destructible
+# 
+# 。︀	〝འཇིག་རྟེན་ལས་འདས་པ〞 1571
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supramondain
+# 
+# 。︀	〝འཇིག་རྟེན་ལས་འདས་པའི་རིགས་གསུམ〞 1575
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles supramondaines ou de bouddhas
+# 
+# 。︀	〝འདས་པ〞 2741
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
+# Dépasser
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
+# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
+# transcender, aller au-delà, surpasser, transcendance
+# 
+# 。︀	〝རིགས་གསུམ〞 5897
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Trois Familles de Bouddhas
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "c1214a369f344586b372aec0223be66e"
+msgid "འཇིག་རྟེན་ ལ␣ས་ འདས་པ␣འི་ རིགས་གསུམ །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝འཇིག་རྟེན་པ〞 1559
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mondain
+# 
+# 。︀	〝འཇིག་རྟེན་པའི་རིགས་གསུམ〞 1563
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles mondaines
+# 
+# 。︀	〝རྟོག་པ〞 1965
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
+# fiction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Penser, concevoir, conceptualiser, Penser en mode
+# discursif, Pensée, Pensée discursive, Examiner ⁃ penser duel, conceptuel,
+# pensée discursive, penser, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conceptualisation, conception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rtog tshogs → rnam rtog tarka, vibhāva Sens
+# racine: Penser, concevoir, conceptualiser,Penser en mode
+# discursif,Pensée,Pensée discursive,Examiner Alternatives: enquêter sur,
+# délibération, réflexion, considérer, examiner, rechercher, songer,
+# méditer(schémas de) pensées conceptuelles,discursives, mentales, mouvements,
+# habitudes mentales, la foule des pensées, conceptualiser, déterminé et
+# divisé conceptuellement, conceptualisation, concepts, considérations,
+# cogiter, discursivitéscrupule, doute, hésitation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ concept, idée, pensée conceptuelle ⁃ raisonnement
+# investigateur, pensée conceptuelle ⁃ Examen initial ⁃ Discursivité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: penser duel, dualiste, conceptuel pensée
+# discursive, penser, pensée
+# 
+# 。︀	〝དམ་ཚིག〞 2372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
+# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
+# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
+# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
+# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# 
+# 。︀	〝བླང་དོར〞 3880
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Accepter et rejeter, Adopter et refuser, Prendre et
+# abandonner, Cultiver et éliminer, Suivre et éviter, Faire et ne pas faire, ⁃
+# Abandon et saisie, Acceptation ou rejet, Prendre ou jeter, Elimination ou
+# aquisition ⁃ rejeter ou appréhender (p75)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = spang blang Sens racine: Accepter et
+# rejeter,Adopter et refuser,Prendre et abandonner,Cultiver et éliminer,Suivre
+# et éviter,Faire et ne pas faire, Alternatives: ce qui est à accepter,
+# adopter, entreprendre, faire, suivre, (objets d') acceptation, ce qu'il faut
+# faire, s'engager dansetce qui est à éliminer, rejeter, ne pas faire,
+# abandonner, de rejet, stopper, renoncer, laisser tomber, omettre, éviter,
+# délaisser, arrêtre, mettre un terme, abandon, rejet, ce qu'il ne faut pas
+# faire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: rejeter ou appréhender
+# 
+# 。︀	〝ཡོད་པ〞 5530
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
+# valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
+# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
+# existe, exister (p67), être là
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
+# 
+# 。︀	〝རིགས་གསུམ〞 5897
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Trois Familles de Bouddhas
+# 
+# 。︀	〝བཤད་པ〞 6278
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+# 
+# 。︀	〝སོ་སོ〞 6426
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+# 
+# 。︀	〝སོ་སོར〞 6439
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+msgctxt "d2d80f5689184585a00e0981034ad74c"
+msgid ""
+"འཇིག་རྟེན་པ␣འི་ རིགས་གསུམ་ སོ་སོ␣ར་ དམིགས་བསལ་ དུ་ བཤད་པ␣འི་ བླང་དོར་ "
+"ཇི་སྙེད་ ཡོད་པ་ རྣམས་ ཀྱང་ སྤྱི␣འི་ དམ་ཚིག་ གཞིར་བཞག་པ␣འི་ སྟེང་ དུ་ "
+"རང་རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ དང་ རྟོག་པ་ རྣམས་ ནས་ གསུངས་པ་ ལྟར་ སྤྱད་པ␣ར་ "
+"བྱ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝འགྲེལ་པ〞 725
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ commentaire
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vṛtti, ṭīkā, pañjikā, vivaraṇa Sens racine:
+# commentaire Alternatives: commentaire, exposition
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: commentaires (textes)
 # 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -77,15 +258,6 @@ msgstr ""
 # naturel, unification immersion en l’état d’être authentique (ou naturel),
 # union
 # 
-# 。︀	〝སྤྱོད་རྒྱུད〞 3393
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Carya tantra, Tantra des comportements
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ caryātantra Sens racine: Carya tantra,Tantra des
-# comportements Alternatives: tantra des comportements, de la conduite
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tantra de la conduite ⁃ Câryatantra ou Upayogatantra
-# 
-# 。︀	〝བྱ་རྒྱུད〞 3751
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tantra de l'action ⁃ tantra de l'action ⁃ Kriyatantra
-# 
 # 。︀	〝བླ་མེད〞 3874
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans supérieur, Insurpassable, ⁃ anuttara,
 # insurpassable, sans supérieur, que rien ne surpasse, suprême entre tous,
@@ -94,134 +266,18 @@ msgstr ""
 # supérieur que rien ne surpasse, suprême entre tous, incomparable, que rien
 # n’excelle
 # 
-# 。︀	〝བཤད་པ〞 6278
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
-# Etudier,
-msgctxt "1d8ce5eb72504b718704868277678250"
-msgid ""
-"བྱ་རྒྱུད །  སྤྱོད་ རྒྱུད །  རྣལ་འབྱོར །  རྣལ་འབྱོར་ བླ་མེད་ ཀྱི་ དམ་ཚིག་ "
-"བཤད་པ␣འོ ། །"
-msgstr ""
-
+# 。︀	〝ཞུགས་པ〞 4947
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
+# Participer à,
 # 
-# 。︀	〝མཁས་པ〞 413
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
-# érudit, rompu en, dextre, docte
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sage, savant, scoliaste
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita, kovida Sens racine: Erudit, Habile,
-# adroit, dextre Alternatives: érudit, expert, virtuose, le sage, agile,
-# adresse, savoir faire, adroit, habile, talent, expertise,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ érudit
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adresse, habile, érudit rompu en, dextre,
-# docte
+# 。︀	〝ཞུས་པ〞 4950
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ (h) Demander, Requérir, Questionner,
 # 
-# 。︀	〝གྲངས〞 542
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
+# 。︀	〝ཡིན་པ〞 5391
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 # 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
-# mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
-# 
-# 。︀	〝ཆད་པ〞 1303
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ annihilation, anéantissement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ néant
-# 
-# 。︀	〝རྣམ་བཞག〞 3179
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Présentation, Système, Manière Tradition Discipliner?
-# 
-# 。︀	〝སྣ་ཚོགས〞 3238
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Varié, Diversité, Multiplicité, ⁃ varié, diversité,
-# multiplicité, bigarré, divers, toutes sortes de
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vicitra, nānā, viśva Sens racine:
-# Varié,Diversité,Multiplicité, Alternatives: divers, varié, toutes sortes de,
-# différentes (sortes de), multiplicité, varia, infinies varitétés, une série
-# de, diversité, myriades de, multiple, tout-adaptable
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Variété, le multiple, diversité
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: varié, diversité multiplicité, bigarré,
-# divers, toutes sortes de, myriades
-# 
-# 。︀	〝བྱ་བ〞 3753
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
-# à faire,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
-# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
-# taches, occupé, responsabilités, engagements, agissementspieds métriques
-# 
-# 。︀	〝བྱ་བའི་རྒྱུད〞 3756
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra des activités ⁃ Kriyatantra
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ les tantras de l'action : une division des tantras
-# externes
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ caryātantra Sens racine: Tantra des activités
-# Alternatives: tantra des actes, des activités
-# 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
-# 
-# 。︀	〝ཚིག〞 4659
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot, Phonéme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pāda, kathā Sens racine: Mot,Phonéme, Alternatives:
-# mot, parole, palabre, phrase, syllabe, déclaration, vers, verset, ligne,
-# stance
-# 
-# 。︀	〝རིམ་པ〞 5921
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Niveau, Grade, Degrès, Etage, Progression, Etape,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ stade, étape, succession/successif
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ graduel, degré, étape
-msgctxt "700f122db1294358b03388101f9e37d1"
-msgid ""
-"དང་པོ་ ལ་ སྤྱིར་ བྱ་བ␣འི་ རྒྱུད་ རྣམས་ ལས་དམ་ ཚིག་ གི་ རིམ་པ་ གྲངས་ སུ་ "
-"ཆད་པ་ དང་ མ་ ཆད་པ་ ཅི་རིགས་ གསུངས་པ་ ལ་ མཁས་པ་ རྣམས་ ཀྱིས་ རྣམ་ བཞག་ "
-"སྣ་ཚོགས་ སྨྲ་ ན␣འང༌ །"
-msgstr ""
-
-# 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
-# solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
-# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
-# 
-# 。︀	〝བུ〞 3719
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
-# 
-# 。︀	〝བུ་སྟོན〞 3720
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Butön (bu ston), compilateur du canon tibétain ; indécis
-# quant à leur authenticité, il en exclut les tantras nyingmapas.
-# 
-# 。︀	〝བྱ་རྒྱུད〞 3751
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tantra de l'action ⁃ tantra de l'action ⁃ Kriyatantra
-msgctxt "9ec95b3a7d3e4207bbff562fc51f6e00"
-msgid ""
-"བུ་ སྟོན་ གྱི་ སྤྱི་ རྣམ་ དུ་ ཇོ་བོ␣འི་ དམ་ཚིག་ བསྡུས་པ␣ར་ བྱ་རྒྱུད་ ལ་རྩ་ "
-"ལྟུང་ སུམ་ཅུ་ གསུངས་པ␣ས་"
-msgstr ""
-
+# 。︀	〝རིན་ཆེན〞 5904
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ joyau
 # 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -229,31 +285,56 @@ msgstr ""
 # expériences. ⁃ acte
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
 # 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "9ec95b3a7d3e4207bbff562fc51f6e00"
+msgid ""
+"དམ་ཚིག་ དེ་ རྣམས་ ཀྱང་ བྱ་སྤྱོད་ ཀྱི་ དབང་ ཞུས་པ་ རྣམས་ ཀྱིས་ བསྲུང་ བྱ་ "
+"ཡིན་པ␣ར་ མ་ཟད་ རྣལ་འབྱོར་ བླ་མེད་ ལ་ ཞུགས་པ་ རྣམས་ ཀྱིས་ ཀྱང་ བསྲུང་ "
+"དགོས་པ␣ར་ དགྲ་ནག་ གི་ འགྲེལ་པ་ རིན་ཆེན་ སྒྲོན་མེ་ ལ␣ས་ བཤད་ དོ ། །"
+msgstr ""
+
 msgctxt "71dcc46d96de4003a29a551c31de6ad8"
-msgid "དེ་ ལེགས་ གྲུབ་ ལ␣ས་ གསུངས་པ␣འི །"
+msgid "གསུམ་པ་ ནི །"
 msgstr ""
 
 # 
-# 。︀	〝མཁས་པ〞 413
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
-# érudit, rompu en, dextre, docte
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sage, savant, scoliaste
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita, kovida Sens racine: Erudit, Habile,
-# adroit, dextre Alternatives: érudit, expert, virtuose, le sage, agile,
-# adresse, savoir faire, adroit, habile, talent, expertise,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ érudit
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adresse, habile, érudit rompu en, dextre,
-# docte
+# 。︀	〝མེ〞 4354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Feu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ teja Sens racine: Feu Alternatives: (l'élément) feu
 # 
-# 。︀	〝མི〞 4227
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
-# (êtres) humains, hommes, homo sapiens
+# 。︀	〝གཟུངས〞 5198
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharani, Retenues (de ce qui est vertueux)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ souvenance, rétention, formule de souvenance
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mémoire.
+# 
+# 。︀	〝རང་རིག〞 5712
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance subjective ⁃ connaissance subjective ⁃
+# "aperception, perception autoconnaissante, autoconnaissance, conscience
+# aperceptive, conscience  réflexive/qui se connaît soi-même; conscience
+# naturelle"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence en soi, Cognition en soi, Intelligence
+# réflexive, Auto connaissance, Expérience immédiate en soi, Abv. de rang
+# byung rig pa: Intelligence immédiate naturelle, ⁃ "intelligence en soi
+# (p73), l'auto intelligence (p76), sa propre intelligence en soi ; sa propre
+# intelligence en soi (p69)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conscience/connaissance réflexive ⁃ "perception directe
+# d'auto-connaissance/ connaissance se connaissant elle-même/ connaissance
+# individuelle ; perception réflexive"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ conscience se connaissant elle-même, conscience aperceptive
+# (Yogacara) ⁃ la Présence éveillée auto-connaissante, le rig pa naturel
+# (rDzogs chen) ⁃ Rigpa spontané, mon propre Rigpa, mon propre esprit,
+# conscience en soi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rang gi rig pa, rang rig pa Sens racine: intelligence en
+# soi, l’auto intelligence, sa propre intelligence en soi, sa propre
+# intelligence en soi
 # 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
@@ -261,473 +342,100 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "fdbbb87c6b974c5cb0ac5594e30b8123"
-msgid "མཁས་པ␣ས་ ཞེ་སྡང་ མི་ བྱ␣འོ ། །"
+msgid "འགལ་ ན་ རང་རིག་ འབུམ་ མམ་ མེ␣ས་ རྨོངས་ གཟུངས ། །"
 msgstr ""
 
 # 
-# 。︀	〝འབྱུང་བ〞 4057
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
-# Apparaître, Venir, Survenir, Arriver, Naître,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ -bhava, -bhu, -ja, -udbhava, udaya, bhūta Sens
-# racine: Les (cinq) éléments (bases de toutes
-# choses)Apparaître,Venir,Survenir,Arriver,Naître,, elements (SL MW)
-# Alternatives: les éléments (physiques)surgir de, apparaître de, venir de,
-# arriver de, jaillir de, émerger de, avoir son origine en, résulter de
-# 
-# 。︀	〝ཡིན〞 5390
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+# 。︀	〝ཞི་བ〞 4928
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "apaisement (6e stade mental); paix; paix (du nirvana)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
+# Tranquilliser, Nirvâna (l'ultime paix) ⁃ 1. paix, paisible, pacification,
+# apaisement, se calmer, calme, tranquillité, sérénité, quiétude, repos, 2.
+# paix ultime, nirvâna
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ apaisement (un des dix types d'activité éveillée)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ paix ⁃ Paix, nirvâna
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. shânti, paix, apaisement, se calmer
+# paisible, pacification, calme, tranquillité, sérénité, quiétude, repos 2. =
+# nirvâna, paix ultime
 msgctxt "33c57fef967849a6a1e784e35ff0cfab"
-msgid "ཞེས་ སོགས་ འདི་ ཡིན་ ནམ་ དཔྱད་ ཅེས་ འབྱུང་བ་ དང༌ །"
+msgid "ཞི་བ␣འི་ སྲེག་བླུགས་ སོགས་ ཀྱིས་ ཕྱིར་བཅོས་ བྱ །།"
 msgstr ""
 
 # 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
-# mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
+# 。︀	〝གོས་པ〞 527
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Altéré, affecté, souillé
 # 
-# 。︀	〝བྱེད་པ〞 3840
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
-# Différenciation,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 。︀	〝ཐོག་མ〞 2229
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Origine, début, premier
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = gdod ma ādi Sens racine: Début, origine,
+# commencement, Alternatives: (au) début, origine, commencement, premier,
+# originellement, genèse, naissance, (point de) départ, primordial, amorce,
+# primitivement, initial, originel, primitif
 # 
-# 。︀	〝ཚེ〞 4695
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 。︀	〝དམ་ཚིག〞 2372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
+# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
+# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
+# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
+# solennelle, voeu solennel, engagement solennel, parole d’honneur
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝གསང་བ〞 6540
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Secret,  Caché, Confidentiel, Garder secret, Ne pas
-# montrer à autrui, Chose non manifeste, ⁃ secret, intime, aspect secret
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ secret, mystère
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
 msgctxt "9667fc6473c94ac3821c89576556b3f4"
 msgid ""
-"དུས་འཁོར་ ལ␣ས་ རྒྱུད་ བཞི་ ཀ་ལ་ རྩ་ལྟུང་ བཅུ་བཞི␣ར་ གསུངས་པ་ དེ་ ངོས་འཛིན་ "
-"ཚེ་ གསང་བ་ སྤྱི་ རྒྱུད་ ཀྱི་ འདི་ ལ་ བྱེད་པ་ དང༌ །"
+"དམ་ཚིག་ རྣམས་ ཐོག་མ␣ར་ ཤེས་པ␣ར་ བྱས་ ནས་ ཉེས་ལྟུང་ གིས་ མི་ གོས་པ་ ལ་ འབད །"
 msgstr ""
 
 # 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
-# mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
+# 。︀	〝འགལ་བ〞 699
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contradiction
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
-# solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
-# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
 msgctxt "f3e847e09b684baba396dcfc304cf60f"
-msgid ""
-"ངོ␣ར་ ཆེན་ སོགས་ ཀྱིས་ སྤྱི་ རྒྱུད་ ལ␣ས་ གསུངས་པ་ དེ␣འི་ དང་པོ་ གསུམ་ "
-"སྤྱི␣འི་ དམ་ཚིག  །"
+msgid "གལ་ཏེ་ འགལ་བ␣ར་ གྱུར་ ན་ དེ་ མ་ ཐག་ ཏུ་ ཕྱིར་བཅོས་ དགོས་ ཤིང༌ །"
 msgstr ""
 
 # 
-# 。︀	〝ཐོབ་པ〞 2249
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
-# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
-# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
-# imminente, réalisation, gain, achèvement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
-# Obtention
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
-# solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
-# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
-# 
-# 。︀	〝དབྱེ་བ〞 4024
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divisions, Distinctions, Catégories, ⁃ classification
-# (p99), différencier, diviser
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ division (un des dix types d'activité éveillée)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divisions,Distinctions,Catégories,
-# Alternatives: différence, division, catégorisé en différentes étapes,
-# formes, séparation, (faire des) distinctions, types, différencier,
-# distinguer, séparer, classifier, diviser, classer, caractéristiques,
-# particularité distinctes, races, sortes, détaillé= thang : plaine, champ,
-# étendue
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Séparer, distinguer
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dbye Sens racine: classification ; différencier,
-# diviser distinctions
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "b88597e516cd4218bb4cd007fd39c848"
-msgid ""
-"ཕྱི་མ་ རྣམས་ ལ་ ནང་གསེས་ དབྱེ་བ་ དང་ བཅས་པ␣འི་ བཅུ་གསུམ་ དབང་ ལ␣ས་ ཐོབ་པ␣འི་"
-" དམ་ཚིག་ ཅེས་ དབྱེ་བ␣ར་ མཛད་ ཅིང༌ །"
-msgstr ""
-
-# 
-# 。︀	〝ཀུན་མཁྱེན〞 22
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient   Connaissant tout ⁃ omniscient,
-# connaissant tout
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sarvajñāna Sens racine: Omniscient Connaissant tout
-# Alternatives: omniscient, omniscience, la connaissance simultanée de tous
-# les phénomènes relatifs et ultimesl'Omniscient, celui qui a tout comprit.
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ l'omniscience
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: omniscient, connaissant tout
-# 
-# 。︀	〝དཀར་པོ〞 137
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Blanc
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śukla, śveta, haṃsa Sens racine: Blanc
-# Alternatives: blanc, positif, clair, vertueux
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "e9568fb218f74af0bbbb73991067f89c"
-msgid "ཀུན་མཁྱེན་ པདྨ་ དཀར་པོ␣ས །"
-msgstr ""
-
-# 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
-# solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
-# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
-# 
-# 。︀	〝བྱ་བ〞 3753
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
-# à faire,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
-# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
-# taches, occupé, responsabilités, engagements, agissementspieds métriques
-# 
-# 。︀	〝བསླབ་པ〞 6676
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etudier, Apprendre, Ce qui est apprit, Ce qui est
-# enseigné, Ce qui est donné comme enseignement, Apprentissage, Etudes,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
-msgctxt "0c6df58509f548f989c07d68af38ee20"
-msgid "བསླབ་པ␣ར་ བྱ་བ␣འི་ དམ་ཚིག་ སུམ་ཅུ །"
-msgstr ""
-
-# 
-# 。︀	〝བྱ་བ〞 3753
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
-# à faire,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
-# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
-# taches, occupé, responsabilités, engagements, agissementspieds métriques
-# 
-# 。︀	〝བསྲུང་བ〞 6670
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Protéger, Garder, Se protéger, Etre protégé, Arrêter
-# ce qui est nuisible,
-msgctxt "24eb7a58c05345308ddaa1c6fe8e0a83"
-msgid "བསྲུང་བ␣ར་ བྱ་བ␣འི་ རྩ་ལྟུང་ བཅུ་དྲུག་ ཅེས་"
-msgstr ""
-
-# 
-# 。︀	〝སྒྲུབ〞 921
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ...d'accomplissement
-# 
-# 。︀	〝རྣམ་པ〞 3113
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
-# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
-# espèce
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
-# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
-# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
-# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
-# manifestation, partieemploi grammatical pour se référer à un groupe
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
-# 
-# 。︀	〝རྣམ་པར་བཞག་པ〞 3147
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Présentation, Système, Manière Tradition Discipliner?
-# 
-# 。︀	〝ཚིག〞 4659
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot, Phonéme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pāda, kathā Sens racine: Mot,Phonéme, Alternatives:
-# mot, parole, palabre, phrase, syllabe, déclaration, vers, verset, ligne,
-# stance
-# 
-# 。︀	〝བཞག་པ〞 5060
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
-# jeter, larguer, laisser ; 3. confier quelque chose (à quelqu'un)"
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gzhag pa Sens racine: 1. demeurer, ‘ça reste à demeure’,
-# reposer 2. jeter, laisser, 3. confier quelque chose (à quelqu’un)
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "c1b7e804e46a46a2937ffe56e1469e27"
-msgid ""
-"རྣམ་པ␣ར་ བཞག་པ␣འི་ དང་པོ་ ལེགས་ གྲུབ་ ལ␣ས་ སྒྲུབ་ ཚིག་ གིས་ གསུངས་པ་ "
-"བཅུ་གཉིས །"
-msgstr ""
-
-msgctxt "8292eda11d9c4006827af08fe6931422"
-msgid "དགག་ཚིག་ གིས་ གསུངས་པ་ བཅོ་བརྒྱད་ བཅས་ བསྡམས་པ་ དང༌ །"
-msgstr ""
-
-msgctxt "0b3d998dcc1f4080b67c865f54c673a2"
-msgid "གཉིས་པ་ ནི །"
-msgstr ""
-
-# 
-# 。︀	〝འཇམ་དཔལ〞 1541
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Mañjusri, représenté comme un adolescent de seize ans
-# (kumara), il symbolise la pureté et l'intellect non obscurci. Dans le grand
-# véhicule il est un bodhisattva de la dixième terre identifié à la perfection
-# de sagesse, dans les tantras un éveillé depuis des âges sans nombre. Il
-# incarne souvent la triade du fils, du père et de la mère des vainqueurs. Il
-# est coutumier, pour un auteur bouddhiste, de commencer une oeuvre de ce
-# genre par une louange à Mañjusri.
-# 
-# 。︀	〝བསྟན་པ〞 2075
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseignement, Exposé, «Ce qui est montré» ⁃
-# enseignement, exposé, 'ce qui est montré'
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāsana, udita, nirdeśa, prakāśa Sens racine:
-# Enseignement,Exposé,« Ce qui est montré » Alternatives: présenter,
-# démontrer, démonstration, montrer, pédagogique, révélation, introduire,
-# didactique, révéler, exposer, expliquer, promulguer, dispenser, donner,
-# prodiguer (un enseignement)enseignement, doctrine, raffiner, instruire
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Démonstration ⁃ Enseignement
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shâsana, enseignement, exposé ‘ce qui est
-# montré’, enseigné, révéler, définir comme
-# 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
-# solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
-# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
-# 
-# 。︀	〝བླ་མ〞 3870
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
-# maître, Père-Mère de bonté
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ guru (= guṇa-ru : “lourd de qualités”) Sens racine:
-# Lama,Gourou,Maître,Père-Mère de bonté Alternatives: Lama, maître (spirituel,
-# insurpassable), guide, mentor, conseiller d'orientation sprirituelle
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître spirituel
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
-# 
-# 。︀	〝རྩ་རྒྱུད〞 4532
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ tantra racine (dans la division sextuple)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tantra-racine
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "95fcf12df2034858a92bd059e8cf5558"
-msgid ""
-"གོང་ སྨོས་ སྤྱི␣འི་ དམ་ཚིག་ བཞི␣འི་ སྟེང་ དུ་ བླ་མ་ ལ་ འཁུ་བ་ བཅས་ འཇམ་དཔལ་ "
-"རྩ་རྒྱུད་ ལ␣ས་ བསྟན་པ་ ལྔ །"
-msgstr ""
-
-# 
-# 。︀	〝གནོད་པ〞 3060
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nuire, Porter préjudice.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Nuire,Porter préjudice. Alternatives:
-# nuisance, nuire, tort, préjudice, faire obstacle, empêchement, souffrance,
-# facteurs adverses
-# 
-# 。︀	〝བྱེད་པ〞 3840
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
-# Différenciation,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
-# 
-# 。︀	〝མཚམས་མེད〞 4800
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans intervalle, Sans intermédiaire, Immédiat,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ action sans limite
-# 
-# 。︀	〝མཚམས་མེད་ལྔ〞 4801
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les cinq actes aux conséquences immédiates (sans
-# existence intermédiaire), Crimes à rétributions immédiates
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les cinq actions aux conséquences immédiates: le meurtre
-# du père, de la mère, d'un destructeur de l'ennemi, créer la discorde dans la
-# communauté monastique, blesser intentionnellement un éveillé. Elles sont
-# dites immédiates car leur accomplissement entraîne une naissance dans un
-# enfer sans passer par l'état intermédiaire. ⁃ "cinq actes sans limite ; cinq
-# actes immédiats"
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cinq crimes à rétribution immédiate
-# 
-# 。︀	〝ཞུས་པ〞 4950
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ (h) Demander, Requérir, Questionner,
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "c8f366ef17da45c79c56bc31b2c8f44f"
-msgid ""
-"དཔུང་ བཟང་ གིས་ ཞུས་པ་ ལ␣ས་ གསུངས་པ་ མཚམས་མེད་ ལྔ་ དང་ ཉེ་བ་ ལྔ་ དཀོན་མཆོག་ "
-"ལ་ གནོད་པ␣ར་ བྱེད་པ་ བཅས་ བཅུ་གཅིག་ བསྡམས་པ␣ས་ བཅུ་དྲུག་ གོ  །"
-msgstr ""
-
-# 
-# 。︀	〝གྲངས〞 542
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
-# 
-# 。︀	〝རྒྱུད་སྡེ〞 822
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ la section des tantras (les 18 Tantras du Mahâyoga)
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: la section des tantras (les 18 Tantras du
-# Mahâyoga)
-# 
-# 。︀	〝སྔགས〞 1190
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mantra Parole efficiente Charme ⁃ mantra, parole
-# efficiente, charme
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: MantraParole efficienteCharme
-# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrés,
-# formule magique, incantation, parole active, parole de force, ce qui
-# rappelle le suprêmeprotège-esprit, conscience, mental charme, sortlouer,
-# vanter
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
-# 
-# 。︀	〝པཎ་ཆེན〞 3312
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mahapandita Grand Erudidt
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita Sens racine: MahapanditaGrand Erudidt
-# Alternatives: grand érudit, paṇḍita, pandit
-# 
-# 。︀	〝བྱམས་པ〞 3805
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Maitreya, L'aimant, Amour, Amour bienveillant,
-# Bienveillance, Bonté, Gentillesse, ⁃ un égarement (p95)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ maitrī Sens racine: Maitreya,L’aimant,Amour,Amour
-# bienveillant,Bienveillance,Bonté,Gentillesse, Alternatives: amour
-# (bienveillant, -bonté, affectueux), bonté (aimante), (esprit de)
-# bienveillance, gentillesse, douceur
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ amour
-# 
-# 。︀	〝དབྱེ་བསྡུ〞 4023
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ les catégories (p107), classifications, diviser en
-# catégories
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les catégories classifications, diviser en
-# catégories
-# 
-# 。︀	〝མོ〞 4380
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
-# observation, consulter les présages, observer la conjoncture, prendre les
-# augures
+# 。︀	〝སྙིང་པོ〞 1834
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ essence, cour, quintessence
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Essence, cour du sujet, quintessence, essentiel, ⁃ 1.
+# cour, hridaya, le cour même de, le cour essentiel, 2. embryon, garbha,
+# matrice, 3. essence, sâra, essence du cour, essence-même, l'âme, 4. esprit,
+# citta
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ essence, noyau  (pas matrice)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Essence, cœur du sujet, quintessence,
+# essentiel,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ essence, matrice ⁃ Cour, l'essence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. hridaya, cœur, le cœur même de, le cœur
+# essentiel 2. garbha, embryon, matrice 3. sâra, essence, essence du cœur,
+# essence-même, l’âme 4. citta, esprit
 # 
 # 。︀	〝ཚུལ〞 4680
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
@@ -739,20 +447,127 @@ msgstr ""
 # correctd'apparence
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 # 
-# 。︀	〝གཞན〞 4962
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
-# Extérieur, Externe, Extrinsèque,
+# 。︀	〝རིག་པ〞 5800
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance (claire) ⁃ connaissance (claire) ⁃
+# "faculté cognitive, connaissance, conscience; connaissance intuitive
+# immédiate, conscience éveillée"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. vidyâ, auto intelligence (p59, 72, 74, 77), gnose
+# (de non-saisie) (p24), intelligence immédiate (p61), l'intelligence en soi
+# (p21, 67, 69, 77, 98),  l'état d'intelligence première (p68), intelligence
+# immédiate en soi (p86), intelligence (p96), intelligence primordiale, se
+# comprendre ; 2. intelligence"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ connaissance, présence éveillée, pure présence (aussi
+# conscience: rig pa rgyun chad pa --> sens non trouvé) ⁃ connaissance éveillé
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºintelligence, savoir, connaissance; 2ºprésence éveillée,
+# intelligence primordiale, état naturel (dans le Dzogchen)" ⁃ Etat
+# primordialement pur et spontanément présent, éveillé et discernant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. vidyâ, auto intelligence, gnose (de non-
+# saisie), intelligence immédiate, l’intelligence en soi, l’état
+# d’intelligence première, intelligence immédiate en soi, intelligence,
+# l’intelligence première, intelligence primordiale, se comprendre 2.
+# intelligence
 # 
-# 。︀	〝བཤད〞 6272
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
-# Etudier,
-msgctxt "8b6e1e2ec925402984d581f4c38a2a00"
-msgid ""
-"གཞན་ ཡང་བོ་ དོང་ པཎ་ཆེན་ གྱི་ རྒྱུད་སྡེ་ སྤྱི་ རྣམ་ བྱམས་པ་ གླིང་པ␣འི་ སྔགས་"
-" འདུལ་ ཆེན་ མོ་ སོགས་ སུ་ འདི་དག་ ལ་ གྲངས་ འདྲེན་ ཚུལ་ མང་ཉུང་ དབྱེ་ བསྡུ་ "
-"ཅི་རིགས་ བཤད་ ཀྱང་"
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "b88597e516cd4218bb4cd007fd39c848"
+msgid "བཅོ␣ས་ ཚུལ་ རང་རང་ གི་ རིག་པ␣འི་ སྙིང་པོ་ འབུམ་ཕྲག་ གཅིག་ བཟླ་བ␣འམ །"
 msgstr ""
 
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝རྡོ་རྗེ〞 2833
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
+# réalité
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vajra, kuliśa(nom de code pour śālija) Sens racine:
+# Vajra,, indesctructible reality (SL MW) Alternatives: insécable, (réalité)
+# indestructible, indestructibilité, indivisibilité, état de vajra, dur comme,
+# semblable au diamant, adamantin, immuablevajra, sceptre adamantindiamant
+# (abr. rdo rje pha lam), “le seigneur des pierres”, “la reine des
+# pierres”coup de tonnerre, de foudre
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ diamant ⁃ Vajra, le diamant  	rdo rje pha lam
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vajra, diamant, adamantin indestructible
+# réalité
+# 
+# 。︀	〝ཕམ་པ〞 3443
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaite
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Défaite, (rupture irréparable de voux)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ défaite , parajika
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Défaite, (rupture irréparable de vœux)
+# Alternatives: défaite, perte, rupture irréparable (des vœux)
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མེ〞 4354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Feu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ teja Sens racine: Feu Alternatives: (l'élément) feu
+# 
+# 。︀	〝རྨོངས་པ〞 4458
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ obnubilé, fourvoyé, confus
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stupide,  Bête, Aveuglé
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ confusion
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Stupide, Bête,Aveuglé Alternatives:
+# stupide, bête, obscurcissement, ignorance, confusion, bêtise, stupidité,
+# aveuglement
+# 
+# 。︀	〝གཟུངས〞 5198
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharani, Retenues (de ce qui est vertueux)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ souvenance, rétention, formule de souvenance
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mémoire.
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "0c6df58509f548f989c07d68af38ee20"
+msgid ""
+"ཡང་ན་ མེ␣ས་ རྨོངས་ བྱེད་པ␣འི་ གཟུངས་ ཏེ་ རྡོ་རྗེ་ མི་ ཕམ་པ་ མེ་ ལྟར་ རབ་ཏུ་ "
+"རྨོངས་པ␣ར་ བྱེད་པ␣འི་ གཟུངས་ སྟོང་ཕྲག་ གཅིག་ བཟླ་བ␣འམ །"
+msgstr ""
+
+# 
+# 。︀	〝གྲངས〞 542
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
+# 
+# 。︀	〝ཞི་བ〞 4928
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "apaisement (6e stade mental); paix; paix (du nirvana)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
+# Tranquilliser, Nirvâna (l'ultime paix) ⁃ 1. paix, paisible, pacification,
+# apaisement, se calmer, calme, tranquillité, sérénité, quiétude, repos, 2.
+# paix ultime, nirvâna
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ apaisement (un des dix types d'activité éveillée)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ paix ⁃ Paix, nirvâna
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. shânti, paix, apaisement, se calmer
+# paisible, pacification, calme, tranquillité, sérénité, quiétude, repos 2. =
+# nirvâna, paix ultime
+msgctxt "8292eda11d9c4006827af08fe6931422"
+msgid "ཡང་ན་ ཞི་བ␣འི་ སྲེག་བླུགས་ གྲངས་ དེ་སྙེད་ དམ །"
+msgstr ""
+
+# 
+# 。︀	〝དཀྱིལ་འཁོར〞 146
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ maṇḍala Sens racine: Mandala,Structure,Centre et
+# périphérie, Alternatives: La structure constituée par un milieu et ce qui
+# est autour, le centre et la périphérie, le centre et l’entourage, le centre
+# et la circonférence, un cosmogramme de déités ou d’attributs éveillés,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ disque, ma??ala ⁃ Mandala, centre et circonférence
 # 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -772,31 +587,29 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
 # existentielle, continuum mental 3. continuité
 # 
-# 。︀	〝བྱེད་པ〞 3840
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
-# Différenciation,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
 # 
-# 。︀	〝གཙོ་བོ〞 4516
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le principal, L'essentiel, Le plus important, Prince,
-# Seigneur, Suprême,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ principe (pradhana). Le principal (du mandala, dans les
-# tantras de l'action) ⁃ Le principe est équivalent à la substance primordiale
-# (rang bzhin; prak?it). Le Sa??khya, ancienne philosophie indienne pour
-# laquelle les phénomènes rentrent dans vingt-cinq catégories en fait la cause
-# de l'environnement et des vivants. Ses partisans, continuateurs du sage
-# Kapila, professent une vue de permanence. L'école a deux branches : théistes
-# et non théiste, la première affirmant que le monde et ses habitants sont
-# créés par la relation mutuelle existant entre Isvara et la substance
-# primordiale. ⁃ "principe ; substrat primordial"
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pradhāna Sens racine: Le principal,L’essentiel,Le
-# plus important,Prince,Seigneur,Suprême,, principal substance (SL
-# BP)principal (SL MW) Alternatives: principal, général, maître, chef
-# (suprême, de tous les maṇḍala), le plus important, prédominant, de la
-# première importance, suprême parmi, central, prééminent, excellenceprince,
-# seigneur, souverainpoint essentiel, l'essence, sujet principal,
-# emphasespécialement, plus particulièrement, principalementsoi-
-# mêmepremièrement
+# 。︀	〝བྱ་བ〞 3753
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
+# à faire,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
+# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
+# taches, occupé, responsabilités, engagements, agissementspieds métriques
+msgctxt "95fcf12df2034858a92bd059e8cf5558"
+msgid ""
+"སོགས་ཁོངས་ ནས་ དཀྱིལ་འཁོར་ དུ་ སླར་ཡང་ ནས་ ཡང་ དུ་ འཇུག་པ་ རྣམས་ ཀྱིས་ "
+"ཕྱིར་བཅོས་ བྱ་བ་ སྤྱི་ རྒྱུད་ ནས་ གསུངས་ ཤིང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
 # 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
@@ -809,7 +622,79 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "659dda2a90cf4d25a8c05f581e2b6976"
+msgid "དུས་ ཀྱང་ ལེགས་ གྲུབ་ ལ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝བག་མེད〞 3684
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ insouciance, inattention
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans précaution, Inattentif, Négligeant, Insouciant,
+# (Qui ne fait pas attention)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sans
+# précaution,Inattentif,Négligeant,Insouciant,(Qui ne fait pas attention)
+# Alternatives: inattentif, inconsidéré, imprudent, négligeant, irrefléchi
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ négligence ⁃ Négligence
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+msgctxt "45b23491580044768f6f2248cf588b47"
+msgid "ཉིན་ མོ་ བག་མེད་ བྱས་པ་ དག  །"
+msgstr ""
+
+# 
+# 。︀	〝བཤགས་པ〞 6271
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dévoiler, Exposer, énoncer ses fautes sans les cacher,
+# Confesser, Fragmenté, Cassé, brisé, en morceaux, Fendre (du bois, faire du
+# petit bois)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ confession ⁃ Confession
+# 
+# 。︀	〝སོ་སོ〞 6426
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+# 
+# 。︀	〝སོ་སོར〞 6439
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+msgctxt "aff1796176f24bc995c94ac95e9a5923"
+msgid "མཚན་མོ་ སོ་སོ␣ར་ བཤགས་པ␣ར་ བྱ ། །"
+msgstr ""
+
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+msgctxt "c8f366ef17da45c79c56bc31b2c8f44f"
+msgid "ནུབ་མོ␣ར་ བྱས་པ␣འང་ ནངས་པ␣ར་ བཤགས ། །"
+msgstr ""
+
+msgctxt "cf02a3538b9c4f60abe4691b47a23d39"
+msgid "ཞེས་ གསུངས་པ་ ལྟར །"
+msgstr ""
+
+# 
+# 。︀	〝དག་པ〞 2331
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ pur, pureté
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dag, rnam par dag pa Sens racine: pur ; parfaitement
+# pur pureté totale, totalement pur
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
 msgctxt "bdf3c1544ce44de29b31ec5e2e386c70"
 msgid ""
-"སྤྱི་ རྒྱུད་ ལ␣ས་ གསུངས་པ་ འདི་ ལ་ གཙོ་བོ␣ར་ བྱེད་པ་ ཐམས་ཅད་ མཐུན་ ནོ ། །"
+"ཉིན་ མོ␣ར་ བྱུང་བ་ རྣམས་ མཚན་མོ་ དང༌ །  དེ་ ལ་ བྱུང་བ་ རྣམས་ ཉིན་ མོ␣ར་ "
+"བཤགས་ ཏེ་ དག་པ␣ར་ བྱ་ དགོས་ སོ ། །"
 msgstr ""
