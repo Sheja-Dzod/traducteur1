@@ -60,51 +60,6 @@ msgid "སོ་སོ␣འི་ རིགས་ ཀྱི་ དམ་ཚི�
 msgstr ""
 
 # 
-# 。︀	〝འཇིག་རྟེན〞 1547
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le monde (périssable) ⁃ toute possibilité d'apparence,
-# le monde phénoménal apparent, le monde phénoménal de tous les possibles, les
-# apparences phénoménales constituant le monde manifeste, le monde des
-# apparences et de tous les possibles, = le monde périssable, notre monde ce
-# support dégradable (ou éphémère), le monde, = habitacle-habitant, le monde
-# et les vivants, l'univers
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ loka Sens racine: Le monde (périssable), world (SL
-# BP) Alternatives: le monde (et ses habitants), systèmes de mondes, univers,
-# monde samsarique, physique, mondain
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
-# destructible
-# 
-# 。︀	〝འཇིག་རྟེན་ལས་འདས་པ〞 1571
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supramondain
-# 
-# 。︀	〝འཇིག་རྟེན་ལས་འདས་པའི་རིགས་གསུམ〞 1575
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles supramondaines ou de bouddhas
-# 
-# 。︀	〝འདས་པ〞 2741
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
-# Dépasser
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
-# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
-# transcender, aller au-delà, surpasser, transcendance
-# 
-# 。︀	〝རིགས་གསུམ〞 5897
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Trois Familles de Bouddhas
-# 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "c1214a369f344586b372aec0223be66e"
-msgid "འཇིག་རྟེན་ ལ␣ས་ འདས་པ␣འི་ རིགས་གསུམ །"
-msgstr ""
-
-# 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
 # mental; tantra"
@@ -123,11 +78,30 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
 # existentielle, continuum mental 3. continuité
 # 
+# 。︀	〝འཇིག་རྟེན〞 1547
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le monde (périssable) ⁃ toute possibilité d'apparence,
+# le monde phénoménal apparent, le monde phénoménal de tous les possibles, les
+# apparences phénoménales constituant le monde manifeste, le monde des
+# apparences et de tous les possibles, = le monde périssable, notre monde ce
+# support dégradable (ou éphémère), le monde, = habitacle-habitant, le monde
+# et les vivants, l'univers
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ loka Sens racine: Le monde (périssable), world (SL
+# BP) Alternatives: le monde (et ses habitants), systèmes de mondes, univers,
+# monde samsarique, physique, mondain
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
+# destructible
+# 
 # 。︀	〝འཇིག་རྟེན་པ〞 1559
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mondain
 # 
 # 。︀	〝འཇིག་རྟེན་པའི་རིགས་གསུམ〞 1563
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles mondaines
+# 
+# 。︀	〝འཇིག་རྟེན་ལས་འདས་པ〞 1571
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supramondain
+# 
+# 。︀	〝འཇིག་རྟེན་ལས་འདས་པའི་རིགས་གསུམ〞 1575
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles supramondaines ou de bouddhas
 # 
 # 。︀	〝རྟོག་པ〞 1965
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
@@ -165,6 +139,13 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
 # solennelle, voeu solennel, engagement solennel, parole d’honneur
 # 
+# 。︀	〝འདས་པ〞 2741
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
+# Dépasser
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
+# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
+# transcender, aller au-delà, surpasser, transcendance
+# 
 # 。︀	〝བླང་དོར〞 3880
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Accepter et rejeter, Adopter et refuser, Prendre et
 # abandonner, Cultiver et éliminer, Suivre et éviter, Faire et ne pas faire, ⁃
@@ -192,9 +173,21 @@ msgstr ""
 # 。︀	〝རིགས་གསུམ〞 5897
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Trois Familles de Bouddhas
 # 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
 # 。︀	〝བཤད་པ〞 6278
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
 # Etudier,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 # 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
@@ -207,10 +200,10 @@ msgstr ""
 # différent, séparé
 msgctxt "d2d80f5689184585a00e0981034ad74c"
 msgid ""
-"འཇིག་རྟེན་པ␣འི་ རིགས་གསུམ་ སོ་སོ␣ར་ དམིགས་བསལ་ དུ་ བཤད་པ␣འི་ བླང་དོར་ "
-"ཇི་སྙེད་ ཡོད་པ་ རྣམས་ ཀྱང་ སྤྱི␣འི་ དམ་ཚིག་ གཞིར་བཞག་པ␣འི་ སྟེང་ དུ་ "
-"རང་རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ དང་ རྟོག་པ་ རྣམས་ ནས་ གསུངས་པ་ ལྟར་ སྤྱད་པ␣ར་ "
-"བྱ␣འོ ། །"
+"འཇིག་རྟེན་ ལ␣ས་ འདས་པ␣འི་ རིགས་གསུམ །  འཇིག་རྟེན་པ␣འི་ རིགས་གསུམ་ སོ་སོ␣ར་ "
+"དམིགས་བསལ་ དུ་ བཤད་པ␣འི་ བླང་དོར་ ཇི་སྙེད་ ཡོད་པ་ རྣམས་ ཀྱང་ སྤྱི␣འི་ "
+"དམ་ཚིག་ གཞིར་བཞག་པ␣འི་ སྟེང་ དུ་ རང་རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ དང་ རྟོག་པ་ "
+"རྣམས་ ནས་ གསུངས་པ་ ལྟར་ སྤྱད་པ␣ར་ བྱ␣འོ ། །"
 msgstr ""
 
 # 
