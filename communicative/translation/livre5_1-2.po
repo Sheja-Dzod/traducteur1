@@ -67,7 +67,7 @@ msgstr ""
 #  9. སྡོང་པོ་བཀོད་པ་ལས།་
 msgctxt "line 7, livre5_1-2.txt"
 msgid "Le Gandavyuha dit :"
-msgstr "Le Gandavyuha dit :"
+msgstr "Selon le Gandavyuha  :"
 
 #  10. རིགས་ཀྱི་བུ་ཁྱོད་ཀྱི་དགེ་བའི་ཆོས་ཐམས་ཅད་ནི་དགེ་བའི་བཤེས་
 # 
