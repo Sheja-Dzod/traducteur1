@@ -36,8 +36,9 @@ msgid ""
 "qu’il y a à devoir s’en remettre à un maître spirituel et donc d’en "
 "rechercher un."
 msgstr ""
-"Trois éléments: citations, raisonnements et exemples, montrent la pertinence"
-" de s’en remettre à un ami de vertu et donc celle d’en rechercher un."
+"Trois éléments: des citations, un raisonnement et des exemples, montrent la "
+"pertinence de s’en remettre à un ami de vertu et donc celle d’en rechercher "
+"un."
 
 #  4. དང་པོ་ནི།་
 msgctxt "line 4, livre5_1-2.txt"
