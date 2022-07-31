@@ -106,7 +106,7 @@ msgstr "Une infinité d’autres citations expriment le même propos."
 #  15. གཉིས་པ་ནི།་
 msgctxt "line 10, livre5_1-2.txt"
 msgid "Deuxièmement:"
-msgstr "Deuxièmement:"
+msgstr "Deuxièmement: (Ensuite, le raisonnement.)"
 
 #  16. ཐམས་ཅད་མཁྱེན་པ་ཐོབ་པར་འདོད་པའི་གང་ཟག་དེ་ཆོས་ཅན། 17. ཁྱོད་ཀྱིས་
 # 
