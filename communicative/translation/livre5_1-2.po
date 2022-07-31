@@ -141,7 +141,7 @@ msgstr "Troisièmement : (Enfin, les exemples.)"
 #  21. དཔལ་འབྱུང་གི་རྣམ་ཐར་ལས།་
 msgctxt "line 13, livre5_1-2.txt"
 msgid "La biographie de Shri Sambhava dit :"
-msgstr "La biographie de Shri Sambhava dit :"
+msgstr "Dans la biographie de Shri Sambhava, il est dit :"
 
 #  22. དགེ་བའི་བཤེས་གཉེན་ནི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་དུ་འཛུད་པས་
 # 
@@ -157,7 +157,7 @@ msgstr ""
 #  24. དགེ་བསྙེན་མ་མི་གཡོ་བའི་རྣམ་ཐར་ལས་ཀྱང༌།་
 msgctxt "line 15, livre5_1-2.txt"
 msgid "La biographie de la Laique Acala dit aussi:"
-msgstr "La biographie de la Laïque Acala dit aussi :"
+msgstr "Et dans la biographie de la laïque Acala :"
 
 #  25. དགེ་བའི་བཤེས་གཉེན་རྣམས་ནི་བདག་ཅག་ཐམས་ཅད་མཁྱེན་པའི་གནས་སུ་
 # 
