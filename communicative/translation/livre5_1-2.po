@@ -62,7 +62,7 @@ msgid ""
 msgstr ""
 "\"Les bons disciples, respectueux des maîtres, \n"
 "Toujours s’en remettent à des maîtres sages\n"
-"Pourquoi cela ? Car c’est d’eux que les qualités de sagesse viennent.\""
+"Pourquoi cela ? Car c’est d’eux que proviennent les qualités de sagesse.\""
 
 #  9. སྡོང་པོ་བཀོད་པ་ལས།་
 msgctxt "line 7, livre5_1-2.txt"
