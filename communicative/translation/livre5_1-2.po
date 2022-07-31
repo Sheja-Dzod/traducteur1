@@ -47,7 +47,7 @@ msgstr "Premièrement:"
 #  5. སྡུད་པ་ལས།་
 msgctxt "line 5, livre5_1-2.txt"
 msgid "La Prajnaparamita condensée dit :"
-msgstr "La Prajnaparamita condensée dit :"
+msgstr "Selon la Prajnaparamita condensée :"
 
 #  6. སློབ་མ་བཟང་པོ་བླ་མ་གུས་ལྡན་དེ་དག་གིས། །བླ་མ་མཁས་པ་
 # 
