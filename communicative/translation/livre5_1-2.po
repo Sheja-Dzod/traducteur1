@@ -42,7 +42,7 @@ msgstr ""
 #  4. དང་པོ་ནི།་
 msgctxt "line 4, livre5_1-2.txt"
 msgid "Premièrement:"
-msgstr "Premièrement:"
+msgstr "Premièrement:  (Tout d’abord, les citations.)"
 
 #  5. སྡུད་པ་ལས།་
 msgctxt "line 5, livre5_1-2.txt"
