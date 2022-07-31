@@ -189,4 +189,4 @@ msgstr ""
 #  29. ཞེས་པ་ལ་སོགས་པ་དུ་མས་བསྟན་པ་བཞིན་ནོ། །་
 msgctxt "line 19, livre5_1-2.txt"
 msgid "Beaucoup d’autres (histoires) expriment ce propos."
-msgstr "Beaucoup d’autres histoires expriment ce propos."
+msgstr "Bien d’autres histoires illustrent la même idée."
