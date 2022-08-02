@@ -450,9 +450,9 @@ msgid ""
 "capacité de purifier l’esprit des disciples en leur conférant les "
 "instructions sur ce qu’y est à faire et ce qui est à abandonner."
 msgstr ""
-"Le maitre placeur, en plus des qualités du maitre de l’ordination a la "
-"capacité de purifier l’esprit des disciples en leur conférant les "
-"instructions sur ce qu’y est à faire et ce qui est à abandonner."
+"Aux qualités du maitre de l’ordination, le maitre placeur ajoute quant à lui"
+" la capacité de purifier l’esprit des disciples en les instruisant sur ce "
+"qu’il convient de faire ou, d’abandonner."
 
 #  79. ཀློག་སློབ་ནི་ 80. སློབ་དཔོན་གྱི་ཆོས་ཀྱི་ཁར་སྡེ་སྣོད་གསུམ་ལ་བློ་
 # 
