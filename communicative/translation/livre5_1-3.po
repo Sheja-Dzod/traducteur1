@@ -721,11 +721,11 @@ msgid ""
 "S’appliquer aux actions (irrités) et la dissolution (du mandala). Telle "
 "qu’on les trouves ici."
 msgstr ""
-"Le Tantra de la consécration les énoncent ainsi : \n"
+"Le Tantra de la consécration les énumère ainsi : \n"
 "\"Mandalas, samadhis, moudras,\n"
 "Postures, mantras, positions assises,\n"
 "Récitations, offrandes dans le feu, tormas,\n"
-"S’appliquer aux actions irrités et dissolution du mandala.\""
+"Activités irritées et dissolution du mandala.\""
 
 #  126. ཆོ་གའི་དེ་ཉིད་བཅུ་གུར་གྱི་དགོངས་པ་ཌོམྦྷི་པའི་དེ་ཉིད་བཅུ་
 # 
