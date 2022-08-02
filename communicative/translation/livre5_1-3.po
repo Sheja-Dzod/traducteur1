@@ -827,10 +827,10 @@ msgid ""
 "des instructions directes, relèvent, selon Karmapa Mikyeu Dorjé et ses Fils,"
 " du Tantra Insurpassable."
 msgstr ""
-"Le Karmapa Mikyeu Dorjé et ses Fils disent aussi que les présentations que "
-"l‘on trouve dans le Tantra la Contemplation des Qualités du Maitre, dans le "
-"commentaire du Buddhasamayayoga et dans L’Epis des Instructions directes "
-"relèvent du Tantra Insurpassable."
+"Selon le Karmapa Mikyeu Dorjé et ses Fils, les présentations de ce sujet que"
+" l‘on trouve dans le Tantra la Contemplation des Qualités du Maitre, dans le"
+" commentaire du Buddhasamayayoga et dans L’Epi des Instructions directes "
+"relèvent toutes du Tantra Insurpassable."
 
 #  139. ཡང་ན་མཛོད་གསུམ་ལྡན་ཞིང་ཆུ་བོ་རྫོགས། ། 140. གཉེར་ལྡན་རྒྱུད་དང་ལས་མཁས་
 # 
