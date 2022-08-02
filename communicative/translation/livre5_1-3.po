@@ -482,11 +482,11 @@ msgid ""
 "Instructions, Qui a complétement réalisé la telléité, enseignant expert, "
 "Personnifiant la bonté et libre de toute lassitude."
 msgstr ""
-"L’Ornement des Soutras dit :\n"
+"L’Ornement des Soutras enseigne :\n"
 "\"Remettez-vous en a un maître maitrisé, pacifié, totalement pacifié, \n"
 "Aux qualités supérieures, diligent, riche des Instructions, \n"
 "Qui a complétement réalisé la telléité, enseignant expert, \n"
-"Personnifiant la bonté et libre de toute lassitude.\""
+"Personnifiant la bonté et sans la moindre lassitude.\""
 
 #  84. ཆོས་བཅུ་དང་ལྡན་པ་ཞིག་དགོས་པར་གསུངས་ཏེ་ 85. ཚུལ་ཁྲིམས་བསླབ་པའི་
 # 
