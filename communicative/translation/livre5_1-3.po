@@ -468,7 +468,7 @@ msgstr ""
 #  81. གཉིས་པ་བྱང་སྡོམ་གྱི་སློབ་དཔོན་ནི།་
 msgctxt "line 23, livre5_1-3.txt"
 msgid "2. Le maitre spirituel pour les vœux de Bodhisattva."
-msgstr "2. Le maitre spirituel pour les vœux de Bodhisattva."
+msgstr "2. Le maître pour les vœux de Bodhisattva."
 
 #  82. མདོ་སྡེ་རྒྱན་ལས། 83. བཤེས་གཉེན་དུལ་བ་ཞི་བ་ཉེར་ཞི་བ། །ཡོན་ཏན་ལྷག་
 # 
