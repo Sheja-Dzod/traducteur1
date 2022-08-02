@@ -462,8 +462,8 @@ msgid ""
 "Le maitre d’étude : En plus des qualités du maitre de cérémonie, il a "
 "l’intelligence qui comprends clairement les trois corbeilles."
 msgstr ""
-"Le maitre d’étude, en plus des qualités du maitre de cérémonie, il a "
-"l’intelligence qui comprends clairement les trois corbeilles."
+"Outre les qualités du maitre de cérémonie, le maitre d’étude possède enfin "
+"l’intelligence qui comprend clairement les trois corbeilles."
 
 #  81. གཉིས་པ་བྱང་སྡོམ་གྱི་སློབ་དཔོན་ནི།་
 msgctxt "line 23, livre5_1-3.txt"
