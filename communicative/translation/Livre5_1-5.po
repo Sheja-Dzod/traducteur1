@@ -71,7 +71,9 @@ msgstr ""
 "\"On reconnaît pour à même de tenir des vœux avec persévérance\n"
 "celui qui respecte les maîtres et possède une discipline parfaite.\n"
 "Celui qui toujours persévère dans la stabilité mentale et les récitations,\n"
-"qui est consciencieux, maitrisé et patient. \""
+"qui est consciencieux, maitrisé et patient. \"\n"
+"\n"
+"Voilà ce qui a été dit. Ensuite (pour développer) :"
 
 #  10. མཁན་པོ་དང་ཁྱད་པར་གནས་དང་ཀློག་པའི་སློབ་དཔོན་ལ་རྟག་ཏུ་
 # 
