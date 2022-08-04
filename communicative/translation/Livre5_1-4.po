@@ -30,9 +30,9 @@ msgid ""
 " avec toutes les qualités sont rare, on suit ceux avec beaucoup de qualités "
 "(qui en ont plus que nous)."
 msgstr ""
-"\"Ceux contraires, marqués de défauts, sont a abandonner. Bien que ceux "
-"possédantes toutes les caractéristiques soient rares, ceux en possédant "
-"beaucoup sont à suivre.\""
+"\"Les maîtres qui sont leurs opposés, les maîtres marqués de défauts sont à "
+"abandonner. Ceux qui ont toutes les caractéristiques étant rares, on doit "
+"donc suivre ceux qui en possèdent déjà beaucoup.\""
 
 #  3. གོང་སྨོས་ཀྱི་མཚན་ཉིད་རྣམས་ལས་ལྡོག་པ་ནི་ 4. སངས་རྒྱས་ཀྱི་བསྟན་
 # 
