@@ -30,7 +30,7 @@ msgid ""
 " avec toutes les qualités sont rare, on suit ceux avec beaucoup de qualités "
 "(qui en ont plus que nous)."
 msgstr ""
-"\"Les maîtres qui sont leurs opposés, les maîtres marqués de défauts sont à "
+"\"Ceux qui sont leurs opposés, les maîtres marqués de défauts sont à "
 "abandonner. Ceux qui ont toutes les caractéristiques étant rares, on doit "
 "donc suivre ceux qui en possèdent déjà beaucoup.\""
 
