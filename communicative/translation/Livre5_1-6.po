@@ -20,8 +20,9 @@ msgid ""
 "En sixième, l’explication de comment s’en remettre (au maître) se divise en "
 "deux : l’examen initial de la (leur) relation puis, s’en remettre."
 msgstr ""
-"6.  Comment s’en remettre au maître. Cet exposé se divise en deux parties : "
-"L'examen initial de la relation puis, comment s’en remettre à lui."
+"6.  Comment s’en remettre a un maître. Cet exposé se divise en deux parties "
+": L'examen initial de la relation maître-disciple,  puis, comment s’en "
+"remettre au maître."
 
 #  2. དང་པོ་ནི། 3. རིན་ཆེན་ལྟ་བུའི་དཔོན་སློབ་འབྲེལ་བརྟགས་ནས། །་
 msgctxt "line 2, Livre5_1-6.txt"
