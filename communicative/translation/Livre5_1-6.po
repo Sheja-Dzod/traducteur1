@@ -143,7 +143,9 @@ msgstr ""
 #  24. དེ་ལ་གཉིས། 25. བསམ་པ་དང་སྦྱོར་བའོ། །་
 msgctxt "line 7, Livre5_1-6.txt"
 msgid "il y a ici deux (aspects) : L’intention et l’application."
-msgstr "il y a ici deux aspects : La motivation et l’application."
+msgstr ""
+"Deux aspects sont ici à considérer : la motivation et la mise en "
+"application."
 
 #  26. དང་པོ་ནི། 27. སྡུད་པ་ལས། 28. དེ་ལྟ་བས་ན་བྱང་ཆུབ་དམ་པ་འཚོལ་བ་
 # 
