@@ -136,8 +136,9 @@ msgid ""
 "Deuxièmement: ceux qui aspirent à la libération s‘en remettront à lui a "
 "force d’ offrandes, de respect, de service et de pratique. puis,"
 msgstr ""
-"Deuxièmement: \n"
-"\"Ceux qui aspirent à la libération s‘en remettront à lui a force d’ offrande, de respect, de service et de pratique. \""
+"Deuxième partie, comment s'en remetre au maître.\n"
+" \n"
+"\"Ceux qui aspirent à la libération s‘en remettront à leur maître avec force hommages, offrandes, services et pratiques. \""
 
 #  24. དེ་ལ་གཉིས། 25. བསམ་པ་དང་སྦྱོར་བའོ། །་
 msgctxt "line 7, Livre5_1-6.txt"
