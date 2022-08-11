@@ -908,7 +908,7 @@ msgstr "prendre en considération (les êtres....prendre soins des êtres) et "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "c53743ccc9d94dfa9977f951d6faeaaa"
 msgid "མགུ་བ་ ལ་སོགས་པ␣ས་ རྗེས་སུ་ ཆགས་པ་"
-msgstr "faire plaisir (aux êtres) en les considérants avec affection"
+msgstr "prendre (les êtres) en considération avec plaisir etc."
 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -1602,7 +1602,9 @@ msgstr ""
 # laisser tomber, se débarrasser de, abandon, élimination, rejeter
 msgctxt "9e6dd16fe0084ef69a866069e7c1f20e"
 msgid "དམ་ཚིག་ རྣལ་འབྱོར་ རྡོར་དྲིལ་ སྤོང་བ །"
-msgstr "abandonner les promesses sacrées, les yogas, le vajra et la cloche."
+msgstr ""
+"abandonner le vajra et la cloche, la promesse sacrée ultime (litt. la "
+"promesse sacrée la plus haute)"
 
 # 。︀	〝ཐ་མལ〞 2091
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Ordinaire
