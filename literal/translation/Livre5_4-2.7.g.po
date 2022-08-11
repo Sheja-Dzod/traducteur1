@@ -115,9 +115,7 @@ msgstr ""
 # Injonction, Engagements, Enjoindre, Instruire,
 msgctxt "9c3bd740d608496da7f11c7099fcc039"
 msgid "དགག་པ␣འི་ ཕྱོགས་ ནས་ སྨོས་པ␣འི་ བསླབ་བྱ་ ནི །"
-msgstr ""
-"Les préceptes auxquels on s'est orallement engagés concernant les "
-"restrictions sont les suivants:"
+msgstr "Les préceptes énnoncés concernant les restrictions sont les suivants:"
 
 # 。︀	〝དཀོན་མཆོག་གསུམ〞 144
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Trois(Rares et Sublimes)Joyaux
