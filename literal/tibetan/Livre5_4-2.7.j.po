@@ -66,10 +66,6 @@ msgstr ""
 # Sacré, sublime, suprême, saint ;Authentique. Alternatives: (personne) saint,
 # sacré, sageauthentique, suprême, exemplaire, vertueux, édifiant, de valeur,
 # excellence, sublime
-msgctxt "912289da119b47339c0d8749d0a25ace"
-msgid "དམ་པ་ སྔ་མ་ ཕལ་པོ་ ཆེ་ རྩ་ལྟུང་ བཅུ་བཞི །"
-msgstr ""
-
 # 
 # 。︀	〝བཞེད་པ〞 5070
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ h Promettre, Soutenir, Asserter, Expliquer, h Penser,
@@ -87,8 +83,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "329b2e91071e467793c0af8513ad7844"
 msgid ""
-"ཡན་ལག་ སྦོམ་ ལྟུང་ བརྒྱད་ བསྡོམས་པ་ ལ་ བཞེད་པ␣ས་ དེ་ ནི་ ཕྱིས་ ནས་ འཆད་པ␣ར་ "
-"འགྱུར་ ཞིང༌ །"
+"དམ་པ་ སྔ་མ་ ཕལ་པོ་ ཆེ་ རྩ་ལྟུང་ བཅུ་བཞི །  ཡན་ལག་ སྦོམ་ ལྟུང་ བརྒྱད་ "
+"བསྡོམས་པ་ ལ་ བཞེད་པ␣ས་ དེ་ ནི་ ཕྱིས་ ནས་ འཆད་པ␣ར་ འགྱུར་ ཞིང༌ །"
 msgstr ""
 
 # 
