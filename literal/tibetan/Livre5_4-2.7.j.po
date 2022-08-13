@@ -1410,16 +1410,8 @@ msgid ""
 msgstr ""
 
 # 
-# 。︀	〝ལྷན་སྐྱེས〞 6741
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inné ⁃ inné
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Inné, Né simultanément , Né avec soi, Avec lequel on
-# est né, Qui est apparu avec soi,  Connaturel, Coextensif, Conné, Coémergent,
-# ⁃ sahaja, inné, en lequel nous naissons, spontanément né, simultané né
-# simultanément
-msgctxt "d5fe6eb9659943e2a3c313f0ffeb1b95"
-msgid "དེ་ རྣམས་ སྔགས་སྐྱེས་ ཞིང་ སྐྱེས་ ལྷན་སྐྱེས་ ཏེ་"
-msgstr ""
-
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
 # 
 # 。︀	〝སྒྲུབ་པ〞 930
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pratiquer, Pratique, Accomplir, Affirmer, Etablir ⁃
@@ -1434,6 +1426,9 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ accomplissement
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgrub pa Sens racine: pratiquer, accomplir, créer,
 # atteindre ; établir, affirmer ; s’efforcer pour atteindre (l’éveil)
+# 
+# 。︀	〝བསྒྲུབ་པ〞 963
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ établir, affirmer, créer, atteindre
 # 
 # 。︀	〝གནས་པ〞 3031
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
@@ -1457,22 +1452,6 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dūta Sens racine: Messager,Intermédiaire,
 # Alternatives: messager, intermédiaire, émissaire, médiateur
 # 
-# 。︀	〝ལམ〞 6008
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
-# lam comme articule grammaticale, ⁃ voie, chemin
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
-msgctxt "ea0ecfae3da4489e8e4ab1eb3cbabf75"
-msgid "ཕོ་ཉ་ གསུམ་ གྱི་ ལམ་ སྒྲུབ་པ་ ལ་ གནས་པ་ ཙམ་ གྱིས་"
-msgstr ""
-
-# 
-# 。︀	〝དགོས་པ〞 672
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
-# 
-# 。︀	〝བསྒྲུབ་པ〞 963
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ établir, affirmer, créer, atteindre
-# 
 # 。︀	〝གཙོ་བོ〞 4516
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le principal, L'essentiel, Le plus important, Prince,
 # Seigneur, Suprême,
@@ -1493,8 +1472,23 @@ msgstr ""
 # seigneur, souverainpoint essentiel, l'essence, sujet principal,
 # emphasespécialement, plus particulièrement, principalementsoi-
 # mêmepremièrement
-msgctxt "d1336310a1994ad19537c6560c9f74f7"
-msgid "གཙོ་བོ␣ར་ བསྒྲུབ་པ␣ར་ བྱ་ དགོས་པ␣ས་"
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+# 
+# 。︀	〝ལྷན་སྐྱེས〞 6741
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inné ⁃ inné
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Inné, Né simultanément , Né avec soi, Avec lequel on
+# est né, Qui est apparu avec soi,  Connaturel, Coextensif, Conné, Coémergent,
+# ⁃ sahaja, inné, en lequel nous naissons, spontanément né, simultané né
+# simultanément
+msgctxt "ea0ecfae3da4489e8e4ab1eb3cbabf75"
+msgid ""
+"དེ་ རྣམས་ སྔགས་སྐྱེས་ ཞིང་ སྐྱེས་ ལྷན་སྐྱེས་ ཏེ་ ཕོ་ཉ་ གསུམ་ གྱི་ ལམ་ "
+"སྒྲུབ་པ་ ལ་ གནས་པ་ ཙམ་ གྱིས་ གཙོ་བོ␣ར་ བསྒྲུབ་པ␣ར་ བྱ་ དགོས་པ␣ས་"
 msgstr ""
 
 # 
