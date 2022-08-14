@@ -3,9 +3,8 @@
     "",
     "\\communicative",
     "\\literal",
-    "\\literal\\tibetan",
-    "\\literal\\translation"
+    "\\literal\\tibetan"
   ],
-  "SelectedNode": "\\literal\\translation\\Livre5_1-7.txt",
+  "SelectedNode": "\\A_gen_literal_po.py",
   "PreviewInSolutionExplorer": false
 }
