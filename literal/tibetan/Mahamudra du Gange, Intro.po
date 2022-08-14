@@ -1178,51 +1178,6 @@ msgid "དེ་ཡང་ །"
 msgstr ""
 
 # 
-# 。︀	〝འཁོར་བ〞 429
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le samsara, Tourner Le cycle,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le cycle (des existences); périmètre, rotation, disque,
-# révolution,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃsāra, alali Sens racine: Le samsara,TournerLe
-# cycle,, cyclic life (SL MW) Alternatives: cycle des existences, de
-# l’existence, existence cyclique ; roue de l’existence, de la vie, du
-# saṃsāra ; transmigration ; ronde des renaissances, de l’existence, cercle
-# vicieux, des vies, ; continuum du cycle, transmigration samsarique, errance
-# cyclique (dans le saṃsāra), cycle vicieux du saṃsāra, tourbillon de la
-# confusiontourner (en rond), faire une rotation, ce qui tourne, tournoie,
-# cercle, roue (auto tournante), rotation continue(lle)le mondel’entourage (de
-# déités), les courtisans, périphérie, auditeurs, disciples, étudiants, cour,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cycle des existences ⁃ Cycle des existence, samsâra ⁃
-# Samsâra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samsâra, le cycle, existence cyclique
-# 
-# 。︀	〝གནས〞 3014
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
-# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
-# theme, sujet
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
-# Lieu, pays, contrée, localilté,Lieu sacré (de
-# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
-# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
-# résidence, emplacement, situation, position, pays, contrée, sol,
-# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
-# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
-# présence de
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
-# 
-# 。︀	〝ལུས〞 6092
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
-# 
-# 。︀	〝ལོངས་སྤྱོད〞 6146
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Richesses, Biens, Ce dont on dispose, Ce dont on joui,
-# Ce que l'on use,  Ce dont on se sert, Ce dont on fait l'expérience, Les
-# «temps» et les «protecteurs des contrées» qui courrent sur le Gola (voir
-# cosmologie du Kalachakra)
-msgctxt "041df608b67742c79a7f7929707f6b7d"
-msgid "འཁོར་བ␣འི་ གནས་ ལུས་ ལོངས་སྤྱོད་ དང་ །"
-msgstr ""
-
-# 
 # 。︀	〝བཀོད་པ〞 165
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Placer, disposer, arranger. Disposition, arrangement.
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rnam par bkod pa vyūha, racana Sens racine:
@@ -1332,6 +1287,21 @@ msgstr ""
 # delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
 # transcender, aller au-delà, surpasser, transcendance
 # 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
 # 。︀	〝ཕྱག་རྒྱ〞 3475
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mudra, Geste, Sceau, Parèdre, Partenaire, Ornement
 # symbolique, ⁃ 1. mûdra, geste, symbole, sceau, 2. parèdre, partenaire
@@ -1405,6 +1375,15 @@ msgstr ""
 # expériences. ⁃ acte
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
 # 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+# 
+# 。︀	〝ལོངས་སྤྱོད〞 6146
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Richesses, Biens, Ce dont on dispose, Ce dont on joui,
+# Ce que l'on use,  Ce dont on se sert, Ce dont on fait l'expérience, Les
+# «temps» et les «protecteurs des contrées» qui courrent sur le Gola (voir
+# cosmologie du Kalachakra)
+# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -1431,9 +1410,10 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sagesse coémergente ou simultanée
 msgctxt "4a2688a1903e40a2ab59b40e63afaa90"
 msgid ""
-"ཡི་དམ་ ལྷ␣འི་ ཞིང་ དང་ སྐུ␣འི་ བཀོད་པ་ སོགས་ ཆོས་ཅན་ འཁོར་བ་ དང་ མྱ་ངན་ ལ␣ས་"
-" འདས་པ␣འི་ ཆོས་ ཐམས་ཅད་ ལ་ ཆོས་ཉིད་ དེ་བཞིན་ཉིད་ དོན་དམ་ ལྷན་ཅིག་ "
-"སྐྱེས་པ␣འི་ ཡེ་ཤེས་ ཀྱི་ རྒྱས་ མ་ཐེབས་པ་ མེད་པ␣འི་ ཕྱིར་ ན་ ཕྱག་རྒྱ་ དང་ །"
+"འཁོར་བ␣འི་ གནས་ ལུས་ ལོངས་སྤྱོད་ དང་ །  ཡི་དམ་ ལྷ␣འི་ ཞིང་ དང་ སྐུ␣འི་ "
+"བཀོད་པ་ སོགས་ ཆོས་ཅན་ འཁོར་བ་ དང་ མྱ་ངན་ ལ␣ས་ འདས་པ␣འི་ ཆོས་ ཐམས་ཅད་ ལ་ "
+"ཆོས་ཉིད་ དེ་བཞིན་ཉིད་ དོན་དམ་ ལྷན་ཅིག་ སྐྱེས་པ␣འི་ ཡེ་ཤེས་ ཀྱི་ རྒྱས་ "
+"མ་ཐེབས་པ་ མེད་པ␣འི་ ཕྱིར་ ན་ ཕྱག་རྒྱ་ དང་ །"
 msgstr ""
 
 # 
