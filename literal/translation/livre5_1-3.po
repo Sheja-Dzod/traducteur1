@@ -727,7 +727,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ en son lieu propre
 msgctxt "1e434562f04a489d969baadee9c58b57"
 msgid "རང་ས་ ཆེན་པོ་ ལ་ གནས་ ཙ་ན །"
-msgstr "Une fois présent sur les grandes terres "
+msgstr ""
+"Une fois présent sur les grandes terres (les hautes terres de l'éveil) "
 
 # 。︀	〝སྐུ〞 200
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Corps ⁃ Corps
