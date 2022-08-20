@@ -86,8 +86,13 @@ msgstr ""
 # བ་ཡིན་ནོ། །་
 msgctxt "line 7, Livre5_1-10.txt"
 msgid ""
-"Deuxièmement, éliminer les démons.\n"
-" Le Soutra Les Questions de Sagaramati dit : (Considérez) vous comme le médecin, le Dharma comme le remède, l’auditeur comme le malade, le Tataghata comme un être suprême et (ayez l’intention) que le Dharma tel qu’il est demeure longtemps; générez (ces) cinq concepts puis, récitez le mantra qui empêche les divinité démoniaques de venir dans un rayon de 100 Yojanas. Il convient de faire comme cela vient d’être dit."
+"Deuxièmement, éliminer les démons. Le Soutra Les Questions de Sagaramati "
+"dit : (Considérez) vous comme le médecin, le Dharma comme le remède, "
+"l’auditeur comme le malade, le Tataghata comme un être suprême et (ayez "
+"l’intention) que le Dharma tel qu’il est demeure longtemps; générez (ces) "
+"cinq concepts puis, récitez le mantra qui empêche les divinité démoniaques "
+"de venir dans un rayon de 100 Yojanas. Il convient de faire comme cela vient"
+" d’être dit."
 msgstr ""
 
 #  18. གསུམ་པ་ཀུན་སྤྱོད་དག་པར་བྱ་བ་ནི། 19. ལུས་ཉལ་བ་དང༌། བསྙེས་པ་དང༌། རྐང་
@@ -107,8 +112,19 @@ msgstr ""
 # ཆར་དབབ་བོ་སྙམ་པར་བྱའོ། །་
 msgctxt "line 8, Livre5_1-10.txt"
 msgid ""
-"troisièmement, ayez une attitude parfaite.\n"
-" (quand vous enseignez) ne vous allongez pas, ne vous adossez pas, n’étendez pas vos jambes, tournez la roue du Dharma comme le fit le Roi des Sakyas. Abandonnez de trop parler, de vous répéter, d’employer une mauvaise tonalité de voix, et de manière non harmonieuse (litt. une tonalité parfois forte, parfois faible), etc. puis, enseignez avec clarté et (dans un langage) pure. Mentalement, sans attachement et aversion (litt. ayant abandonné attachement et aversion), en accord avec la vacuité ou le samadhi de la divinité etc. avec mentalement, l’intention (litt. la pensée qui a l’intention de) d’amener (litt. installer) tous les êtres (dans un état) qui leur est bénéfique et qui est heureux (bénéfique et heureux), pensez ’’je vais faire tomber une pluie de Dharma’’. (dharma qui s’accorde avec la vacuité, le samadhi de la divinité etc)."
+"troisièmement, ayez une attitude parfaite. (quand vous enseignez) ne vous "
+"allongez pas, ne vous adossez pas, n’étendez pas vos jambes, tournez la roue"
+" du Dharma comme le fit le Roi des Sakyas. Abandonnez de trop parler, de "
+"vous répéter, d’employer une mauvaise tonalité de voix, et de manière non "
+"harmonieuse (litt. une tonalité parfois forte, parfois faible), etc. puis, "
+"enseignez avec clarté et (dans un langage) pure. Mentalement, sans "
+"attachement et aversion (litt. ayant abandonné attachement et aversion), en "
+"accord avec la vacuité ou le samadhi de la divinité etc. avec mentalement, "
+"l’intention (litt. la pensée qui a l’intention de) d’amener (litt. "
+"installer) tous les êtres (dans un état) qui leur est bénéfique et qui est "
+"heureux (bénéfique et heureux), pensez ’’je vais faire tomber une pluie de "
+"Dharma’’. (dharma qui s’accorde avec la vacuité, le samadhi de la divinité "
+"etc)."
 msgstr ""
 
 #  24. གཉིས་པ་ནི།་
@@ -288,8 +304,16 @@ msgstr ""
 # བར་ནུས་པའི་དབྱངས་སྙན་པ་དང་གསུམ་མོ། ། 63. ཡང་ན།་
 msgctxt "line 26, Livre5_1-10.txt"
 msgid ""
-"La deuxième :\n"
-" Un langage à la grammaire parfaite et, un (discours) en lien avec le sujet enseigné, a la durée adaptée (à l’auditoire) et correcte (juste) quelque soit ce qui est enseigné sont les trois points en lien avec l’expression (litt. la parole). et en troisième une voix agréable qui a la capacité de réjouir les auditeurs (litt. les autres). (On a 3 points: 1. un bon usage de la grammaire, du langage; 2 trois aspects en lien avec l’expression: un discours en lien avec le sujet, d’une durée adaptée et juste dans ce qui est enseigné; 3 une voix mélodieuse qui réjouit l’auditoire.) Autrement, (on peut expliquer ce deuxième point aussi selon l’ornement des soutras)."
+"La deuxième : Un langage à la grammaire parfaite et, un (discours) en lien "
+"avec le sujet enseigné, a la durée adaptée (à l’auditoire) et correcte "
+"(juste) quelque soit ce qui est enseigné sont les trois points en lien avec "
+"l’expression (litt. la parole). et en troisième une voix agréable qui a la "
+"capacité de réjouir les auditeurs (litt. les autres). (On a 3 points: 1. un "
+"bon usage de la grammaire, du langage; 2 trois aspects en lien avec "
+"l’expression: un discours en lien avec le sujet, d’une durée adaptée et "
+"juste dans ce qui est enseigné; 3 une voix mélodieuse qui réjouit "
+"l’auditoire.) Autrement, (on peut expliquer ce deuxième point aussi selon "
+"l’ornement des soutras)."
 msgstr ""
 
 #  64. མདོ་སྡེ་རྒྱན་ལས།་
@@ -416,7 +440,7 @@ msgid ""
 "attrayant pour les personnes de son entourage (ses disciples). En effet,"
 msgstr ""
 
-#  85. མདོ་སྡེ་རྒྱན་ལས	།་
+#  85. མདོ་སྡེ་རྒྱན་ལས།་
 msgctxt "line 35, Livre5_1-10.txt"
 msgid "L’Ornement des Soutras dit :"
 msgstr ""
@@ -466,7 +490,7 @@ msgstr ""
 
 #  94. གཞུང་ཁ་ཅིག་ལས། 95. དགོས་དོན་བསྡུས་དོན་ཚིག་དོན་གསུམ་གྱིས་འཆད་ཅིང༌། ལ་ལར་
 # 
-# སྤྱི་དང་ཡན་ལག་གི་དོན་གཉིས་ཀྱིས་འཆད་པར་བཤད་དོ།	 །་
+# སྤྱི་དང་ཡན་ལག་གི་དོན་གཉིས་ཀྱིས་འཆད་པར་བཤད་དོ། །་
 msgctxt "line 40, Livre5_1-10.txt"
 msgid ""
 "Selon certains textes Il enseigne selon trois (aspects): le propos, le "
@@ -688,11 +712,13 @@ msgstr ""
 # འཆད་པ་དང༌།་
 msgctxt "line 51, Livre5_1-10.txt"
 msgid ""
-"La connexion des phrases: Il doit expliquer de manière facile à comprendre, "
-"le lien qu’il y a entre les phrases. Dans certains cas, l’explication d’une "
-"première phrase ne permet pas la compréhension de la suivant, et même si "
-"elle le permet, elle n’est pas claire, même si c’est clair, certains liens "
-"sont difficiles à comprendre."
+"La connexion des mots (idi ce sont les mots et les sections de phrases "
+"reliés par des mots comme la’ang, skyang etc. ce sont ces mots qui sont "
+"expliqués): Il doit expliquer de manière facile à comprendre, le lien qu’il "
+"y a entre les mots (et les sections de phrases). Dans certains cas, "
+"l’explication d’un premier mot ne permet pas la compréhension du suivant, et"
+" même si elle le permet, elle n’est pas claire, même si c’est clair, "
+"certains liens sont difficiles à comprendre."
 msgstr ""
 
 #  144. དོན་གྱི་མཚམས་སྦྱོར་ནི། 145. དེ་ལྟར་མདོར་བསྟན་ནས་དེ་ཉིད་རྒྱས་པར་འཆད་
@@ -733,7 +759,7 @@ msgstr ""
 
 #  148. གསུམ་པ་ཇི་ལྟར་བཤད་པའི་ཚུལ་ནི། 149. བློ་ཆེན་ཟབ་རྒྱས་བློ་ཆུང་བཟུང་
 # 
-# བདེ་ཞིང༌། །གོ་སླ་ཕྱིས་ནས་ཕྲ་ཞིབ་འགལ་འབྲེལ་གཅོད། །ཞུམ་ལ་གཟེངས་བསྟོད་
+# བདེ་ཞིང༌། །གོ་སླ་ཕྱིས་ནས་ཕྲ་ཞིབ་འགལ་འབྲེལ་གཅོད། ། ཞུམ་ལ་གཟེངས་བསྟོད་
 # 
 # རྒོད་དང་རྨུགས་པ་བཟློག །་
 msgctxt "line 54, Livre5_1-10.txt"
@@ -1001,7 +1027,7 @@ msgstr ""
 #  206. གསུམ་པ་རྗེས་ཀྱི་བྱ་བ་ལ་གཉིས། སློབ་དཔོན་དང༌། སློབ་མའི་བྱ་བའོ། །་
 msgctxt "line 69, Livre5_1-10.txt"
 msgid ""
-"3. Ce qu’il y a a faire ensuite à deux parties: l’activité du maître et "
+" 3. Ce qu’il y a a faire ensuite à deux parties: l’activité du maître et "
 "l’activité du disciple."
 msgstr ""
 
