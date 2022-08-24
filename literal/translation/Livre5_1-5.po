@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 # 。︀	〝བསྟེན〞 2077
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ service (du maître)
@@ -45,7 +45,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Disciple, Etudiant, Elève, Apprentis,
 msgctxt "243064e5852e470eb503d83e511f0460"
 msgid ""
-"﻿ལྔ་པ་ གང་ གིས་ བསྟེན་པ་ སློབ་མ␣འི་ མཚན་ཉིད་ བཤད་པ་ ལ␣འང་ གཉིས །  བསྟེན་ བྱ "
+"ལྔ་པ་ གང་ གིས་ བསྟེན་པ་ སློབ་མ␣འི་ མཚན་ཉིད་ བཤད་པ་ ལ␣འང་ གཉིས །  བསྟེན་ བྱ "
 "།  སྤང་བྱ་ ཞར་བྱུང་ དང་ བཅས་པ␣འོ ། །"
 msgstr ""
 "5. L'exposé des caractéristiques du disciple, celui qui s'en remet (au "
