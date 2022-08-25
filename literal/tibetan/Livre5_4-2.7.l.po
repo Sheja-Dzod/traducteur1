@@ -693,22 +693,19 @@ msgstr ""
 # monde samsarique, physique, mondain
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
 # destructible
+msgctxt "b3b28bc7bdb24358af4bd1865abea8e1"
+msgid "ཆོས་ འཇིག་རྟེན་ ལ་ ཕན་པ␣འི་ གྲོགས་ དང༌ །"
+msgstr ""
+
 # 
 # 。︀	〝ལུགས〞 6070
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Coutume, Mode, Façon de faire, Tradition,
 # Récipient en lequel on verse,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ système, tradition
-msgctxt "27bc542832e8454c8e5165f481f2d74a"
-msgid "ཆོས་ འཇིག་རྟེན་ ལ་ ཕན་པ␣འི་ གྲོགས་ དང༌ །  ལུགས་ གཉིས་ ཀྱིས་ བཀུར་འོས་"
+msgctxt "c934854b94954a6f84869b4714c777b3"
+msgid "ལུགས་ གཉིས་ ཀྱིས་ བཀུར་འོས་ རྗེ་དཔོན་ རྒན་རབས་ སོགས་ དང༌ །"
 msgstr ""
 
-# 
-# 。︀	〝དགེ་འདུན〞 632
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
-# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
-# communauté (monastique), congrégation, noble assemblée
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
 # 
 # 。︀	〝བླ་མ〞 3870
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
@@ -744,10 +741,32 @@ msgstr ""
 # 。︀	〝ལྷ〞 6701
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Deva, Dieu, Divinité, Déité, ⁃ divinité, déité
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dieux, déités ⁃ Déité ⁃ Dieux
+msgctxt "f85d50d276e94ac5be96727a7b240125"
+msgid "ལྷ་ མི␣འི་ བླ་མ་ སངས་རྒྱས་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་འདུན〞 632
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
+# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
+# communauté (monastique), congrégation, noble assemblée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
+msgctxt "dcfa023df7e6449faabb2769460a3d02"
+msgid "དགེ་འདུན་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝བླ་མ〞 3870
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
+# maître, Père-Mère de bonté
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ guru (= guṇa-ru : “lourd de qualités”) Sens racine:
+# Lama,Gourou,Maître,Père-Mère de bonté Alternatives: Lama, maître (spirituel,
+# insurpassable), guide, mentor, conseiller d'orientation sprirituelle
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître spirituel
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
 msgctxt "7cbd33266be4413dab9992e62c8d06b5"
-msgid ""
-"རྗེ་དཔོན་ རྒན་རབས་ སོགས་ དང༌ །  ལྷ་ མི␣འི་ བླ་མ་ སངས་རྒྱས་ དང༌ །  དགེ་འདུན་ "
-"དང༌ །  ཡིད་བརྟན་པ་ བླ་མ་ ལ་ འཁུ་བ་ སྟེ་ འཁུ་བ་ ལྔ་ དང༌ །"
+msgid "ཡིད་བརྟན་པ་ བླ་མ་ ལ་ འཁུ་བ་ སྟེ་ འཁུ་བ་ ལྔ་ དང༌ །"
 msgstr ""
 
 # 
