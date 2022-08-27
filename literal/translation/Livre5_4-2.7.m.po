@@ -1524,9 +1524,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "6696005cab844edbaf51aa9284cb8ac6"
 msgid "ཅེས་པ་ རྣམས་ ལ␣ས་ དང་པོ་ བས་ དངོས་ སུ་ སྦྱིན་ ནུས་པ་ སྦྱིན་ ཞིང༌ །"
-msgstr ""
-"De tous ces dons, si les débutants peuvent les offrir, qu'ils les offrents "
-"mais, "
+msgstr "Si les débutants peuvent tous les offrir, qu'ils les offrents mais, "
 
 # 。︀	〝ནུས་པ〞 2990
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pouvoir, Puissance
