@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 # 。︀	〝དགོས་པ〞 672
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
@@ -32,8 +32,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "7f45422bf1cf42ef82485a536b7984f0"
 msgid ""
-"﻿བདུན་པ་ དེ་ལྟར་ བསྟེན་པ␣འི་ དགོས་པ་ ལ་ གཉིས །  རིགས་པ␣ས་ དགོས་པ་ བསྒྲུབ་པ "
-"།  ཕན་ཡོན་ གྱི་ ལུང་ སྨོས་པ␣འོ ། །"
+"བདུན་པ་ དེ་ལྟར་ བསྟེན་པ␣འི་ དགོས་པ་ ལ་ གཉིས །  རིགས་པ␣ས་ དགོས་པ་ བསྒྲུབ་པ ། "
+" ཕན་ཡོན་ གྱི་ ལུང་ སྨོས་པ␣འོ ། །"
 msgstr ""
 "7. La nécessité de s'en remettre ainsi à deux parties : établir la nécessité"
 " par le raisonnement et l'énoncé de citations concernant les bienfaits."
