@@ -1079,7 +1079,9 @@ msgstr "puis,"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "924811ad86dd4c4492d5d421e3536717"
 msgid "བྱང་སེམས་ ཀྱི་ སྡེ་སྣོད་ ལ␣ས །"
-msgstr "Le Soutra intitulé ''La Corbeille des Bodhisattvas\" dit :"
+msgstr ""
+"Le Soutra intitulé ''la corbeille d’enseignements des nobles bodhisattvas\" "
+"dit :"
 
 # 。︀	〝བཅོམ་ལྡན་འདས〞 1272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bhagavan, Le Bienheureux «Le Subjugueur des démons,
