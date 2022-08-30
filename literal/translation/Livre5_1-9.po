@@ -177,7 +177,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "f98251d4586b4902969f37d72fbb8adc"
 msgid "དཀོན་མཆོག་ ཏ་ལ␣འི་ མདོ་ ལ␣ས །"
-msgstr "Le Soutra Dharani du Rare et Précieux Palmier dit :"
+msgstr "Le Soutra la Dharani de la précieuse torche dit :"
 
 # 。︀	〝བསྐྱེད་པ〞 283
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Développer, générer
