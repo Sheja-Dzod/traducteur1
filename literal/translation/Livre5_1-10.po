@@ -9140,7 +9140,7 @@ msgstr "Les bienfaits à retenir le Dharma."
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ secret, mystère
 msgctxt "72354772b1d345bb953c622800747e21"
 msgid "དེ་བཞིན་ གཤེགས་པ␣འི་ གསང་བ་ བསྟན་པ་ ལ␣ས །"
-msgstr "Le Soutra exposant le secret des Ainsi-allés dit: "
+msgstr "l’exposé du secret inconcevable des Ainsi-allés dit: "
 
 # 。︀	〝བསྐལ་པ〞 277
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Kalpa, éon,
