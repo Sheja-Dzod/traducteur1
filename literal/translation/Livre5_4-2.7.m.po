@@ -171,8 +171,8 @@ msgstr ""
 msgctxt "39241b1bedb848f5b9b3e6d92e1b7062"
 msgid "རྡོར་ སེམས་ བྱང་ཆུབ་ སེམས་ ཏེ་ དྲང་ ངེས་ གཉིས ། །"
 msgstr ""
-"Et pour celle de Vajrasattva, préserver l’esprit d’éveil ; toutes ayant sens"
-" provisoire et certain."
+"Et pour celle de Vajrasattva, préserver l’esprit d’éveil ; toutes ayant un "
+"sens provisoire et un sens définitif."
 
 # 。︀	〝སྒྲུབ་པ〞 930
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pratiquer, Pratique, Accomplir, Affirmer, Etablir ⁃
@@ -230,8 +230,8 @@ msgstr ""
 msgctxt "cf22ec4081984f828d7938dc18b0d36b"
 msgid "འདི␣ར་ ཉམས་ སུ་ བླང་ བྱ་ སྒྲུབ་པ␣འི་ ཚུལ་ཁྲིམས་ ལ་ སྡོམ་པ །"
 msgstr ""
-"A ce sujet, le terme « voeux » désigne les prescriptions relatives à ce qui "
-"doit être pratiqué"
+"A ce sujet, le terme « voeux » désigne la discipline pour les préscriptions "
+"relatives à ce qui doit être pratiqué"
 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -278,7 +278,8 @@ msgstr ""
 msgctxt "4cf1781ea5aa4d09bc505963ba597b21"
 msgid "སྤང་བྱ་ བཟློག་པ␣འི་ ཚུལ་ཁྲིམས་ ལ་ དམ་ཚིག  །"
 msgstr ""
-"et « liens sacrés » les restrictions quant à ce qu’il convient d’abandonner."
+"et « liens sacrés » la discipline pour les restrictions quant à ce qu’il "
+"convient d’abandonner."
 
 # 。︀	〝བཞག་པ〞 5060
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
@@ -554,8 +555,8 @@ msgid ""
 "ཐ་མལ་ སྒོ་གསུམ་ བག་ཆགས་ དང་ བཅས་པ་ ཐབས་ཤེས་ ཁྱད་པར་ཅན་ གྱིས་ རྡོ་རྗེ་ "
 "བཞི␣འི་ ངོ་བོ་ སྡོམ་པ␣འི་ དོན་ ཏེ །"
 msgstr ""
-"Contenir les trois portes ordinaires et de leurs empreintes en les quatre "
-"vajras en faisant usage de méthodes et de sagesse particulères est le sens "
+"Contenir les trois portes ordinaires et  leurs empreintes en les quatre "
+"vajras en faisant usage de méthodes et de sagesse particulières est le sens "
 "du mot \"voeux\". "
 
 # 。︀	〝རྒྱུད་སྡེ〞 822
@@ -599,9 +600,9 @@ msgid ""
 "དེ་ ལ་ རྒྱུད་སྡེ་ ཐུན་མོང་ གི་ རིགས་ ལྔ་ སྤྱི་ དང་ བྱེ་བྲག་ གི་ སྡོམ་པ་ "
 "རྣམས་ གོང་ དུ་ སྨོས་པ་ ཉིད་ དེ །"
 msgstr ""
-"les voeux communs qu'il y a en commun dans les différentes classes de "
-"tantras concernant les cinq familles -leurs voeux généraux et spécifiques -"
-"  sont ceux expliqués précédemment. "
+"les voeux qu'il y a en commun dans les différentes classes de tantras "
+"concernant les cinq familles -leurs voeux généraux et spécifiques -  sont "
+"ceux expliqués précédemment. "
 
 # 。︀	〝སྒྲ〞 898
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ son
@@ -981,9 +982,6 @@ msgstr ""
 "ordinaires. L' immuable (Akshobya) qui jamais ne s'éloigne des corps, "
 "paroles et esprits évéillés de tous les Ainsi-allés, est, en son essence, "
 "présence éternelle (existe depuis toujours). Tel est le lien sacré de base. "
-"(la présence éternelle qui est l'essence de l' immuable (Akshobya) qui "
-"jamais ne s'éloigne des corps, paroles et esprits évéillés de tous les "
-"Ainsi-allés, est le lien sacré de base.)"
 
 # 。︀	〝ངོ་འཕྲོད〞 1044
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Présentation, présenter, Introduction directe
@@ -1066,8 +1064,8 @@ msgid ""
 "དེ་ རྣལ་འབྱོར་པ␣འི་ བློ␣འི་ རིམ་པ␣ས་ ལུས་ངག་ ཡིད་ གསུམ་ རྡོ་རྗེ་ གསུམ་ དུ་ "
 "ངོ་འཕྲོད་ ཅིང༌ །"
 msgstr ""
-"Les yogis, selon leur niveau d'avancement spirituel, reconnaitrons leurs "
-"corps, paroles et esprits comme étant ces trois vajras et,"
+"Les yogis, selon leur niveau d'avancement spirituel, reconnaissent leurs "
+"corps, paroles et esprits comme étant ces trois vajras, puis,"
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
@@ -1148,8 +1146,8 @@ msgid ""
 "རྣལ་འབྱོར་ དུ་ མོས་པ་ ནི་ འཛིན་པ་ སྟེ་ ཉེར་ལེན་ གྱི་ རྒྱུ␣འི་ སྟེང་ ནས་ "
 "བཞག་པ་ དང༌ །"
 msgstr ""
-"l'aspiration stable à ce yoga est une saisie servant de cause substencielle "
-"sur laquelle il s'appuiera pour poser (son esprit) et,"
+"son aspiration stable à ce yoga consistant à maintenir (cet état) est relié "
+"à la cause substencielle et,"
 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
@@ -1347,7 +1345,7 @@ msgid ""
 "དེ་ཉིད་ གཙོ་བོ␣ར་ བཟུང་ སྟེ་ ང་རྒྱལ་ བཅགས་ ལ་ བསྟེན་པ␣ར་ བྱེད་པ་ ནི་ "
 "འཛིན་པ␣འི་ དོན་ ཏོ ། །"
 msgstr ""
-"Le considérant comme étant (le lien) sacré éssentiel, la ''saisie'' à ici "
+"Le considérant comme étant (le lien sacré) principal, ''maintenir'' à ici "
 "pour sens de s'en remettre au (Lama) tout en réduisant son orgeuil."
 
 # 。︀	〝རྟགས〞 1943
