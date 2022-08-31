@@ -141,7 +141,7 @@ msgid ""
 "དེ་ ལ་ག་ པུར་ རྒྱུ་ ཡི་ ཕྱིར ། ། ཤ་ ནི་ རྟག་ ཏུ་ བཟའ་བ␣ར་ བྱ ། ། ཁྱད་པར་ དུ་"
 " ཡང་ ཆང་ ཉིད་ དོ ། །"
 msgstr ""
-"\"Puisque à ce moment là, le camphre་(ici le sperm) sera la cause (de la "
+"\"Puisque à ce moment là, le camphre་(le sperm) sera la cause (de la "
 "bodhiccita), mangez toujours de ces viandes. Plus spécifiquement buvez aussi"
 " de l'alcool.\" "
 
@@ -341,8 +341,8 @@ msgstr "Pour la famille du Lotus, le lien sacré est"
 msgctxt "2a65b584572d4ebe9e93fa50c5b398b5"
 msgid "ཚངས་སྤྱོད་ དེ་ དབང་ བདུན་ ཡན་ཆད་ དུ་ ལོག་གཡེམ་ འགོག་པ་ དང༌ །"
 msgstr ""
-"la conduite excellente :  en lien avec les sept intiations, il s'agit de ne "
-"pas s'engager dans l'inconduite sexuelle et,"
+"la conduite excellente, cependant,  aprés les sept intiations, il s'agit de "
+"ne pas s'engager dans l'inconduite sexuelle et,"
 
 # 。︀	〝ཁུ་བ〞 316
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sperme, esprit d'éveil relatif, fluides régénérateurs,
@@ -624,9 +624,8 @@ msgid ""
 "དམིགས་མེད་ ཀྱི་ སྙིང་རྗེ་ དང་ དོན་དམ་ རིག་པ␣འི་ ཡེ་ཤེས་ ཀྱི་ སྟོང་ཉིད་ ཟུང་ "
 "དུ་ འཇུག་པ␣འི་ བྱང་ཆུབ་ ཀྱི་ སེམས་ བཟུང་བ␣འོ ། །"
 msgstr ""
-"maintenir l'esprit d'éveil, l'union de la compassion sans fixations et de la"
-" vacuité de la sagesse primordiale de la consicence pure ultime. (ou, qui "
-"connait l'ultime)."
+"maintenir l'esprit d'éveil, l'union de la compassion sans fixations et de "
+"l'ultime,  la vacuité de la sagesse primordiale consicence pure."
 
 # 。︀	〝ངེས་དོན〞 1008
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens définitif ⁃ sens définitif ⁃ sens définitif
@@ -913,7 +912,7 @@ msgid ""
 msgstr ""
 "hormis quelques différence d'intensité dans la dévotion du pratiquant, "
 "différences qui dépendent des expériences et réalisations du pratiquant, "
-"l'expression de ce lien est le même (que vu précédement)."
+"l'expression de ce lien est le même (pour tous)."
 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -1191,7 +1190,7 @@ msgstr ""
 msgctxt "cd104ac3d9a049c4a6bf64dd5b39e83e"
 msgid "ལྡོག་ སྟེ་ བདེ་བ␣ས་ ཕུང་ ཁམས་ དབང་ ཡུལ་ ཚིམས་པ␣ར་ བྱེད་པ་ དང༌ །"
 msgstr ""
-"en la retournant, comblé de félicité les aggrégats, les éléments, les "
+"en la retournant, combler de félicité les aggrégats, les éléments, les "
 "facultés sensoriels et les différents lieux (du corps)."
 
 # 。︀	〝འོད〞 5240
