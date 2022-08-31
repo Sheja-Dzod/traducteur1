@@ -425,7 +425,7 @@ msgctxt "85f4ef3486384d2c8f10cd5e1e2c6f37"
 msgid "རིག་བྱེད་ ལ␣ས་ འབྱུང་བ␣འི་ ཕ་མེས་ ཀྱི་ མཚུན་གསོལ་བ་ སོགས་ དང༌ །"
 msgstr ""
 "aux rituels provenant de la tradition védique comme l'offrande de chair et "
-"de sang aux ancètres.  En ajoutant"
+"de sang aux ancètres et"
 
 # 。︀	〝མཐོ་རིས〞 2310
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vraiment élevés (les états) Les états d'existence (de
@@ -444,7 +444,7 @@ msgctxt "f6e710a3651f4537a7113b92417f365e"
 msgid "མཐོ་རིས་ ཀྱི་ ཆེད་ དུ་ ཕྱུགས་ ཀྱི་ མཆོད་སྦྱིན་ བྱེད་པ །"
 msgstr ""
 "le sacrifice d'annimaux dans le but d'obtenir une meilleur renaissance,(une "
-"renaissance chez les dieux)"
+"renaissance chez les dieux)."
 
 # 。︀	〝ཀླ་ཀློ〞 111
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les barbares. Le terme désignait des peuples qui ne
@@ -475,7 +475,7 @@ msgstr ""
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 msgctxt "a2f457eddcca45df9bb0f951b21795ca"
 msgid "ཀླ་ཀློ␣འི་ ཆོས་ ནི་"
-msgstr "qui est une pratique religieuse des barbares,"
+msgstr "(suivre) une regligion barbare consiste "
 
 # 。︀	〝ཉེས་པ〞 1727
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ erreur
@@ -526,8 +526,8 @@ msgid ""
 "མཁོ་བ␣འི་ བརྟུལ་ཞུགས་ འཛིན་པ་ རྣམས་ ཏེ་ ཉེས་པ␣འི་ སྡིག་པ་ བྱས་པ་ མ་ཡིན་པ་ ལྔ"
 " །"
 msgstr ""
-"consiste à suivre la discipline (les pratiques) nécessaire (à ces religions)"
-" et est un acte particulièrement négatif. C'est le cinquième (engagement). "
+"à suivre la discipline (les pratiques) nécessaire (à ces religions) et est "
+"un acte particulièrement négatif. C'est le cinquième (engagement). "
 
 # 。︀	〝དཀོན་མཆོག་གསུམ〞 144
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Trois(Rares et Sublimes)Joyaux
@@ -598,9 +598,9 @@ msgid ""
 "ལ་ སྣུན་ ཞིང་ བཤིག་པ་ ནི་"
 msgstr ""
 "(sacrifier) un annimal comme une vache, un enfant, un homme ou une femme, "
-"ainsi que la destruction des trois supports des trois joyaux et le meurtre "
-"d'une personne tenant ses préceptes par une autre personne ayant de "
-"l'animosité envers les supports d'offrandes, "
+"ainsi que le fait d'abattre les trois supports des trois joyaux ou une "
+"personne tenant ses préceptes par une autre personne ayant de l'animosité "
+"envers les supports d'offrandes, "
 
 msgctxt "9368d65776074b02890e369d84ed50c6"
 msgid "གསོད་པ་ ལྔ་ སྟེ་"
@@ -1012,10 +1012,7 @@ msgid ""
 "གོང་མ་ རྣམས་ དེ་ལྟར་ མ་ ངེས་ ཀྱང་ འདི␣ར་ ཕྱོགས་ གཅིག་ ཏུ་ འཆད་ བདེ་བ་ དང༌ །"
 msgstr ""
 "Pour les initiations supérieures, ces voeux ne sont pas forcément tous "
-"nécessaires, mais par soucis de facilité je les ai exposés en même temps.  "
-"(ceci ne s'applique pas forcément aux conduites supérieures vues "
-"précédement, mais par soucis de facilité je les ai exposés en même temps.) "
-"De plus,"
+"nécessaires, mais par soucis de facilité je les ai exposés en même temps. "
 
 # 。︀	〝དངོས་གཞི〞 1114
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratique principale, corps de la pratique, corps
@@ -1050,8 +1047,8 @@ msgstr ""
 msgctxt "003a7e4ca6e14f80abb2fd14ba07f88c"
 msgid "དེ་དག་ ལ␣ས་ ཕལ་ཆེར་ དབང་ བསྐུར་ དངོས་གཞི་ མ་ ཐོབ་ ཀྱང་"
 msgstr ""
-"même si (tenir) la majorité de ces (conduites) ne permet pas d'obtenir la "
-"phase principale de l'initiation, "
+"même si on ne participe pas (litt obtient pas) à la phase principale de "
+"l'initiation,  "
 
 # 。︀	〝དཀྱིལ་འཁོར〞 146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
