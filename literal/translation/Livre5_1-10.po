@@ -6571,7 +6571,7 @@ msgstr "celui de l'absence d'inspiration"
 # invariant
 msgctxt "5bef8dee2da9463c9ef251be9190dee9"
 msgid "མཆོད་པ␣ར་ མི་འགྱུར་བ␣འི་ དང༌ །"
-msgstr "celui du comportement inappropriée"
+msgstr "celui de manquer de considération"
 
 # 。︀	〝བསམ་པ〞 6638
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est pensé, La pensée, L'esprit, ⁃ vivre (au
