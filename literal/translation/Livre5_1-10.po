@@ -6604,7 +6604,7 @@ msgstr "celui de la non harmonie"
 # comme sujet, percevoir
 msgctxt "915a63f6b15140c782be0cd70815e80c"
 msgid "འཛིན་པ␣འི་ སྐྱོན་ དྲུག  །"
-msgstr "celui de la mémorisation. Ce qui fait six défauts."
+msgstr "celui de l'appréhension du sujet. Ce qui fait six défauts."
 
 msgctxt "ff4a147dde50469593e88b0b42f2141d"
 msgid "ཕྱི་མ་ གཉིས་ ལ་ ནང་གསེས་ ལྔ་ ལྔ␣ར་ བཅས་པ␣འང་ གསུངས་ སོ ། །"
