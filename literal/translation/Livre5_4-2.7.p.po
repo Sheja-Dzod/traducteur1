@@ -1405,4 +1405,4 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "374e0d2c2ee944cda3f6816ea2d1eeac"
 msgid "ལ␣ས་ དང་པོ་ བས་ སྟོང་ གཟུགས་ ཀྱི་ ལམ་ ལ་ བསླབ་པ␣འོ ། །"
-msgstr "les débutants s'entrainet à la voie de la forme vide."
+msgstr "les débutants s'entrainent à la voie de la forme vide."
