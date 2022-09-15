@@ -539,34 +539,6 @@ msgstr ""
 # réel,, reality, real, true existence (SL BP) Alternatives: vérité, réalité,
 # authentique, existence vraie, réelle, véridique, la véracité
 # 
-# 。︀	〝རལ་གྲི〞 5779
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ épée (un des huit siddhis) ⁃ épée
-# 
-# 。︀	〝རིགས〞 5858
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Famille, Lignée, Filiation, Caste, Classe, Type,
-# Genre, Graine, Gênes, Cause, Essence, Etat, Nature, Potentiel, Aptitude,
-# Capacité, Possibilité, Système de versification, Correct, Approprié,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique (nyaya) (adjectif)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lignée, famille, lignée spirituelle ⁃ raison
-# 
-# 。︀	〝ལམ〞 6008
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
-# lam comme articule grammaticale, ⁃ voie, chemin
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "3a1a0d4fc221426287ebb98450255b7d"
-msgid ""
-"རལ་གྲི␣འི་ རིགས་ ལ་ དྲང་དོན་ དུ་ ལམ་ མ་ཡིན་པ␣ར་ ལྟུང་བ་ བདེན་པ␣ར་ སྨྲ␣ས་ "
-"ཀྱང་"
-msgstr ""
-
-# 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
@@ -588,6 +560,22 @@ msgstr ""
 # 。︀	〝ཡིན་པ〞 5391
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 # 
+# 。︀	〝རལ་གྲི〞 5779
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ épée (un des huit siddhis) ⁃ épée
+# 
+# 。︀	〝རིགས〞 5858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Famille, Lignée, Filiation, Caste, Classe, Type,
+# Genre, Graine, Gênes, Cause, Essence, Etat, Nature, Potentiel, Aptitude,
+# Capacité, Possibilité, Système de versification, Correct, Approprié,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique (nyaya) (adjectif)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lignée, famille, lignée spirituelle ⁃ raison
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+# 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
 # cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
@@ -601,8 +589,9 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "aac43e6af7d64caeb2f7ec352080fbfc"
 msgid ""
-"ཡིད་ མི་ རྟོན་པ་ རྣམས་ ཆོས་མ་ ཡིན་པ་ ལ␣ས་ བཟློག་པ␣འི་ སླད་ དུ་ རྫུན་སྨྲ་བ་ "
-"དང༌ །"
+"རལ་གྲི␣འི་ རིགས་ ལ་ དྲང་དོན་ དུ་ ལམ་ མ་ཡིན་པ␣ར་ ལྟུང་བ་ བདེན་པ␣ར་ སྨྲ␣ས་ "
+"ཀྱང་ ཡིད་ མི་ རྟོན་པ་ རྣམས་ ཆོས་མ་ ཡིན་པ་ ལ␣ས་ བཟློག་པ␣འི་ སླད་ དུ་ "
+"རྫུན་སྨྲ་བ་ དང༌ །"
 msgstr ""
 
 # 
