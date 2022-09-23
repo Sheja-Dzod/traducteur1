@@ -1703,8 +1703,8 @@ msgctxt "6f8963df27fc447aba9bad08df5bb15e"
 msgid ""
 "སེར་པོ་ ཁ་དོག་ སེར་པོ །  འོད་ སེར་པོ་ འབྱུང་བ །  སེར་པོ་ ལྟ་བུ␣ར་ སྟོན་པ །"
 msgstr ""
-"Les jaunes sont de couleur jaune, irradient une lumière jaune et se "
-"manifestent comme jaune."
+"Les jaunes sont de couleur jaune, irradient une lumière jaune et prennent "
+"l'apparence du jaune."
 
 # 。︀	〝ཁ་དོག〞 297
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ couleur
