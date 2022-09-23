@@ -3035,7 +3035,7 @@ msgstr ""
 # pensant
 msgctxt "752cbbb7bd294561b81737f330f905dc"
 msgid "ཤཱ་རི␣འི་ བུ་ འདི་ ཇི་སྙམ་ དུ་ སེམས །"
-msgstr "Qu'en penses-tu Sharipu?"
+msgstr "Qu'en penses-tu Sharipou?"
 
 # 。︀	〝དེ་བཞིན་གཤེགས་པ〞 2444
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ ainsi-allé ⁃ ainsi-allé ⁃ ainsi-allé, tathagata
