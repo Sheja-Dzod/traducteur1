@@ -1,0 +1,524 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. Le soutra du Grand Véhicule appelé “Le déploiement de noble Sukavati”.
+# 2. Hommage à tous les Bouddha et à tous les Bodhisattvas.་
+msgctxt "line 1, Soutra d'Amitabha.txt"
+msgid ""
+"འཕགས་པ་བདེ་བ་ཅན་གྱི་བཀོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། "
+"སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །"
+msgstr ""
+
+#  3. Ainsi ais-je entendu, en une fois. 4. Le Baghavan se trouvait dans le
+# Jardin de Jeta, situé dans le parc d’ Anāthapiṇḍada à Saravasti. 5. Il était
+# accompagné d’une grande sangha composée de 1250 moines, tous étant des
+# Anciens, des Grand Auditeurs et des Araths. Parmis eux, il y avait 6.
+# l’Ancien Śāriputra, Mahā­maudgalyāyana, Mahākāśyapa, Mahā­kātyāyana,
+# Mahākapphiṇa, Mahākauṣṭhila, Revata, Śuddhipaṃthaka, Nanda, Ānanda, Rāhula,
+# Gavāṃpati, Bharadvāja, Kālodāyin, Vakula, and Aniruddha, ainsi que d’autres
+# grands Auditeurs et 7. de nombreux Bodhisattvas Mahasattvas dont 8. Mañjuśrī
+# le Jeune, le Bodhisattva Mahāsattva Ajita, 9. le Bodhisattva Mahāsattva
+# Gandhahastin, 10. le Bodhisattva Mahāsattva Nityodyukta, 11. et le
+# Bodhisattva Mahāsattva Anikṣiptadhura, 12. ainsi que nombre d’autre
+# bodhisattva mahāsattvas. 13. Il était aussi accompagné d’Indra, le souverain
+# des dieux, de Brahma le seigneur de l’univers Saha 14. ainsi que pars une
+# myriade de plusieurs milliards de dieux.་
+msgctxt "line 2, Soutra d'Amitabha.txt"
+msgid ""
+"འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན། "
+"རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། "
+"དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་གནས་བརྟན་ཉན་ཐོས་ཆེན་པོ་དགྲ་བཅོམ་པ་ཤ་སྟག་ལ་འདི་ལྟ་སྟེ།"
+" གནས་བརྟན་ཤཱ་རིའི་བུ་དང་། མཽད་གལ་གྱི་བུ་ཆེན་པོ་དང་། འོད་སྲུང་ཆེན་པོ་དང་། "
+"ཀཱ་ཏྱཱའི་བུ་ཆེན་པོ་དང་། ཀ་པི་ན་ཆེན་པོ་དང་། གསུས་པོ་ཆེ་དང་། ནམ་གྲུ་དང་། "
+"ལམ་ཕྲན་བསྟན་དང་། དགའ་བོ་དང་། ཀུན་དགའ་བོ་དང་། སྒྲ་གཅན་ཟིན་དང་། བ་ལང་བདག་དང་། "
+"བྷ་ར་དྷྭ་ཛི་དང་། འཆར་བྱེད་ནག་པོ་དང་། བ་ཀུ་ལ་དང་། མ་འགགས་པ་དང་། དེ་དག་དང་། "
+"ཉན་ཐོས་ཆེན་པོ་གཞན་དག་དང་། "
+"བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མང་པོ་ལ་འདི་ལྟ་སྟེ། "
+"འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མི་ཕམ་པ་དང་། "
+"བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤོས་ཀྱི་གླང་པོ་དང་། "
+"བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྟག་ཏུ་བརྩོན་དང་། "
+"བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བརྩོན་པ་མི་འདོར་བ་དང་། "
+"དེ་དག་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཞན་མང་པོ་དག་དང་། "
+"ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། "
+"དེ་དག་དང་ལྷ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་མང་པོ་གཞན་དག་དང་ཡང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།"
+msgstr ""
+
+#  15. Le Baghavan s’adressa alors au vénérable Sharipoutra: 16. "Sharipou, en
+# partant de ce champ de Bouddha et en se dirigeant vers l’ouest, aprés avoir
+# passé cent mille milliards de champs de Bouddhas, se trouve un monde appelé
+# Sukhavati, le champ de Félicté. 17. Là bas demeure l’Ainsi-allé, le
+# Vainqueur de l’énnemi, le parfait et complet Bouddha appelé Amitayus, Vie
+# Incommensurable. Il y est toujours en vie et y enseigne aussi le Dharma. 18.
+# Qu’en penses-tu Sharipou ? 19. Tu te demandes pourquoi ce monde s’appel
+# Félcité ? 20. Sharipu, dans ce monde Félicité, les êtres n’ont aucune
+# douleur physique, 21. n’ont aucune souffrance mentale et les causes de
+# bonheur sont infinies. 22.  Voilà pourquoi ce monde s’appel Félicité.་
+msgctxt "line 3, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་བཀའ་སྩལ་པ། "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་ནུབ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།"
+" "
+"དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཅེས་བྱ་བ་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་ཏོ།"
+" ། ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། "
+"འཇིག་རྟེན་གྱི་ཁམས་དེ་ཅིའི་ཕྱིར་བདེ་བ་ཅན་ཞེས་བྱ་ཞེ་ན། "
+"ཤཱ་རིའི་བུ་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དེ་ན་སེམས་ཅན་རྣམས་ཀྱི་ལུས་ལ་སྡུག་བསྔལ་མེད།"
+" སེམས་ལ་སྡུག་བསྔལ་མེད་ཅིང་བདེ་བའི་རྒྱུ་ཚད་མེད་པར་ཡོད་དེ། "
+"དེའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱའོ། །"
+msgstr ""
+
+#  23. Sharipou, de plus, ce monde Félicité de sept niveau de terrasses, 24.
+# de sept rangée de palmiers, 25. et de guirlandes de cloche est entouré. 26.
+# Il est radiant et magifique à regarder. 27. Sharipu, ce champ de Bouddha des
+# quatre préciosités que sont 28. l’or, l’argent, le lapis lazuli et le
+# crystal, ainsi que d’autres déploiement des qualités des champs de Bouddha
+# l’ornent a la perfection. 29. Sharipou, de plus, dans ce monde Félicité, des
+# bassins orné des sept préciosités sont remplis d’une eau possédant les huit
+# qualités. 30. Ils sont couvert de lotus faits en joyaux, 31. sont remplis
+# jusqu’a leur bords de sorte que les corbeaux peuvent y boire et sont
+# entourée de grains de sable en or. 32. des escaliers à la merveilleuse
+# radiance sont aposés aux quatres cotés de ces bassins, chacuns faits de
+# pierre précieuse :soit d’or, d’argent, de lapis lazuli ou de cristal.་
+msgctxt "line 4, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ནི་ཁ་ཁྱེར་རིམ་པ་བདུན་དང་། "
+"ཤིང་ཏ་ལའི་ཕྲེང་བ་རིམ་པ་བདུན་དང་། "
+"དྲིལ་བུ་གཡེར་ཀའི་དྲ་བ་རྣམས་ཀྱིས་ཀུན་ནས་ཡོངས་སུ་བསྐོར་བ། "
+"བཀྲ་བ་བལྟ་ན་སྡུག་པའོ། ། "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་རིན་པོ་ཆེ་སྣ་བཞི་ལ་འདི་ལྟ་སྟེ། གསེར་དང་། "
+"དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། "
+"རྣམ་པ་དེ་ལྟ་བུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" ། "
+"ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རྫིང་ཡན་ལག་བརྒྱད་དང་ལྡན་པའི་ཆུས་ཡོངས་སུ་གང་བ།"
+" རིན་པོ་ཆེའི་པད་མས་ཁེབས་པ། "
+"བྱ་རོག་གིས་བཏུང་དུ་རུང་བར་ཁ་ད་ཆད་དུ་གྱུར་པ་གསེར་གྱི་བྱེ་མ་བདལ་བ་དག་ཡོད་དེ། "
+"རྫིང་དེ་དག་གི་ཕྱོགས་བཞི་ཀུན་ན་ཐེམ་སྐས་བཀྲ་བ། བལྟ་ན་སྡུག་པ། གསེར་དང་། "
+"དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། རིན་པོ་ཆེ་སྣ་བཞི་ལས་བྱས་པ་བཞི་བཞི་ཡོད་དོ། །"
+msgstr ""
+
+#  33. Autour de ces bassins, poussent des arbres au joyaux fait des sept
+# préciosités 34. d’or, d’argent, de lapis lazuli, de cristal, de rubis,
+# d’émeraude et de coral. Ils sont magnifique a regarder. 35. Dans tous ces
+# bassins poussent des lotus. Les lotus d’or sont de la couleur or, irradient
+# une lumière d’or et prennent l’apparence de l’or. 36. Les lotus bleus sont
+# de couleur bleue, irradient une lumière bleue et prennent l’apparence du
+# bleu. 37. Les jaunes sont de couleur jaune, irradient une lumière jaune et
+# prennent l’apparence du jaune. 38. Les rouges sont de couleur rouge,
+# irradient une lumière rouge et prennent l’apparence du rouge. 39. Les blancs
+# sont de couleur blanche, irradient une lumière blanche et prennent
+# l’apparence du blanc. 40. Les multicolors sont de couleur variée, irradient
+# une lumière muticolore et prennent une apparence multicolore. 41. Ils sont
+# de la taille d’une roue de char et poussent (dans ces bassins).་
+msgctxt "line 5, Soutra d'Amitabha.txt"
+msgid ""
+"རྫིང་དེ་དག་གི་འགྲམ་ན་རིན་པོ་ཆེའི་ཤིང་ལྗོན་པ་རིན་པོ་ཆེ་སྣ་བདུན་ལ་འདི་ལྟ་སྟེ། "
+"གསེར་དང་། དངུལ་དང་། བཻ་དཱུརྱ་དང་། ཤེལ་དང་། མུ་ཏིག་དམར་པོ་དང་། "
+"རྡོའི་སྙིང་པོ་དང་། སྤུག་གི་ཤིང་བཀྲ་བ། བལྟ་ན་སྡུག་པ་དག་སྐྱེས་སོ། ། "
+"རྫིང་དེ་དག་ཀུན་ནས་པད་མ་སྐྱེས་པ་འདི་ལྟ་སྟེ། གསེར་དང་། གསེར་གྱི་ཁ་དོག "
+"།གསེར་གྱི་འོད་འབྱུང་བ། གསེར་ལྟ་བུར་སྟོན་པ། སྔོན་པོ་ཁ་དོག་སྔོན་པོ། "
+"འོད་སྔོན་པོ་འབྱུང་བ། སྔོན་པོ་ལྟ་བུར་སྟོན་པ། སེར་པོ་ཁ་དོག་སེར་པོ། "
+"འོད་སེར་པོ་འབྱུང་བ། སེར་པོ་ལྟ་བུར་སྟོན་པ། དམར་པོ་ཁ་དོག་དམར་པོ། "
+"།འོད་དམར་པོ་འབྱུང་བ། དམར་པོ་ལྟ་བུར་སྟོན་པ། དཀར་པོ། ཁ་དོག་དཀར་པོ། "
+"།འོད་དཀར་པོ་འབྱུང་བ། དཀར་པོ་ལྟ་བུར་སྟོན་པ། བཀྲ་བ། ཁ་དོག་བཀྲ་བ། "
+"འོད་བཀྲ་བ་འབྱུང་བ། བཀྲ་བ་ལྟ་བུར་སྟོན་པ། ཤིང་རྟའི་འཕང་ལོ་ཙམ་དག་སྐྱེས་སོ། །"
+msgstr ""
+
+#  42. Sharipou, ce champ de Bouddha est sublimement orné d’un tel déploiement
+# des qualités d’un champ de Bouddha. 43. Sharpipou, de plus, dans ce monde
+# Félicité toujours résonne le son des cyballes divines. 44. Cette vaste terre
+# à la couleur de l’or est plaisante. 45. Sharipou, ce champ de Bouddha est
+# sublimement orné d’un tel déploiement des qualités d’un champ de Bouddha.་
+msgctxt "line 6, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" ། "
+"ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་ལྷའི་སིལ་སྙན་གྱི་སྒྲ་རྟག་ཏུ་འབྱུང་ངོ་།"
+" ། ས་ཆེན་པོ་ནི་གསེར་གྱི་ཁ་དོག་ལྟ་བུ་སྟེ་ཉམས་དགའ་བའོ། ། "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" །"
+msgstr ""
+
+#  46. Sharipou, de plus, dans ce champ de Bouddha, trois fois le jour, trois
+# fois la nuit, tombe une pluie de fleur divine mandarava. 47. Tous les
+# matins, les êtres nés dans ce monde, passent d’un champ de Bouddha à un
+# autre et rendent homages à des centaines de milliers de millions de Bouddhas
+# et 48. et envoient des centaines de milliers de millions de bouquets de
+# fleures à chacun de ces Ainsi-allés. 49. Puis, aprés avoir fait ces
+# offrandes, reviennent dans ce monde pour y passer leur journée.་
+msgctxt "line 7, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་ཉིན་ལན་གསུམ། "
+"མཚན་ལན་གསུམ་དུ་ལྷའི་མེ་ཏོག་མན་དཱ་ར་བའི་ལྷའི་མེ་ཏོག་གི་ཆར་འབབ་བོ། ། "
+"དེར་སེམས་ཅན་གང་དག་སྐྱེས་པ་དེ་དག་ཀྱང་སྔ་དྲོ་གཅིག་བཞིན་དུ་སངས་རྒྱས་ཀྱི་ཞིང་གཞན་དང་གཞན་དུ་དོང་སྟེ་སངས་རྒྱས་བྱེ་བ་ཕྲག་འབུམ་ལ་ཕྱག་འཚལ་ཞིང་།"
+" དེ་བཞིན་གཤེགས་པ་རེ་རེ་ལ་ཡང་མེ་ཏོག་སྐོན་བུ་བྱེ་བ་ཕྲག་འབུམ་མངོན་པར་འཐོར་ཏེ། "
+"གཏོར་ནས་ཉིན་མོ་གནས་པའི་ཕྱིར་སླར་འཇིག་རྟེན་གྱི་ཁམས་དེ་ཉིད་དུ་འདོང་ངོ་། །"
+msgstr ""
+
+#  50. Sharipou, ce champ de Bouddha est sublimement orné d’un tel déploiement
+# des qualités d’un champ de Bouddha. 51. Sharipou, de plus, dans ce monde
+# Félicité il y a des oies, des cygnes, des paons 52. qui trois fois le jour,
+# trois fois la nuit, se rassemblent pour offrir un baller juste parfait 53.
+# chacun chantant sa propre mélodie. 54. Quand ils chantent, émergent le son
+# des facultés, des forces et des branches de l’éveil. 55. En entendant ces
+# sons, tous les êtres nés dans ce lieu se mettent à penser au Bouddha, se
+# mettent à penser au Dharma, se mettent à penser à la Sangha.་
+msgctxt "line 8, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" ། ཤཱ་རིའི་བུ་གཞན་ཡང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་ངང་པ་དང་། ཁྲུང་ཁྲུང་དང་། "
+"རྨ་བྱ་དག་ཡོད་པ་ དེ་དག་ཀྱང་ཉིན་ལན་གསུམ། "
+"མཚན་ལན་གསུམ་འདུས་ནས་ཡང་དག་པར་བགྲོ་བར་བྱེད་དེ། རང་རང་གི་སྐད་དག་གིས་སྨྲའོ། ། "
+"དེ་དག་སྨྲ་བ་ན་དབང་པོ་དང་སྟོབས་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་གི་སྒྲ་དག་འབྱུང་ངོ་། ། "
+"སེམས་ཅན་གང་དག་དེར་སྐྱེས་པ་དེ་དག་གིས་སྒྲ་དེ་ཐོས་ནས་སངས་རྒྱས་ཡིད་ལ་བྱེད་པ་སྐྱེ།"
+" ཆོས་ཡིད་ལ་བྱེད་པ་སྐྱེ། དགེ་འདུན་ཡིད་ལ་བྱེད་པར་སྐྱེའོ། །"
+msgstr ""
+
+#  56. Qu’en penses-tu Sharipou ? 57. Si tu crois que ces êtres sont des êtres
+# soumis à la condition annimale, alors détrompe toi! 58. Pourquoi cela ?
+# Sharipou, dans ce champ de Bouddha même les termes “être des enfer”, “
+# condition annimale” ou “naissance dans le monde du seigneur de la mort
+# ”n’existe pas. 59. Ces nuées d’oiseaux sont l’Ainsi-allé Amitayus lui même
+# qui se manifeste pour exprimer le son du Dharma. 60. Sharipou, ce champ de
+# Bouddha est sublimement orné d’un tel déploiement des qualités d’un champ de
+# Bouddha.་
+msgctxt "line 9, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། "
+"སེམས་ཅན་དེ་དག་དུད་འགྲོའི་སྐྱེ་གནས་སུ་གྱུར་པ་ཡིན་སྙམ་དུ་སེམས་པ་ལྟ་ན་དེ་ལྟར་མི་བལྟའོ།"
+" ། དེ་ཅིའི་ཕྱིར་ཞེ་ན། ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་སེམས་ཅན་དམྱལ་བ་དང་། "
+"དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དུ་སྐྱེ་བའི་མིང་ཡང་མེད་དོ། ། "
+"བྱའི་ཚོགས་དེ་དག་ནི་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེ་ཉིད་ཀྱིས་ཆོས་ཀྱི་སྒྲ་དབྱུང་བའི་ཕྱིར་སྤྲུལ་པ་དག་གོ།"
+" ། "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" །"
+msgstr ""
+
+#  61. Sharipou, de plus, les rangées de palmiers de ce champ de Bouddha ainsi
+# que 62. les filets de cloches, une fois touchés par le vent, ébramlées par
+# le vent, émettent des mélodies agréables, plaisantes 63. et satisfaisantes.
+# 64. Il en est ainsi, par exemple, 65. Il en est comme un musicien qui joue
+# des cymballes divines et fait s’éveler leur myriade de subtilités. 66. Chez
+# tous ceux, qui en ce lieu, entendent ces sons, le rappel du Bouddha, le
+# rappel du Dharma et le rappel de la Sangha s’installe dans leur corps. 67.
+# Sharipou, ce champ de Bouddha est sublimement orné d’un tel déploiement des
+# qualités d’un champ de Bouddha.་
+msgctxt "line 10, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེའི་ཏ་ལའི་ཕྲེང་བ་དེ་དག་དང་། "
+"དྲིལ་བུ་གཡེར་ཀའི་དྲ་བ་དེ་དག་ལ་རླུང་གིས་ཕོག་ཅིང་རླུང་གིས་བསྐྱོད་ན་སྒྲ་སྙན་པ་ཡིད་དུ་འོང་བ།"
+" ཉམས་དགའ་བ་འབྱུང་སྟེ། འདི་ལྟ་སྟེ་དཔེར་ན། "
+"རོལ་མོ་མཁན་གྱིས་ཡན་ལག་བྱེ་བ་འབུམ་དང་ལྡན་པའི་ལྷའི་སིལ་སྙན་བླངས་པ་བཞིན་ནོ། ། "
+"དེར་མི་དེ་དག་གིས་སྒྲ་དེ་ཐོས་ནས་སངས་རྒྱས་རྗེས་སུ་དྲན་པ་དང་། "
+"ཆོས་རྗེས་སུ་དྲན་པ་དང་། དགེ་འདུན་རྗེས་སུ་དྲན་པ་ལུས་ལ་གནས་སོ། ། "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པའི་རྒྱན་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" །"
+msgstr ""
+
+#  68. Qu’en penses-tu Sharipou ? 69. Tu te demandes pourquoi on l’appel
+# l’Ainsi-allé Amitayus (Vie incommensurable) ? 70. Sharipou, puique le durée
+# de la vie de l’Ainsi-allé Amitayus ne peut être mesurée, 71. on l’appel
+# l’Ainsi-allé Vie Incommensurable. 72. Sharipou, de plus, tu te demandes d’où
+# vient le nom de l’Ainsi-allé Lumière Infinie (Amitabha) ? 73. Sharipou,
+# puisque la lumière de l’Ainsi-allé Amitabha s’étends dans tous les champs de
+# Bouddha sans qu’aucun ne puisse la bloquer, 74. on l’appel l’Ainsi-allé
+# Lumière infinie. 75. Cela fait dix éons que le Baghavan, l’Ainsi-allé
+# Lumière Infinie, s’est pleinement et complètement éveillé et épanoui en
+# l’insurpassable parfait et complet èveil.་
+msgctxt "line 11, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། "
+"ཅིའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་ཏུ་མེད་ཅེས་བྱ་ཞེ་ན། "
+"ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཚེའི་ཚད་དཔག་ཏུ་མེད་དེ། "
+"དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཅེས་བྱའོ། ། "
+"ཤཱ་རིའི་བུ་གཞན་ཡང་ཅིའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དེ་འོད་དཔག་མེད་ཅེས་བྱ་ཞེ་ན། "
+"ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་འོད་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་དུ་ཐོགས་པ་མེད་དེ།"
+" དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཅེས་བྱའོ། ། "
+"བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་བསྐལ་པ་བཅུ་ལོན་ནོ།"
+" །"
+msgstr ""
+
+#  76. Sharipou, de plus, la Sangha des Auditeurs de ce Baghavan est une
+# Sangha infinie, pure, faite uniquement d’Araths. 77. Il n’est pas facile
+# d’exprimer la mesure de leur nombre. 78. Sharipou, de plus, les êtres nés
+# dans ce champ de Bouddha, sont des Bodhisattvas purs, qui ne régréssent pas
+# et qui ne sont éloignés de l’éveil que d’une seule vie. 79. Sharipou, il
+# n’est pas facile d’exprimer la mesure du nombre de ces Bodhisattvas. En
+# effet, 80. Si c’était le cas, leur nombre serait alors celui portant le nom
+# de ’’nombre infini” ou “nombre incalculable”.་
+msgctxt "line 12, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་གཞན་ཡང་བཅོམ་ལྡན་འདས་དེའི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དག་པ་དགྲ་བཅོམ་པ་ཤ་སྟག་ཚད་མེད་དེ།"
+" དེ་དག་གི་ཚད་བརྗོད་པར་སླ་བ་མ་ཡིན་ནོ། ། "
+"ཤཱ་རིའི་བུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེར་སྐྱེས་པའི་སེམས་ཅན་དག་ནི་ཕྱིར་མི་ལྡོག་པ།"
+" སྐྱེ་བ་གཅིག་གིས་ཐོགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་དག་པ་ཤ་སྟག་གོ། ། "
+"ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་ཚད་ནི་བརྗོད་པར་སླ་བ་མ་ཡིན་ཏེ། "
+"གཞན་དུ་ན་ཚད་མེད་གྲངས་མེད་ཅེས་བྱ་བའི་གྲངས་སུ་འགྲོའོ། །"
+msgstr ""
+
+#  81. Sharipou, ce champ de Bouddha est sublimement orné d’un tel déploiement
+# des qualités d’un champ de Bouddha. 82. Sharipou, puisqu’il en est ainsi,
+# tous fils ou fille de noble famille doivent avec respect totalement dédier
+# toutes les graines vertueuses afin de renaitre dans ce champ de Bouddha. 83.
+# Pourquoi cela ? 84. Parce qu’ainsi ils pourront rencontrer de telles saintes
+# personnes. 85. Sharipou, des graines vertueuses de mauvaise qualité ne
+# feront pas renaître dans le champ pur du Baghavan, de l’Aini-allé Amitayus.་
+msgctxt "line 13, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ནི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་རྣམ་པ་དེ་ལྟ་བུ་དག་གིས་ལེགས་པར་བརྒྱན་པའོ།"
+" ། "
+"ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོས་སངས་རྒྱས་ཀྱི་ཞིང་དེར་སྐྱེ་བར་བྱ་བའི་ཕྱིར་དགེ་བའི་རྩ་བ་རྣམས་གུས་པར་ཡོངས་སུ་བསྔོ་བར་བྱའོ།"
+" ། དེ་ཅིའི་ཕྱིར་ཞེ་ན། "
+"འདི་ལྟར་སྐྱེས་བུ་དམ་པ་དེ་ལྟ་བུ་དག་དང་ཕྲད་པར་འགྱུར་བའི་ཕྱིར་རོ། ། "
+"ཤཱ་རིའི་བུ་དགེ་བའི་རྩ་བ་ངན་ངོན་ཙམ་གྱིས་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཞིང་དུ་སྐྱེ་བར་མི་འགྱུར་རོ།"
+" །"
+msgstr ""
+
+#  86. Sharipou, tout fils ou fille de noble famille qui entend le nom du
+# Baghavan, de l’Ainsi-allé Amitayus, qui l’entend et se le rappel, 87. qui le
+# gardent à l’esprit sans vaciller pendant une nuit, deux nuits, trois nuits,
+# quatre nuits, cinq nuits, six nuits ou sept nuits, 88. au moment de leur
+# mort, ces fils ou filles de noble famille aborderont le moment de la mort
+# l’esprit libre d’illusion 89. puis, la mort survenue, l’Ainsi-allé Amitabha
+# entouré de la Sangha des Auditeurs et devancant une assemblée de
+# bodhisattvas se présentera devant eux. Ils prendrons alors naissance en
+# Félicité, le champ de Bouddha de ce Baghavan, de l’Ainsi-allé Amitabha.་
+msgctxt "line 14, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་མཚན་ཐོས་ལ་ཐོས་ནས་ཀྱང་ཡིད་ལ་བྱེད་ཅིང་"
+" ནུབ་གཅིག་གམ། ནུབ་གཉིས་སམ། ནུབ་གསུམ་མམ། ནུབ་བཞི་འམ། ནུབ་ལྔའམ། ནུབ་དྲུག་གམ། "
+"ནུབ་བདུན་དུ་གཡེང་བ་མེད་པའི་སེམས་ཀྱིས་ཡིད་ལ་བྱེད་ན། རིགས་ཀྱི་བུའམ། "
+"རིགས་ཀྱི་བུ་མོ་དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་ཕྱིན་ཅི་ལོག་མེད་པའི་སེམས་ཀྱིས་འཆི་བའི་དུས་བྱས་ནས་"
+" "
+"འཆི་བའི་དུས་བྱས་པ་དེ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཉན་ཐོས་ཀྱི་དགེ་འདུན་གྱིས་ཡོངས་སུ་བསྐོར་ཅིང་བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཀྱིས་མདུན་གྱིས་བལྟས་པའི་མདུན་ན་བཞུགས་པ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་རོ།"
+" །"
+msgstr ""
+
+#  90. Sharipou, puisqu’il en est ainsi, ayant vu la puissance de ce qu’il en
+# est, je déclare que les fils et le filles de nobles familles doivent
+# adresser des prières respectueuses envers ce champ de bouddha.་
+msgctxt "line 15, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་དོན་གྱི་དབང་དེ་མཐོང་ནས་རིགས་ཀྱི་བུ་འམ། "
+"རིགས་ཀྱི་བུ་མོས་སངས་རྒྱས་ཀྱི་ཞིང་དེར་གུས་པར་སྨོན་ལམ་གདབ་པར་བྱའོ་ཞེས་དེ་སྐད་བརྗོད་དོ།"
+" །"
+msgstr ""
+
+#  91. Sharipou, ce que moi, l‘Ainsi-allé, j’exprime parfaitement, de même,
+# Sharipou, à l’est, L’ Ainsi-allé Akṣobhya, 92. l’Ainsi-allé Bannière du
+# Méru, 93. L’Ainsi-allé Méru, 94. l’Ainsi-allé Grand Méru 95. l’Ainsi-allé
+# Lumière du Grand Méru, 96. L’Ainsi-allé Douceur de son, 97. L’Ainsi-allé
+# Douce Mélodie, 98. ainsi que tous les Bouddhas Baghavans de l’est aussi
+# nombreux que les grains du gange recouvrent du pouvoir de leur parole leur
+# propre champ de Bouddha et 99. proclament :“ ayez confiance en ce Dharma qui
+# apporte la considération de tous les Bouddhas et qui exprime parfaitement
+# des qualités inconcevables.”་
+msgctxt "line 16, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་ཇི་ལྟར་དེ་བཞིན་གཤེགས་པ་ངས་ད་ལྟར་ཡོངས་སུ་བརྗོད་པ་དེ་བཞིན་དུ་ཤཱ་རིའི་བུ་ཤར་ཕྱོགས་ན་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་མི་འཁྲུགས་པ་ཞེས་བྱ་བ་དང་།"
+" དེ་བཞིན་གཤེགས་པ་ལྷུན་པོའི་རྒྱལ་མཚན་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཆེན་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ལྷུན་པོ་ཆེན་པོ་སྣང་བ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འཇམ་སྒྲ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འཇམ་དབྱངས་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  100. De la même manière, au sud, L’Ainsi-allé Lampe de Soleil et de Lune,
+# 101. L’Ainsi-allé Renommée, 102. L’Ainsi-allé Lumière de Renommée, 103.
+# L’Ainsi-allé Masse de Lumière Radieuse, 104. L’Ainsi-allé Lampe du Méru,
+# 105. L’Ainsi-allé Persévérance Sans Limite, 106. ainsi que tous les Bouddhas
+# Baghavans du sud aussi nombreux que les grains du gange recouvrent du
+# pouvoir de leur parole leur propre champ de Bouddha et 107. proclament :“
+# ayez confiance en ce Dharma qui apporte la considération de tous les
+# Bouddhas et qui exprime parfaitement des qualités inconcevables.”་
+msgctxt "line 17, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་བཞིན་དུ་ལྷོ་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཉི་ཟླའི་སྒྲོན་མ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་གྲགས་པ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་གྲགས་པའི་འོད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འོད་འཕྲོ་ཕུང་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ལྷུན་པོའི་སྒྲོན་མ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་བརྩོན་འགྲུས་མཐའ་ཡས་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་ལྷོ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  108. De la même manière, à l’ouest, L’Ainsi-allé Vie Incommensurable, 109.
+# L’Ainsi-allé Aggrégat incommensurable, 110. L’Ainsi-allé Bannière
+# Incommensurable, 111. L’Ainsi-allé Grande Lumière, 112. L’Ainsi-allé Rayon
+# de Lumière Eclairant, 113. L’Ainsi-allé Joyau Sommital, 114. L’Ainsi-allé
+# Pure Rayon de Lumière, 115. ainsi que tous les Bouddhas Baghavans de l’ouest
+# aussi nombreux que les grains du gange recouvrent du pouvoir de leur parole
+# leur propre champ de Bouddha et 116. proclament :“ ayez confiance en ce
+# Dharma qui apporte la considération de tous les Bouddhas et qui exprime
+# parfaitement des qualités inconcevables.”་
+msgctxt "line 18, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་བཞིན་དུ་ནུབ་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ཕུང་པོ་དཔག་མེད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རྒྱལ་མཚན་དཔག་མེད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འོད་ཆེན་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འོད་ཟེར་སྣང་བ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་ཏོག་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འོད་ཟེར་དག་པ་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་ནུབ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  117. De la même manière, au nord, L’Ainsi-allé Grande Masse de lumière
+# irradiante, 118. L’Ainsi-allé Mélodie qui Libére Tout, 119. L’Ainsi-allé
+# Trés Difficile a Dompter, 120. L’Ainsi-allé Source du Soleil, 121. L’Ainsi-
+# allé Au Filet, 122. L’Ainsi-allé Source de Lumière, 123. ainsi que tous les
+# Bouddhas Baghavans du nord aussi nombreux que les grains du gange recouvrent
+# du pouvoir de leur parole leur propre champ de Bouddha et 124. proclament :“
+# ayez confiance en ce Dharma qui apporte la considération de tous les
+# Bouddhas et qui exprime parfaitement des qualités inconcevables.”་
+msgctxt "line 19, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་བཞིན་དུ་བྱང་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་འོད་འཕྲོའི་ཕུང་པོ་ཆེན་པོ་ཞེས་བྱ་བ་དང་།"
+" དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་སྒྲོལ་བའི་དབྱངས་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རབ་ཏུ་ཐུལ་དཀའ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ཉི་མ་འབྱུང་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་དྲ་བ་ཅན་གྱི་འོད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་འོད་ཀྱི་འབྱུང་གནས་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་བྱང་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  125. De la même manière, au nadir, L’Ainsi-allé Lion, 126. L’Ainsi-allé
+# Renommée, 127. L’Ainsi-allé Lumière de Renommée, 128. L’Ainsi-allé Dharma,
+# 129. L’Ainsi-allé Détenteur du Dharma, 130. L’Ainsi-allé Bannière du Dharma,
+# 131. ainsi que tous les Bouddhas Baghavans du nadir aussi nombreux que les
+# grains du gange recouvrent du pouvoir de leur parole leur propre champ de
+# Bouddha et 132. proclament :“ ayez confiance en ce Dharma qui apporte la
+# considération de tous les Bouddhas et qui exprime parfaitement des qualités
+# inconcevables.”་
+msgctxt "line 20, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་བཞིན་དུ་འོག་གི་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་སེང་གེ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་གྲགས་པ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་གྲགས་འོད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ཆོས་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་ཆོས་འཛིན་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་འོག་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  133. De la même manière, au zénith, L’Ainsi-allé Mélodie de Brahma, 134.
+# L’Ainsi-allé Roi des Etoiles, 135. L’Ainsi-allé Ensence Sublime, 136.
+# L’Ainsi-allé Lumière d’Encens, 137. L’Ainsi-allé Masse d’Encens, 138.
+# L’Ainsi-allé Essence de Fleure Précieuse Pleinement Epanouie, 139. L’ Ainsi-
+# allé Roi des Seigneurs de Sala, 140. L’ Ainsi-allé Splendeur du Précieux
+# Utpala, 141. L’ Ainsi-allé Qui Voit le Sens, 142. L’ Ainsi-allé Comme la
+# Reine des Montagne, 143. ainsi que tous les Bouddhas Baghavans du zénith
+# aussi nombreux que les grains du gange recouvrent du pouvoir de leur parole
+# leur propre champ de Bouddha et 144. proclament :“ ayez confiance en ce
+# Dharma qui apporte la considération de tous les Bouddhas et qui exprime
+# parfaitement des qualités inconcevables.”་
+msgctxt "line 21, Soutra d'Amitabha.txt"
+msgid ""
+"དེ་བཞིན་དུ་སྟེང་གི་ཕྱོགས་ན་དེ་བཞིན་གཤེགས་པ་ཚངས་པའི་དབྱངས་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་སྐར་མའི་རྒྱལ་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་སྤོས་མཆོག་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་སྤོས་འོད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་སྤོས་ཀྱི་ཕུང་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རིན་ཆེན་མེ་ཏོག་ཤིན་ཏུ་རྒྱས་པའི་རིགས་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་སཱ་ལའི་དབང་པོའི་རྒྱལ་པོ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རིན་ཆེན་ཨུད་པལའི་དཔལ་ཞེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་མཐོང་བ་དོན་ཡོད་ཅེས་བྱ་བ་དང་། "
+"དེ་བཞིན་གཤེགས་པ་རི་རབ་ལྟ་བུ་ཞེས་བྱ་བ་དང་། "
+"དེ་དག་ལ་སོགས་པ་སྟེང་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།"
+" "
+"ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ།"
+" །"
+msgstr ""
+
+#  145. Qu’en penses-tu Sharipou ? 146. Tu te demandes pourquoi on appel ce
+# Dharma “le dharma qui apporte la considération de tous les Bouddhas” ? 147.
+# Sharipou, tout fils ou fille de noble famile qui entend ce Dharma et 148.
+# entend les noms des Bouddhas Baghavans, 149. qui l’ont entendu ou qui
+# l’entendront, seront tous pris en considération par les Bouddhas Baghavans.
+# 150. Sharipou, tout être qui aspire mentalement au monde Sukavati, le champ
+# de Bouddha de l’Ainsi-allé Amitabha, 151. qui y a aspiré, qui y aspirent
+# encore et qui y aspireront, ne se détournent pas de l’insurpassable et
+# complet éveil, 152. ne s’en sont détourné ni ne s’en détourneront. 153.
+# Sharipou, tout comme j’exprime parfaitement ici et maintenant les
+# inconcevables qualités des Bouddhas Baghavans, de même, 154. Sharipou, ces
+# mêmes Bouddhas Baghavans expriment parfaitement mes inconcevables qualités.་
+msgctxt "line 22, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། "
+"ཅིའི་ཕྱིར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བ་ཞེས་བྱ་ཞེ་ན།"
+" ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དང་། "
+"སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་མཚན་ཐོས་པར་གྱུར་པ་དང་། "
+"ཐོས་པ་དང་ཐོས་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཡོངས་སུ་བཟུང་བར་འགྱུར་རོ།"
+" ། "
+"ཤཱ་རིའི་བུ་སེམས་ཅན་གང་དག་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སེམས་ཀྱིས་སྨོན་པར་བྱེད་པའམ།"
+" བྱས་པའམ། བྱེད་པའམ། "
+"བྱེད་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་གོ།"
+" ། ཕྱིར་མ་ལོག་གོ་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། ། "
+"ཤཱ་རིའི་བུ་ཇི་ལྟར་ད་ལྟ་རང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་དེ་བཞིན་དུ།"
+" "
+"ཤཱ་རིའི་བུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཀྱང་ངའི་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་དོ།"
+" །"
+msgstr ""
+
+#  155. Sharipou déclara alors: 156. Baghavan Shakyathoupa, Roi des Shakya, en
+# cette époque dégénérée, 157. où les émotions perturbatrices sont dégénérées,
+# 158. où les êtres sont dégénérées, 159. où la vue a dégénérée, 160. où la
+# durée de vie à dégénérée, dans cet univers Saha, vous vous êtes pleinement
+# éveillés et épanoui dans l’insurpassable, parfait et complét éveil et 161.
+# avez montré le Dharma qui ne suit en rien le monde ordinaire. Quelle
+# merveille!་
+msgctxt "line 23, Soutra d'Amitabha.txt"
+msgid ""
+"ཤཱ་རིའི་བུས་གསོལ་པ། "
+"བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་ཤཱཀྱའི་རྒྱལ་པོས་བསྐལ་པའི་སྙིགས་མ་དང་། "
+"ཉོན་མོངས་པའི་སྙིགས་མ་དང་། སེམས་ཅན་གྱི་སྙིགས་མ་དང་། ལྟ་བའི་སྙིགས་མ་དང་། "
+"ཚེའི་སྙིགས་མའི་ཚེ་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ།"
+" འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་པའི་ཆོས་བསྟན་པ་ནི་ངོ་མཚར་ལགས་སོ། །"
+msgstr ""
+
+#  162. Le Baghavan répondit : 163. Sharipou, en ces temps marqués des cinq
+# dégénérescence, je me suis, dans cet univers Saha, pleinement éveillés et
+# épanoui dans l’insurpassable, parfait et complét éveil, 164. puis j’ai
+# montré ce Dharma qui ne suit en rien le monde ordinaire. Tel est la grande
+# oeuvre difficile que j’ai accomplie. 165. Aprés que le Baghavan se soit
+# exprimé en ces mots, le vénérable Sharipoutra, les grand Auditeurs, les
+# Bodhisattvas, les dieux, le humains, les ausuras, les gandharvas et tout
+# l’univers furent réjouis et des paroles du Baghavan firent la louange.་
+msgctxt "line 24, Soutra d'Amitabha.txt"
+msgid ""
+"བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། "
+"ཤཱ་རིའི་བུ་སྙིགས་མ་ལྔའི་ཚེ་འཇིག་རྟེན་དུ་ངས་གང་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ།"
+" འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་པའི་ཆོས་བསྟན་པ་དེ་ནི་མཆོག་ཏུ་དཀའ་བ་བྱེད་པའོ། ། "
+"བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། "
+"ཉན་ཐོས་ཆེན་པོ་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། "
+"ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དང་། "
+"དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།"
+" །"
+msgstr ""
+
+#  166. Ceci conclut Le soutra du Grand Véhicule appelé “Le déploiement de
+# noble félicité”. 167. Traduit et finalisé par l’ érudit indien Dana Shila et
+# le grand traducteur Bendhé Yeshé Dé assisté d’autres traducteurs.་
+msgctxt "line 25, Soutra d'Amitabha.txt"
+msgid ""
+"འཕགས་པ་བདེ་བ་ཅན་གྱི་བཀོད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །། "
+"རྒྱ་གར་གྱི་མཁན་པོ་དཱ་ན་ཤཱི་ལ་དང་། "
+"ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་པ།། །།"
+msgstr ""
