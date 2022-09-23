@@ -1343,7 +1343,7 @@ msgstr "de sept rangée de palmiers,"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ clochette rituelle
 msgctxt "e0f18ea85cab42bd8e39986528e173a7"
 msgid "དྲིལ་བུ་ གཡེར་ ཀ␣འི་ དྲ་བ་ རྣམས་ ཀྱིས་ ཀུན་ ནས་ ཡོངས་སུ་ བསྐོར་བ །"
-msgstr "et une guirlande de cloche l'entourent."
+msgstr "et de guirlandes de cloche est entouré."
 
 # 。︀	〝བཀྲ་བ〞 167
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Brillant, scintillant
