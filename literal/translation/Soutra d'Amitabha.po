@@ -7612,7 +7612,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
 msgctxt "d696651a7c584f76a6eb242d8bf5139b"
 msgid "ཕྱིར་ མ་ ལོག་ གོ་ ཕྱིར་ མི་ ལྡོག་པ␣ར་ འགྱུར་ རོ ། །"
-msgstr "ne s'en sont jamais détrourné ni ne s'en détourneront."
+msgstr "ne s'en sont détourné ni ne s'en détourneront."
 
 # 。︀	〝ཁྱབ་པ〞 345
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Inclure, englober
