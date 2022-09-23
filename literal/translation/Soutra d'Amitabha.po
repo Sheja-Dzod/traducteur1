@@ -3620,7 +3620,7 @@ msgid ""
 "ནི་ ཕྱིར་ མི་ ལྡོག་པ །  སྐྱེ་བ་ གཅིག་ གིས་ ཐོགས་པ␣འི་ བྱང་ཆུབ་ སེམས་དཔའ་ "
 "དག་པ་ ཤ་སྟག་ གོ ། །"
 msgstr ""
-"Sharipu, de plus, les êtres nés dans ce champ de Bouddha, sont des "
+"Sharipou, de plus, les êtres nés dans ce champ de Bouddha, sont des "
 "Bodhisattvas purs, qui ne régréssent pas et qui ne sont éloignés de l'éveil "
 "que d'une seule vie."
 
