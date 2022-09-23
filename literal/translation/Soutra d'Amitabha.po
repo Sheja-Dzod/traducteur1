@@ -1014,7 +1014,7 @@ msgstr ""
 # pensant
 msgctxt "b34d007cc9134ebeacb705871b9888db"
 msgid "ཤཱ་རི␣འི་ བུ་ འདི་ ཇི་སྙམ་ དུ་ སེམས །"
-msgstr "Qu'en penses-tu Sharipu?"
+msgstr "Qu'en penses-tu Sharipou?"
 
 # 。︀	〝ཁམས〞 309
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ constituant ⁃ constituant ⁃ élément (cognitif)
