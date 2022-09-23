@@ -1765,7 +1765,7 @@ msgid ""
 "དཀར་པོ །  ཁ་དོག་ དཀར་པོ ། ། འོད་ དཀར་པོ་ འབྱུང་བ །  དཀར་པོ་ ལྟ་བུ␣ར་ སྟོན་པ "
 "།"
 msgstr ""
-"Les blancs sont de couleurs blanche, irradient une lumière blanche et se "
+"Les blancs sont de couleur blanche, irradient une lumière blanche et se "
 "manifestent comme blanche."
 
 # 。︀	〝བཀྲ་བ〞 167
