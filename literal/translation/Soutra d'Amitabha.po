@@ -7279,7 +7279,7 @@ msgstr "Sharipou, tout fils ou fille de noble famile qui entend ce Dharma et"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bouddha, Éveillé ⁃ Bouddha, l'état de Bouddha
 msgctxt "f1087a3b65814d36b683579a6d1b71dc"
 msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་དག་ གི་ མཚན་ ཐོས་པ␣ར་ གྱུར་པ་ དང་ །"
-msgstr "entendent les noms des Bouddhas Baghavans,"
+msgstr "entend les noms des Bouddhas Baghavans,"
 
 # 。︀	〝འགྱུར་བ〞 715
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
