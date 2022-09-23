@@ -7113,7 +7113,7 @@ msgstr ""
 # pensant
 msgctxt "aea23b51c248431bb9588dc50891c56d"
 msgid "ཤཱ་རི␣འི་ བུ་ འདི་ ཇི་སྙམ་ དུ་ སེམས །"
-msgstr "Qu'en penses-tu Sharipu?"
+msgstr "Qu'en penses-tu Sharipou?"
 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
