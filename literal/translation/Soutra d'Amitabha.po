@@ -7233,8 +7233,7 @@ msgctxt "68201377b6584255b811c85533b3158c"
 msgid ""
 "ཤཱ་རི␣འི་ བུ་ རིགས་ ཀྱི་ བུ␣འམ་ རིགས་ ཀྱི་ བུ་མོ་ གང་དག་ ཆོས་ ཀྱི་ རྣམ་ "
 "གྲངས་ འདི་ དང་ །"
-msgstr ""
-"Sharipou, tout fils ou fille de noble famile qui entendent ce Dharma et"
+msgstr "Sharipou, tout fils ou fille de noble famile qui entend ce Dharma et"
 
 # 。︀	〝བཅོམ་ལྡན་འདས〞 1272
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bhagavan, Le Bienheureux «Le Subjugueur des démons,
