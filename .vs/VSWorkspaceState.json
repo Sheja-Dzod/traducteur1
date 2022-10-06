@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\communicative",
-    "\\literal",
-    "\\literal\\tibetan"
+    "\\communicative\\paragraphs",
+    "\\communicative\\translation",
+    "\\literal"
   ],
-  "SelectedNode": "\\A_gen_literal_po.py",
+  "SelectedNode": "\\communicative\\paragraphs\\Soutra d'Amitabha.txt",
   "PreviewInSolutionExplorer": false
 }
