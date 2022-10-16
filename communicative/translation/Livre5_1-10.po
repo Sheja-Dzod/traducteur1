@@ -1525,9 +1525,10 @@ msgid ""
 msgstr ""
 "Les bienfaits de retenir le Dharma.\n"
 "A propos de l’immensité de ces bienfaits,  Le Soutra exposant le secret des Ainsi-allés enseigne :\n"
-"« Même si pendant dix million d’éons,\n"
-"tous les Bouddhas s’employaient à exposer le mérite qu’il y a à retenir le Dharma Sacré,\n"
-"ils n’en arriveraient pas à la fin. ”"
+"«Même si pendant dix million d’éons,\n"
+"Tous les Bouddhas s’employaient à exposer \n"
+"Le mérite qu’il y a à retenir le Dharma Sacré,\n"
+"Ils n’en arriveraient pas à la fin. ”"
 
 #  258. ཁྱད་པར་ཐེག་ཆེན་གྱི་ཆོས་ཉན་བཤད་བགྱིས་པའི་ཕན་ཡོན་ནི། 259. གཞི་དུས་
 # 
