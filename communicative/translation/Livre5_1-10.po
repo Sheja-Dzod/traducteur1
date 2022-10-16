@@ -25,8 +25,7 @@ msgid ""
 "(le Dharma)"
 msgstr ""
 "10. Comment enseigner et écouter le Dharma;\n"
-"La présentation de la façon d’enseigner et d’écouter le Dharma comprend quatre parties portant sur : la phase préparatoire, la phase principale, les activités de conclusion et l’exposé des bienfaits qu’il y à enseigner et à recevoir le Dharma ainsi que d’autres bienfaits. \n"
-"La présentation de la façon d’enseigner et d’écouter le Dharma comprend quatre parties : la phase préparatoire ; la phase principale ; la conclusion et les bienfaits correspondants à l'enseignement et à l'écoute, ainsi que d’autres bienfaits. "
+"La présentation de la façon d’enseigner et d’écouter le Dharma comprend quatre parties portant sur : la phase préparatoire, la phase principale, les activités de conclusion et l’exposé des bienfaits qu’il y à enseigner et à recevoir le Dharma ainsi que d’autres bienfaits. "
 
 #  2. དང་པོ་ལ་གཉིས། སློབ་དཔོན་དང༌། སློབ་མའི་བྱ་བའོ། །་
 msgctxt "line 2, Livre5_1-10.txt"
