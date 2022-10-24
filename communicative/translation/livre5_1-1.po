@@ -331,10 +331,10 @@ msgid ""
 "commencera (litt. au tout début) par se rendre auprès d’un maitre spirituel,"
 " s’en remettra à lui, et le servira. Il se doit de faire comme décrit ici."
 msgstr ""
-"\"Ainsi, un Bodhisattva Mahasattva aspirant à devenir un Bouddha en "
-"parachevant pleinement l’insurpassable, parfaitement pure et complet éveil, "
-"doit commencer par se rendre auprès d’un ami de vertu, s’en remettre à lui "
-"et le servir.\""
+"“Ainsi, un Bodhisattva Mahasattva souhaitant parachever pleinement "
+"l’insurpassable, parfaitement pur et complet Éveil afin de devenir un "
+"Bouddha, doit commencer par se rendre auprès d’un ami de vertu, s’en "
+"remettre à lui et le servir.”"
 
 #  48. བཤེས་གཉེན་ཇི་ལྟ་བུ་ཞིག་འཚོལ་ཞེ་ན། 49. ཆེད་དུ་བརྗོད་པའི་ཚོམ་ལས། 50. དམན་
 # 
