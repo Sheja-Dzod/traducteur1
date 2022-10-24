@@ -401,7 +401,7 @@ msgstr ""
 #  63. དེ་ཉིད་ལས།་
 msgctxt "line 25, livre5_1-1.txt"
 msgid "Dans ce même soutra :"
-msgstr "Dans ce même soutra on lit : "
+msgstr "Dans ce même soutra il est dit : "
 
 #  64. ཚུལ་ཁྲིམས་ཉེ་བར་ཞི་བ་དང༌། །ཤེས་རབ་ཆེས་མཆོག་ལྷག་པ་ཡི། །གཙོ་བོ་
 # 
