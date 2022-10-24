@@ -303,9 +303,9 @@ msgid ""
 "richesses, il n’y a que (qu’une solution qui est de) s’engager avec foi en "
 "l’enseignement du Bouddha."
 msgstr ""
-"C’est seulement en s’engageant avec foi en l’enseignement du Bouddha, que "
-"l’on donnera du sens à cette existence humaine avec ses libertés et ses "
-"richesses. "
+"S’engager avec foi en l’Enseignement du Bouddha, est l’unique façon de "
+"donner du sens à cette existence humaine pourvue de libertés et ses "
+"richesses.  "
 
 #  41. གསུམ་པ་ནི།་
 msgctxt "line 20, livre5_1-1.txt"
