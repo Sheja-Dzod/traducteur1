@@ -182,7 +182,7 @@ msgstr "Premièrement:"
 #  26. སྤེལ་མར་བསྟོད་པ་ལས།་
 msgctxt "line 11, livre5_1-1.txt"
 msgid "Le Miśrakastotra dit :"
-msgstr "Le Miśrakastotra dit :"
+msgstr "Le Miśrakastotra a dit :"
 
 #  27. བགྲོད་པ་གཅིག་དང་ཐབས་བདེ་དང༌། །ལེགས་པར་འབྲེལ་དང་ཉེས་པ་མེད། །ཐོག་མ་
 # 
