@@ -241,7 +241,8 @@ msgstr ""
 #  32. རྒྱལ་སྲས་ཞི་བ་ལྷས།་
 msgctxt "line 14, livre5_1-1.txt"
 msgid "Shantideva le Fils des Vainqueur dit :"
-msgstr "Shantideva, Le Fils des Vainqueurs, l'a dit dans une prière : "
+msgstr ""
+"Dans l’une de ses prières, Shantideva, Le Fils des Vainqueurs, a dit : "
 
 #  33. འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། །བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། །བསྟན་པ་
 # 
