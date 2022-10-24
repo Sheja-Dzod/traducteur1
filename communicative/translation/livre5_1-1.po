@@ -172,7 +172,7 @@ msgstr ""
 #  24. འདི་ལ་ཕྱོགས་གསུམ།་
 msgctxt "line 9, livre5_1-1.txt"
 msgid "Il y a ici trois aspects (trois angles)."
-msgstr "Ceci est exprimé sous trois angles :"
+msgstr "Ceci est exposé de trois façons :"
 
 #  25. དང་པོ་ནི།་
 msgctxt "line 10, livre5_1-1.txt"
