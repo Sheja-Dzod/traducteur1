@@ -354,12 +354,12 @@ msgid ""
 "figure principale comme c’est souvent le cas). Par conséquent, suivons-en un"
 " qui nous est supérieur."
 msgstr ""
-"Si vous demandez quelle genre de maitre on doit rechercher ? les ‘’Propos énoncés intentionnellement’’ répondent : \n"
+" Si vous demandez quel genre de maître doit-on rechercher, les ‘’Propos énoncés intentionnellement’’ répondent : \n"
 "\n"
-"\"Ceux qui s’en remettent à un maitre inférieur, dégénéreront\n"
-"Ceux qui s’en remettent à un maitre égal à eux mêmes, stagneront,\n"
-"Ceux qui s’en remettent à un maitre supérieur, excelleront\n"
-"Par conséquent, remettons-en nous à un maitre qui nous est supérieur.\""
+"“Ceux qui s’en remettent à un maître inférieur en qualités, dégénèreront\n"
+"Ceux qui s’en remettent à un maître aux qualités égales aux leurs, stagneront,\n"
+"Ceux qui s’en remettent à un maître aux qualités supérieures, atteindront l’excellence\n"
+"Par conséquent, suivons un maître qui nous est supérieur.”"
 
 #  54. བཤེས་གཉེན་དེའང་ 55. ཚུལ་ཁྲིམས་དང་མང་དུ་ཐོས་པ་དང་ཏིང་ངེ་འཛིན་
 # 
