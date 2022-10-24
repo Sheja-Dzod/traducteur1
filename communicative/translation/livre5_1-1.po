@@ -196,8 +196,8 @@ msgid ""
 msgstr ""
 "\"Votre enseignement est la seule voie et ses méthodes sont aisées,\n"
 "Il nous relie à l’excellence et n'a pas de défauts,\n"
-"Il  est vertu au début, au milieu et à la fin,\n"
-"Nulle part ailleurs, on n'en trouve un autre au vôtre comparable.\""
+"Il est vertu au début, au milieu et à la fin,\n"
+"Nulle part ailleurs, on n'en trouve un autre comparable au vôtre .\""
 
 #  28. ཐར་པའི་ལམ་དུ་བགྲོད་པ་གཅིག་ཅིང་ 29. འཇུག་པའི་ཐབས་བདེ་བ་ལ་
 # 
