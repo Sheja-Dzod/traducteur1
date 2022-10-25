@@ -101,7 +101,7 @@ msgstr ""
 #  14. ཞེས་སོགས་ལུང་མཐའ་ཡས་པ་འབྱུང་ངོ༌། །་
 msgctxt "line 9, livre5_1-2.txt"
 msgid "Les citations comme celles-ci se trouvent en profusion."
-msgstr "Une infinité d’autres citations expriment le même propos."
+msgstr "Il existe une profusion d’autres citations comme celles-ci."
 
 #  15. གཉིས་པ་ནི།་
 msgctxt "line 10, livre5_1-2.txt"
