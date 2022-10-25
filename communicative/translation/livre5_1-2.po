@@ -156,7 +156,7 @@ msgstr ""
 #  24. དགེ་བསྙེན་མ་མི་གཡོ་བའི་རྣམ་ཐར་ལས་ཀྱང༌།་
 msgctxt "line 15, livre5_1-2.txt"
 msgid "La biographie de la Laique Acala dit aussi:"
-msgstr "Et dans la biographie de la laïque Acala :"
+msgstr "Dans la biographie de la laïque Acala il est également dit :"
 
 #  25. དགེ་བའི་བཤེས་གཉེན་རྣམས་ནི་བདག་ཅག་ཐམས་ཅད་མཁྱེན་པའི་གནས་སུ་
 # 
