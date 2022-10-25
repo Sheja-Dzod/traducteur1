@@ -135,7 +135,7 @@ msgstr ""
 #  20. གསུམ་པ་ནི།་
 msgctxt "line 12, livre5_1-2.txt"
 msgid "Troisièmement :"
-msgstr "Troisièmement : (Enfin, les exemples.)"
+msgstr "Enfin, viennent les exemples :"
 
 #  21. དཔལ་འབྱུང་གི་རྣམ་ཐར་ལས།་
 msgctxt "line 13, livre5_1-2.txt"
