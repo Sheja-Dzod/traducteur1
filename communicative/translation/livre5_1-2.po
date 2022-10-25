@@ -24,7 +24,7 @@ msgid ""
 "La pertinence : citations, raisonnement et exemples (pour prouver la "
 "nécessité de) rechercher (le maitre)."
 msgstr ""
-"La pertinence qu'il y a à rechercher un maître : citations, raisonnement et "
+"Le bien-fondé de la recherche d’un maître : citations, raisonnement et "
 "exemples."
 
 #  3. དགེ་བའི་བཤེས་གཉེན་བསྟེན་དགོས་པའི་འཐད་པ་ལ་ལུང་དང་རིགས་པ་
