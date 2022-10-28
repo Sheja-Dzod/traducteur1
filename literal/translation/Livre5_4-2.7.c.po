@@ -530,7 +530,7 @@ msgstr ""
 # solennelle, voeu solennel, engagement solennel, parole d’honneur
 msgctxt "12984792165c4a77a4162e3e040a39fe"
 msgid "དེ␣འི་ དམ་ཚིག  །"
-msgstr "ses promesses sacrées,"
+msgstr "(ce qui tiennent )les liens sacrées,"
 
 # 。︀	〝གུས་པ〞 498
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ respect
