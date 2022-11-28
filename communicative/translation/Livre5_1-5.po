@@ -383,7 +383,14 @@ msgstr ""
 "“Dépourvu de foi envers le Lama, celui qui le déprécie et le trompe,\n"
 "qui s’enorgueillit de connaître les mantras et qui est fier d’avoir lu des textes,\n"
 "Mais qui n’a pas la foi et n’a pas reçu d’initiation,\n"
-"A celui-là, il ne faut pas transmettre les instructions progressives. ”"
+"A celui-là, il ne faut pas transmettre les instructions progressives. ”\n"
+"\n"
+"Voici ce qu’énonce dans le Pancakrama (les cinq étapes) de Nagarjuna : \n"
+"\n"
+"“Celui qui déprécie et trompe le Lama, qui est dénué de foi à son égard,\n"
+"qui s’enorgueillit de connaître les mantras et est fier d’avoir lu des textes,\n"
+"Mais manque de foi et n’a reçu que des initiations de base,\n"
+"À celui-là, il ne faut pas transmettre les instructions progressives. ”"
 
 #  71. སྐྱོན་ཡོན་འདྲེས་པ་ལ་དད་པ་དང་སོགས་ཁོངས་ནས་དོན་གཉེར་ལྡན་
 # 
