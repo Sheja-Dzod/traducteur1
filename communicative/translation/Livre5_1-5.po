@@ -183,12 +183,12 @@ msgid ""
 "Comme on sait par la fumée qu’il y a du feu et par les hérons, qu’il y a de "
 "l’eau. C’est ce qui est dit."
 msgstr ""
-"Le Dasadharmaka-sutra (Soutra des dix qualités) les illustre ainsi :  \n"
+"Le Soutra des dix qualités (Dasadharmaka-sutra) les illustre ainsi : \n"
 "\n"
-"\"C’est par des signes que l’on reconnaît \n"
-"Le potentiel spirituel du  Bodhisattva à l'esprit éclairé. \n"
-"Comme l’on sait par la fumée qu’il y a du feu, \n"
-"Et par la présence de hérons, qu’il y a de l’eau. \""
+"“C’est au travers de signes que l’on reconnaît \n"
+"Le potentiel spirituel du Bodhisattva à l’esprit éclairé.\n"
+"Tout comme l’on sait par la fumée qu’il y a du feu,\n"
+"Et par la présence de hérons, qu’il y a de l’eau. ”"
 
 #  31. གཞན་ཡང་བཞི་བརྒྱ་པ་ལས། 32. གཟུར་གནས་བློ་ལྡན་དོན་གཉེར་བ། །ཉན་པོ་སྣོད་
 # 
