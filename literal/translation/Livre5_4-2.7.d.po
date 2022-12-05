@@ -13,703 +13,703 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 msgctxt "09baa9dd3d3748dbae9897d1fcdd4511"
-msgid "གཉིས་པ་ ནི །"
-msgstr "Deuxièmement :"
+msgid "à½‚à½‰à½²à½¦à¼‹à½”à¼‹ à½“à½² à¼�"
+msgstr "DeuxiÃ¨mement :"
 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´à½‘ã€� 817
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "courant de conscience, sÃ©rie psychique, continuum
 # mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tantra ContinuitÃ©, LignÃ©e â�ƒ 1. tantra, 2. son
+# continuum, continuitÃ© existentielle, continuum mental, 3. continuitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)tantra (textes); 2)continuitÃ©; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)sÃ©rie.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ santÄ�na, saá¹ƒtÄ�na, tantra (= cetanÄ� - trÄ�ya : mind-
+# protection) Sens racine: ContinuitÃ©,LignÃ©eTantra, continuum (SL MW)
+# Alternatives: continuitÃ©, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignÃ©e, racetantra, texte
+# fondamental, traitÃ©cordes (d'un instrument), chaÃ®ne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'Ãªtre,
+# continuum corps-esprit, flux de conscience, train de pensÃ©es
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ continuum, trame â�ƒ SÃ©rie individuelle â�ƒ Tantra
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. tantra 2. son continuum, continuitÃ©
+# existentielle, continuum mental 3. continuitÃ©
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
 # solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
 # d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
 # 
-# 。︀	〝རིགས〞 5858
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Famille, Lignée, Filiation, Caste, Classe, Type,
-# Genre, Graine, Gênes, Cause, Essence, Etat, Nature, Potentiel, Aptitude,
-# Capacité, Possibilité, Système de versification, Correct, Approprié,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique (nyaya) (adjectif)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lignée, famille, lignée spirituelle ⁃ raison
+# ã€‚ï¸€	ã€�à½¢à½²à½‚à½¦ã€� 5858
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Famille, LignÃ©e, Filiation, Caste, Classe, Type,
+# Genre, Graine, GÃªnes, Cause, Essence, Etat, Nature, Potentiel, Aptitude,
+# CapacitÃ©, PossibilitÃ©, SystÃ¨me de versification, Correct, AppropriÃ©,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ logique (nyaya) (adjectif)
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ lignÃ©e, famille, lignÃ©e spirituelle â�ƒ raison
 # 
-# 。︀	〝སོ་སོ〞 6426
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
+# ã€‚ï¸€	ã€�à½¦à½¼à¼‹à½¦à½¼ã€� 6426
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre sÃ©parÃ©ment, Sans Ãªtre le mÃªme, DiffÃ©remment, Comme Ã©tant distinct,
+# diffÃ©rent, sÃ©parÃ©
 msgctxt "190bc049ab8045adb8fe820d37bcec31"
-msgid "སོ་སོ␣འི་ རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ ལྟར་ སྤྱད ། །"
-msgstr "Appliquer les promesses sacrées de sa propre famille selon le Tantra"
+msgid "à½¦à½¼à¼‹à½¦à½¼â�£à½ à½²à¼‹ à½¢à½²à½‚à½¦à¼‹ à½€à¾±à½²à¼‹ à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½¢à¾’à¾±à½´à½‘à¼‹ à½£à¾Ÿà½¢à¼‹ à½¦à¾¤à¾±à½‘ à¼�áš€à¼�"
+msgstr "Appliquer les promesses sacrÃ©es de sa propre famille selon le Tantra"
 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´à½‘ã€� 817
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "courant de conscience, sÃ©rie psychique, continuum
 # mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tantra ContinuitÃ©, LignÃ©e â�ƒ 1. tantra, 2. son
+# continuum, continuitÃ© existentielle, continuum mental, 3. continuitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)tantra (textes); 2)continuitÃ©; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)sÃ©rie.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ santÄ�na, saá¹ƒtÄ�na, tantra (= cetanÄ� - trÄ�ya : mind-
+# protection) Sens racine: ContinuitÃ©,LignÃ©eTantra, continuum (SL MW)
+# Alternatives: continuitÃ©, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignÃ©e, racetantra, texte
+# fondamental, traitÃ©cordes (d'un instrument), chaÃ®ne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'Ãªtre,
+# continuum corps-esprit, flux de conscience, train de pensÃ©es
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ continuum, trame â�ƒ SÃ©rie individuelle â�ƒ Tantra
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. tantra 2. son continuum, continuitÃ©
+# existentielle, continuum mental 3. continuitÃ©
 # 
-# 。︀	〝འཇིག་རྟེན〞 1547
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le monde (périssable) ⁃ toute possibilité d'apparence,
-# le monde phénoménal apparent, le monde phénoménal de tous les possibles, les
-# apparences phénoménales constituant le monde manifeste, le monde des
-# apparences et de tous les possibles, = le monde périssable, notre monde ce
-# support dégradable (ou éphémère), le monde, = habitacle-habitant, le monde
+# ã€‚ï¸€	ã€�à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“ã€� 1547
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Le monde (pÃ©rissable) â�ƒ toute possibilitÃ© d'apparence,
+# le monde phÃ©nomÃ©nal apparent, le monde phÃ©nomÃ©nal de tous les possibles, les
+# apparences phÃ©nomÃ©nales constituant le monde manifeste, le monde des
+# apparences et de tous les possibles, = le monde pÃ©rissable, notre monde ce
+# support dÃ©gradable (ou Ã©phÃ©mÃ¨re), le monde, = habitacle-habitant, le monde
 # et les vivants, l'univers
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ loka Sens racine: Le monde (périssable), world (SL
-# BP) Alternatives: le monde (et ses habitants), systèmes de mondes, univers,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ loka Sens racine: Le monde (pÃ©rissable), world (SL
+# BP) Alternatives: le monde (et ses habitants), systÃ¨mes de mondes, univers,
 # monde samsarique, physique, mondain
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ monde (support pÃ©rissable) â�ƒ Monde     litt.le support
 # destructible
 # 
-# 。︀	〝འཇིག་རྟེན་པ〞 1559
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mondain
+# ã€‚ï¸€	ã€�à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹à½”ã€� 1559
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ mondain
 # 
-# 。︀	〝འཇིག་རྟེན་པའི་རིགས་གསུམ〞 1563
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles mondaines
+# ã€‚ï¸€	ã€�à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹à½”à½ à½²à¼‹à½¢à½²à½‚à½¦à¼‹à½‚à½¦à½´à½˜ã€� 1563
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ trois familles mondaines
 # 
-# 。︀	〝འཇིག་རྟེན་ལས་འདས་པ〞 1571
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supramondain
+# ã€‚ï¸€	ã€�à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹à½£à½¦à¼‹à½ à½‘à½¦à¼‹à½”ã€� 1571
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ supramondain
 # 
-# 。︀	〝འཇིག་རྟེན་ལས་འདས་པའི་རིགས་གསུམ〞 1575
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois familles supramondaines ou de bouddhas
+# ã€‚ï¸€	ã€�à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹à½£à½¦à¼‹à½ à½‘à½¦à¼‹à½”à½ à½²à¼‹à½¢à½²à½‚à½¦à¼‹à½‚à½¦à½´à½˜ã€� 1575
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ trois familles supramondaines ou de bouddhas
 # 
-# 。︀	〝རྟོག་པ〞 1965
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
+# ã€‚ï¸€	ã€�à½¢à¾Ÿà½¼à½‚à¼‹à½”ã€� 1965
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ concept, pensÃ©e â�ƒ pensÃ©e, concept, idÃ©e fictive,
 # fiction
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Penser, concevoir, conceptualiser, Penser en mode
-# discursif, Pensée, Pensée discursive, Examiner ⁃ penser duel, conceptuel,
-# pensée discursive, penser, pensée
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conceptualisation, conception
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rtog tshogs → rnam rtog tarka, vibhāva Sens
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Penser, concevoir, conceptualiser, Penser en mode
+# discursif, PensÃ©e, PensÃ©e discursive, Examiner â�ƒ penser duel, conceptuel,
+# pensÃ©e discursive, penser, pensÃ©e
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ conceptualisation, conception
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = rtog tshogs â†’ rnam rtog tarka, vibhÄ�va Sens
 # racine: Penser, concevoir, conceptualiser,Penser en mode
-# discursif,Pensée,Pensée discursive,Examiner Alternatives: enquêter sur,
-# délibération, réflexion, considérer, examiner, rechercher, songer,
-# méditer(schémas de) pensées conceptuelles,discursives, mentales, mouvements,
-# habitudes mentales, la foule des pensées, conceptualiser, déterminé et
-# divisé conceptuellement, conceptualisation, concepts, considérations,
-# cogiter, discursivitéscrupule, doute, hésitation
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ concept, idée, pensée conceptuelle ⁃ raisonnement
-# investigateur, pensée conceptuelle ⁃ Examen initial ⁃ Discursivité
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: penser duel, dualiste, conceptuel pensée
-# discursive, penser, pensée
+# discursif,PensÃ©e,PensÃ©e discursive,Examiner Alternatives: enquÃªter sur,
+# dÃ©libÃ©ration, rÃ©flexion, considÃ©rer, examiner, rechercher, songer,
+# mÃ©diter(schÃ©mas de) pensÃ©es conceptuelles,discursives, mentales, mouvements,
+# habitudes mentales, la foule des pensÃ©es, conceptualiser, dÃ©terminÃ© et
+# divisÃ© conceptuellement, conceptualisation, concepts, considÃ©rations,
+# cogiter, discursivitÃ©scrupule, doute, hÃ©sitation
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ concept, idÃ©e, pensÃ©e conceptuelle â�ƒ raisonnement
+# investigateur, pensÃ©e conceptuelle â�ƒ Examen initial â�ƒ DiscursivitÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: penser duel, dualiste, conceptuel pensÃ©e
+# discursive, penser, pensÃ©e
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
 # solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
 # d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
 # 
-# 。︀	〝འདས་པ〞 2741
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
-# Dépasser
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
-# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
-# transcender, aller au-delà, surpasser, transcendance
+# ã€‚ï¸€	ã€�à½ à½‘à½¦à¼‹à½”ã€� 2741
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Au-delÃ , Transcendant, Transcender, Aller au-delÃ ,
+# DÃ©passer
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ saá¹…krÄ�nti, atÄ«ta, atikrÄ�nta Sens racine: Au-
+# delÃ ,Transcendant,Transcender,Aller au-delÃ , DÃ©passer Alternatives:
+# transcender, aller au-delÃ , surpasser, transcendance
 # 
-# 。︀	〝བླང་དོར〞 3880
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Accepter et rejeter, Adopter et refuser, Prendre et
-# abandonner, Cultiver et éliminer, Suivre et éviter, Faire et ne pas faire, ⁃
+# ã€‚ï¸€	ã€�à½–à¾³à½„à¼‹à½‘à½¼à½¢ã€� 3880
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Accepter et rejeter, Adopter et refuser, Prendre et
+# abandonner, Cultiver et Ã©liminer, Suivre et Ã©viter, Faire et ne pas faire, â�ƒ
 # Abandon et saisie, Acceptation ou rejet, Prendre ou jeter, Elimination ou
-# aquisition ⁃ rejeter ou appréhender (p75)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = spang blang Sens racine: Accepter et
-# rejeter,Adopter et refuser,Prendre et abandonner,Cultiver et éliminer,Suivre
-# et éviter,Faire et ne pas faire, Alternatives: ce qui est à accepter,
+# aquisition â�ƒ rejeter ou apprÃ©hender (p75)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = spang blang Sens racine: Accepter et
+# rejeter,Adopter et refuser,Prendre et abandonner,Cultiver et Ã©liminer,Suivre
+# et Ã©viter,Faire et ne pas faire, Alternatives: ce qui est Ã  accepter,
 # adopter, entreprendre, faire, suivre, (objets d') acceptation, ce qu'il faut
-# faire, s'engager dansetce qui est à éliminer, rejeter, ne pas faire,
-# abandonner, de rejet, stopper, renoncer, laisser tomber, omettre, éviter,
-# délaisser, arrêtre, mettre un terme, abandon, rejet, ce qu'il ne faut pas
+# faire, s'engager dansetce qui est Ã  Ã©liminer, rejeter, ne pas faire,
+# abandonner, de rejet, stopper, renoncer, laisser tomber, omettre, Ã©viter,
+# dÃ©laisser, arrÃªtre, mettre un terme, abandon, rejet, ce qu'il ne faut pas
 # faire
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: rejeter ou appréhender
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: rejeter ou apprÃ©hender
 # 
-# 。︀	〝ཡོད་པ〞 5530
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
+# ã€‚ï¸€	ã€�à½¡à½¼à½‘à¼‹à½”ã€� 5530
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ existence, existant, exister, Ãªtre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Etre, Exister, Existence, RÃ©fÃ©rence d'une connaissance
 # valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
-# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
-# existe, exister (p67), être là
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
+# Demeure, Subsiste, Avoir (des attributs) PossÃ©der, â�ƒ (quelque chose qui)
+# existe, exister (p67), Ãªtre lÃ 
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ existant, exister â�ƒ Existence
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: (quelque chose qui) existe, exister Ãªtre lÃ 
 # 
-# 。︀	〝རིགས་གསུམ〞 5897
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Trois Familles de Bouddhas
+# ã€‚ï¸€	ã€�à½¢à½²à½‚à½¦à¼‹à½‚à½¦à½´à½˜ã€� 5897
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Trois Familles de Bouddhas
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
 # 
-# 。︀	〝བཤད་པ〞 6278
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# ã€‚ï¸€	ã€�à½–à½¤à½‘à¼‹à½”ã€� 6278
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Explications, ExposÃ©, Etudes Expliquer, Exposer,
 # Etudier,
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 # 
-# 。︀	〝སོ་སོ〞 6426
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
+# ã€‚ï¸€	ã€�à½¦à½¼à¼‹à½¦à½¼ã€� 6426
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre sÃ©parÃ©ment, Sans Ãªtre le mÃªme, DiffÃ©remment, Comme Ã©tant distinct,
+# diffÃ©rent, sÃ©parÃ©
 # 
-# 。︀	〝སོ་སོར〞 6439
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
+# ã€‚ï¸€	ã€�à½¦à½¼à¼‹à½¦à½¼à½¢ã€� 6439
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre sÃ©parÃ©ment, Sans Ãªtre le mÃªme, DiffÃ©remment, Comme Ã©tant distinct,
+# diffÃ©rent, sÃ©parÃ©
 msgctxt "d2d80f5689184585a00e0981034ad74c"
 msgid ""
-"འཇིག་རྟེན་ ལ␣ས་ འདས་པ␣འི་ རིགས་གསུམ །  འཇིག་རྟེན་པ␣འི་ རིགས་གསུམ་ སོ་སོ␣ར་ "
-"དམིགས་བསལ་ དུ་ བཤད་པ␣འི་ བླང་དོར་ ཇི་སྙེད་ ཡོད་པ་ རྣམས་ ཀྱང་ སྤྱི␣འི་ "
-"དམ་ཚིག་ གཞིར་བཞག་པ␣འི་ སྟེང་ དུ་ རང་རིགས་ ཀྱི་ དམ་ཚིག་ རྒྱུད་ དང་ རྟོག་པ་ "
-"རྣམས་ ནས་ གསུངས་པ་ ལྟར་ སྤྱད་པ␣ར་ བྱ␣འོ ། །"
+"à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹ à½£â�£à½¦à¼‹ à½ à½‘à½¦à¼‹à½”â�£à½ à½²à¼‹ à½¢à½²à½‚à½¦à¼‹à½‚à½¦à½´à½˜ à¼�áš€ à½ à½‡à½²à½‚à¼‹à½¢à¾Ÿà½ºà½“à¼‹à½”â�£à½ à½²à¼‹ à½¢à½²à½‚à½¦à¼‹à½‚à½¦à½´à½˜à¼‹ à½¦à½¼à¼‹à½¦à½¼â�£à½¢à¼‹ "
+"à½‘à½˜à½²à½‚à½¦à¼‹à½–à½¦à½£à¼‹ à½‘à½´à¼‹ à½–à½¤à½‘à¼‹à½”â�£à½ à½²à¼‹ à½–à¾³à½„à¼‹à½‘à½¼à½¢à¼‹ à½‡à½²à¼‹à½¦à¾™à½ºà½‘à¼‹ à½¡à½¼à½‘à¼‹à½”à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½€à¾±à½„à¼‹ à½¦à¾¤à¾±à½²â�£à½ à½²à¼‹ "
+"à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½‚à½�à½²à½¢à¼‹à½–à½�à½‚à¼‹à½”â�£à½ à½²à¼‹ à½¦à¾Ÿà½ºà½„à¼‹ à½‘à½´à¼‹ à½¢à½„à¼‹à½¢à½²à½‚à½¦à¼‹ à½€à¾±à½²à¼‹ à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½¢à¾’à¾±à½´à½‘à¼‹ à½‘à½„à¼‹ à½¢à¾Ÿà½¼à½‚à¼‹à½”à¼‹ "
+"à½¢à¾£à½˜à½¦à¼‹ à½“à½¦à¼‹ à½‚à½¦à½´à½„à½¦à¼‹à½”à¼‹ à½£à¾Ÿà½¢à¼‹ à½¦à¾¤à¾±à½‘à¼‹à½”â�£à½¢à¼‹ à½–à¾±â�£à½ à½¼ à¼�áš€à¼�"
 msgstr ""
 "Les trois familles supra-mondaines et les trois familles mondaines exposent "
 "les points qui leur sont propres concernant ce qui est a faire et ce qui est"
-" a abandonner.  En addition aux promesses sacrées générales qui servent de "
+" a abandonner.  En addition aux promesses sacrÃ©es gÃ©nÃ©rales qui servent de "
 "bases, il faut appliquer parmis tous ces points (litt, autant qu'ils sont) "
-"les promesses sacrées correspondantes à notre propre famille telles "
-"qu'enseignées dans  les Tantras et les Tantras d'accomplissement."
+"les promesses sacrÃ©es correspondantes Ã  notre propre famille telles "
+"qu'enseignÃ©es dans  les Tantras et les Tantras d'accomplissement."
 
-# 。︀	〝དགོས་པ〞 672
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# ã€‚ï¸€	ã€�à½‘à½‚à½¼à½¦à¼‹à½”ã€� 672
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ propos, dessein, objectif
 # 
-# 。︀	〝འགྲེལ་པ〞 725
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ commentaire
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vṛtti, ṭīkā, pañjikā, vivaraṇa Sens racine:
+# ã€‚ï¸€	ã€�à½ à½‚à¾²à½ºà½£à¼‹à½”ã€� 725
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ commentaire
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ vá¹›tti, á¹­Ä«kÄ�, paÃ±jikÄ�, vivaraá¹‡a Sens racine:
 # commentaire Alternatives: commentaire, exposition
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: commentaires (textes)
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: commentaires (textes)
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
 # solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
 # d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
 # 
-# 。︀	〝རྣལ་འབྱོར〞 3202
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Yoga, Union (à l'état naturel) Unification ⁃ yoga,
-# union à l'état naturel, unification, immersion en l'état d'être authentique
+# ã€‚ï¸€	ã€�à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢ã€� 3202
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Yoga, Union (Ã  l'Ã©tat naturel) Unification â�ƒ yoga,
+# union Ã  l'Ã©tat naturel, unification, immersion en l'Ã©tat d'Ãªtre authentique
 # (ou naturel), union
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)yoga, union. Dans atiyoga: relation à
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)yoga, union. Dans atiyoga: relation Ã 
 # l'authentique/s'unir au vrai; 2) yoga initial (1er yoga de la phase de
-# génération)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ yoga Sens racine: Yoga,Union (à l’état
+# gÃ©nÃ©ration)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ yoga Sens racine: Yoga,Union (Ã  lâ€™Ã©tat
 # naturel)Unification, yoga (SL BP) Alternatives: atteindre, application de,
-# entreprendre, se caler sur, s'unir à l'état naturel (de l'esprit), immersion
-# dans l'être authentique, détenir la condition authentique, entraînement au
-# continuum naturel, accomplissement du naturel, état naturel, pratique du
-# yoga, yoga méditatif, union dans la réalité fondamentaleyoga, (méthode d')
-# union, réunion, unification, entraînement, cohésif
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ yoga ⁃ Yoga, s'unir à l'aise naturelle
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnal du ‘byor ba Sens racine: yoga, union à l’état
-# naturel, unification immersion en l’état d’être authentique (ou naturel),
+# entreprendre, se caler sur, s'unir Ã  l'Ã©tat naturel (de l'esprit), immersion
+# dans l'Ãªtre authentique, dÃ©tenir la condition authentique, entraÃ®nement au
+# continuum naturel, accomplissement du naturel, Ã©tat naturel, pratique du
+# yoga, yoga mÃ©ditatif, union dans la rÃ©alitÃ© fondamentaleyoga, (mÃ©thode d')
+# union, rÃ©union, unification, entraÃ®nement, cohÃ©sif
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ yoga â�ƒ Yoga, s'unir Ã  l'aise naturelle
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ rnal du â€˜byor ba Sens racine: yoga, union Ã  lâ€™Ã©tat
+# naturel, unification immersion en lâ€™Ã©tat dâ€™Ãªtre authentique (ou naturel),
 # union
 # 
-# 。︀	〝བླ་མེད〞 3874
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans supérieur, Insurpassable, ⁃ anuttara,
-# insurpassable, sans supérieur, que rien ne surpasse, suprême entre tous,
+# ã€‚ï¸€	ã€�à½–à¾³à¼‹à½˜à½ºà½‘ã€� 3874
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Sans supÃ©rieur, Insurpassable, â�ƒ anuttara,
+# insurpassable, sans supÃ©rieur, que rien ne surpasse, suprÃªme entre tous,
 # incomparable, que rien n'excelle
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bla na med pa Sens racine: anuttara, insurpassable, sans
-# supérieur que rien ne surpasse, suprême entre tous, incomparable, que rien
-# n’excelle
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ bla na med pa Sens racine: anuttara, insurpassable, sans
+# supÃ©rieur que rien ne surpasse, suprÃªme entre tous, incomparable, que rien
+# nâ€™excelle
 # 
-# 。︀	〝ཞུགས་པ〞 4947
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
-# Participer à,
+# ã€‚ï¸€	ã€�à½�à½´à½‚à½¦à¼‹à½”ã€� 4947
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Entrer, PÃ©nÃ©trer, Se joindre Ã , Prendre part Ã ,
+# Participer Ã ,
 # 
-# 。︀	〝ཞུས་པ〞 4950
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ (h) Demander, Requérir, Questionner,
+# ã€‚ï¸€	ã€�à½�à½´à½¦à¼‹à½”ã€� 4950
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ (h) Demander, RequÃ©rir, Questionner,
 # 
-# 。︀	〝ཡིན་པ〞 5391
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+# ã€‚ï¸€	ã€�à½¡à½²à½“à¼‹à½”ã€� 5391
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 # 
-# 。︀	〝རིན་ཆེན〞 5904
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ joyau
+# ã€‚ï¸€	ã€�à½¢à½²à½“à¼‹à½†à½ºà½“ã€� 5904
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ joyau
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
 # 
-# 。︀	〝བཤད〞 6272
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# ã€‚ï¸€	ã€�à½–à½¤à½‘ã€� 6272
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Explications, ExposÃ©, Etudes Expliquer, Exposer,
 # Etudier,
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 msgctxt "9ec95b3a7d3e4207bbff562fc51f6e00"
 msgid ""
-"དམ་ཚིག་ དེ་ རྣམས་ ཀྱང་ བྱ་སྤྱོད་ ཀྱི་ དབང་ ཞུས་པ་ རྣམས་ ཀྱིས་ བསྲུང་ བྱ་ "
-"ཡིན་པ␣ར་ མ་ཟད་ རྣལ་འབྱོར་ བླ་མེད་ ལ་ ཞུགས་པ་ རྣམས་ ཀྱིས་ ཀྱང་ བསྲུང་ "
-"དགོས་པ␣ར་ དགྲ་ནག་ གི་ འགྲེལ་པ་ རིན་ཆེན་ སྒྲོན་མེ་ ལ␣ས་ བཤད་ དོ ། །"
+"à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½‘à½ºà¼‹ à½¢à¾£à½˜à½¦à¼‹ à½€à¾±à½„à¼‹ à½–à¾±à¼‹à½¦à¾¤à¾±à½¼à½‘à¼‹ à½€à¾±à½²à¼‹ à½‘à½–à½„à¼‹ à½�à½´à½¦à¼‹à½”à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½€à¾±à½²à½¦à¼‹ à½–à½¦à¾²à½´à½„à¼‹ à½–à¾±à¼‹ "
+"à½¡à½²à½“à¼‹à½”â�£à½¢à¼‹ à½˜à¼‹à½Ÿà½‘à¼‹ à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢à¼‹ à½–à¾³à¼‹à½˜à½ºà½‘à¼‹ à½£à¼‹ à½�à½´à½‚à½¦à¼‹à½”à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½€à¾±à½²à½¦à¼‹ à½€à¾±à½„à¼‹ à½–à½¦à¾²à½´à½„à¼‹ "
+"à½‘à½‚à½¼à½¦à¼‹à½”â�£à½¢à¼‹ à½‘à½‚à¾²à¼‹à½“à½‚à¼‹ à½‚à½²à¼‹ à½ à½‚à¾²à½ºà½£à¼‹à½”à¼‹ à½¢à½²à½“à¼‹à½†à½ºà½“à¼‹ à½¦à¾’à¾²à½¼à½“à¼‹à½˜à½ºà¼‹ à½£â�£à½¦à¼‹ à½–à½¤à½‘à¼‹ à½‘à½¼ à¼�áš€à¼�"
 msgstr ""
-"Conformément aux explications de La Précieuse Lampe, commentaire de "
+"ConformÃ©ment aux explications de La PrÃ©cieuse Lampe, commentaire de "
 "[Ratnakarashanti] sur le Tantra de Yamantaka le Noir Ennemi, ceux ayant recu"
 " les initiations des Tantras de l'Action et de la Conduite, doivent tenir "
-"toutes ces promesses sacrées. Mais aussi les pratiquants des Tantras "
+"toutes ces promesses sacrÃ©es. Mais aussi les pratiquants des Tantras "
 "Insurpassables doivent les tenir. "
 
 msgctxt "71dcc46d96de4003a29a551c31de6ad8"
-msgid "གསུམ་པ་ ནི །"
-msgstr "Troisièmement :"
+msgid "à½‚à½¦à½´à½˜à¼‹à½”à¼‹ à½“à½² à¼�"
+msgstr "TroisiÃ¨mement :"
 
-# 。︀	〝མེ〞 4354
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Feu
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ teja Sens racine: Feu Alternatives: (l'élément) feu
+# ã€‚ï¸€	ã€�à½˜à½ºã€� 4354
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Feu
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ teja Sens racine: Feu Alternatives: (l'Ã©lÃ©ment) feu
 # 
-# 。︀	〝གཟུངས〞 5198
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharani, Retenues (de ce qui est vertueux)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ souvenance, rétention, formule de souvenance
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mémoire.
+# ã€‚ï¸€	ã€�à½‚à½Ÿà½´à½„à½¦ã€� 5198
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Dharani, Retenues (de ce qui est vertueux)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ souvenance, rÃ©tention, formule de souvenance
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ mÃ©moire.
 # 
-# 。︀	〝རང་རིག〞 5712
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance subjective ⁃ connaissance subjective ⁃
+# ã€‚ï¸€	ã€�à½¢à½„à¼‹à½¢à½²à½‚ã€� 5712
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ connaissance subjective â�ƒ connaissance subjective â�ƒ
 # "aperception, perception autoconnaissante, autoconnaissance, conscience
-# aperceptive, conscience  réflexive/qui se connaît soi-même; conscience
+# aperceptive, conscience  rÃ©flexive/qui se connaÃ®t soi-mÃªme; conscience
 # naturelle"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence en soi, Cognition en soi, Intelligence
-# réflexive, Auto connaissance, Expérience immédiate en soi, Abv. de rang
-# byung rig pa: Intelligence immédiate naturelle, ⁃ "intelligence en soi
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Intelligence en soi, Cognition en soi, Intelligence
+# rÃ©flexive, Auto connaissance, ExpÃ©rience immÃ©diate en soi, Abv. de rang
+# byung rig pa: Intelligence immÃ©diate naturelle, â�ƒ "intelligence en soi
 # (p73), l'auto intelligence (p76), sa propre intelligence en soi ; sa propre
 # intelligence en soi (p69)"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conscience/connaissance réflexive ⁃ "perception directe
-# d'auto-connaissance/ connaissance se connaissant elle-même/ connaissance
-# individuelle ; perception réflexive"
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ conscience se connaissant elle-même, conscience aperceptive
-# (Yogacara) ⁃ la Présence éveillée auto-connaissante, le rig pa naturel
-# (rDzogs chen) ⁃ Rigpa spontané, mon propre Rigpa, mon propre esprit,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ conscience/connaissance rÃ©flexive â�ƒ "perception directe
+# d'auto-connaissance/ connaissance se connaissant elle-mÃªme/ connaissance
+# individuelle ; perception rÃ©flexive"
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ conscience se connaissant elle-mÃªme, conscience aperceptive
+# (Yogacara) â�ƒ la PrÃ©sence Ã©veillÃ©e auto-connaissante, le rig pa naturel
+# (rDzogs chen) â�ƒ Rigpa spontanÃ©, mon propre Rigpa, mon propre esprit,
 # conscience en soi
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rang gi rig pa, rang rig pa Sens racine: intelligence en
-# soi, l’auto intelligence, sa propre intelligence en soi, sa propre
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ rang gi rig pa, rang rig pa Sens racine: intelligence en
+# soi, lâ€™auto intelligence, sa propre intelligence en soi, sa propre
 # intelligence en soi
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 msgctxt "fdbbb87c6b974c5cb0ac5594e30b8123"
-msgid "འགལ་ ན་ རང་རིག་ འབུམ་ མམ་ མེ␣ས་ རྨོངས་ གཟུངས ། །"
+msgid "à½ à½‚à½£à¼‹ à½“à¼‹ à½¢à½„à¼‹à½¢à½²à½‚à¼‹ à½ à½–à½´à½˜à¼‹ à½˜à½˜à¼‹ à½˜à½ºâ�£à½¦à¼‹ à½¢à¾¨à½¼à½„à½¦à¼‹ à½‚à½Ÿà½´à½„à½¦ à¼�áš€à¼�"
 msgstr ""
-"Si on les transgresse (litt va a l'encontre, agit de manière contraire)  en "
-"récitant cent mille fois le mantra de sa famille ou la Dharani du Feu "
+"Si on les transgresse (litt va a l'encontre, agit de maniÃ¨re contraire)  en "
+"rÃ©citant cent mille fois le mantra de sa famille ou la Dharani du Feu "
 "Eblouissant, "
 
-# 。︀	〝ཞི་བ〞 4928
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "apaisement (6e stade mental); paix; paix (du nirvana)"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
-# Tranquilliser, Nirvâna (l'ultime paix) ⁃ 1. paix, paisible, pacification,
-# apaisement, se calmer, calme, tranquillité, sérénité, quiétude, repos, 2.
-# paix ultime, nirvâna
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ apaisement (un des dix types d'activité éveillée)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ paix ⁃ Paix, nirvâna
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. shânti, paix, apaisement, se calmer
-# paisible, pacification, calme, tranquillité, sérénité, quiétude, repos 2. =
-# nirvâna, paix ultime
+# ã€‚ï¸€	ã€�à½�à½²à¼‹à½–ã€� 4928
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "apaisement (6e stade mental); paix; paix (du nirvana)"
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
+# Tranquilliser, NirvÃ¢na (l'ultime paix) â�ƒ 1. paix, paisible, pacification,
+# apaisement, se calmer, calme, tranquillitÃ©, sÃ©rÃ©nitÃ©, quiÃ©tude, repos, 2.
+# paix ultime, nirvÃ¢na
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ apaisement (un des dix types d'activitÃ© Ã©veillÃ©e)
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ paix â�ƒ Paix, nirvÃ¢na
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. shÃ¢nti, paix, apaisement, se calmer
+# paisible, pacification, calme, tranquillitÃ©, sÃ©rÃ©nitÃ©, quiÃ©tude, repos 2. =
+# nirvÃ¢na, paix ultime
 msgctxt "33c57fef967849a6a1e784e35ff0cfab"
-msgid "ཞི་བ␣འི་ སྲེག་བླུགས་ སོགས་ ཀྱིས་ ཕྱིར་བཅོས་ བྱ །།"
-msgstr "ou en faisant des offrandes paisibles au feu ectétéra on les restaure"
+msgid "à½�à½²à¼‹à½–â�£à½ à½²à¼‹ à½¦à¾²à½ºà½‚à¼‹à½–à¾³à½´à½‚à½¦à¼‹ à½¦à½¼à½‚à½¦à¼‹ à½€à¾±à½²à½¦à¼‹ à½•à¾±à½²à½¢à¼‹à½–à½…à½¼à½¦à¼‹ à½–à¾± à¼�à¼�"
+msgstr "ou en faisant des offrandes paisibles au feu ectÃ©tÃ©ra on les restaure"
 
-# 。︀	〝གོས་པ〞 527
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Altéré, affecté, souillé
+# ã€‚ï¸€	ã€�à½‚à½¼à½¦à¼‹à½”ã€� 527
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ AltÃ©rÃ©, affectÃ©, souillÃ©
 # 
-# 。︀	〝ཐོག་མ〞 2229
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Origine, début, premier
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = gdod ma ādi Sens racine: Début, origine,
-# commencement, Alternatives: (au) début, origine, commencement, premier,
-# originellement, genèse, naissance, (point de) départ, primordial, amorce,
+# ã€‚ï¸€	ã€�à½�à½¼à½‚à¼‹à½˜ã€� 2229
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Origine, dÃ©but, premier
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = gdod ma Ä�di Sens racine: DÃ©but, origine,
+# commencement, Alternatives: (au) dÃ©but, origine, commencement, premier,
+# originellement, genÃ¨se, naissance, (point de) dÃ©part, primordial, amorce,
 # primitivement, initial, originel, primitif
 # 
-# 。︀	〝དམ་ཚིག〞 2372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
-# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
 # solennel, engagement solennel, parole d'honneur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
-# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
-# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
-# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
 # d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
-# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
-# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
 # 
-# 。︀	〝མི〞 4227
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
-# (êtres) humains, hommes, homo sapiens
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
 # 
-# 。︀	〝ཤེས་པ〞 6213
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
-# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
-# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# ã€‚ï¸€	ã€�à½¤à½ºà½¦à¼‹à½”ã€� 6213
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ conscience, esprit
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Intelligence, Intellect, Connaissance, ExpÃ©rience,
+# Cognition, Connaisseur, ExpÃ©rimentateur, Esprit, Comprendre, ExpÃ©rimenter, â�ƒ
+# l'expÃ©rience (p30), expÃ©rimenter, expÃ©rimentateur, la cognition (p66), Ãªtre
 # conscient, savoir, conscience
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Conscience, connaissance, cognition
 msgctxt "9667fc6473c94ac3821c89576556b3f4"
 msgid ""
-"དམ་ཚིག་ རྣམས་ ཐོག་མ␣ར་ ཤེས་པ␣ར་ བྱས་ ནས་ ཉེས་ལྟུང་ གིས་ མི་ གོས་པ་ ལ་ འབད །"
+"à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½�à½¼à½‚à¼‹à½˜â�£à½¢à¼‹ à½¤à½ºà½¦à¼‹à½”â�£à½¢à¼‹ à½–à¾±à½¦à¼‹ à½“à½¦à¼‹ à½‰à½ºà½¦à¼‹à½£à¾Ÿà½´à½„à¼‹ à½‚à½²à½¦à¼‹ à½˜à½²à¼‹ à½‚à½¼à½¦à¼‹à½”à¼‹ à½£à¼‹ à½ à½–à½‘ à¼�"
 msgstr ""
-"Aprés avoir dans un premier temps, pris connaissance des promesses sacrées, "
+"AprÃ©s avoir dans un premier temps, pris connaissance des promesses sacrÃ©es, "
 "(le pratiquant) doit s'y appliquer sans les souiller de fautes et de "
 "manquements."
 
-# 。︀	〝འགལ་བ〞 699
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contradiction
+# ã€‚ï¸€	ã€�à½ à½‚à½£à¼‹à½–ã€� 699
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ contradiction
 # 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
+# ã€‚ï¸€	ã€�à½˜ã€� 4140
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ mata, jananÄ« Sens racine: MÃ¨re,Maman,Particule
+# exprimant la nÃ©gation, Alternatives: mÃ¨re
 msgctxt "f3e847e09b684baba396dcfc304cf60f"
-msgid "གལ་ཏེ་ འགལ་བ␣ར་ གྱུར་ ན་ དེ་ མ་ ཐག་ ཏུ་ ཕྱིར་བཅོས་ དགོས་ ཤིང༌ །"
+msgid "à½‚à½£à¼‹à½�à½ºà¼‹ à½ à½‚à½£à¼‹à½–â�£à½¢à¼‹ à½‚à¾±à½´à½¢à¼‹ à½“à¼‹ à½‘à½ºà¼‹ à½˜à¼‹ à½�à½‚à¼‹ à½�à½´à¼‹ à½•à¾±à½²à½¢à¼‹à½–à½…à½¼à½¦à¼‹ à½‘à½‚à½¼à½¦à¼‹ à½¤à½²à½„à¼Œ à¼�"
 msgstr ""
-"A supposer qu'on les transgresse, il faut alors instantanément les "
+"A supposer qu'on les transgresse, il faut alors instantanÃ©ment les "
 "restaurer."
 
-# 。︀	〝གཅིག〞 1243
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
-# singularité, état unique, unité, unicité, unique
+# ã€‚ï¸€	ã€�à½‚à½…à½²à½‚ã€� 1243
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ un, unique, unicitÃ©, singularitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ instantanÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ gcig pu, gcig po Sens racine: eka, un, unique, unicitÃ©,
+# singularitÃ©, Ã©tat unique, unitÃ©, unicitÃ©, unique
 # 
-# 。︀	〝སྙིང་པོ〞 1834
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ essence, cour, quintessence
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Essence, cour du sujet, quintessence, essentiel, ⁃ 1.
-# cour, hridaya, le cour même de, le cour essentiel, 2. embryon, garbha,
-# matrice, 3. essence, sâra, essence du cour, essence-même, l'âme, 4. esprit,
+# ã€‚ï¸€	ã€�à½¦à¾™à½²à½„à¼‹à½”à½¼ã€� 1834
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ essence, cour, quintessence
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Essence, cour du sujet, quintessence, essentiel, â�ƒ 1.
+# cour, hridaya, le cour mÃªme de, le cour essentiel, 2. embryon, garbha,
+# matrice, 3. essence, sÃ¢ra, essence du cour, essence-mÃªme, l'Ã¢me, 4. esprit,
 # citta
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ essence, noyau  (pas matrice)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Essence, cœur du sujet, quintessence,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ essence, noyau  (pas matrice)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Essence, cÅ“ur du sujet, quintessence,
 # essentiel,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ essence, matrice ⁃ Cour, l'essence
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. hridaya, cœur, le cœur même de, le cœur
-# essentiel 2. garbha, embryon, matrice 3. sâra, essence, essence du cœur,
-# essence-même, l’âme 4. citta, esprit
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ essence, matrice â�ƒ Cour, l'essence
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. hridaya, cÅ“ur, le cÅ“ur mÃªme de, le cÅ“ur
+# essentiel 2. garbha, embryon, matrice 3. sÃ¢ra, essence, essence du cÅ“ur,
+# essence-mÃªme, lâ€™Ã¢me 4. citta, esprit
 # 
-# 。︀	〝ཚུལ〞 4680
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
-# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
-# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
-# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# ã€‚ï¸€	ã€�à½šà½´à½£ã€� 4680
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ ManiÃ¨re, Mode, FaÃ§on d'Ãªtre, Us et coutumes,
+# Comportement, â�ƒ les circonstances (p106), mÃ©thode, maniÃ¨re, mode
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ veut dire aussi perspective (sngags kyi tshul)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ naya Sens racine: ManiÃ¨re,Mode,FaÃ§on dâ€™Ãªtre,Us et
+# coutumes,Comportement, Alternatives: faÃ§on (de faire), mÃ©thode, maniÃ¨re,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adÃ©quat,
 # correctd'apparence
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: les circonstances mÃ©thode, maniÃ¨re, mode
 # 
-# 。︀	〝རིག་པ〞 5800
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance (claire) ⁃ connaissance (claire) ⁃
-# "faculté cognitive, connaissance, conscience; connaissance intuitive
-# immédiate, conscience éveillée"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. vidyâ, auto intelligence (p59, 72, 74, 77), gnose
-# (de non-saisie) (p24), intelligence immédiate (p61), l'intelligence en soi
-# (p21, 67, 69, 77, 98),  l'état d'intelligence première (p68), intelligence
-# immédiate en soi (p86), intelligence (p96), intelligence primordiale, se
+# ã€‚ï¸€	ã€�à½¢à½²à½‚à¼‹à½”ã€� 5800
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ connaissance (claire) â�ƒ connaissance (claire) â�ƒ
+# "facultÃ© cognitive, connaissance, conscience; connaissance intuitive
+# immÃ©diate, conscience Ã©veillÃ©e"
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ "1. vidyÃ¢, auto intelligence (p59, 72, 74, 77), gnose
+# (de non-saisie) (p24), intelligence immÃ©diate (p61), l'intelligence en soi
+# (p21, 67, 69, 77, 98),  l'Ã©tat d'intelligence premiÃ¨re (p68), intelligence
+# immÃ©diate en soi (p86), intelligence (p96), intelligence primordiale, se
 # comprendre ; 2. intelligence"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ connaissance, présence éveillée, pure présence (aussi
-# conscience: rig pa rgyun chad pa --> sens non trouvé) ⁃ connaissance éveillé
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºintelligence, savoir, connaissance; 2ºprésence éveillée,
-# intelligence primordiale, état naturel (dans le Dzogchen)" ⁃ Etat
-# primordialement pur et spontanément présent, éveillé et discernant
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. vidyâ, auto intelligence, gnose (de non-
-# saisie), intelligence immédiate, l’intelligence en soi, l’état
-# d’intelligence première, intelligence immédiate en soi, intelligence,
-# l’intelligence première, intelligence primordiale, se comprendre 2.
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ connaissance, prÃ©sence Ã©veillÃ©e, pure prÃ©sence (aussi
+# conscience: rig pa rgyun chad pa --> sens non trouvÃ©) â�ƒ connaissance Ã©veillÃ©
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ "1Âºintelligence, savoir, connaissance; 2ÂºprÃ©sence Ã©veillÃ©e,
+# intelligence primordiale, Ã©tat naturel (dans le Dzogchen)" â�ƒ Etat
+# primordialement pur et spontanÃ©ment prÃ©sent, Ã©veillÃ© et discernant
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. vidyÃ¢, auto intelligence, gnose (de non-
+# saisie), intelligence immÃ©diate, lâ€™intelligence en soi, lâ€™Ã©tat
+# dâ€™intelligence premiÃ¨re, intelligence immÃ©diate en soi, intelligence,
+# lâ€™intelligence premiÃ¨re, intelligence primordiale, se comprendre 2.
 # intelligence
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 msgctxt "b88597e516cd4218bb4cd007fd39c848"
-msgid "བཅོ␣ས་ ཚུལ་ རང་རང་ གི་ རིག་པ␣འི་ སྙིང་པོ་ འབུམ་ཕྲག་ གཅིག་ བཟླ་བ␣འམ །"
+msgid "à½–à½…à½¼â�£à½¦à¼‹ à½šà½´à½£à¼‹ à½¢à½„à¼‹à½¢à½„à¼‹ à½‚à½²à¼‹ à½¢à½²à½‚à¼‹à½”â�£à½ à½²à¼‹ à½¦à¾™à½²à½„à¼‹à½”à½¼à¼‹ à½ à½–à½´à½˜à¼‹à½•à¾²à½‚à¼‹ à½‚à½…à½²à½‚à¼‹ à½–à½Ÿà¾³à¼‹à½–â�£à½ à½˜ à¼�"
 msgstr ""
-"La manière pour les restaurer : réciter cent mille fois le mantra coeur "
-"correspondant à sa propre famille ou bien,"
+"La maniÃ¨re pour les restaurer : rÃ©citer cent mille fois le mantra coeur "
+"correspondant Ã  sa propre famille ou bien,"
 
-# 。︀	〝གཅིག〞 1243
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
-# singularité, état unique, unité, unicité, unique
+# ã€‚ï¸€	ã€�à½‚à½…à½²à½‚ã€� 1243
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ un, unique, unicitÃ©, singularitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ instantanÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ gcig pu, gcig po Sens racine: eka, un, unique, unicitÃ©,
+# singularitÃ©, Ã©tat unique, unitÃ©, unicitÃ©, unique
 # 
-# 。︀	〝རྡོ་རྗེ〞 2833
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
-# réalité
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vajra, kuliśa(nom de code pour śālija) Sens racine:
-# Vajra,, indesctructible reality (SL MW) Alternatives: insécable, (réalité)
-# indestructible, indestructibilité, indivisibilité, état de vajra, dur comme,
+# ã€‚ï¸€	ã€�à½¢à¾¡à½¼à¼‹à½¢à¾—à½ºã€� 2833
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Vajra, â�ƒ vajra, diamant, adamantin, indestructible
+# rÃ©alitÃ©
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ vajra, kuliÅ›a(nom de code pour Å›Ä�lija) Sens racine:
+# Vajra,, indesctructible reality (SL MW) Alternatives: insÃ©cable, (rÃ©alitÃ©)
+# indestructible, indestructibilitÃ©, indivisibilitÃ©, Ã©tat de vajra, dur comme,
 # semblable au diamant, adamantin, immuablevajra, sceptre adamantindiamant
-# (abr. rdo rje pha lam), “le seigneur des pierres”, “la reine des
-# pierres”coup de tonnerre, de foudre
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ diamant ⁃ Vajra, le diamant  	rdo rje pha lam
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vajra, diamant, adamantin indestructible
-# réalité
+# (abr. rdo rje pha lam), â€œle seigneur des pierresâ€�, â€œla reine des
+# pierresâ€�coup de tonnerre, de foudre
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ diamant â�ƒ Vajra, le diamant  	rdo rje pha lam
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: vajra, diamant, adamantin indestructible
+# rÃ©alitÃ©
 # 
-# 。︀	〝ཕམ་པ〞 3443
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaite
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Défaite, (rupture irréparable de voux)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ défaite , parajika
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Défaite, (rupture irréparable de vœux)
-# Alternatives: défaite, perte, rupture irréparable (des vœux)
+# ã€‚ï¸€	ã€�à½•à½˜à¼‹à½”ã€� 3443
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ dÃ©faite
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ DÃ©faite, (rupture irrÃ©parable de voux)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ dÃ©faite , parajika
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: DÃ©faite, (rupture irrÃ©parable de vÅ“ux)
+# Alternatives: dÃ©faite, perte, rupture irrÃ©parable (des vÅ“ux)
 # 
-# 。︀	〝བྱེད་པ〞 3840
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
-# Différenciation,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# ã€‚ï¸€	ã€�à½–à¾±à½ºà½‘à¼‹à½”ã€� 3840
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Analyser, DiffÃ©rencier, Discerner, Diviser, Analyse,
+# DiffÃ©renciation,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ activitÃ©
 # 
-# 。︀	〝མི〞 4227
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
-# (êtres) humains, hommes, homo sapiens
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
 # 
-# 。︀	〝མེ〞 4354
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Feu
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ teja Sens racine: Feu Alternatives: (l'élément) feu
+# ã€‚ï¸€	ã€�à½˜à½ºã€� 4354
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Feu
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ teja Sens racine: Feu Alternatives: (l'Ã©lÃ©ment) feu
 # 
-# 。︀	〝རྨོངས་པ〞 4458
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ obnubilé, fourvoyé, confus
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stupide,  Bête, Aveuglé
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ confusion
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Stupide, Bête,Aveuglé Alternatives:
-# stupide, bête, obscurcissement, ignorance, confusion, bêtise, stupidité,
+# ã€‚ï¸€	ã€�à½¢à¾¨à½¼à½„à½¦à¼‹à½”ã€� 4458
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ obnubilÃ©, fourvoyÃ©, confus
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Stupide,  BÃªte, AveuglÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ confusion
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Stupide, BÃªte,AveuglÃ© Alternatives:
+# stupide, bÃªte, obscurcissement, ignorance, confusion, bÃªtise, stupiditÃ©,
 # aveuglement
 # 
-# 。︀	〝གཟུངས〞 5198
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharani, Retenues (de ce qui est vertueux)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ souvenance, rétention, formule de souvenance
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mémoire.
+# ã€‚ï¸€	ã€�à½‚à½Ÿà½´à½„à½¦ã€� 5198
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Dharani, Retenues (de ce qui est vertueux)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ souvenance, rÃ©tention, formule de souvenance
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ mÃ©moire.
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 msgctxt "0c6df58509f548f989c07d68af38ee20"
 msgid ""
-"ཡང་ན་ མེ␣ས་ རྨོངས་ བྱེད་པ␣འི་ གཟུངས་ ཏེ་ རྡོ་རྗེ་ མི་ ཕམ་པ་ མེ་ ལྟར་ རབ་ཏུ་ "
-"རྨོངས་པ␣ར་ བྱེད་པ␣འི་ གཟུངས་ སྟོང་ཕྲག་ གཅིག་ བཟླ་བ␣འམ །"
+"à½¡à½„à¼‹à½“à¼‹ à½˜à½ºâ�£à½¦à¼‹ à½¢à¾¨à½¼à½„à½¦à¼‹ à½–à¾±à½ºà½‘à¼‹à½”â�£à½ à½²à¼‹ à½‚à½Ÿà½´à½„à½¦à¼‹ à½�à½ºà¼‹ à½¢à¾¡à½¼à¼‹à½¢à¾—à½ºà¼‹ à½˜à½²à¼‹ à½•à½˜à¼‹à½”à¼‹ à½˜à½ºà¼‹ à½£à¾Ÿà½¢à¼‹ à½¢à½–à¼‹à½�à½´à¼‹ "
+"à½¢à¾¨à½¼à½„à½¦à¼‹à½”â�£à½¢à¼‹ à½–à¾±à½ºà½‘à¼‹à½”â�£à½ à½²à¼‹ à½‚à½Ÿà½´à½„à½¦à¼‹ à½¦à¾Ÿà½¼à½„à¼‹à½•à¾²à½‚à¼‹ à½‚à½…à½²à½‚à¼‹ à½–à½Ÿà¾³à¼‹à½–â�£à½ à½˜ à¼�"
 msgstr ""
-"ou encore, reciter mille fois la Dharani Qui Eblouie par le Feu, la Dharani "
-"qui Eblouie comme un Feu Adamantin Indestructible, ou bien, "
+"ou encore, reciter mille fois la Dharani Qui Eblouie par le Feu:  La Dharani"
+" qui Eblouie comme un Feu Adamantin Indestructible, ou bien, "
 
-# 。︀	〝གྲངས〞 542
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
+# ã€‚ï¸€	ã€�à½‚à¾²à½„à½¦ã€� 542
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ le nombre â�ƒ Nombre
 # 
-# 。︀	〝ཞི་བ〞 4928
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "apaisement (6e stade mental); paix; paix (du nirvana)"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
-# Tranquilliser, Nirvâna (l'ultime paix) ⁃ 1. paix, paisible, pacification,
-# apaisement, se calmer, calme, tranquillité, sérénité, quiétude, repos, 2.
-# paix ultime, nirvâna
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ apaisement (un des dix types d'activité éveillée)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ paix ⁃ Paix, nirvâna
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. shânti, paix, apaisement, se calmer
-# paisible, pacification, calme, tranquillité, sérénité, quiétude, repos 2. =
-# nirvâna, paix ultime
+# ã€‚ï¸€	ã€�à½�à½²à¼‹à½–ã€� 4928
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "apaisement (6e stade mental); paix; paix (du nirvana)"
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Paix, Paisible, Calme, Tranquille, Pacifier, Calmer,
+# Tranquilliser, NirvÃ¢na (l'ultime paix) â�ƒ 1. paix, paisible, pacification,
+# apaisement, se calmer, calme, tranquillitÃ©, sÃ©rÃ©nitÃ©, quiÃ©tude, repos, 2.
+# paix ultime, nirvÃ¢na
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ apaisement (un des dix types d'activitÃ© Ã©veillÃ©e)
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ paix â�ƒ Paix, nirvÃ¢na
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. shÃ¢nti, paix, apaisement, se calmer
+# paisible, pacification, calme, tranquillitÃ©, sÃ©rÃ©nitÃ©, quiÃ©tude, repos 2. =
+# nirvÃ¢na, paix ultime
 msgctxt "8292eda11d9c4006827af08fe6931422"
-msgid "ཡང་ན་ ཞི་བ␣འི་ སྲེག་བླུགས་ གྲངས་ དེ་སྙེད་ དམ །"
+msgid "à½¡à½„à¼‹à½“à¼‹ à½�à½²à¼‹à½–â�£à½ à½²à¼‹ à½¦à¾²à½ºà½‚à¼‹à½–à¾³à½´à½‚à½¦à¼‹ à½‚à¾²à½„à½¦à¼‹ à½‘à½ºà¼‹à½¦à¾™à½ºà½‘à¼‹ à½‘à½˜ à¼�"
 msgstr ""
-"ou encore, faire le même nombre (1000) d'offrandes d'appaisement au feu, ou "
+"ou encore, faire le mÃªme nombre (1000) d'offrandes d'appaisement au feu, ou "
 "bien,"
 
-# 。︀	〝དཀྱིལ་འཁོར〞 146
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mandala, Structure, Centre et périphérie,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ maṇḍala Sens racine: Mandala,Structure,Centre et
-# périphérie, Alternatives: La structure constituée par un milieu et ce qui
-# est autour, le centre et la périphérie, le centre et l’entourage, le centre
-# et la circonférence, un cosmogramme de déités ou d’attributs éveillés,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ disque, ma??ala ⁃ Mandala, centre et circonférence
+# ã€‚ï¸€	ã€�à½‘à½€à¾±à½²à½£à¼‹à½ à½�à½¼à½¢ã€� 146
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Mandala, Structure, Centre et pÃ©riphÃ©rie,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ maá¹‡á¸�ala Sens racine: Mandala,Structure,Centre et
+# pÃ©riphÃ©rie, Alternatives: La structure constituÃ©e par un milieu et ce qui
+# est autour, le centre et la pÃ©riphÃ©rie, le centre et lâ€™entourage, le centre
+# et la circonfÃ©rence, un cosmogramme de dÃ©itÃ©s ou dâ€™attributs Ã©veillÃ©s,
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ disque, ma??ala â�ƒ Mandala, centre et circonfÃ©rence
 # 
-# 。︀	〝རྒྱུད〞 817
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´à½‘ã€� 817
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "courant de conscience, sÃ©rie psychique, continuum
 # mental; tantra"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
-# continuum, continuité existentielle, continuum mental, 3. continuité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
-# l'esprit, continuum mental; 4)série.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
-# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
-# Alternatives: continuité, continuum, succession continue, flot,
-# flux,tradition, transmission, filiation, lignée, racetantra, texte
-# fondamental, traitécordes (d'un instrument), chaîne, trame,
-# toileattachercontinuum, courant mental, de conscience, courant de l'être,
-# continuum corps-esprit, flux de conscience, train de pensées
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
-# existentielle, continuum mental 3. continuité
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tantra ContinuitÃ©, LignÃ©e â�ƒ 1. tantra, 2. son
+# continuum, continuitÃ© existentielle, continuum mental, 3. continuitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)tantra (textes); 2)continuitÃ©; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)sÃ©rie.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ santÄ�na, saá¹ƒtÄ�na, tantra (= cetanÄ� - trÄ�ya : mind-
+# protection) Sens racine: ContinuitÃ©,LignÃ©eTantra, continuum (SL MW)
+# Alternatives: continuitÃ©, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignÃ©e, racetantra, texte
+# fondamental, traitÃ©cordes (d'un instrument), chaÃ®ne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'Ãªtre,
+# continuum corps-esprit, flux de conscience, train de pensÃ©es
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ continuum, trame â�ƒ SÃ©rie individuelle â�ƒ Tantra
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. tantra 2. son continuum, continuitÃ©
+# existentielle, continuum mental 3. continuitÃ©
 # 
-# 。︀	〝འཇུག་པ〞 1591
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# ã€‚ï¸€	ã€�à½ à½‡à½´à½‚à¼‹à½”ã€� 1591
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ engagement; entrÃ©e (une des quatre pratiques des tantras
 # de l'action)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
-# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ continuitÃ© â�ƒ entrÃ©e, introduction, manifestation â�ƒ
+# Continuation, dÃ©veloppement, engagement, entrÃ©e â�ƒ EntrÃ©e    dans la pratique
 # 
-# 。︀	〝བྱ་བ〞 3753
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
-# à faire,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
-# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
-# taches, occupé, responsabilités, engagements, agissementspieds métriques
+# ã€‚ï¸€	ã€�à½–à¾±à¼‹à½–ã€� 3753
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Actes, Actions, ActivitÃ©s, Ce qui est fait, Ce qui est
+# Ã  faire,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ ActivitÃ©, en particulier: l'objet crÃ©Ã©, agi
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Actes,Actions,ActivitÃ©s,Ce qui est
+# fait,Ce qui est Ã  faire, Alternatives: activitÃ©s, obligations, fonctions,
+# taches, occupÃ©, responsabilitÃ©s, engagements, agissementspieds mÃ©triques
 msgctxt "95fcf12df2034858a92bd059e8cf5558"
 msgid ""
-"སོགས་ཁོངས་ ནས་ དཀྱིལ་འཁོར་ དུ་ སླར་ཡང་ ནས་ ཡང་ དུ་ འཇུག་པ་ རྣམས་ ཀྱིས་ "
-"ཕྱིར་བཅོས་ བྱ་བ་ སྤྱི་ རྒྱུད་ ནས་ གསུངས་ ཤིང༌ །"
+"à½¦à½¼à½‚à½¦à¼‹à½�à½¼à½„à½¦à¼‹ à½“à½¦à¼‹ à½‘à½€à¾±à½²à½£à¼‹à½ à½�à½¼à½¢à¼‹ à½‘à½´à¼‹ à½¦à¾³à½¢à¼‹à½¡à½„à¼‹ à½“à½¦à¼‹ à½¡à½„à¼‹ à½‘à½´à¼‹ à½ à½‡à½´à½‚à¼‹à½”à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½€à¾±à½²à½¦à¼‹ "
+"à½•à¾±à½²à½¢à¼‹à½–à½…à½¼à½¦à¼‹ à½–à¾±à¼‹à½–à¼‹ à½¦à¾¤à¾±à½²à¼‹ à½¢à¾’à¾±à½´à½‘à¼‹ à½“à½¦à¼‹ à½‚à½¦à½´à½„à½¦à¼‹ à½¤à½²à½„à¼Œ à¼�"
 msgstr ""
-"dans le terme ''ectétéra\" est inclu l'action d'entrer à nouveau et à "
+"dans le terme ''ectÃ©tÃ©ra\" est inclu l'action d'entrer Ã  nouveau et Ã  "
 "plusieures reprises dans le Mandala. La restauration faite par tous (ces "
-"procédés) est enseignée dans le Tantra Secret du Rituel Commun à Tous les "
+"procÃ©dÃ©s) est enseignÃ©e dans le Tantra Secret du Rituel Commun Ã  Tous les "
 "Mandalas."
 
-# 。︀	〝དུས〞 2405
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# ã€‚ï¸€	ã€�à½‘à½´à½¦ã€� 2405
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ temps, durÃ©e
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ temps â�ƒ Temps
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
 msgctxt "659dda2a90cf4d25a8c05f581e2b6976"
-msgid "དུས་ ཀྱང་ ལེགས་ གྲུབ་ ལ␣ས །"
-msgstr "Quand au délais, le Tantra de L'Action Parfaite explique: "
+msgid "à½‘à½´à½¦à¼‹ à½€à¾±à½„à¼‹ à½£à½ºà½‚à½¦à¼‹ à½‚à¾²à½´à½–à¼‹ à½£â�£à½¦ à¼�"
+msgstr "Quand au dÃ©lais, le Tantra de L'Action Parfaite explique: "
 
-# 。︀	〝བག་མེད〞 3684
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ insouciance, inattention
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans précaution, Inattentif, Négligeant, Insouciant,
+# ã€‚ï¸€	ã€�à½–à½‚à¼‹à½˜à½ºà½‘ã€� 3684
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ insouciance, inattention
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Sans prÃ©caution, Inattentif, NÃ©gligeant, Insouciant,
 # (Qui ne fait pas attention)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sans
-# précaution,Inattentif,Négligeant,Insouciant,(Qui ne fait pas attention)
-# Alternatives: inattentif, inconsidéré, imprudent, négligeant, irrefléchi
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ négligence ⁃ Négligence
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Sans
+# prÃ©caution,Inattentif,NÃ©gligeant,Insouciant,(Qui ne fait pas attention)
+# Alternatives: inattentif, inconsidÃ©rÃ©, imprudent, nÃ©gligeant, irreflÃ©chi
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ nÃ©gligence â�ƒ NÃ©gligence
 # 
-# 。︀	〝བྱས་པ〞 3811
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# ã€‚ï¸€	ã€�à½–à¾±à½¦à¼‹à½”ã€� 3811
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ acte dÃ©libÃ©rÃ©, action volontaire
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: acte dÃ©libÃ©rÃ©, action volontaire
 # 
-# 。︀	〝མོ〞 4380
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
-# observation, consulter les présages, observer la conjoncture, prendre les
+# ã€‚ï¸€	ã€�à½˜à½¼ã€� 4380
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Divination
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Divination Alternatives: ,
+# observation, consulter les prÃ©sages, observer la conjoncture, prendre les
 # augures
 msgctxt "45b23491580044768f6f2248cf588b47"
-msgid "ཉིན་ མོ་ བག་མེད་ བྱས་པ་ དག  །"
+msgid "à½‰à½²à½“à¼‹ à½˜à½¼à¼‹ à½–à½‚à¼‹à½˜à½ºà½‘à¼‹ à½–à¾±à½¦à¼‹à½”à¼‹ à½‘à½‚ áš€à¼�"
 msgstr "\"Les fautes d'innatention du jour"
 
-# 。︀	〝བཤགས་པ〞 6271
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dévoiler, Exposer, énoncer ses fautes sans les cacher,
-# Confesser, Fragmenté, Cassé, brisé, en morceaux, Fendre (du bois, faire du
+# ã€‚ï¸€	ã€�à½–à½¤à½‚à½¦à¼‹à½”ã€� 6271
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ DÃ©voiler, Exposer, Ã©noncer ses fautes sans les cacher,
+# Confesser, FragmentÃ©, CassÃ©, brisÃ©, en morceaux, Fendre (du bois, faire du
 # petit bois)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ confession ⁃ Confession
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ confession â�ƒ Confession
 # 
-# 。︀	〝སོ་སོ〞 6426
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
+# ã€‚ï¸€	ã€�à½¦à½¼à¼‹à½¦à½¼ã€� 6426
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre sÃ©parÃ©ment, Sans Ãªtre le mÃªme, DiffÃ©remment, Comme Ã©tant distinct,
+# diffÃ©rent, sÃ©parÃ©
 # 
-# 。︀	〝སོ་སོར〞 6439
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
-# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
-# différent, séparé
+# ã€‚ï¸€	ã€�à½¦à½¼à¼‹à½¦à½¼à½¢ã€� 6439
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre sÃ©parÃ©ment, Sans Ãªtre le mÃªme, DiffÃ©remment, Comme Ã©tant distinct,
+# diffÃ©rent, sÃ©parÃ©
 msgctxt "aff1796176f24bc995c94ac95e9a5923"
-msgid "མཚན་མོ་ སོ་སོ␣ར་ བཤགས་པ␣ར་ བྱ ། །"
-msgstr "doivent être individuellement confessé la nuit (même) "
+msgid "à½˜à½šà½“à¼‹à½˜à½¼à¼‹ à½¦à½¼à¼‹à½¦à½¼â�£à½¢à¼‹ à½–à½¤à½‚à½¦à¼‹à½”â�£à½¢à¼‹ à½–à¾± à¼�áš€à¼�"
+msgstr "doivent Ãªtre individuellement confessÃ© la nuit (mÃªme) "
 
-# 。︀	〝བྱས་པ〞 3811
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# ã€‚ï¸€	ã€�à½–à¾±à½¦à¼‹à½”ã€� 3811
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ acte dÃ©libÃ©rÃ©, action volontaire
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: acte dÃ©libÃ©rÃ©, action volontaire
 msgctxt "c8f366ef17da45c79c56bc31b2c8f44f"
-msgid "ནུབ་མོ␣ར་ བྱས་པ␣འང་ ནངས་པ␣ར་ བཤགས ། །"
-msgstr "Celles accomplies le soir se confessent à l'aube.\""
+msgid "à½“à½´à½–à¼‹à½˜à½¼â�£à½¢à¼‹ à½–à¾±à½¦à¼‹à½”â�£à½ à½„à¼‹ à½“à½„à½¦à¼‹à½”â�£à½¢à¼‹ à½–à½¤à½‚à½¦ à¼�áš€à¼�"
+msgstr "Celles accomplies le soir se confessent Ã  l'aube.\""
 
 msgctxt "cf02a3538b9c4f60abe4691b47a23d39"
-msgid "ཞེས་ གསུངས་པ་ ལྟར །"
-msgstr "Il en est tel que c'est énoncé. "
+msgid "à½�à½ºà½¦à¼‹ à½‚à½¦à½´à½„à½¦à¼‹à½”à¼‹ à½£à¾Ÿà½¢ à¼�"
+msgstr "Il en est tel que c'est Ã©noncÃ©. "
 
-# 。︀	〝དག་པ〞 2331
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pur
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ pur, pureté
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dag, rnam par dag pa Sens racine: pur ; parfaitement
-# pur pureté totale, totalement pur
+# ã€‚ï¸€	ã€�à½‘à½‚à¼‹à½”ã€� 2331
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ pur
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ pur, puretÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ rnam dag, rnam par dag pa Sens racine: pur ; parfaitement
+# pur puretÃ© totale, totalement pur
 # 
-# 。︀	〝མོ〞 4380
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
-# observation, consulter les présages, observer la conjoncture, prendre les
+# ã€‚ï¸€	ã€�à½˜à½¼ã€� 4380
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Divination
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Divination Alternatives: ,
+# observation, consulter les prÃ©sages, observer la conjoncture, prendre les
 # augures
 msgctxt "bdf3c1544ce44de29b31ec5e2e386c70"
 msgid ""
-"ཉིན་ མོ␣ར་ བྱུང་བ་ རྣམས་ མཚན་མོ་ དང༌ །  དེ་ ལ་ བྱུང་བ་ རྣམས་ ཉིན་ མོ␣ར་ "
-"བཤགས་ ཏེ་ དག་པ␣ར་ བྱ་ དགོས་ སོ ། །"
+"à½‰à½²à½“à¼‹ à½˜à½¼â�£à½¢à¼‹ à½–à¾±à½´à½„à¼‹à½–à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½˜à½šà½“à¼‹à½˜à½¼à¼‹ à½‘à½„à¼Œ à¼�áš€ à½‘à½ºà¼‹ à½£à¼‹ à½–à¾±à½´à½„à¼‹à½–à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½‰à½²à½“à¼‹ à½˜à½¼â�£à½¢à¼‹ "
+"à½–à½¤à½‚à½¦à¼‹ à½�à½ºà¼‹ à½‘à½‚à¼‹à½”â�£à½¢à¼‹ à½–à¾±à¼‹ à½‘à½‚à½¼à½¦à¼‹ à½¦à½¼ à¼�áš€à¼�"
 msgstr ""
-"Tout ce qui advient le jour doit être purifié par la confession la nuit et "
+"Tout ce qui advient le jour doit Ãªtre purifiÃ© par la confession la nuit et "
 "tout ce qui advient la nuit l'est le jour. "
