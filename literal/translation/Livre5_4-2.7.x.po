@@ -1,0 +1,778 @@
+# 
+# Translators:
+# Damien Jampa, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2022\n"
+"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgctxt "07eda9d7fb8148c5a1ccb1a25256cce7"
+msgid "à½‚à½¦à½´à½˜à¼‹à½”à¼‹ à½“à½² à¼�"
+msgstr "3."
+
+# ã€‚ï¸€	ã€�à½•à¾²à½²à½“à¼‹à½£à½¦ã€� 3599
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ activitÃ© Ã©veillÃ©e
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ ActivitÃ© Ã©veillÃ©e, ouvres Ã©veillÃ©es,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ hauts faits, grands actes, activitÃ© Ã©veillÃ©e
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = 'phrin las karma, karman, samudacÄ�ra Sens racine:
+# ActivitÃ© Ã©veillÃ©e,Å“uvres Ã©veillÃ©es, Alternatives: activitÃ©, Å“uvre, action
+# Ã©veillÃ©e, parfaite, d'un bouddha, d'un maÃ®tre, des Ã©veillÃ©s, divine,
+# compatissante, charismatique, spontanÃ©e, mÃ©thodes rituelles
+# 
+# ã€‚ï¸€	ã€�à½¡à½“à¼‹à½£à½‚ã€� 5331
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Branches, Subdivisions,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ membre / partie
+msgctxt "dcd4cecf91814ff7861ab996bfff6db6"
+msgid "à½•à¾²à½²à½“à¼‹à½£à½¦à¼‹ à½–à½…à½¼à¼‹à½£à¾”à¼‹ à½‘à½ºà¼‹ à½¡à½²à¼‹ à½¡à½“à¼‹à½£à½‚à¼‹ à½–à½‘à½´à½“ à¼�áš€à¼�"
+msgstr "\"Quinze en lien avec les activitÃ©s sacrÃ©es et sept branches\"."
+
+# ã€‚ï¸€	ã€�à½¦à¾’à¾²à½´à½–à¼‹à½”ã€� 930
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Pratiquer, Pratique, Accomplir, Affirmer, Etablir â�ƒ
+# s'efforcer pour atteindre (l'Ã©veil), pratiquer, accomplir
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ accomplissement (une des quatre pratiques des tantras de
+# l'action);  pratique
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ sÄ�dhya, pratipatti, arjuna Sens racine:
+# Pratiquer,Pratique,Accomplir,Affirmer,Etablir, affirmation (SL BP
+# Alternatives: 1) faire, exÃ©cuter 2) acheter, acquÃ©rir 3) fabriquer 4)
+# prouver, Ã©tablir 5) examiner, considÃ©rer 6) pratiquer 7) accomplissement,
+# accomplir
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ accomplissement
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ bsgrub pa Sens racine: pratiquer, accomplir, crÃ©er,
+# atteindre ; Ã©tablir, affirmer ; sâ€™efforcer pour atteindre (lâ€™Ã©veil)
+# 
+# ã€‚ï¸€	ã€�à½£à¾Ÿà½´à½„à¼‹à½–ã€� 2005
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tomber, Chuter, â�ƒ DÃ©chÃ©ances,  Chutes (des voux de
+# libÃ©ration individuelle)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ apatti, sÄ�vadya Sens racine: DÃ©chÃ©ances, Chutes
+# (des vÅ“ux de libÃ©ration individuelle) Alternatives: chuter, choir,
+# transgression, infraction, manquement (Ã  un vÅ“u monastique), chute
+# principale, dÃ©faite, ruine morale
+# 
+# ã€‚ï¸€	ã€�à½–à½¢à¾Ÿà½ºà½“à¼‹à½”ã€� 2067
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ supportÃ©, contenu
+# 
+# ã€‚ï¸€	ã€�à½‘à½”à½ à¼‹à½–à½¼ã€� 3318
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Brave, Courageux, Vaillant, HÃ©ro,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ hÃ©ros
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = dpa' mo á¸�Ä�ka, vÄ«ra, Å›Å«ra, vÄ«riá¹‡Ä«, á¸�Ä�kiá¹‡Ä« Sens
+# racine: Brave,Courageux,Vaillant,HÃ©ro, Alternatives: hÃ©ros, brave, vaillant,
+# valeureux, guerrier, courageuxdanseur (de danse masquÃ©e)
+# 
+# ã€‚ï¸€	ã€�à½•à¾²à½²à½“à¼‹à½£à½¦ã€� 3599
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ activitÃ© Ã©veillÃ©e
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ ActivitÃ© Ã©veillÃ©e, ouvres Ã©veillÃ©es,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ hauts faits, grands actes, activitÃ© Ã©veillÃ©e
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ = 'phrin las karma, karman, samudacÄ�ra Sens racine:
+# ActivitÃ© Ã©veillÃ©e,Å“uvres Ã©veillÃ©es, Alternatives: activitÃ©, Å“uvre, action
+# Ã©veillÃ©e, parfaite, d'un bouddha, d'un maÃ®tre, des Ã©veillÃ©s, divine,
+# compatissante, charismatique, spontanÃ©e, mÃ©thodes rituelles
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+# 
+# ã€‚ï¸€	ã€�à½¦à¾³à½¼à½–à¼‹à½‘à½”à½¼à½“ã€� 6528
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ MaÃ®tre, MaÃ®tre d'Ã©tude, Professeur, Enseignant, Ami
+# spirituel,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ prÃ©cepteur (pour l'ordination)
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ maÃ®tre
+msgctxt "1f08ffc89a964f189ea4ae7889bec544"
+msgid ""
+"à½•à¾²à½²à½“à¼‹à½£à½¦à¼‹ à½¦à¾’à¾²à½´à½–à¼‹à½”à¼‹ à½£à¼‹ à½–à½¢à¾Ÿà½ºà½“à¼‹à½”â�£à½ à½²à¼‹ à½£à¾Ÿà½´à½„à¼‹à½–à¼‹ à½–à½…à½¼à¼‹à½£à¾”à¼‹à½”à¼‹ à½�à½ºà½¦à¼‹ à½¦à¾³à½¼à½–à¼‹à½‘à½”à½¼à½“à¼‹ à½‘à½”à½ à¼‹à½–à½¼â�£à½¦à¼‹"
+" à½•à¾±à½´à½„à¼‹à½–à¼‹ à½“à½² à¼�"
+msgstr ""
+"Les quinze fautes en lien avec les activitÃ©s sacrÃ©es Ã  accomplir sont selon "
+"(litt.tirÃ© des ecrits de) Lopon Ashvaghosha: "
+
+# ã€‚ï¸€	ã€�à½˜à½ºà¼‹à½�à½¼à½‚ã€� 4357
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Fleur
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ puá¹£pa, kusuma Sens racine: Fleur Alternatives:
+# fleur
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ fleur
+# 
+# ã€‚ï¸€	ã€�à½‚à½�à½“ã€� 4962
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Autre, Objet, Autrui, AltÃ©ritÃ©, Ailleurs, SÃ©parÃ©,
+# ExtÃ©rieur, Externe, ExtrinsÃ¨que,
+# 
+# ã€‚ï¸€	ã€�à½£à¾·ã€� 6701
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Deva, Dieu, DivinitÃ©, DÃ©itÃ©, â�ƒ divinitÃ©, dÃ©itÃ©
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ dieux, dÃ©itÃ©s â�ƒ DÃ©itÃ© â�ƒ Dieux
+msgctxt "c62638d162534f87b2084a07f0d9dcd8"
+msgid "à¼¡â�£à½˜à½ºà¼‹à½�à½¼à½‚à¼‹ à½•à½¼à½‚à¼‹à½”â�£à½ à½²à¼‹ à½£à¾·à¼‹ à½„à½¼â�£à½¢à¼‹ à½‚à½�à½“à¼‹ à½–à½Ÿà½„à¼‹ à½¢à¾Ÿà½¼à½‚ áš€à¼�"
+msgstr ""
+"1. PrÃ©fÃ©rer une autre divinitÃ© que celle sur laquelle la fleur est tombÃ©e "
+"(litt. concevoir comme meilleur (prÃ©fÃ©rable) une autre divinitÃ© que celle "
+"touchÃ©e par la fleure (lors de l'initiation, quand on jette la fleur dans le"
+" mandala)."
+
+# ã€‚ï¸€	ã€�à½–à½¦à¾�à¾±à½ºà½‘à¼‹à½¢à¾«à½¼à½‚à½¦ã€� 285
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ transformation/perfection, utpattikrama/sampannakrama
+# (p113, n14), les processus (ou phases) de gÃ©nÃ©ration et de perfection
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ zung â€˜jug Sens racine: lâ€™union des phases de
+# transformation et de perfection transformation et perfection non deux,
+# phases de gÃ©nÃ©ration et de perfection pratiquÃ©es ensemble
+# 
+# ã€‚ï¸€	ã€�à½‘à½´à½¦ã€� 2405
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ temps, durÃ©e
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ temps â�ƒ Temps
+# 
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+# 
+# ã€‚ï¸€	ã€�à½£à¾·ã€� 6701
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Deva, Dieu, DivinitÃ©, DÃ©itÃ©, â�ƒ divinitÃ©, dÃ©itÃ©
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ dieux, dÃ©itÃ©s â�ƒ DÃ©itÃ© â�ƒ Dieux
+msgctxt "573296fb5da64e128fa4856515ec90f8"
+msgid "à¼¢â�£à½¢à½„à¼‹ à½£à¾·â�£à½ à½²à¼‹ à½–à½¦à¾�à¾±à½ºà½‘à¼‹à½¢à¾«à½¼à½‚à½¦à¼‹ à½‰à½²à½“à¼‹à½˜à½šà½“à¼‹ à½‘à½´à½¦à¼‹ à½£â�£à½¦à¼‹ à½¡à½¼à½£ à¼�áš€à¼�"
+msgstr ""
+"Ne pas respecter les pÃ©riode du jour et de la nuit attitrÃ©es Ã  la pratique "
+"de la phase de crÃ©ation et de complÃ©tion de sa divinitÃ©. (litt. "
+"repousser(delay) les temps de pratique)."
+
+# ã€‚ï¸€	ã€�à½–à½¦à¾�à¾±à½ºà½‘à¼‹à½¢à½²à½˜ã€� 288
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ stade de crÃ©ation â�ƒ stade de crÃ©ation â�ƒ phase de
+# crÃ©ation
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Phase de gÃ©nÃ©ration â�ƒ transformation, utpattikrama
+# (p113), phase de gÃ©nÃ©ration, processus de gÃ©nÃ©ration, Ã©tapes de production,
+# phase de dÃ©veloppement, processus de visualisation
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ phase de gÃ©nÃ©ration (crÃ©ation) â�ƒ La phase de gÃ©nÃ©ration
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ utpattikrama, utpannakrama Sens racine: Phase de
+# gÃ©nÃ©ration, phase of creation (SL MW) Alternatives: phase ou Ã©tape de
+# dÃ©veloppement, de crÃ©ation, de gÃ©nÃ©ration, de production, dâ€™Ã©vocation,
+# processus de visualisation
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ phase de dÃ©veloppement â�ƒ Phase de crÃ©ation, le
+# dÃ©veloppement de la visualisation, Utpattikrama
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ bskyed paâ€™i rim pa Sens racine: utpattikrama,
+# transformation phase de gÃ©nÃ©ration, processus de gÃ©nÃ©ration, Ã©tapes de
+# production, phase de dÃ©veloppement, processus de visualisation
+# 
+# ã€‚ï¸€	ã€�à½‘à½„à½¼à½¦à¼‹à½”à½¼ã€� 1090
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ chose, entitÃ© (rÃ©elle) â�ƒ chose, entitÃ© (rÃ©elle) â�ƒ
+# "chose (efficiente), entitÃ© (rÃ©elle""), rÃ©alitÃ©(s)"""
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Chose, rÃ©el, rÃ©alitÃ©,  Fonction, action, â�ƒ quelque
+# chose existant substanciellement (p66), exister (ex. l'esprit) (p67), la
+# rÃ©alitÃ© (p102), entitÃ©, chose concrÃ¨te, substance
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ chose, rÃ©alitÃ©,  veut dire aussi "thÃ¨me"; chose
+# substantielle (au sens d'effectuer une fonction); chose substantielle
+# (phÃ©nomÃ¨ne existant en gÃ©nÃ©ral) â�ƒ objet
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ vastu, bhÄ�va Sens racine: Chose, rÃ©el, rÃ©alitÃ©,
+# Fonction, action,, entity (SL BP)thing (SL MW) Alternatives: bien, chose,
+# ustensiles, objet, substance, entitÃ© substantiel, concret, tangible, solide,
+# matÃ©rielleun fait, une action ce qui peut effectuer une fonction la chose en
+# elle-mÃªme, en soirÃ©alitÃ©, matÃ©rialitÃ©, existence concrÃ¨te, rÃ©alitÃ©
+# subjective
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ choses efficientes, substances â�ƒ Substance, chose
+# efficiente â�ƒ Substance, l'objet matÃ©riel, l'entitÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: quelque chose existant substanciellement,
+# exister (ex. lâ€™esprit), la rÃ©alitÃ© entitÃ©, chose concrÃ¨te, substance
+# 
+# ã€‚ï¸€	ã€�à½‘à½„à½¼à½¦à¼‹à½”à½¼à½¢à¼‹à½�à½ºà½“ã€� 1108
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ adhÃ©sion Ã  une existence rÃ©elle
+# 
+# ã€‚ï¸€	ã€�à½£à¾·ã€� 6701
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Deva, Dieu, DivinitÃ©, DÃ©itÃ©, â�ƒ divinitÃ©, dÃ©itÃ©
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ dieux, dÃ©itÃ©s â�ƒ DÃ©itÃ© â�ƒ Dieux
+msgctxt "8afddcade81043aab40a02f60d0e1ed3"
+msgid "à¼£â�£à½•à¾±à½²à¼‹à½¢à½¼à½£à¼‹ à½£à¾·â�£à½¢à¼‹ à½‘à½‚à½ à¼‹ à¼¤â�£à½–à½¦à¾�à¾±à½ºà½‘à¼‹à½¢à½²à½˜à¼‹ à½‘à½„à½¼à½¦à¼‹à½”à½¼â�£à½¢à¼‹ à½�à½ºà½“ à¼�áš€à¼�"
+msgstr ""
+"3. Etre attirÃ© (litt. apprÃ©cier) par les divinitÃ©s des religions non "
+"bouddhistes. 4. Saisir comme rÃ©el (concret, solide) la phase de "
+"crÃ©ation(considÃ©rer comme solide le mandala visualisÃ© lors de la phase de "
+"crÃ©ation)."
+
+# ã€‚ï¸€	ã€�à½¢à¾«à½¼à½‚à½¦à¼‹à½”ã€� 4886
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Parachever, Parfaire, ParachevÃ©, Parfait, Accompli,
+# Complet, â�ƒ parfait, complet, plein, parachevÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: parfait, complet plein, parachevÃ©, terminÃ©
+# 
+# ã€‚ï¸€	ã€�à½‚à½�à½“ã€� 4962
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Autre, Objet, Autrui, AltÃ©ritÃ©, Ailleurs, SÃ©parÃ©,
+# ExtÃ©rieur, Externe, ExtrinsÃ¨que,
+msgctxt "1140269e3e584c02b279f8e96796697a"
+msgid "à¼¥â�£à½¢à½„à¼‹ à½‚à½²à½¦à¼‹ à½‘à½–à½„à¼‹à½˜à¼‹ à½¢à¾«à½¼à½‚à½¦à¼‹à½”â�£à½¢à¼‹ à½‚à½�à½“à¼‹ à½£à¼‹ à½–à½¦à¾�à½´à½¢ à¼�áš€à¼�"
+msgstr ""
+"ConfÃ©rer une initiation sans l'avoir soi-mÃªme recu dans son intÃ©gralitÃ©. "
+
+# ã€‚ï¸€	ã€�à½‘à½¼à½“ã€� 2457
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ sens, nature, rÃ©alitÃ©, bien, objet (extÃ©rieur)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ "Fonction, acte; Sens, signification; Etat, mode rÃ©el,
+# rÃ©alitÃ©; Le bien, ce qui est bon; Chose;  Organe interne, Particule entrant
+# dans la composition des nombres." â�ƒ artha, la nature (de l'expÃ©rience
+# immÃ©diate) (p106), sens, ultime, vÃ©ritable, rÃ©alitÃ©, sens rÃ©el, bienfait,
+# objectif, but, ultimement significatif, plein de sens, ultimement existant,
+# l'Ã©tat ultime (de)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ "veut dire aussi ""sujet"" (yul can) ex: tendances
+# subjectives et sujet= point (Ã  traiter); veut dire aussi ""objet"" (perÃ§u)"
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ hita, adhva, artha, nÄ�martha Sens racine: Fonction,
+# acteÂ ;Sens, significationÂ ;Etat, mode rÃ©el, rÃ©alitÃ©Â ;Le bien, ce qui est
+# bonÂ ;ChoseÂ ; Organe interne,Particule entrant dans la composition des
+# nombres., referent, object (SL BP) Alternatives: (vrai) sens, fonction (qui
+# fait comprendre)disposition de ce qui existe vraiment, le sens et la valeur
+# de la viechoses, objets extÃ©rieursbÃ©nÃ©fice, bienfait (don du) signification,
+# objet, dessein, objectif, tÃ¢che, travail, fondamental, essentiel, (Ã©tat)
+# ultime, bien Ãªtre, profit, bienfait, viscÃ¨res, but, authentique,
+# significatif, ultimement (existant), rÃ©el, (ce qui est) vrai, signification,
+# sujet, concept, notion, contenu, visÃ©e, foyer, cible, finalitÃ©
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ sens, but, objet
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ don rnams Sens racine: artha, la nature (de lâ€™expÃ©rience
+# immÃ©diate) sens, ultime, vÃ©ritable, rÃ©alitÃ©, sens rÃ©el, bienfait, objectif,
+# but, ultimement significatif, plein de sens, ultimement existant, lâ€™Ã©tat
+# ultime (de) ; les facettes
+# 
+# ã€‚ï¸€	ã€�à½‘à½¼à½“à¼‹à½¢à¾£à½˜à½¦ã€� 2495
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ les facettes
+# 
+# ã€‚ï¸€	ã€�à½šà½ºã€� 4695
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ durÃ©e de vie
+# 
+# ã€‚ï¸€	ã€�à½Ÿà½–à¼‹à½˜à½¼ã€� 5124
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ profond
+msgctxt "70fac0ecd6f84a47be095456dce4acc2"
+msgid "à¼¦â�£à½šà½ºà¼‹ à½ à½‘à½²â�£à½ à½²à¼‹ à½†à½ºà½‘à¼‹ à½‘à½´à¼‹ à½Ÿà½–à¼‹à½˜à½¼â�£à½ à½²à¼‹ à½‘à½¼à½“à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½¦à¾Ÿà½¼à½“ à¼�áš€à¼�"
+msgstr ""
+"Enseigner(litt. montrer) tous ce qui Ã  un sens profond pour en tirer un "
+"bienfait dans cette vie (litt. pour cette vie)."
+
+# ã€‚ï¸€	ã€�à½šà½´à½£à¼‹à½ à½†à½¼à½¦ã€� 4689
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Hypocrite, FaÃ§on d'Ãªtre fabriquÃ©e,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: Hypocrite,FaÃ§on dâ€™Ãªtre fabriquÃ©e,
+# Alternatives: hypocrite, maniÃ©rÃ©, ostentatoire, pÃ©dant, quelqu'un qui
+# fabrique ses attitudes, faux jeton, tartufferie
+# 
+# ã€‚ï¸€	ã€�à½–à½¦à¾³à½–à¼‹à½”ã€� 6676
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Etudier, Apprendre, Ce qui est apprit, Ce qui est
+# enseignÃ©, Ce qui est donnÃ© comme enseignement, Apprentissage, Etudes,
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ rÃ¨gles de conduite (112)
+msgctxt "140f034e5bae48ffb32ed682299713dc"
+msgid "à¼§â�£à½–à½¦à¾³à½–à¼‹à½”à¼‹ à½ à½¼à½‚à¼‹à½˜â�£à½¢à¼‹ à½–à½¢à¾™à½¦à¼‹ à½‘à½„à¼‹ à¼¨â�£à½šà½´à½£à¼‹à½ à½†à½¼à½¦à¼‹ à½–à¾±à½ºà½‘ à¼�áš€à¼�"
+msgstr ""
+"7. Manquer de considÃ©ration envers les pratiques (les entrainements des "
+"vÃ©hicules) infÃ©rieures. "
+
+# ã€‚ï¸€	ã€�à½‘à½¼à½“à¼‹à½˜à½ºà½‘ã€� 2500
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ inanitÃ©, vanitÃ© (n88), (actions) absurdes, qui n'a pas
+# de sens, sans raison, en pure perte, futile, inutile, creux, vain, ne veut
+# rien dire
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ inutile
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: inanitÃ©, vanitÃ©, (actions) absurdes qui nâ€™a
+# pas de sens, sans raison, en pure perte, futile, inutile, creux, vain, ne
+# veut rien dire
+# 
+# ã€‚ï¸€	ã€�à½˜à½ºà½‘ã€� 4369
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ inexistence
+# 
+# ã€‚ï¸€	ã€�à½‚à½¡à½ºà½„à¼‹à½–ã€� 5549
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Distraction, Dispersion, Eparpillement, Errance,
+# Agitation, Paresse, â�ƒ distraction
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: distraction
+# 
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+msgctxt "30d47fe4e150472888cf46b7abae4633"
+msgid "à¼©â�£à½“à½´à½¦à¼‹ à½˜à½ºà½‘à¼‹ à½£â�£à½¦à¼‹ à½¦à¾¦à¾±à½¼à½¢à¼‹ à¼¡à¼ â�£à½‘à½¼à½“à¼‹à½˜à½ºà½‘à¼‹ à½‚à½¡à½ºà½„à¼‹à½–â�£à½¦à¼‹ à½ à½‘à½  à¼�áš€à¼�"
+msgstr ""
+"9. S'engager des les activitÃ©s sacrÃ©es (activitÃ© courroucÃ©es, de "
+"pacification, etc) sans en avoir la capacitÃ©. 10. Perdre son temps dans des "
+"distractions vide de sens. "
+
+# ã€‚ï¸€	ã€�à½¦à¾�à¾±à½–à½¦ã€� 217
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ refuge
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "e55aded1f58f4943b454e8520a2b1e31"
+msgid "à¼¡à¼¡â�£à½¦à¾�à¾±à½–à½¦à¼‹ à½“à½´à½¦à¼‹ à½˜à½²à¼‹ à½¦à¾�à¾±à½¼à½–à¼‹ à¼¡à¼¢â�£à½ à½¼à½‚à¼‹à½˜â�£à½ à½²à¼‹ à½¦à¾¤à¾±à½¼à½‘à¼‹ à½£à¼‹ à½‘à½‚à½  à¼�áš€à¼�"
+msgstr ""
+"11. Ne apporter de l'aide (litt. protection) alors qu'on en a la capacitÃ©. "
+"12. Etre attirÃ© (litt. aimer, apprÃ©cier et mettre en pratique) par les "
+"conduites Ã©thiques (des vÃ©hicules) infÃ©rieurs."
+
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "a81eb4bb6a7a4f8d93afefed206f5a83"
+msgid "à¼¡à¼£â�£à½Ÿà½„à¼‹à½Ÿà½²à½„à¼‹ à½£à¼‹ à½†à½‚à½¦à¼‹ à¼¡à¼¤â�£à½‘à½˜à¼‹à½‰à½˜à½¦à¼‹ à½ à½‘à½´à½£à¼‹ à½˜à½²à¼‹ à½–à¾±à½ºà½‘ à¼�áš€à¼�"
+msgstr ""
+"13. Etre attachÃ© aux bien matÃ©riels. 14. Ne pas discipliner ceux qui "
+"manquent Ã  leurs liens sacrÃ©s."
+
+# ã€‚ï¸€	ã€�à½¦à¾¤à¾±à½¼à½‘à¼‹à½”ã€� 3394
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "conduite, pratiques; action"
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Pratiquer, Faire, s'engager dans, Agir dans, S'adonner
+# Ã  Se conduire, ActivitÃ©s, Conduites, Agissements, Faire l'expÃ©rience de
+# Disposer de, Jouir de, â�ƒ conduite, action
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ conduite
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ caryÄ� Sens racine: Pratiquer,Faire, sâ€™engager
+# dans,Agir dans,Sâ€™adonner Ã Se conduire,ActivitÃ©s,Conduites,Agissements,Faire
+# lâ€™expÃ©rience deDisposer de,Jouir de, Alternatives: comportement, activitÃ©,
+# conduite (juste, morale, dÃ©terminÃ©e), action (profonde), ligne de conduite,
+# entraÃ®nement, pratique (de l'action), prestationpratiquer, mettre en
+# applicationexpÃ©rience, jouir de
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ tempÃ©rament, comportement â�ƒ conduite â�ƒ activitÃ© â�ƒ ActivitÃ©,
+# comportement, conduite, action â�ƒ Comportement, action, activitÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: caryÃ¢, activitÃ©, conduite, action,
+# comportement
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "8fa6c398a0c0460b9c50feba47feb047"
+msgid "à¼¡à¼¥â�£à½¦à¾¤à¾±à½¼à½‘à¼‹à½”â�£à½ à½²à¼‹ à½‘à½´à½¦à¼‹à½¦à¾�à½–à½¦à¼‹ à½˜à½²à¼‹ à½ à½–à¾²à½ºà½£à¼‹ à½¦à¾¤à¾±à½‘à¼‹ à½–à½…à½¼à¼‹à½£à¾” à¼�áš€à¼�"
+msgstr ""
+"S'engager dans une conduite tantrique alors que ce n'est pas le bon moment. "
+"Tels sont les quinze (fautes)."
+
+# ã€‚ï¸€	ã€�à½–à½¦à¾Ÿà½ºà½“ã€� 2077
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ service (du maÃ®tre)
+# 
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½”ã€� 2367
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ "SupÃ©rieur, noble; SacrÃ©, sublime, suprÃªme, saint;
+# Authentique."
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ "authentique ; admirable, sublime"
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ subha, para, parama Sens racine: SupÃ©rieur, nobleÂ ;
+# SacrÃ©, sublime, suprÃªme, saintÂ ;Authentique. Alternatives: (personne) saint,
+# sacrÃ©, sageauthentique, suprÃªme, exemplaire, vertueux, Ã©difiant, de valeur,
+# excellence, sublime
+# 
+# ã€‚ï¸€	ã€�à½¦à¾£à½¼à½‘ã€� 3294
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ rÃ©ceptacle/rÃ©cipient/rÃ©cepteur
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ rÃ©ceptacle inanimÃ©
+msgctxt "e343e86b05834e29842c30e846986ad8"
+msgid "à¼¡â�£à½‘à½˜à¼‹à½”à¼‹ à½–à½¦à¾Ÿà½ºà½“à¼‹ à½�à½²à½„à¼‹ à¼¢â�£à½¦à¾£à½¼à½‘à¼‹ à½€à¾±à½²à¼‹ à½¦à¾¤à½„à¼‹à½–à¾³à½„à¼‹ à½–à½¢à¾Ÿà½‚ áš€à¼�"
+msgstr ""
+"1. S'en remettre Ã  un Ãªtre parfait (saint). 2. Examiner les disciple-"
+"receptacles Ã  accepter et Ã  rejeter."
+
+# ã€‚ï¸€	ã€�à½‚à½“à½¼à½‘ã€� 3059
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ .des maux
+# 
+# ã€‚ï¸€	ã€�à½‚à½�à½“ã€� 4962
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Autre, Objet, Autrui, AltÃ©ritÃ©, Ailleurs, SÃ©parÃ©,
+# ExtÃ©rieur, Externe, ExtrinsÃ¨que,
+# 
+# ã€‚ï¸€	ã€�à½¦à¾²à½¼à½‚à¼‹à½†à½‚à½¦ã€� 6513
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Nom commun pour les animaux, Les insectes,
+msgctxt "cb414325e40141628797ecfc79ae9e66"
+msgid "à¼£â�£à½¢à½„à¼‹à½ à½‘à½¼à½‘à¼‹ à½•à¾±à½²à½¢à¼‹à½‘à½´à¼‹ à½¦à¾²à½¼à½‚à¼‹à½†à½‚à½¦à¼‹ à½‚à½�à½“à¼‹ à½‚à½“à½¼à½‘à¼‹ à½˜à½²à½“ à¼�áš€à¼�"
+msgstr "3. Ne pas nuire a aucune crÃ©ature afin d'accomplir son propre dÃ©sir."
+
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+# 
+# ã€‚ï¸€	ã€�à½‚à½�à½“à¼‹à½‘à½¼à½“ã€� 4976
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ "Le bien d'autrui, des autres, Ce qui est bon,
+# profitable aux autres, Altruisme,  (diffÃ©rent de ""rang don, rang phan"") "
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ le bien d'autrui, le bien d'autrui pour objet â�ƒ Bien
+# d'autrui, le but pour les autres
+msgctxt "2d42680531ee4cf683764088d10afa51"
+msgid "à¼¤â�£à½‘à½€à½¼à½“à¼‹à½˜à½†à½¼à½‚à¼‹ à½‘à½€à½¼à½¢à¼‹ à½£à¼‹ à½˜à½²à¼‹ à½¦à¾¤à¾±à½¼à½‘à¼‹ à¼¥â�£à½‚à½�à½“à¼‹à½‘à½¼à½“à¼‹ à½–à¾± à¼�áš€à¼�"
+msgstr ""
+"4. Ne pas utiliser les biens et possessions des trois joyaux. 5. Faire le "
+"bien des autres."
+
+# ã€‚ï¸€	ã€�à½–à½¦à¾”à½¼à¼‹à½–ã€� 1212
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ DÃ©dicace DÃ©dier
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: DÃ©dicaceDÃ©dier Alternatives: dÃ©dicace,
+# vÅ“u agissant, la pleine consÃ©cration Ã  l'illuminationdÃ©dier (sans rien
+# attendre en retour), distribuer, partager, offrir Ã , se dÃ©possÃ©der
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ dÃ©dicace ou rÃ©version des mÃ©rites â�ƒ DÃ©dicace des bienfaits
+# 
+# ã€‚ï¸€	ã€�à½‘à½ºà¼‹à½‰à½²à½‘ã€� 2430
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ AinsitÃ©, TathatÃ¢ â�ƒ TathatÃ¢, ainsitÃ© (n337), tathatÃ¢,
+# l'Ã©tat d'Ãªtre tel que c'est, rÃ©alitÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ de bzhin nyid, de kho na nyid Sens racine: tathatÃ¢,
+# ainsitÃ© lâ€™Ã©tat dâ€™Ãªtre tel que câ€™est, rÃ©alitÃ©
+# 
+# ã€‚ï¸€	ã€�à½ à½•à½¼à¼‹à½–ã€� 3637
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ TransfÃ©rer, DÃ©mÃ©nager, Migrer, Transfert,
+# DÃ©mÃ©nagement, Migration, Nom du yoga du transfert de la conscience.
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ "transfert; transit=1350 respirations" â�ƒ Un mouvement;
+# c'est un cycle de respirations. Un grand mouvement ('pho chen), cinq cycles
+# de petits mouvements de respirations ('pho chung), chacun constituÃ© de trois
+# cent soixante respirations, comporte donc mille huit cents respirations.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ saá¹ƒkrÄ�nti, saá¹…krÄ�nti Sens racine:
+# TransfÃ©rer,DÃ©mÃ©nager,Migrer,Transfert,DÃ©mÃ©nagement,Migration,Nom du yoga du
+# transfert de la conscience., transition (SL MW) Alternatives: transfert,
+# Ã©jection de la conscience transfÃ©rer, dÃ©mÃ©nagement, migrer, transformation,
+# transcender, dÃ©placer, changer de place
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ 1) transfert de conscience, 2) transmigration â�ƒ Mouvement,
+# transfert, transfert de conscience â�ƒ Transfert de conscience
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: transfert de conscience, transfÃ©rer
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+msgctxt "8e9b6c3e62d049bba34de7d2d35569a8"
+msgid "à¼¦â�£à½–à½¦à¾”à½¼à¼‹à½–â�£à½¦à¼‹ à½¢à¾’à¾±à½¦à¼‹ à½ à½‘à½ºà½–à½¦à¼‹ à¼§â�£à½ à½•à½¼à¼‹à½–â�£à½ à½²à¼‹ à½‘à½ºà¼‹à½‰à½²à½‘à¼‹ à½˜à½�à½¦ à¼�áš€à¼�"
+msgstr ""
+"6. Sceller par la dÃ©dicace. 7. Savoir appliquer le transfert (de "
+"conscience)."
+
+# ã€‚ï¸€	ã€�à½¡à½“à¼‹à½£à½‚ã€� 5331
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Branches, Subdivisions,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ membre / partie
+msgctxt "096a9f03f2b840039345eb54e8f45cf8"
+msgid "à½¡à½“à¼‹à½£à½‚à¼‹ à½–à½‘à½´à½“à¼‹ à½“à½¼à¼‹"
+msgstr "tels sont les 7 branches."
+
+# ã€‚ï¸€	ã€�à½¦à¾”à½‚à½¦ã€� 1190
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ mantra, formule
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Mantra Parole efficiente Charme â�ƒ mantra, parole
+# efficiente, charme
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ Sens racine: MantraParole efficienteCharme
+# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrÃ©s,
+# formule magique, incantation, parole active, parole de force, ce qui
+# rappelle le suprÃªmeprotÃ¨ge-esprit, conscience, mental charme, sortlouer,
+# vanter
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ formule sacrÃ©e â�ƒ Formule, le mantra
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: mantra, parole efficiente, charme
+# 
+# ã€‚ï¸€	ã€�à½�à½ºà¼‹à½šà½¼à½˜ã€� 2199
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ doute
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Doute, HÃ©sitation, Ambivalence.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ sandigdha, saá¹ƒÅ›aya Sens racine:
+# Doute,HÃ©sitation,Ambivalence. Alternatives: doute, hÃ©sitation, Ã©tat
+# d'ambivalence, incertitude, indÃ©cision, ambiguÃ¯tÃ©, prÃ©caritÃ©, anxiÃ©tÃ©,
+# dÃ©sarroi, inquiÃ©tude, perplexitÃ©, irrÃ©solution, indÃ©termination,
+# balancement, tergiversation, scepticisme, mÃ©fiance, incrÃ©dulitÃ©, criticisme,
+# soupÃ§on, suspicion
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ doute â�ƒ Doute
+msgctxt "c53f99c97ecb44d58b3f2745c39f0a6c"
+msgid "à¼¡â�£à½¦à¾”à½‚à½¦à¼‹ à½£à¼‹ à½�à½ºà¼‹à½šà½¼à½˜à¼‹ à½Ÿ à¼�áš€à¼�"
+msgstr "1. Douter des Mantras (du Mantrayana)."
+
+# ã€‚ï¸€	ã€�à½‚à½…à½²à½‚ã€� 1243
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ un, unique, unicitÃ©, singularitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ instantanÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ gcig pu, gcig po Sens racine: eka, un, unique, unicitÃ©,
+# singularitÃ©, Ã©tat unique, unitÃ©, unicitÃ©, unique
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+# 
+# ã€‚ï¸€	ã€�à½¢à½²à½˜à¼‹à½”ã€� 5921
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Niveau, Grade, DegrÃ¨s, Etage, Progression, Etape,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ stade, Ã©tape, succession/successif
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ graduel, degrÃ©, Ã©tape
+# 
+# ã€‚ï¸€	ã€�à½¢à½²à½˜à¼‹à½”à½¢ã€� 5923
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ progressivement
+msgctxt "3c928b94f0934a7db5eef333b4a6e5c0"
+msgid "à¼¢â�£à½�à½ºà½‚à¼‹ à½‚à½¦à½´à½˜à¼‹ à½¢à½²à½˜à¼‹à½”â�£à½¢à¼‹ à½˜à½²à¼‹ à½–à½¦à¾Ÿà½“à¼‹ à½‚à½…à½²à½‚à¼‹ à½�à½´à¼‹ à½¦à¾¦à¾±à½¼à½¢ à¼�áš€à¼�"
+msgstr ""
+"Enseigner les trois vÃ©hicules simultanÃ©ment au lieu de les enseigner dans "
+"l'ordre."
+
+# ã€‚ï¸€	ã€�à½‘à½ºà¼‹à½‰à½²à½‘ã€� 2430
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ AinsitÃ©, TathatÃ¢ â�ƒ TathatÃ¢, ainsitÃ© (n337), tathatÃ¢,
+# l'Ã©tat d'Ãªtre tel que c'est, rÃ©alitÃ©
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ de bzhin nyid, de kho na nyid Sens racine: tathatÃ¢,
+# ainsitÃ© lâ€™Ã©tat dâ€™Ãªtre tel que câ€™est, rÃ©alitÃ©
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+# 
+# ã€‚ï¸€	ã€�à½¦à¾³à½¼à½–à¼‹à½‘à½”à½¼à½“ã€� 6528
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ MaÃ®tre, MaÃ®tre d'Ã©tude, Professeur, Enseignant, Ami
+# spirituel,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ prÃ©cepteur (pour l'ordination)
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ maÃ®tre
+msgctxt "6e4e1ad979504f8f976e61ccc0072a11"
+msgid "à¼£â�£à½‘à½ºà¼‹à½‰à½²à½‘à¼‹ à½–à½…à½´à¼‹ à½‘à½„à¼‹ à½˜à½²à¼‹ à½£à¾¡à½“à¼‹ à½¦à¾³à½¼à½–à¼‹à½‘à½”à½¼à½“à¼‹ à½–à¾±à½ºà½‘ à¼�áš€à¼�"
+msgstr ""
+"Agir en tant que MaÃ¯tre Vajra sans connaÃ®tre les dix domaines essentiels."
+
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
+# 
+# ã€‚ï¸€	ã€�à½–à½‘à½´à½‘ã€� 2666
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ Malin, Mara
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Nuisances, Obstacles, DÃ©mons, â�ƒ nuisance, obstacle,
+# dÃ©mon
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ dÃ©mon (Mara)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ mÄ�ra Sens racine: Nuisances,Obstacles,DÃ©mons,
+# Alternatives: dÃ©mon, diable, mÄ�ra (le Malin, le Malfaisant, le Malveillant,
+# le dÃ©mon), satan, le malin, esprit dÃ©moniaque, esprit malin, obstacles,
+# forces du mal, mortifiantes, dÃ©moniaques, conflits diaboliquesmalfaisance,
+# nÃ©gativitÃ©, maux, mÃ©faits, attitude nÃ©gative
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ "tentateur", dÃ©mon
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: mÃ¢ra, dÃ©mon nuisance, obstacle
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "d9b49fa0456d4a69a52fb30d5984ebce"
+msgid "à¼¤â�£à½–à½‘à½´à½‘à¼‹ à½–à½¢à¾Ÿà½‚à¼‹ à½˜à½²à¼‹ à½˜à½�à½¦à¼‹ à¼¥â�£à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½–à½¢à¾Ÿà½‚à¼‹ à½˜à½²à¼‹ à½–à¾±à½ºà½‘ à¼�áš€à¼�"
+msgstr ""
+"4. Ne pas avoir les compÃ©tence pour discerner (investiquer) les forces "
+"dÃ©moniaques. 5 Ne pas observer (si le disciple tient ou pas) les liens "
+"sacrÃ©s."
+
+# ã€‚ï¸€	ã€�à½‰à½ºà½¦à¼‹à½”ã€� 1727
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ erreur
+# 
+# ã€‚ï¸€	ã€�à½•à¾²à¼‹à½˜à½¼ã€� 3596
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ subtil
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "7fb3a25e5bf2401c991658d6290d68ec"
+msgid "à¼¦â�£à½•à¾²à¼‹à½˜à½¼â�£à½ à½²à¼‹ à½‰à½ºà½¦à¼‹à½–à¾±à½¦à¼‹ à½˜à½²à¼‹ à½–à½¤à½‚à½¦à¼‹ à½‰à½ºà½¦à¼‹à½”à¼‹ à½‘à¾²à½´à½‚ à¼�"
+msgstr "Ne pas confesser les fautes minimes. Tels sont les six erreures."
+
+# ã€‚ï¸€	ã€�à½•à¾²à¼‹à½˜à½¼ã€� 3596
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ subtil
+# 
+# ã€‚ï¸€	ã€�à½¢à½¼ã€� 5953
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ GoÃ»t, Saveur, GoÃ»ter, Cadavre,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ saveur
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ goÃ»t
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+msgctxt "c829ae4e39ef4146a0eeb4e3d2f074a5"
+msgid "à½…à½ºà½¦à¼‹à½”à¼‹ à½¢à¾£à½˜à½¦à¼‹ à½–à½¦à¾¡à½¼à½˜à½¦à¼‹à½”â�£à½¦à¼‹ à½•à¾²à¼‹à½˜à½¼à¼‹ à½‰à½ºà½¢à¼‹ à½–à½¢à¾’à¾±à½‘à¼‹ à½‘à½´à¼‹ à½ à½‚à¾±à½´à½¢à¼‹ à½¢à½¼ à¼�áš€à¼�"
+msgstr "Toutes fautes ajoutÃ©es forment les vingt huit fautes mineures."
+
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´à½‘ã€� 817
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ "courant de conscience, sÃ©rie psychique, continuum
+# mental; tantra"
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tantra ContinuitÃ©, LignÃ©e â�ƒ 1. tantra, 2. son
+# continuum, continuitÃ© existentielle, continuum mental, 3. continuitÃ©
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)tantra (textes); 2)continuitÃ©; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)sÃ©rie.
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ santÄ�na, saá¹ƒtÄ�na, tantra (= cetanÄ� - trÄ�ya : mind-
+# protection) Sens racine: ContinuitÃ©,LignÃ©eTantra, continuum (SL MW)
+# Alternatives: continuitÃ©, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignÃ©e, racetantra, texte
+# fondamental, traitÃ©cordes (d'un instrument), chaÃ®ne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'Ãªtre,
+# continuum corps-esprit, flux de conscience, train de pensÃ©es
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ continuum, trame â�ƒ SÃ©rie individuelle â�ƒ Tantra
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: 1. tantra 2. son continuum, continuitÃ©
+# existentielle, continuum mental 3. continuitÃ©
+# 
+# ã€‚ï¸€	ã€�à½‚à½�à½“ã€� 4962
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Autre, Objet, Autrui, AltÃ©ritÃ©, Ailleurs, SÃ©parÃ©,
+# ExtÃ©rieur, Externe, ExtrinsÃ¨que,
+# 
+# ã€‚ï¸€	ã€�à½£à½¦ã€� 6028
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprÃ¨gne le vivant pour, ultÃ©rieurement, dÃ©terminer de futures
+# expÃ©riences. â�ƒ acte
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ action â�ƒ acte â�ƒ Karma, l'action en tant que cause et effet
+# 
+# ã€‚ï¸€	ã€�à½‚à½¤à½ºà½‘ã€� 6269
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ dÃ©mon s'attaquant aux dÃ©funts
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+msgctxt "114489ebf6cc4fa7bf760d8d6fa5d2d1"
+msgid "à½‚à½�à½“à¼‹ à½¡à½„à¼‹ à½‚à½¤à½ºà½‘à¼‹ à½‘à½˜à½¢à¼‹à½“à½‚à¼‹ à½‚à½²à¼‹ à½¢à¾’à¾±à½´à½‘à¼‹ à½£â�£à½¦ à¼�"
+msgstr "De plus, dans le Tantra de Yamari rouge et le Tantra de Yamari noir :"
+
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´ã€� 796
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ cause (primaire)
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Cause, Substance, Biens, â�ƒ cause
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ matÃ©riau (bar cha p.670) â�ƒ cause
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ hetu, anvayaá¸¥ Sens racine: Cause,Substance,Biens,,
+# cause (SL BP) Alternatives: cause, base (causale), principe, nÃ©cessitÃ©,
+# graine
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ cause, raison â�ƒ Cause
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: hetu, cause, cause primaire
+# 
+# ã€‚ï¸€	ã€�à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢ã€� 3202
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Yoga, Union (Ã  l'Ã©tat naturel) Unification â�ƒ yoga,
+# union Ã  l'Ã©tat naturel, unification, immersion en l'Ã©tat d'Ãªtre authentique
+# (ou naturel), union
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)yoga, union. Dans atiyoga: relation Ã 
+# l'authentique/s'unir au vrai; 2) yoga initial (1er yoga de la phase de
+# gÃ©nÃ©ration)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ yoga Sens racine: Yoga,Union (Ã  lâ€™Ã©tat
+# naturel)Unification, yoga (SL BP) Alternatives: atteindre, application de,
+# entreprendre, se caler sur, s'unir Ã  l'Ã©tat naturel (de l'esprit), immersion
+# dans l'Ãªtre authentique, dÃ©tenir la condition authentique, entraÃ®nement au
+# continuum naturel, accomplissement du naturel, Ã©tat naturel, pratique du
+# yoga, yoga mÃ©ditatif, union dans la rÃ©alitÃ© fondamentaleyoga, (mÃ©thode d')
+# union, rÃ©union, unification, entraÃ®nement, cohÃ©sif
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ yoga â�ƒ Yoga, s'unir Ã  l'aise naturelle
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ rnal du â€˜byor ba Sens racine: yoga, union Ã  lâ€™Ã©tat
+# naturel, unification immersion en lâ€™Ã©tat dâ€™Ãªtre authentique (ou naturel),
+# union
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+# 
+# ã€‚ï¸€	ã€�à½¦ã€� 6282
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ terre
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ terre, degrÃ©, niveau, Ã©tat
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ terre, plan stade
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ terres ou niveaux
+msgctxt "65b88ddeecce4bc59e9afb91f7f94bc0"
+msgid "à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢à¼‹ à½¦à¾³à½¼à½„à¼‹à½˜à½¼â�£à½¦à¼‹ à½˜à½²à¼‹ à½¢à¾’à¾±à½´à¼‹ à½�à½²à½„à¼Œ à¼�áš€à¼�"
+msgstr "Le Yogi ne mendie pas n'importe oÃ¹."
+
+# ã€‚ï¸€	ã€�à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢ã€� 3202
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Yoga, Union (Ã  l'Ã©tat naturel) Unification â�ƒ yoga,
+# union Ã  l'Ã©tat naturel, unification, immersion en l'Ã©tat d'Ãªtre authentique
+# (ou naturel), union
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ 1)yoga, union. Dans atiyoga: relation Ã 
+# l'authentique/s'unir au vrai; 2) yoga initial (1er yoga de la phase de
+# gÃ©nÃ©ration)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ yoga Sens racine: Yoga,Union (Ã  lâ€™Ã©tat
+# naturel)Unification, yoga (SL BP) Alternatives: atteindre, application de,
+# entreprendre, se caler sur, s'unir Ã  l'Ã©tat naturel (de l'esprit), immersion
+# dans l'Ãªtre authentique, dÃ©tenir la condition authentique, entraÃ®nement au
+# continuum naturel, accomplissement du naturel, Ã©tat naturel, pratique du
+# yoga, yoga mÃ©ditatif, union dans la rÃ©alitÃ© fondamentaleyoga, (mÃ©thode d')
+# union, rÃ©union, unification, entraÃ®nement, cohÃ©sif
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ yoga â�ƒ Yoga, s'unir Ã  l'aise naturelle
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ rnal du â€˜byor ba Sens racine: yoga, union Ã  lâ€™Ã©tat
+# naturel, unification immersion en lâ€™Ã©tat dâ€™Ãªtre authentique (ou naturel),
+# union
+# 
+# ã€‚ï¸€	ã€�à½¦à¾¤à½„à¼‹à½–ã€� 3354
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Abandonner, Renoncer,
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ fautes entraÃ®nant l'abandon d'objets illicites(30)
+# 
+# ã€‚ï¸€	ã€�à½˜à½²ã€� 4227
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Humain, Homme,
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ manuÅ›ya Sens racine: Humain,Homme, Alternatives:
+# (Ãªtres) humains, hommes, homo sapiens
+msgctxt "d17edce06f8d4c9f8fd810d150764dd4"
+msgid "à½¢à¾£à½£à¼‹à½ à½–à¾±à½¼à½¢à¼‹ à½¦à¾¤à½„à¼‹à½–â�£à½¢à¼‹ à½˜à½²à¼‹ à½–à¾±à¼‹ à½¦à¾Ÿà½º à¼�áš€à¼�"
+msgstr "Il n'abandonne jamais sa pratique."
+
+# ã€‚ï¸€	ã€�à½¢à¾’à¾±à½´à½“ã€� 834
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Courant, flot, flux, continuitÃ©,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ continuitÃ©, continuum, cours â�ƒ cause
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ tantra Sens racine: Courant, flot, flux,
+# continuitÃ©, Alternatives: courant, flux (en rÃ©fÃ©rence Ã  l'esprit), flot
+# (continuel), riviÃ¨re, ruisseau, continuitÃ©, afflux, reflux, cours
+# 
+# ã€‚ï¸€	ã€�à½¢à¾Ÿà½‚à¼‹à½”ã€� 1936
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Permanent
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ nitya Sens racine: Permanent Alternatives:
+# permanent, perpÃ©tuel, perdurant Ã©ternellement, Ã©ternel, Ã©ternitÃ©, stabilitÃ©,
+# durabilitÃ©, (concepts d') Ã©ternalisme, permanence, Ãªtre, substantialisme,
+# matÃ©rialisme, affirmation, continuation, toujours
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ permanent, Ã©ternel â�ƒ Eternel, permanent, l'Ã©ternitÃ©
+# 
+# ã€‚ï¸€	ã€�à½‚à½¦à½„à¼‹à½¦à¾”à½‚à½¦ã€� 6530
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ VajrayÃ¢na Mantra secret, La voie des mantras secrets,
+# La voie des secrets, â�ƒ (voie des) mantras secrets
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ Mantra secret ou vÃ©hicule adamantin (rdo rje theg pa ;
+# vajrayana), deux termes synonymes pour la voie tantrique de transformation.
+# â�ƒ Le terme Â« mantra secret Â» (gsang sngags) ou Â« mantrayana Â» (sngags kyi
+# theg pa) est synonyme de vÃ©hicule adamantin (rdo rje theg pa).
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ MantrayÃ¢na secret
+msgctxt "ff98df213f52456587903f3a92dea5e1"
+msgid "à½¢à¾Ÿà½‚à¼‹à½”â�£à½¢à¼‹ à½¢à¾’à¾±à½´à½“à¼‹ à½‘à½´à¼‹ à½‚à½¦à½„à¼‹à½¦à¾”à½‚à½¦à¼‹ à½Ÿà¾³ à¼�áš€à¼�"
+msgstr "Il rÃ©cite toujours et de de maniÃ¨re continue son mantra."
+
+# ã€‚ï¸€	ã€�à½¢à¾Ÿà½‚ã€� 1928
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ permanence, Ã©ternel, constance
+# 
+# ã€‚ï¸€	ã€�à½–à½¦à¾Ÿà½ºà½“ã€� 2077
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ service (du maÃ®tre)
+# 
+# ã€‚ï¸€	ã€�à½‘à½˜à¼‹à½šà½²à½‚ã€� 2372
+# ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ lien sacrÃ©, engagement, samaya
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Samaya, Serment sacrÃ©, Promesse sacrÃ©e, Lien sacrÃ©. â�ƒ
+# lien sacrÃ©, samaya (n69), promesse sacrÃ©e, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ promesses, promesses solennelles, engagement
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ samaya Sens racine: Samaya,Serment sacrÃ©,Promesse
+# sacrÃ©e,Lien sacrÃ©. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vÅ“u, sacrament, serment sacrÃ©, d'allÃ©geance, secret,
+# tantrique, de tantriste, spÃ©cifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'Ãªtre honorÃ©es), pacte, Ã©tat de grÃ¢ce, sacramentel
+# ğ���ğ��¡ğ��¢ğ��¥ğ��¢ğ��©ğ��©ğ���ğ��‚ğ��¨ğ��«ğ��§ğ��®  â�ƒ Lien sacrÃ©, l'engagement tantrique, samaya
+# ğ��“ğ���ğ��±ğ��­ğ���ğ��¬ğ��ƒğ��³ğ��¨ğ�� ğ��œğ��¡ğ���ğ��§  â�ƒ Sens racine: samaya, lien sacrÃ© promesse sacrÃ©e, promesse
+# solennelle, voeu solennel, engagement solennel, parole dâ€™honneur
+msgctxt "7372389c30dd4a5da856748687154db3"
+msgid "à½¢à¾Ÿà½‚à¼‹ à½�à½´à¼‹ à½‘à½˜à¼‹à½šà½²à½‚à¼‹ à½£à¼‹à½¦à½¼à½‚à½¦à¼‹ à½–à½¦à¾Ÿà½ºà½“ à¼�áš€à¼�"
+msgstr "Il s'en tient (s'en remet, applique) toujours Ã  ses liens sacrÃ©s."
+
+# ã€‚ï¸€	ã€�à½£à¾Ÿà½´à½„à¼‹à½–ã€� 2005
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Tomber, Chuter, â�ƒ DÃ©chÃ©ances,  Chutes (des voux de
+# libÃ©ration individuelle)
+# ğ��†ğ��«ğ��šğ��§ğ���ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��€ğ��¯ğ��«ğ��¢ğ��¥ğ�Ÿ�ğ�Ÿ—  â�ƒ apatti, sÄ�vadya Sens racine: DÃ©chÃ©ances, Chutes
+# (des vÅ“ux de libÃ©ration individuelle) Alternatives: chuter, choir,
+# transgression, infraction, manquement (Ã  un vÅ“u monastique), chute
+# principale, dÃ©faite, ruine morale
+# 
+# ã€‚ï¸€	ã€�à½¡à½“à¼‹à½£à½‚ã€� 5331
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Branches, Subdivisions,
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ��“ğ��«Ã©ğ��¬ğ��¨ğ��«  â�ƒ membre / partie
+# 
+# ã€‚ï¸€	ã€�à½–à½¤à½‘ã€� 6272
+# ğ��†ğ��¥ğ��¨ğ��¬ğ��¬ğ��šğ��¢ğ��«ğ���ğ���ğ��šğ��¬ğ���ğ��‘ğ��¢ğ��¦ğ��šğ��²  â�ƒ Explications, ExposÃ©, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "473e1a14f2b4450daa844fe2b718266f"
+msgid "à½�à½ºà½¦à¼‹ à½¡à½“à¼‹à½£à½‚à¼‹ à½‚à½²à¼‹ à½£à¾Ÿà½´à½„à¼‹à½–à¼‹ à½–à½�à½²â�£à½ à½„à¼‹ à½–à½¤à½‘à¼‹ à½‘à½¼ à¼�áš€à¼�"
+msgstr ""
+"Ceci est une autre prÃ©sentation en quatre fautes secondaires (branche)."
