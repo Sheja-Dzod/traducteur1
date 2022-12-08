@@ -37,10 +37,11 @@ msgid ""
 "la raison(litt. considérez) qu’en vous remettant à moi maintenant, en tant "
 "que maître spirituel on se libère de la souffrance."
 msgstr ""
-"\"Le Vainqueur à dit que pour parfaire la conduite excellente\n"
-"Complètement, sans la souiller et à la perfection,\n"
-"Considérez via la raison qu’en vous remettant à moi maintenant, \n"
-"En tant qu'ami de vertu, vous vous libérerez de la souffrance. \""
+"\"Voici ce que le Vainqueur a dit :\n"
+"« Pour une conduite excellente\n"
+"entière, non-souillée, parfaite et pure,\n"
+"Sachez logiquement que si vous vous en remettez à moi dès à présent\n"
+"en tant qu’ami de vertu, vous vous libérerez de la souffrance. ”"
 
 #  4. དགེ་བའི་བཤེས་གཉེན་བསྟེན་པས་ཚངས་པར་སྤྱོད་པ་རིལ་པོ་དང་མ་
 # 
