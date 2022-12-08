@@ -104,9 +104,8 @@ msgid ""
 "Deuxièmement: De plus, nombreux sont les bienfaits à s’en remettre à un "
 "maître spirituel."
 msgstr ""
-"Deuxièmement: \n"
-"\n"
-"\"De plus, nombreux sont les bienfaits à s’en remettre à un ami de vertu.\""
+"Deuxièmement : l’approche par les citations \n"
+"“ Aussi, nombreux sont les bienfaits de s’en remettre à un ami de vertu.”"
 
 #  16. དེ་ལས་གཞན་ཡང་མདོ་རྒྱུད་རྣམས་ལས་དགེ་བའི་བཤེས་གཉེན་བསྟེན་པའི་
 # 
