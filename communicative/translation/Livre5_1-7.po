@@ -25,7 +25,7 @@ msgstr ""
 "1. L’approche par le raisonnement\n"
 "2. L’approche par les citations décrivant les bienfaits.\n"
 "\n"
-"Premièrement :"
+"Premièrement : l’approche par le raisonnement"
 
 #  3. ཚངས་སྤྱོད་རིལ་པོ་མ་འདྲེས་ཡོངས་རྫོགས་དག །ད་ལྟ་བཤེས་གཉེན་ང་བསྟེན་
 # 
