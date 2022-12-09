@@ -122,7 +122,7 @@ msgstr ""
 #  19. དང་པོ་ནི།་
 msgctxt "line 6, livre5_1-1.txt"
 msgid "Première [partie]."
-msgstr "Premièrement"
+msgstr "1. Comment rechercher un ami de vertu. "
 
 #  20. ཕན་བདེའི་འབྱུང་གནས་རྒྱལ་བའི་བསྟན་པ་ལ། །དལ་འབྱོར་དོན་ཡོད་ཕྱིར་དུ་
 # 
