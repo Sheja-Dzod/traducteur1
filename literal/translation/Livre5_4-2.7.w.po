@@ -245,7 +245,7 @@ msgstr ""
 # (Ãªtres) humains, hommes, homo sapiens
 msgctxt "9c2df88f0b944ad6b874935fff62399a"
 msgid "à½‚à½¦à½„à¼‹ à½˜à½²à¼‹ à½�à½´à½–à¼‹à½” à¼�"
-msgstr "qui ne peuvent s'en tenir au secret (bien qu'ayant le lien sacrÃ©),"
+msgstr "qui ne peuvent garder le secret,"
 
 # ã€‚ï¸€	ã€�à½–à½¦à¾Ÿà½ºà½“à¼‹à½”ã€� 2078
 # ğ��‚ğ��¡ğ��«ğ��¢ğ��¬ğ��­ğ��¢ğ��šğ��§ğ��‚ğ��¡ğ��šğ��«ğ��«ğ��¢ğ���ğ��«  â�ƒ s'en remettre Ã , suivre, servir
