@@ -64,9 +64,9 @@ msgid ""
 "limpide) orienté sur l’application et le rejet de ce qui est à faire et à "
 "rejeter."
 msgstr ""
-"Dans ce contexte, l’essence de l'insipiration se définit comme un état "
-"d’esprit totalement clair, focalisé sur la mise en oeuvre de ce qui est à "
-"faire et le rejet de ce qui est à rejeter."
+"Ici, l’essence de l’inspiration se définit comme un état d’esprit totalement"
+" clair, focalisé sur la mise en œuvre de ce qui est à faire et le refus de "
+"ce qui est à rejeter."
 
 #  11. དེ་ལ་དབྱེ་ན་ཆོས་མངོན་པར། 12. དད་པ་གང་ཞེ་ན། 13. ལས་དང་འབྲས་བུ་
 # 
