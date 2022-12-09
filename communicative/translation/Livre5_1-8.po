@@ -20,8 +20,9 @@ msgid ""
 "8. Se détourner des conditions adverses s’expose en deux parties, les amis "
 "de mal et l’obstacle du démon."
 msgstr ""
-"8. Se détourner des conditions adverses s’expose en deux parties : les amis "
-"de non vertu et l’obstacle des démons."
+"8. Se détourner des conditions adverses\n"
+"\n"
+"Ce sujet est présenté en deux parties : les amis néfastes et les obstacles en relation avec les démons."
 
 #  2. དང་པོ་ནི། 3. རྒྱུད་ངན་དག་སྣང་ཆུང་ཞིང་ཕྱོགས་རིས་ཆེ། ། 4.
 # མཆོག་འཛིན་བདག་བསྟོད་
