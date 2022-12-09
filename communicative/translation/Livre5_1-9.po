@@ -15,7 +15,7 @@ msgstr ""
 #  1. དགུ་པ་དད་པ་བསྟེན་པར་བཤད་པ་ནི།་
 msgctxt "line 1, Livre5_1-9.txt"
 msgid "9. Explication sur l’usage de la foi"
-msgstr "9. S'appuyer sur la foi"
+msgstr "9. Comment s’appuyer sur la foi"
 
 #  2. དང་བ་ཡིད་ཆེས་འདོད་པའི་དད་པ་བསྐྱེད། ། 3. སྤྱིར་དཀར་པོའི་ཆོས་ཐམས་ཅད་
 # 
