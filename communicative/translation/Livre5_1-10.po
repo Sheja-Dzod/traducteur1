@@ -225,7 +225,9 @@ msgstr ""
 #  28. གཉིས་པ་གུས་པའི་སྤྱོད་ལམ་བསྟེན་པ་ནི།་
 msgctxt "line 12, Livre5_1-10.txt"
 msgid "Deuxièmement: adoptez une attitude respectueuse."
-msgstr "Deuxièmement, adoptez une attitude respectueuse."
+msgstr ""
+"La deuxième activité du disciple consiste à adopter une attitude "
+"respectueuse"
 
 #  29. སྐྱེས་རབས་ལས།་
 msgctxt "line 13, Livre5_1-10.txt"
