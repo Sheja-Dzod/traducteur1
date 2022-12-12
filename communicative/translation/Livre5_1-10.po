@@ -328,7 +328,7 @@ msgstr ""
 #  48. དང་པོ་ལ་གསུམ།་
 msgctxt "line 19, Livre5_1-10.txt"
 msgid "La première section contient trois points."
-msgstr "A. La première sous-partie se divise en trois points."
+msgstr "A. La première sous-partie se divise en trois points :"
 
 #  49. འཆད་བྱེད་ཀྱི་མཚན་ཉིད། གང་ལ་བརྟེན་ནས་བཤད་ཐབས། ཇི་ལྟར་འཆད་པའི་ཚུལ་
 # 
