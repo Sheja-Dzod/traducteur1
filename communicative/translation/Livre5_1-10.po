@@ -436,7 +436,7 @@ msgstr ""
 #  64. མདོ་སྡེ་རྒྱན་ལས།་
 msgctxt "line 27, Livre5_1-10.txt"
 msgid "L’Ornement des Soutras dit :"
-msgstr "l’Ornement des Soutras expose ainsi ce deuxième point :"
+msgstr "l’Ornement des Soutras expose ainsi le deuxième point :"
 
 #  65. ངག་ཚིག་ཤིན་ཏུ་རིགས་པ་དང༌། ། 66. བསྟན་དང་རྣམ་འབྱེད་ཐེ་ཚོམ་གཅོད། ། 67.
 # ལན་མང་
