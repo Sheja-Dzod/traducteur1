@@ -628,7 +628,9 @@ msgstr ""
 #  91. དང་པོ་ནི། 92. བཤད་པའི་སྒོ་དྲུག་གམ། ། ཞེས་པ་སྟེ།་
 msgctxt "line 38, Livre5_1-10.txt"
 msgid "Premièrement : “six éléments (litt.portes) de l’enseignement."
-msgstr "A. \" Six portes de l'enseignement, ou encore, ’’"
+msgstr ""
+"A. Présentation générale : les six portes de l’enseignement\n"
+"\" Il enseigne via les six portes de l'enseignement, ou encore, ’’"
 
 #  93. མངོན་པ་ཀུན་ལས་བཏུས་སུ། ཡོངས་སུ་ཤེས་པར་བྱ་བའི་དངོས་པོ། དེའི་དོན། དེའི་
 # 
