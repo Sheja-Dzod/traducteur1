@@ -48,7 +48,7 @@ msgstr ""
 #  3. དང་པོ་ནི།་
 msgctxt "line 3, Livre5_1-10.txt"
 msgid "Premièrement :"
-msgstr "A. La phase préparatoire pour le maître."
+msgstr "A. La phase préparatoire concernant le maître"
 
 #  4. དམ་ཆོས་འཆད་པའི་སྦྱོར་བར་བཀོད་པ་བཤམ། །བདུད་རིས་ཚར་བཅད་ཀུན་སྤྱོད་
 # 
