@@ -66,8 +66,8 @@ msgstr ""
 msgctxt "line 5, Livre5_1-10.txt"
 msgid "Ensuite, A ce sujet, il y a trois points."
 msgstr ""
-"Cette phase préparatoire se divise donc en trois points.\n"
-"1. la préparation du lieu."
+"La phase préparatoire concernant le maître comporte donc trois étapes :\n"
+"1. la préparation du lieu"
 
 #  7. དང་པོ་བཀོད་པ་བཤམ་པ་ནི། 8. དམ་ཆོས་པདྨ་དཀར་པོ་ལས། 9. གཙང་ཞིང་ཡིད་
 # 
