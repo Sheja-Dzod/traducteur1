@@ -380,8 +380,8 @@ msgid ""
 "L’expertise en le sujet enseigné, de l’enseignant et de l’attitude. la "
 "première :"
 msgstr ""
-"A savoir, la maîtrise du sujet enseigné, celle de l’enseignant et celle de "
-"son attitude."
+"Il s’agit de la maîtrise du sujet enseigné, de la maîtrise de l’enseignant "
+"et de la maîtrise de son attitude."
 
 #  57. ཤེས་བྱའམ་སྡེ་སྣོད་ཀུན་ལ་མཁས་ནའང་ལེགས་མོད་ཀྱི་འདིར་གང་འཆད་
 # 
