@@ -42,8 +42,8 @@ msgid ""
 "La première partie à deux divisions: celle concernant le maitre et celle "
 "concernant le disciple."
 msgstr ""
-"1. L’exposé sur la phase préparatoire se divise en deux sous-parties, l’une "
-"consacrée au maître, l’autre au disciple."
+"1. L’exposé sur la phase préparatoire se divise en deux sous-parties : l’une"
+" consacrée au maître et l’autre au disciple."
 
 #  3. དང་པོ་ནི།་
 msgctxt "line 3, Livre5_1-10.txt"
