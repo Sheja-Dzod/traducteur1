@@ -204,9 +204,7 @@ msgid ""
 "Faites les offrandes, adoptez (la bonne) attitude et cultivez (litt. "
 "méditez) l’appréciation (la joie)."
 msgstr ""
-"\"Faites les offrandes, adoptez l’attitude et méditez l’appréciation.\"\n"
-"\n"
-"“Faites les offrandes, adoptez l’attitude juste et cultivez la joie.” "
+"“Faites les offrandes, adoptez l’attitude juste et cultivez l’appréciation.”"
 
 #  26. སློབ་མའི་བྱ་བ་གསུམ་ལས་དང་པོ་དག་པའི་ཡོན་དབུལ་བ་ནི། 27. གནས་
 # 
