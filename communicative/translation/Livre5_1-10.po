@@ -321,9 +321,9 @@ msgid ""
 "Les excellents enseignements du maître, l’écoute respectueuse du disciple et"
 " l’application par les deux des six transcendances."
 msgstr ""
-"Les excellents enseignements du maître ; 2) l’écoute respectueuse par le "
-"disciple et 3) la mise en oeuvre par l’un et l’autre des six "
-"transcendances. "
+"Les excellents enseignements du maître,\n"
+"l’écoute respectueuse par le disciple\n"
+"et la mise en œuvre par l’un et l’autre des six transcendances. "
 
 #  48. དང་པོ་ལ་གསུམ།་
 msgctxt "line 19, Livre5_1-10.txt"
