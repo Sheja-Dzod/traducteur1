@@ -59,8 +59,8 @@ msgid ""
 "disposez ce qu’il y a mettre en place), éliminez les classes de démons et "
 "ayez une attitude parfaite."
 msgstr ""
-"\"Pour préparer l’enseignement du Dharma sacré, disposez tout ce qui est nécessaire, \n"
-"Expulsez les divers types de démons et adoptez une attitude parfaite.\""
+"\"En préambule de l’enseignement du Dharma sacré, apprêtez le lieu,\n"
+"Éliminez tous les types de démons et adoptez une attitude parfaite.”"
 
 #  5. ཞེས་པ་སྟེ། 6. འདི་ལ་གསུམ།་
 msgctxt "line 5, Livre5_1-10.txt"
