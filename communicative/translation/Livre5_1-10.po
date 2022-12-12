@@ -219,8 +219,8 @@ msgid ""
 " un service du Dharma) plaisante et offrez un mandala visualisé comme très "
 "vaste."
 msgstr ""
-"Des trois activités du disciple, la première est l’offrande parfaite.\n"
-"Après s’être prosterné, les cinq points du corps touchant le sol, faites une agréable offrande pour l’enseignement et offrez un très vaste mandala visualisé."
+"Parmi les trois activités du disciple, la première consiste en l’offrande parfaite :\n"
+"Après vous être prosterné avec les cinq points du corps touchant le sol, faites une offrande agréable pour l’enseignement et offrez un mandala que vous visualisez très vaste."
 
 #  28. གཉིས་པ་གུས་པའི་སྤྱོད་ལམ་བསྟེན་པ་ནི།་
 msgctxt "line 12, Livre5_1-10.txt"
