@@ -622,8 +622,8 @@ msgid ""
 "Deuxièmement, les méthodes d’enseignement. Deux parties: Présentation "
 "générale et détaillée."
 msgstr ""
-"2. L’exposé sur les méthodes d’enseignement se divise en deux sous-parties :"
-" une présentation générale et une plus détaillée."
+"2. L’exposé sur les méthodes d’enseignement se divise en deux sous-parties :"
+" une présentation générale et une autre, plus détaillée."
 
 #  91. དང་པོ་ནི། 92. བཤད་པའི་སྒོ་དྲུག་གམ། ། ཞེས་པ་སྟེ།་
 msgctxt "line 38, Livre5_1-10.txt"
