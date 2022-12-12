@@ -196,7 +196,7 @@ msgstr ""
 #  24. གཉིས་པ་ནི།་
 msgctxt "line 9, Livre5_1-10.txt"
 msgid "Deuxièmement :"
-msgstr "B. La phase préparatoire pour le disciple"
+msgstr "B. La phase préparatoire concernant le disciple"
 
 #  25. ཡོན་དབུལ་སྤྱོད་ལམ་བསྟེན་ཞིང་དགའ་བ་བསྒོམ། །་
 msgctxt "line 10, Livre5_1-10.txt"
