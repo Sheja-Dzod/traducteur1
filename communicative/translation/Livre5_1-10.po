@@ -518,7 +518,9 @@ msgstr ""
 #  76. བརྩེ་བ་གཉིས། ། ཞེས་པ་ནི།་
 msgctxt "line 30, Livre5_1-10.txt"
 msgid "“Deux (types de) bienveillances”"
-msgstr "b. “Deux types de bienveillance”"
+msgstr ""
+"b. “ les deux types de bienveillance....”\n"
+"(La caractéristique de l’intention bienveillante) "
 
 #  77. རབ་སེམས་ཅན་ཐམས་ཅད་བྱང་ཆུབ་ཆེན་པོ་ལ་བཞག་འདོད་ཀྱི་སྙིང་
 # 
