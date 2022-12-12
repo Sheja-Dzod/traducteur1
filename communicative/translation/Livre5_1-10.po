@@ -354,7 +354,7 @@ msgstr ""
 #  51. དང་པོ་ནི།་
 msgctxt "line 21, Livre5_1-10.txt"
 msgid "Premièrement :"
-msgstr "a. Une sagesse experte"
+msgstr "a. La caractéristique de la sagesse experte"
 
 #  52. དངོས་གཞིར་མཁས་པ་གསུམ་དང༌། ། 53. ཞེས་པ་སྟེ།་
 msgctxt "line 22, Livre5_1-10.txt"
