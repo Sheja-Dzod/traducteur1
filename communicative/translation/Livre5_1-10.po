@@ -360,7 +360,8 @@ msgstr "a. La caractéristique de la sagesse experte"
 msgctxt "line 22, Livre5_1-10.txt"
 msgid ""
 "(il posséde) les trois expertise pour l’activité principale et. Ensuite,"
-msgstr "\"Trois maitrises pour la phase principale et,\""
+msgstr ""
+"\"L’enseignant doit posséder les trois maîtrises de la phase principale.\""
 
 #  54. དམ་ཆོས་འཆད་པའི་དངོས་གཞིར་འཆད་པ་པོའི་མཚན་ཉིད་བརྒྱད་ཀྱི་ཐོག་
 # 
