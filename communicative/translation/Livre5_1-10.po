@@ -371,8 +371,8 @@ msgid ""
 "Des huit caractéristique pour l’activité principale de l’enseignement du "
 "saint Dharma, les trois expertises viennent au début, ce sont :"
 msgstr ""
-"La phase principale de l’enseignement du Dharma sacré possède huit "
-"caractéristiques, dont les premières sont trois maîtrises."
+"Parmi les huit caractéristiques de la phase principale de l’enseignement du "
+"Dharma sacré, les premières sont les trois maîtrises :"
 
 #  55. བཤད་བྱ། འཆད་བྱེད། ཀུན་སྤྱོད་ལ་མཁས་པའོ། ། 56. དང་པོ་ནི།་
 msgctxt "line 24, Livre5_1-10.txt"
