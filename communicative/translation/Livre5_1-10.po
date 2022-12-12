@@ -361,7 +361,8 @@ msgctxt "line 22, Livre5_1-10.txt"
 msgid ""
 "(il posséde) les trois expertise pour l’activité principale et. Ensuite,"
 msgstr ""
-"\"L’enseignant doit posséder les trois maîtrises de la phase principale.\""
+"\"L’enseignant doit posséder les trois maîtrises de la phase "
+"principale,....\""
 
 #  54. དམ་ཆོས་འཆད་པའི་དངོས་གཞིར་འཆད་པ་པོའི་མཚན་ཉིད་བརྒྱད་ཀྱི་ཐོག་
 # 
