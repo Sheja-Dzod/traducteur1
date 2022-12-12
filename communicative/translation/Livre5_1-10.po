@@ -398,11 +398,12 @@ msgid ""
 "raison est que: Parce qu’il (l’enseignant) sera a même (capable) de couper "
 "court aux doutes des disciples."
 msgstr ""
-"1. Il est certes excellent que l’enseignant soit un expert des objets de "
-"connaissance ou du contenu des Trois Corbeilles ; mais, en l’occurrence, il "
-"s’agit pour lui de maîtriser les mots, leur sens, les sources scripturaires,"
-" la logique et les instructions directes relatives au sujet enseigné. Car "
-"c’est ainsi qu’il sera à même de mettre fin aux doutes des disciples."
+"1. Même s’il est excellent que l’enseignant soit un expert des objets de "
+"connaissance ou du contenu des Trois Corbeilles, il s’agit ici pour lui de "
+"maîtriser le sens littéral des mots et leur compréhension, les références "
+"scripturaires, la logique et les instructions directes relatives au sujet "
+"enseigné. Ce sont les conditions pour qu’il puisse couper court aux doutes "
+"des disciples."
 
 #  59. གཉིས་པ་ནི། 60. རྗོད་བྱེད་ཀྱི་བརྡ་དག་པ་དང༌། གང་ནས་བཤད་ཀྱང་འབྲེལ། 61.
 # ཇི་ཙམ་
