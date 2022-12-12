@@ -704,11 +704,10 @@ msgid ""
 "comprendre ces 3), si c’est le cas faisant ainsi, le Dharma aura un effet "
 "positif sur les disciples."
 msgstr ""
-"Premièrement, Chimpa souligne ici que l’enseignant transmet le sens brut du "
-"texte étudié; à savoir qu’il conduit ses disciples à très bien comprendre  "
-"trois points : les source reliées à ce texte, l’intention avec laquelle il a"
-" été rédigé et le sujet traité lui-même.  C’est ainsi que le Dharma aura un "
-"effet positif sur les disciples."
+"Premièrement, l’enseignant transmet le sens brut du texte étudié en "
+"explicitant les sources reliées à ce texte, le but dans lequel il a été "
+"écrit et le sujet dont il traite. C’est seulement après la compréhension de "
+"ces trois points que le Dharma aura un effet positif sur les disciples."
 
 #  104. གཉིས་པ་ནི། 105. དཀྱུས་ཀྱི་འཐེམ་སྦྱོར་གྱིས་ཁྱད་པར་གྱི་གཞི་ངོས་བཟུང་སྟེ།
 # 106. དོགས་
