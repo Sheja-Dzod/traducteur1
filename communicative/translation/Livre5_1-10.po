@@ -556,7 +556,7 @@ msgstr ""
 #  81. བཟོད་གསུམ་ལྡན་པས། ། ཞེས་པ་ནི།་
 msgctxt "line 32, Livre5_1-10.txt"
 msgid "“Doté de trois patiences ”"
-msgstr "c. “Doté de trois patiences ”"
+msgstr "c. “doté de trois patiences... ” (La caractéristique de la patience)"
 
 #  82. འཆད་དུས་ཀྱི་ངལ་དུབ་དང་དཀའ་ལས་ལ་སྐྱོ་བ་མེད་པའི་བཟོད་
 # 
