@@ -672,10 +672,10 @@ msgid ""
 "résumé du sens et le sens des mots et dans d’autres, il enseigne 2 (aspects)"
 " le sens général et le sens détaillé (litt. les branches)."
 msgstr ""
-"Selon certains textes, l’enseignant traite trois aspects du sujet : le "
-"propos lui-même, le résumé de sa signification  et le sens des mots. Dans "
-"d’autres textes, on en envisage deux aspects seulement : le sens général et "
-"le sens détaillé. "
+"Selon certains textes, l’enseignant traite du sujet sous trois aspects : le "
+"propos lui-même, le résumé de sa signification et le sens des mots. Dans "
+"d’autres textes, il enseigne selon deux aspects seulement : le sens général "
+"et le sens détaillé.  "
 
 #  96. མཆིམས་པ་ནི། 97. འདི་ལྟར་དོན་བསྟན་པ་དང༌། གཞུང་བཤད་པ་དང༌། དེ་དག་ངེས་པར་
 # 
