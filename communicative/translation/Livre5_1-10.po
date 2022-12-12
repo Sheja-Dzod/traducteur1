@@ -187,7 +187,11 @@ msgstr ""
 "Abstenez-vous de parler trop ou de manière disharmonieuse, de vous répéter, de parler parfois trop bas, parfois trop fort etc. et enseignez dans un langage claire et pure.\n"
 "Sans attachement ni aversion, pensez que vous allez faire tomber en pluie le Dharma fidèle à la vacuité et au Samadhi de la divinité etc., avec la motivation de conduire tous les êtres vers ce qui leur est bénéfique et vers le bonheur.\n"
 "\n"
-" "
+" 3. L’adoption d’une attitude parfaite\n"
+"\n"
+"Lorsque vous enseignez, ne vous allongez pas, ne vous adossez pas, n’étendez pas vos jambes et tournez la roue du Dharma comme le fit le Roi des Sakyas.\n"
+"Abstenez-vous de parler trop, de vous répéter, d’employer une tonalité inadaptée par son timbre ou son volume et enseignez dans un langage clair et pur.\n"
+"Sans pensée d’attachement ni d’aversion, avec l’intention d’établir tous les êtres dans un état bénéfique et heureux, pensez que vous allez faire tomber une pluie de Dharma en accord avec la vacuité et le Samadhi de la divinité."
 
 #  24. གཉིས་པ་ནི།་
 msgctxt "line 9, Livre5_1-10.txt"
