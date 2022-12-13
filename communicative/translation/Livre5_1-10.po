@@ -1504,9 +1504,9 @@ msgid ""
 "les instructions sur ces sujets indépendamment. puis, il en est tel que "
 "c’est enseigné extensivement dans les Jatakas etc."
 msgstr ""
-"Les bienfaits généraux de l’écoute et de la contemplation sont détaillés dans L’Analyse des Paroles :\n"
-"« Il y a cinq bienfaits à l’écoute attentive : maîtriser la connaissance des agrégats, celle des éléments, des sources d’apparition et de développement, de la production interdépendante, et, sur ces sujets, être capable de les exposer de facon autonome » \n"
-"En la matière, il en va tel que l’enseignent de manière extensive  les Jatakas et d’autres textes."
+"Les bienfaits généraux de l’écoute et de la réflexion sont détaillés dans L’Analyse des Paroles :\n"
+"« On distingue cinq bienfaits à l’écoute attentive : la maîtrise de la connaissance des agrégats, celle de la connaissance des éléments, celle de la connaissance des sources d’apparition et de développement, celle de la connaissance de l’interdépendance et la capacité à enseigner les instructions sur ces sujets de façon autonome.»\n"
+"C’est ce qu’enseignent de manière extensive les Jatakas et d’autres textes."
 
 #  244. བྱེ་བྲག་ཆོས་ཉན་པའི་ཕན་ཡོན་ནི། 245. རྣམ་བཤད་རིགས་པ་ལས། 246.
 # བཅོམ་ལྡན་འདས་
