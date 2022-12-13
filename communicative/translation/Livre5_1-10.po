@@ -814,9 +814,8 @@ msgid ""
 "ainsi que le propos détaillé consistant à expliquer la relation qu’il y a "
 "avec le sujet enseigné."
 msgstr ""
-"Exposée dans La Science de l’Exposé Détaillé, cette méthode d’enseignement est la plus répandue de nos jours.\n"
-"Selon cette dernière,  \n"
-"1. l'enseignant présente d'abord le sujet en encourageant les auditeurs à retenir ce qu’ils vont entendre. Il le fait en introduisant le propos : d’une façon générale au travers de l’énoncé des bienfaits de l’écoute, et d’une façon spécifique en établissant la relation avec l’enseignement abordé."
+"Figurant dans La Science de l’Exposé Détaillé, cette méthode d’enseignement est la plus répandue de nos jours.\n"
+"1. Elle préconise que l’enseignant commence par exposer les bienfaits qu’il y a à écouter l’explication du sens général du texte. Il captera ainsi l’attention des auditeurs. Il exposera ensuite le sens détaillé pour expliquer la relation avec le sujet enseigné. "
 
 #  123. གཉིས་པ་བསྡུས་པའི་དོན་ལ་གཉིས་ཏེ། 124. ངག་དོན་བསྡུས་པའི་དོན་ནི་གཞུང་
 # 
