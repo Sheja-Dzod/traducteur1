@@ -1004,12 +1004,12 @@ msgid ""
 " doutes. encouragez ceux qui se décourage, remédiez à l’agitation et la "
 "torpeur."
 msgstr ""
-"3. La manière d'enseigner.\n"
+"3. La manière d’enseigner\n"
 "\n"
-"\" Pour ceux dotés d’une grande intelligence, donnez un enseignement profond et vaste  ;  \n"
-"Pour ceux à l’intelligence moindre, un enseignement facile à mémoriser et à comprendre, \n"
-"Puis, subtile et détaillé en expliquant les contradictions et les liens et en mettant fin aux doutes. \n"
-"Encouragez ceux qui se découragent et remédiez à l’agitation et à la torpeur.\""
+"“ Pour ceux dotés d’une grande intelligence, donnez un enseignement profond et vaste, \n"
+"Pour ceux à l’intelligence moindre, donnez un enseignement d'abord facile à mémoriser et à comprendre.\n"
+"Par la suite, enseignez-leur de manière subtile et détaillée en expliquant les contradictions et les correspondances, tout en réfutant les doutes.\n"
+"Encouragez ceux qui se découragent et dissipez l’agitation et la torpeur.”"
 
 #  150. སློབ་མ་དབང་པོ་རྣོ་ཞིང་ཤེས་རབ་ཆེ་བ་རྣམས་ལ་ཚིག་བརླིང་
 # 
