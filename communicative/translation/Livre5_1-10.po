@@ -1355,12 +1355,11 @@ msgid ""
 "venant en la présence des Bouddhas, je le confesse Avec ces mots ou d’autres"
 " faire selon ce qui est adapté."
 msgstr ""
-"Après avoir enseigné et écouté le Dharma, demander tout d’abord pardon pour les erreurs commises (ou, « confesser les erreurs commises) est la première des trois actions dignes d’un maître.\n"
-"Cette demande peut se faire avec la formule suivante, ou d’autres comparables et également appropriés : \n"
-"\"Tout méfait que j’ai commis\n"
-"Sous l’emprise de mon esprit confus \n"
-"Me tenant en présence des Bouddhas,  \n"
-"Je le confesse.\""
+"Après avoir enseigné le Dharma, on demande pardon pour les erreurs commises : c’est la première des trois actions dignes d’un maître.\n"
+"Cette demande peut se faire avec la formule suivante, ou d’autres comparables et également appropriées : \n"
+"“Me tenant en présence des Bouddhas,\n"
+"Je confesse tout méfait que j’ai pu commettre\n"
+"Sous l’emprise de mon esprit confus.\" "
 
 #  214. གཉིས་པ་དགེ་བ་བྱང་ཆུབ་ཏུ་བསྔོ་བ་ནི། 215. བསོད་ནམས་འདི་ཡིས་ཐམས་
 # 
