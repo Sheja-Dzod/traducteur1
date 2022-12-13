@@ -1480,7 +1480,9 @@ msgid ""
 "enseigner, retenir et pratiquer et d’alterner."
 msgstr ""
 "\"De l’écoute et la contemplation, d’écouter, d’enseigner, de retenir, de pratiquer,\n"
-"Ainsi que d’alterner, infinis sont les bienfaits.\""
+"Ainsi que d’alterner, infinis sont les bienfaits.\"\n"
+"\n"
+"\"Infinis sont les bienfaits de l’écoute et de la contemplation, et les bienfaits des activités d’écouter, d’enseigner, de retenir et de pratiquer en alternance. »"
 
 #  238. དེ་ལ་སྤྱིར་ཐོས་བསམ་བྱས་པའི་ཕན་ཡོན་ནི། 239. ལུང་རྣམ་འབྱེད་ལས། 240.
 # མང་དུ་
