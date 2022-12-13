@@ -928,8 +928,7 @@ msgstr ""
 #  141. བཞི་པ་མཚམས་སྦྱོར་ལའང་གཉིས།་
 msgctxt "line 50, Livre5_1-10.txt"
 msgid "4. Il y a aussi deux points en ce qui concerne les connections."
-msgstr ""
-"4. Concernant le lien entre les mots, deux-points sont aussi à retenir."
+msgstr "4. Deux précisions concernant les connexions"
 
 #  142. ཚིག་གི་མཚམས་སྦྱོར་ནི། 143. ཚིག་སྔ་མའི་ནུས་པས་ཕྱི་མ་འདྲེན་མི་ནུས་
 # 
