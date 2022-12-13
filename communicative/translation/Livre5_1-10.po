@@ -838,9 +838,9 @@ msgid ""
 "proposer un condensé du sens littéral facile à comprendre et à mémoriser. "
 "C’est ce qui est à faire pour commencer."
 msgstr ""
-"2. Il existe deux types de résumé.\n"
-"a. Le résumé du sens littéral. \n"
-"Cela consiste à dire ’’ceci est le sens littéral de ce texte… ’’ et à exposer, dans l’ordre, les différents points qu’il traite. Si cela est nécessaire, on peut en outre y ajouter des citations et des raisonnements provenant d’autres sources, bien qu’ils ne figurent pas dans le texte étudié. Proposer un tel résumé  de son sens littéral, facile à comprendre et à mémoriser, c’est par là qu’il faut commencer."
+"2. Il existe deux types de présentation condensée :\n"
+"a. Le résumé du sens littéral.\n"
+"Cela consiste à dire « ceci est le sens littéral du texte », puis à exposer, dans l’ordre, les différents sujets qui y sont enseignés. Même s’ils ne figurent pas dans le texte étudié, on peut si besoin y ajouter des citations et des raisonnements provenant d’autres sources. Pour commencer, il convient donc de proposer un condensé du sens littéral, facile à comprendre et à mémoriser."
 
 #  127. སོ་སོའི་བསྡུས་དོན་ནི། 128. གཞུང་གི་ཐོག་མཐའ་མ་ལུས་པ་བློ་ཡུལ་དུ་
 # 
