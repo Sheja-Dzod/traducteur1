@@ -1284,7 +1284,8 @@ msgstr "3. Enseignant et auditeur s’appliquent aux six vertus transcendantes"
 #  197. གཉིས་ཀས་ཕར་ཕྱིན་དྲུག་ལྡན་ཉམས་སུ་ལེན། །་
 msgctxt "line 67, Livre5_1-10.txt"
 msgid "Les deux pratique avec les six transcendances."
-msgstr "« Tous deux, ils pratiquent (selon) les six vertus transcendantes » "
+msgstr ""
+"« Tous deux pratiquent en accord avec les six vertus transcendantes » "
 
 #  198. ཆོས་འཆད་པ་པོ་དང༌། ཉན་པ་པོ་གཉིས་ཀས་བཤད་ཉན་གྱི་ཚེ་ཕ་
 # 
