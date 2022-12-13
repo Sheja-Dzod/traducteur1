@@ -1098,7 +1098,7 @@ msgstr ""
 #  159. གཉིས་པ་སློབ་མས་གུས་པར་མཉན་པའི་ཚུལ་ནི།་
 msgctxt "line 57, Livre5_1-10.txt"
 msgid "2. Comment le disciple écoute (l’enseignement) avec respect."
-msgstr "2. L' écoute respectueuse de l'enseignement par le disciple."
+msgstr "2. L’ écoute respectueuse de l’enseignement par le disciple."
 
 #  160. སྣོད་ཀྱི་སྐྱོན་གསུམ་དྲི་མ་དྲུག་སོགས་སྤངས། ། 161. ནད་པ་སྨན་དང་སྨན་པའི་
 # 
