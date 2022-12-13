@@ -789,11 +789,11 @@ msgid ""
 msgstr ""
 "B. Présentation détaillée\n"
 "\n"
-"\"L'enseignant présente d’abord le sens général du propos puis son sens spécifique;\n"
-"Puis deux types de résumé qui possèdent six qualités;\n"
-"Ensuite, le sens des mots, la triade -objet, acteur, action – et l’étymologie;\n"
-"Il fait les deux types de connections pour une compréhension claire et pour établir les connexion;\n"
-"Enfin il confirme le sens en répondant aux objections par des citations et des raisonnements.\""
+"“L’enseignant commence par exposer le sens général du texte puis son sens spécifique.\n"
+"Puis il fait les deux présentations condensées qui possèdent les six qualités. \n"
+"Il explicite ensuite le sens des mots, la relation entre objet, acteur et action ainsi que l’étymologie des termes employés.\n"
+"Il explicite les deux types de connexions afin de clarifier la compréhension et d’établir des relations.\n"
+"Enfin il confirme le sens en répondant aux objections par l’usage de citations et de raisonnements.”"
 
 #  121. འདི་ནི་རྣམ་བཤད་རིགས་པ་ལས་གསུངས་པ་ལྟར་ད་ལྟ་ཡོངས་སུ་
 # 
