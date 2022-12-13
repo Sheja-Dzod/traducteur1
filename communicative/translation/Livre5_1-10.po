@@ -1333,7 +1333,10 @@ msgstr ""
 msgctxt "line 70, Livre5_1-10.txt"
 msgid ""
 "Premièrement : Ensuite, sceller par la demande de pardon et la dédicace."
-msgstr "1. \"Ensuite, scellez par la demande de pardon et la dédicace.\""
+msgstr ""
+"1. L'activité conclusive du maître\n"
+"\n"
+"\"Ensuite, scellez la session par la demande de pardon et la dédicace.\""
 
 #  209. ཆོས་ཉན་བཤད་ཟིན་པའི་རྗེས་ནས་སློབ་དཔོན་གྱིས་བགྱི་འོས་པ་གསུམ་
 # 
