@@ -1420,8 +1420,8 @@ msgid ""
 "Le disciple fait une offrande, la dédicace et les aspirations et s’applique "
 "au rappel et la vigilance"
 msgstr ""
-"“Le disciple fait une offrande, récite la dédicace ainsi que les prières "
-"d’aspiration et s’applique au rappel et à la vigilance.”"
+"\"Le disciple fait une offrande, récite la dédicace ainsi que les prières de"
+" souhaits et s’applique à la remémoration et à la vigilance.” "
 
 #  225. སློབ་མས་བྱ་དགོས་པ་ལའང་གསུམ་སྟེ། 226. དང་པོ་གཏང་རག་གི་ཡོན་དབུལ་
 # 
