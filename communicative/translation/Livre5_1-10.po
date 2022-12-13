@@ -875,12 +875,12 @@ msgid ""
 "l’enseignant que pour l’auditoire."
 msgstr ""
 "b. Le résumé de chaque partie.\n"
-"Afin de donner une idée du texte dans son ensemble, on l’expose dans ses grandes lignes, en énumérant toutes ses parties et sous-parties et en expliquant le contenu des différents points sans les mélanger. \n"
+"Afin de donner une idée d’ensemble de l’intégralité du texte, on l’expose dans ses grandes lignes, on énumère exactement toutes ses sous-parties et on explique sans les mélanger les points que chacune d’elles contient. \n"
 "\n"
-"Faisant ainsi, le résumé de son sens général s’avérera très pertinent et son sens détaillé sera aussi facile à comprendre. \n"
+"Ce faisant, le résumé du sens général s’avérera très pertinent et son sens détaillé facile à comprendre.\n"
 "\n"
-"A cette qualité d’accessibilité et de pertinence s’ajoutent l’usage de mots clairs et une expression limpide, concise et aisément mémorisable avec un niveau de langue constant. ces six traits constituant les « six qualités de l’enseignement ».\n"
-"En bref, est expert en la matière celui qui sait rendre son exposé facile à comprendre et plaisant, tant pour l’auditoire que pour lui-même."
+"À cette qualité d’accessibilité et de pertinence, s’en ajoutent cinq autres : l’usage de mots clairs, une expression facile à comprendre, facile à retenir, concise, et un niveau de langage constant. Telles sont les « six qualités de l’enseignement »\n"
+"En bref, celui qui sait rendre son exposé facile à comprendre et plaisant, tant pour l’auditoire que pour lui-même, peut être considéré comme un expert en la matière."
 
 #  133. གསུམ་པ་ཚིག་གི་དོན་ནི་ 134. ལེགས་སྦྱར་ལ་བྱེད་དངོས་ལས་གསུམ། ཡི་གེ་
 # 
