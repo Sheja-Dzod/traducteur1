@@ -947,10 +947,9 @@ msgid ""
 " même si elle le permet, elle n’est pas claire, même si c’est clair, "
 "certains liens sont difficiles à comprendre."
 msgstr ""
-"La connexion entre les mots.\n"
-"Dans certains cas, l’explication d’un premier mot, d’un premier membre de phrase ne permet pas la compréhension du mot ou membre de phrase suivant. \n"
-"Parfois, elle permet cette compréhension, mais sans pour autant être vraiment claire. Et même si les rapports entre les éléments sont clairs, certains liens peuvent rester obscurs.\n"
-"Faire le lien entre les mots, les phrases, consiste alors à expliquer de manière facile à comprendre la connexion existant entre eux dans le texte étudié."
+"La connexion entre les mots\n"
+"L’enseignant doit expliquer de façon abordable les liens entre les mots ou les segments de phrase. En effet, dans certains cas, l’explication d’un premier mot ne permet pas la compréhension du mot ou groupe de mots suivant.\n"
+"Parfois, elle permet cette compréhension, mais sans pour autant être très claire. Et même si les rapports entre les éléments sont clairs, certains liens peuvent rester obscurs."
 
 #  144. དོན་གྱི་མཚམས་སྦྱོར་ནི། 145. དེ་ལྟར་མདོར་བསྟན་ནས་དེ་ཉིད་རྒྱས་པར་འཆད་
 # 
