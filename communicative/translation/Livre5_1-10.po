@@ -1336,7 +1336,7 @@ msgid ""
 msgstr ""
 "1. L'activité conclusive du maître\n"
 "\n"
-"\"Ensuite, scellez la session par la demande de pardon et la dédicace.\""
+"\"Ensuite, scellez en concluant par la demande de pardon et la dédicace.\""
 
 #  209. ཆོས་ཉན་བཤད་ཟིན་པའི་རྗེས་ནས་སློབ་དཔོན་གྱིས་བགྱི་འོས་པ་གསུམ་
 # 
