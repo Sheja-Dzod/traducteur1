@@ -967,9 +967,8 @@ msgid ""
 " est relié ou, selon ce qui est a abandonner et l’antidote, ou encore, selon"
 " la (relation) cause à effet etc."
 msgstr ""
-"Etablir les connexions au service du sens :\n"
-"L’enseignant expose les liens qui articulent  les différentes parties du texte en disant, par exemple, “ après l’avoir résumé, je vais vous l’expliquer en détails”. \n"
-"Ou bien, il montre ce qui s’oppose entre ses différentes parties, et puis ce qui s’y accorde ; ou encore, d’un côté, ce qui est à abandonner, et de l’autre, l’antidote correspondant ; ou enfin, la relation de cause à effet qui articule les différentes parties etc. "
+"La connexion entre les idées du texte\n"
+"L’enseignant analyse les liens sémantiques qui articulent les différentes parties du texte en annonçant par exemple, « après l’avoir résumé, je vais vous expliquer le texte en détail ». Ou alors, il peut mettre en évidence les éléments du texte qui s’opposent et ceux qui se confortent, ou bien il peut exposer ce qui est à abandonner et l’antidote correspondant, ou encore, il peut montrer les relations de cause à effet qui sous-tendent les différentes parties du texte, etc. "
 
 #  146. ལྔ་པ་བརྒལ་ལན་ནི། 147. གཞུང་གི་དོན་སློབ་མས་རྟོགས་དཀའ་བ་འགའ་ཞིག་
 # 
