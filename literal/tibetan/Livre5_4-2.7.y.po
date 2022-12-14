@@ -1335,26 +1335,6 @@ msgid "སྐུ་ ཡི་ རྡོ་རྗེ␣འི་ དམ་ཚི�
 msgstr ""
 
 # 
-# 。︀	〝སྣ་ཚོགས〞 3238
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Varié, Diversité, Multiplicité, ⁃ varié, diversité,
-# multiplicité, bigarré, divers, toutes sortes de
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vicitra, nānā, viśva Sens racine:
-# Varié,Diversité,Multiplicité, Alternatives: divers, varié, toutes sortes de,
-# différentes (sortes de), multiplicité, varia, infinies varitétés, une série
-# de, diversité, myriades de, multiple, tout-adaptable
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Variété, le multiple, diversité
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: varié, diversité multiplicité, bigarré,
-# divers, toutes sortes de, myriades
-# 
-# 。︀	〝སེམས་ཅན〞 6371
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vivant, Doté d'esprit, Etre animé, Animal, ⁃ sattva,
-# les vivants, êtres sensibles
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
-msgctxt "d5e82d4aa8ee4b479b7dbdfc9b9c4d60"
-msgid "སེམས་ཅན་ སྣ་ཚོགས་ གདུང་བ་ དང༌ ། །"
-msgstr ""
-
-# 
 # 。︀	〝ཀུན་རྟོག〞 51
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "(Toute) la conceptualisation,conception (de tout);"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ imagination
@@ -1386,10 +1366,17 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam par rtog pa Sens racine: vikalpa, penser duel,
 # dualiste concepts, conception, pensées discursives, pensées dualistes,
 # pensées
-msgctxt "bd5b2bd747394a93ac9e0727c5ff524b"
-msgid "ཀུན་རྟོག་ དྲྭ་བ␣འི་ རྣམ་རྟོག་ གིས ། །"
-msgstr ""
-
+# 
+# 。︀	〝སྣ་ཚོགས〞 3238
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Varié, Diversité, Multiplicité, ⁃ varié, diversité,
+# multiplicité, bigarré, divers, toutes sortes de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vicitra, nānā, viśva Sens racine:
+# Varié,Diversité,Multiplicité, Alternatives: divers, varié, toutes sortes de,
+# différentes (sortes de), multiplicité, varia, infinies varitétés, une série
+# de, diversité, myriades de, multiple, tout-adaptable
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Variété, le multiple, diversité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: varié, diversité multiplicité, bigarré,
+# divers, toutes sortes de, myriades
 # 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
@@ -1402,8 +1389,15 @@ msgstr ""
 # pensée, le penser, esprit ordinaire
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
 # pensant
-msgctxt "63443f1a8d284b5193838af216aa860b"
-msgid "སེམས་ ལ་ རབ་ སྨད་ མི་ བྱ་ སྟེ ། །"
+# 
+# 。︀	〝སེམས་ཅན〞 6371
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vivant, Doté d'esprit, Etre animé, Animal, ⁃ sattva,
+# les vivants, êtres sensibles
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
+msgctxt "bd5b2bd747394a93ac9e0727c5ff524b"
+msgid ""
+"སེམས་ཅན་ སྣ་ཚོགས་ གདུང་བ་ དང༌ ། ། ཀུན་རྟོག་ དྲྭ་བ␣འི་ རྣམ་རྟོག་ གིས ། ། "
+"སེམས་ ལ་ རབ་ སྨད་ མི་ བྱ་ སྟེ ། །"
 msgstr ""
 
 # 
