@@ -734,33 +734,6 @@ msgid ""
 msgstr ""
 
 # 
-# 。︀	〝ཀུན་མཁྱེན〞 22
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient   Connaissant tout ⁃ omniscient,
-# connaissant tout
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sarvajñāna Sens racine: Omniscient Connaissant tout
-# Alternatives: omniscient, omniscience, la connaissance simultanée de tous
-# les phénomènes relatifs et ultimesl'Omniscient, celui qui a tout comprit.
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ l'omniscience
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: omniscient, connaissant tout
-# 
-# 。︀	〝དཀར་པོ〞 137
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Blanc
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śukla, śveta, haṃsa Sens racine: Blanc
-# Alternatives: blanc, positif, clair, vertueux
-# 
-# 。︀	〝གྲངས〞 542
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
-# 
-# 。︀	〝རྒྱལ་བ〞 774
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vainqueur, Victorieux, ⁃ le victorieux, le vainqueur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ victoire, pour le souffle tortue
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jinā, jina Sens racine: Vainqueur, Victorieux,
-# Alternatives: victorieux, vainqueur, conquérant le Vainqueur, le Conquérant,
-# le Victorieux
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vainqueur ⁃ Vainqueur, l'un des noms attribués aux Bouddhas
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: Jina, le victorieux, le vainqueur (syn.
-# Bouddha)
-# 
 # 。︀	〝རྗེས〞 1611
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ subséquent ⁃ suite, traces, après
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: subsequent (SL BP)
@@ -803,6 +776,48 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
 # solennelle, voeu solennel, engagement solennel, parole d’honneur
 # 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+msgctxt "882351dc75434ffc94c8c229ec710c29"
+msgid ""
+"རྗེས་ སྤྱོད་ ཀྱི་ དམ་ཚིག་ བརྟུལ་ཞུགས་ ཉེར་ ལྔ་ གུར་ གྱི་ བཅུ་བཞི་ ལ་སོགས་པ་ "
+"སྟེ །"
+msgstr ""
+
+# 
+# 。︀	〝ཀུན་མཁྱེན〞 22
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient   Connaissant tout ⁃ omniscient,
+# connaissant tout
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sarvajñāna Sens racine: Omniscient Connaissant tout
+# Alternatives: omniscient, omniscience, la connaissance simultanée de tous
+# les phénomènes relatifs et ultimesl'Omniscient, celui qui a tout comprit.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ l'omniscience
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: omniscient, connaissant tout
+# 
+# 。︀	〝དཀར་པོ〞 137
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Blanc
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śukla, śveta, haṃsa Sens racine: Blanc
+# Alternatives: blanc, positif, clair, vertueux
+# 
+# 。︀	〝གྲངས〞 542
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
+# 
+# 。︀	〝དམ་ཚིག〞 2372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
+# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
+# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
+# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
+# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# 
 # 。︀	〝རྣམ་གྲངས〞 3080
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Synonymes, Classification, Classe, Catégories,
 # Aspects, Enumération d'aspects,
@@ -814,11 +829,30 @@ msgstr ""
 # expositionsclassifications, concepts et catégories de la philosophie
 # bouddhisterésultat (d'une opération arithmétique)sujets, thèmes
 # 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "f17b89009c8d41eea5cc81bd78ac1728"
+msgid ""
+"དེ་ལྟར་ དམ་ཚིག་ གི་ རྣམ་ གྲངས་ གསུམ་ དུ་ ཀུན་མཁྱེན་ པདྨ་ དཀར་པོ␣ས་ བསྡུས་ སོ"
+" ། །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱལ་བ〞 774
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vainqueur, Victorieux, ⁃ le victorieux, le vainqueur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ victoire, pour le souffle tortue
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jinā, jina Sens racine: Vainqueur, Victorieux,
+# Alternatives: victorieux, vainqueur, conquérant le Vainqueur, le Conquérant,
+# le Victorieux
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vainqueur ⁃ Vainqueur, l'un des noms attribués aux Bouddhas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: Jina, le victorieux, le vainqueur (syn.
+# Bouddha)
+# 
 # 。︀	〝རུ〞 5936
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Classe, Division, Région,
-# 
-# 。︀	〝ལ་སོགས་པ〞 6000
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
 # 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
@@ -826,10 +860,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "410d9b4002af49b3bdf5d28de0b88abb"
-msgid ""
-"རྗེས་ སྤྱོད་ ཀྱི་ དམ་ཚིག་ བརྟུལ་ཞུགས་ ཉེར་ ལྔ་ གུར་ གྱི་ བཅུ་བཞི་ ལ་སོགས་པ་ "
-"སྟེ །  དེ་ལྟར་ དམ་ཚིག་ གི་ རྣམ་ གྲངས་ གསུམ་ དུ་ ཀུན་མཁྱེན་ པདྨ་ དཀར་པོ␣ས་ "
-"བསྡུས་ སོ ། །  རང་བྱུང་ རྒྱལ་བ␣ས་ བསྡུས་པ་ བཞི་ རུ་ གསུངས ། །"
+msgid "རང་བྱུང་ རྒྱལ་བ␣ས་ བསྡུས་པ་ བཞི་ རུ་ གསུངས ། །"
 msgstr ""
 
 # 
@@ -851,6 +882,32 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vainqueur ⁃ Vainqueur, l'un des noms attribués aux Bouddhas
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: Jina, le victorieux, le vainqueur (syn.
 # Bouddha)
+# 
+# 。︀	〝དམ་ཚིག〞 2372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samaya, Serment sacré, Promesse sacrée, Lien sacré. ⁃
+# lien sacré, samaya (n69), promesse sacrée, promesse solennelle, voeu
+# solennel, engagement solennel, parole d'honneur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ promesses, promesses solennelles, engagement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samaya Sens racine: Samaya,Serment sacré,Promesse
+# sacrée,Lien sacré. Alternatives: samaya, engagement, obligation, lien,
+# promesse, parole, vœu, sacrament, serment sacré, d'allégeance, secret,
+# tantrique, de tantriste, spécifique, initiatique, de l'initiation,
+# d'honneur, solennel, sacramentel, symbolique, promesse (solennelle faite au
+# Bouddha, qui se doivent d'être honorées), pacte, état de grâce, sacramentel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Lien sacré, l'engagement tantrique, samaya
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samaya, lien sacré promesse sacrée, promesse
+# solennelle, voeu solennel, engagement solennel, parole d’honneur
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "fa788b36e77f4f2a8944e665036bf438"
+msgid "ཀུན་མཁྱེན་ རང་བྱུང་ རྒྱལ་བ␣ས་ དམ་ཚིག་ རྒྱ་མཚོ␣ར །"
+msgstr ""
+
 # 
 # 。︀	〝དམ་ཚིག〞 2372
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ lien sacré, engagement, samaya
@@ -915,12 +972,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sujet
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sujet, celui qui perçoit
 # 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
 # 。︀	〝སེམས〞 6348
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
@@ -929,7 +980,6 @@ msgstr ""
 # pensant
 msgctxt "b66e017c6ead4b91b3e6f300af485665"
 msgid ""
-"ཀུན་མཁྱེན་ རང་བྱུང་ རྒྱལ་བ␣ས་ དམ་ཚིག་ རྒྱ་མཚོ␣ར །  དཀོན་མཆོག་ ཕྱི་ ནང་ "
-"བྱང་ཆུབ་ སེམས ། ། ཡུལ་ དང་ ཡུལ་ཅན་ ཕྱི་ ནང་རྐྱེན ། ། ཚར་གཅོད་ རྗེས་བཟུང་ "
-"ཕྲིན་ལས་ སུ ། ། དམ་ཚིག་ ཐམས་ཅད་ བསྡུས་པ␣འོ ། །"
+"དཀོན་མཆོག་ ཕྱི་ ནང་ བྱང་ཆུབ་ སེམས ། ། ཡུལ་ དང་ ཡུལ་ཅན་ ཕྱི་ ནང་རྐྱེན ། ། "
+"ཚར་གཅོད་ རྗེས་བཟུང་ ཕྲིན་ལས་ སུ ། ། དམ་ཚིག་ ཐམས་ཅད་ བསྡུས་པ␣འོ ། །"
 msgstr ""
