@@ -622,7 +622,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ meurtre (un des dix types d'activité éveillée)
 msgctxt "cc35049554b44330a6e312cbc26b5349"
 msgid "ཁྱོད་ ཀྱིས་ སྲོག་ཆགས་ བསད་ མི་ བྱ ། །"
-msgstr "\"tu ne tueras point de créatures''"
+msgstr "\"ne tu aucunes créatures''"
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
