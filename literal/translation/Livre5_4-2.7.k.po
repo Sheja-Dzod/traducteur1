@@ -345,9 +345,7 @@ msgstr "C'est ce qui  est dit."
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
 msgctxt "5eb621303d85424099c5fd913aab4865"
 msgid "མངོན་བརྗོད་ བླ་མ␣ར་ རྒྱུན་ གྱི་ བྱ་བ␣འི་ སྤྱོད་པ །"
-msgstr ""
-"Dans La Clarification de la Continuité Insurpassable, il y a les activités "
-"quotidiennes,"
+msgstr "Dans l’Abhidana Tantra, il y a les activités quotidiennes,"
 
 # 。︀	〝མཆོད་པ〞 1476
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ offrandes ⁃ Offrande
