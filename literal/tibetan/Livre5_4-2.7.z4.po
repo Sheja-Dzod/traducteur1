@@ -177,6 +177,34 @@ msgid "བུམ་པ་ དང་ གསང་དབང་ ཐུན་ མི
 msgstr ""
 
 # 
+# 。︀	〝ཉམས〞 1669
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
+# expérience) ⁃ expérience
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ pratique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nyams pa anubhava Sens racine:
+# Expérience,Expérimenter,Eprouver (une sensation, expérience), meditative
+# experience (SL MW) Alternatives: expérience, sensation, sentiment de
+# expérience spirituelle, méditative, intérieure, expérimenter,
+# expériencel'allure, l'attitude, la manièreendommagement, transgression,
+# s'écrouler, dégénérer, chute, défaut, abimer, corrompre, déficience, fâner,
+# violations (et corruptions), avachis, les dommages, délabré, dépravé,
+# détériorations, ruine, mauvais, corruption morale, perverti, altérer
+# gravement, débaucher, avilissement, diminution, dépérir
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: expérience expérience de méditation,
+# expérience mystique
+# 
+# 。︀	〝སློབ་དཔོན〞 6528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Maître, Maître d'étude, Professeur, Enseignant, Ami
+# spirituel,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ précepteur (pour l'ordination)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître
+msgctxt "820c277f32f6427c9df08983d00eae7f"
+msgid ""
+"སློབ་དཔོན་ གྱིས་ གསུངས་པ␣འི་ ཆད་ལས་ ཉམས་ སུ་ བླངས་ ནས་ སླར་ དབང་ ནོད་པ␣ར་ "
+"གསུངས །"
+msgstr ""
+
+# 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
 # 
@@ -255,17 +283,10 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝སློབ་དཔོན〞 6528
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Maître, Maître d'étude, Professeur, Enseignant, Ami
-# spirituel,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ précepteur (pour l'ordination)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître
 msgctxt "957bf6c6c2f54838a021da74f73d641c"
 msgid ""
-"སློབ་དཔོན་ གྱིས་ གསུངས་པ␣འི་ ཆད་ལས་ ཉམས་ སུ་ བླངས་ ནས་ སླར་ དབང་ ནོད་པ␣ར་ "
-"གསུངས །  ཆད་ལས་ སམ་ ཕྱིར་བཅོས་ ཉམས་ སུ་ བླང་བ␣ར་ བྱ་བ␣འི་ རྣམ་ གྲངས་ ཉེར་ "
-"ལྔ་ སྙིང་པོ་ རྒྱན་ ལ␣ས་ འབྱུང་བ་ ནི །"
+"ཆད་ལས་ སམ་ ཕྱིར་བཅོས་ ཉམས་ སུ་ བླང་བ␣ར་ བྱ་བ␣འི་ རྣམ་ གྲངས་ ཉེར་ ལྔ་ "
+"སྙིང་པོ་ རྒྱན་ ལ␣ས་ འབྱུང་བ་ ནི །"
 msgstr ""
 
 # 
