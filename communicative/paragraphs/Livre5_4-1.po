@@ -10,14 +10,7 @@ msgstr ""
 # བུ་གཉིས། སྔགས་སྡོམ་བཤད་པ། སྡོམ་གསུམ་སྤྱི་དོན་བཤད་པའོ། ། 2. དང་པོ་ལ་གཉིས།
 # མདོར་
 # 
-# བསྟན། རྒྱས་བཤད་དོ། ། 3. དང་པོ་ནི། 4.
-# རིག་འཛིན་སྡོམ་པར་གསར་རྙིང་བཞེད་སྲོལ་གཉིས། ། 5. གསང་
-# 
-# སྔགས་རིག་པ་འཛིན་པའི་སྡོམ་པ་ལ་ཕྱི་འགྱུར་གསར་མར་གྲགས་
-# 
-# ཆེ་བ་དང༌། སྔ་འགྱུར་རྙིང་མར་གྲགས་ཆེ་བའི་བཞེད་སྲོལ་ཐ་དད་
-# 
-# པ་གཉིས་སུ་མཆིས་སོ། །་
+# བསྟན། རྒྱས་བཤད་དོ། །་
 msgctxt "line 1, Livre5_4-1.txt"
 msgid ""
 "La quatrième partie(du livre 5) est le chapitre qui explique les voeux des "
@@ -25,17 +18,32 @@ msgid ""
 "l’explication des voeux du Mantra(voeux tantriques) et une présentation "
 "générale des trois voeux (litt. explication général du sens des trois "
 "voeux). Premièrement (l’explication des vœux du Mantra) a deux parties: "
-"présentation générale et explication détaillée. Premièrement (présentation "
-"générale) : “ L’ancien et le nouveau, sont les deux systèmes pour les vœux "
-"des Tenants de la Conscience Pure.” Les systèmes concernant les vœux du "
-"mantra secret des Tenants de le Conscience Pure sont deux (systèmes) "
-"distincts: celui très connu des traductions nouvelles secondaires (litt. "
-"suivantes) et celui très connu des traductions anciennes premières (litt. "
-"précédentes)."
+"présentation générale et explication détaillée."
+msgstr ""
+
+#  3. དང་པོ་ནི།་
+msgctxt "line 2, Livre5_4-1.txt"
+msgid "Premièrement (présentation générale) :"
+msgstr ""
+
+#  4. རིག་འཛིན་སྡོམ་པར་གསར་རྙིང་བཞེད་སྲོལ་གཉིས། ། 5. གསང་སྔགས་རིག་པ་འཛིན་པའི་
+# 
+# སྡོམ་པ་ལ་ཕྱི་འགྱུར་གསར་མར་གྲགས་ཆེ་བ་དང༌། སྔ་འགྱུར་རྙིང་
+# 
+# མར་གྲགས་ཆེ་བའི་བཞེད་སྲོལ་ཐ་དད་པ་གཉིས་སུ་མཆིས་སོ། །་
+# 
+# 
+msgctxt "line 3, Livre5_4-1.txt"
+msgid ""
+"“ L’ancien et le nouveau, sont les deux systèmes pour les vœux des Tenants "
+"de la Conscience Pure.” Les systèmes concernant les vœux du mantra secret "
+"des Tenants de le Conscience Pure sont deux (systèmes) distincts: celui très"
+" connu des traductions nouvelles secondaires (litt. suivantes) et celui très"
+" connu des traductions anciennes premières (litt. précédentes)."
 msgstr ""
 
 #  6. གཉིས་པ་ལ་གཉིས། སྔགས་གསར་མའི་ལུགས་དང༌། རྙིང་མའི་ལུགས་སོ། །་
-msgctxt "line 2, Livre5_4-1.txt"
+msgctxt "line 4, Livre5_4-1.txt"
 msgid ""
 "Deuxièmement (l’explication détaillée) a deux parties: la tradition nouvelle"
 " du mantra et la tradition ancienne."
@@ -44,7 +52,7 @@ msgstr ""
 #  7. དང་པོ་ལའང་གཉིས། འཇུག་ཚུལ་སྤྱིར་བསྟན། སྡོམ་པ་དངོས་བྱེ་བྲག་ཏུ་བཤད་པའོ། །་
 # 
 # 
-msgctxt "line 3, Livre5_4-1.txt"
+msgctxt "line 5, Livre5_4-1.txt"
 msgid ""
 "Premièrement (la tradition nouvelle) a elle aussi deux sections: "
 "présentation générale de comment entrer (dans la voie des mantras secrets) "
@@ -52,12 +60,12 @@ msgid ""
 msgstr ""
 
 #  8. དང་པོ་ནི།་
-msgctxt "line 4, Livre5_4-1.txt"
+msgctxt "line 6, Livre5_4-1.txt"
 msgid "Premièrement (présentation générale) :"
 msgstr ""
 
 #  9. ཕྱི་འགྱུར་ལུགས་ལ་རིམ་དང་ཅིག་ཅར་འཇུག །་
-msgctxt "line 5, Livre5_4-1.txt"
+msgctxt "line 7, Livre5_4-1.txt"
 msgid ""
 "“ On entre dans la tradition des traductions secondaires de manière "
 "progressive ou directement.”"
@@ -72,7 +80,7 @@ msgstr ""
 # རྒྱུད་ལ་བརྟེན་ཀྱང་ཤུགས་ཀྱིས་རྒྱུད་གཞན་དག་ལ་དཀྲི་བའི་ཆིངས་
 # 
 # ཆེན་པོ་ཡིན་ཏེ།་
-msgctxt "line 6, Livre5_4-1.txt"
+msgctxt "line 8, Livre5_4-1.txt"
 msgid ""
 "Selon la tradition des traducteurs secondaires, il est dit qu’il y a deux "
 "façons (deux méthodes) d’entrer dans le véhicule des mantras: les individus "
@@ -93,7 +101,7 @@ msgstr ""
 # ཡི་རྗེས་སུ་དབུ་མ་བསྟན། ། 17. ཅེས་པ་ལྟ་བ་རིམ་འཇུག་དང༌། 18. སྔགས་ཀྱི་
 # 
 # རིམ་པ་ཀུན་ཤེས་ནས། །དེ་རྗེས་ཀྱེ་ཡི་རྡོ་རྗེ་བསྟན། །་
-msgctxt "line 7, Livre5_4-1.txt"
+msgctxt "line 9, Livre5_4-1.txt"
 msgid ""
 "Le Tantra en deux parties d’Hevajra dit : “Au début, conférez le Sojong (les"
 " voeux de restauration-purification); Puis, (enseignez leur) les dix "
@@ -115,7 +123,7 @@ msgstr ""
 # །དབང་
 # 
 # སྦྱིན་འབྲས་བུའི་རྒྱུད་འདི་བཤད། ། 25. ཅེས་འབྱུང་ངོ༌། །་
-msgctxt "line 8, Livre5_4-1.txt"
+msgctxt "line 10, Livre5_4-1.txt"
 msgid ""
 "Cette présentation de la manière de les engager progressivement aux classes "
 "de tantras trouve son écho (litt. est en accord avec) dans le Tantra La "
@@ -132,7 +140,7 @@ msgstr ""
 # ཙམ་རྒྱུད་ལ་ལྡན་པས་དབང་དང་དམ་ཚིག་བླང་ཆོག་པར་བཞེད་
 # 
 # དོ། །་
-msgctxt "line 9, Livre5_4-1.txt"
+msgctxt "line 11, Livre5_4-1.txt"
 msgid ""
 "En accord avec la seconde (méthode), ceux qui ont tout juste(uniquement) les"
 " vœux de refuge de l’esprit d’éveil, sont autorisés à prendre les "
