@@ -38,7 +38,7 @@ msgstr ""
 #  2. དང་པོ་ནི།་
 msgctxt "line 2, Livre5_4-2.1.txt"
 msgid "Premièrement (L’essence des vœux du Mantrayana) :"
-msgstr "1. L’essence des vœux tantriques :"
+msgstr "1. L’essence des vœux du mantra:"
 
 #  3. ངོ་བོ་གཟུང་འཛིན་འཕོ་བཅས་སྡོམ་པ་ཡི། །བདེ་ཆེན་ཡེ་ཤེས་ཐབས་ལ་
 # 
