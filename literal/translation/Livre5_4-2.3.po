@@ -38,8 +38,7 @@ msgstr ""
 msgctxt "aa03d4b5ed55420a85d4bc79211f84cc"
 msgid "རྩ་བ␣འི་ གསུམ་པ་ ཇི་ལྟར་ ཐོབ་ ཚུལ་ བཤད་པ་ ནི །"
 msgstr ""
-"(3.)L' exposé du troisième point racine (principal): la manière dont on les "
-"obtiens."
+"3. Le troisième grand sujet abordé est la manière dont on obtiens ces vœux."
 
 # 。︀	〝ཆོ་ག〞 1357
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
@@ -98,8 +97,8 @@ msgid ""
 "ཐོབ་ ཚུལ་ འཇུག་པ␣ར་ ཁ␣ས་ བླངས་ ཚུལ་ གྱིས་ ཏེ ། ། ཆོ་ག␣འི་ མཐའ་ རུ་ རྣམ་དག་ "
 "རྫོགས་པ␣ར་ ཐོབ ། །"
 msgstr ""
-"\"Obtenus par la promesse lors de l'entrée et  dans leur parfaite complétude"
-" à la fin du rituel.\""
+"“ On les obtiens par l’engagement lors de l’entrée et dans leur parfaite "
+"complétude à la fin du rituel.”"
 
 # 。︀	〝ཆོ་ག〞 1357
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
@@ -134,8 +133,8 @@ msgid ""
 "སྔགས་སྡོམ་ ཇི་ལྟར་ ཐོབ་པ␣འི་ ཚུལ་ ལ་ གཉིས་ ཏེ །  ཁ␣ས་ བླངས་ ཀྱིས་ ཐོབ་པ་ དང༌"
 " །  ཆོ་ག␣ས་ ཐོབ་པ␣འོ ། །"
 msgstr ""
-"Il y a deux manières pour obtenir les voeux tantriques. On les obtiens en "
-"faisant une promesse et on les obtiens par un rituel."
+"Il y a deux manières pour obtenir les vœux tantriques : en par une "
+"engagement et par un rituel."
 
 msgctxt "37ffada428314dc4840289498cc017f6"
 msgid "དང་པོ་ ནི །"
