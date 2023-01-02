@@ -1,0 +1,131 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. བཞི་པ་ཐོབ་མཚམས་ཀྱི་དུས་ནི།་
+msgctxt "line 1, Livre5_4-2.4.txt"
+msgid "4. Le moment où l’on obtient (les voeux)."
+msgstr ""
+
+#  2. ཐོབ་དུས་སྒོ་གསུམ་བྱིན་རླབས་ས་བོན་ཐེབས། །སྡོམ་བཟུང་གསལ་གདབ་དབབ་པས་
+# 
+# བྱིན་གྱིས་བརླབས། ། དབང་བསྐུར་དངོས་གཞིས་འཕེལ་རྒྱས་མཐར་ཐུག་གོ །་
+msgctxt "line 2, Livre5_4-2.4.txt"
+msgid ""
+"Leur obtention se fait quand t la graine est planté par la consécration des "
+"trois portes; qu’ils sont médités clairement par l’engagement à les tenirs, "
+"et qu’ils sont bénis; Il sont dévelopés et amenés à la perfection en "
+"conférant la phase principale de l’initiation."
+msgstr ""
+
+#  3. སྡོམ་པ་ཐོབ་པའི་དུས་ནི་སྤྱིར་སྡོམ་པ་སྐྱེ་བའི་ཐོག་མ་སློབ་
+# 
+# མའི་སྒོ་གསུམ་རྡོ་རྗེ་གསུམ་དུ་བྱིན་གྱིས་བརླབས་པའི་དུས་དེ་
+# 
+# ནས་འགོ་བཟུང་བ་ཡིན་ལ། 4. སྐྱེས་ཟིན་པའི་མཐའ་ནི་རྒྱུད་སྡེ་རང་
+# 
+# རང་གི་དབང་གི་མཐའ་རྟེན་རྫོགས་ཟིན་པའི་དུས་དེ་ཁོ་ནའོ། །་
+# 
+# 
+msgctxt "line 3, Livre5_4-2.4.txt"
+msgid ""
+"D’une manière générale, les voeux sont obtenus à partir du moment où, par la"
+" consécration des trois portes du disciple en les trois vajras, les voeux "
+"commencent à prendre vie. mais seront pleinement établis (litt. la fin quand"
+" (le voeux) a totalement pris naissance) uniquement lorsque l’initiation "
+"finale des supports symboliques correspondante au Tantra de la classe dont "
+"elle relève arrive à sa complétion."
+msgstr ""
+
+#  5. སྐྱེ་ཚུལ་ཡང་སློབ་མའི་སྒོ་གསུམ་རྡོ་རྗེ་གསུམ་དུ་བྱིན་གྱིས་བརླབས་
+# 
+# པས་སྔགས་སྡོམ་གྱི་ས་བོན་བཏབ། 6. རིགས་ལྔའི་སྡོམ་བཟུང་ལན་གསུམ་གྱིས་
+# 
+# དེ་ཉིད་གསལ་གདབ། 7. ཡེ་ཤེས་ཕབ་པས་དེ་ཉིད་བྱིན་གྱིས་བརླབས། 8. དབང་བསྐུར་
+# 
+# དངོས་རིག་དབང་ལྔ་བརྟུལ་ཞུགས་ཀྱི་དབང་དང་བཅས་པ་བསྐུར་བས་
+# 
+#  9. ཆོས་ཅན་ཕུང་པོ་ལྔ་རེ་རེ་བ་དྲི་བཅས་ཀྱི་ཆོས་ཉིད་
+# 
+# དང་བཅས་དྲུག་པོ་སངས་རྒྱས་རིགས་ལྔ་རྡོར་སེམས་དང་དྲུག་ཏུ་
+# 
+# བྱིན་གྱིས་བརླབས་ཏེ་དེ་ཉིད་རྒྱས་པར་བྱས། 10. བུམ་དབང་བསྐུར་བས་ 11. ཐ་
+# 
+# མལ་སྣང་ཞེན་གྱི་དྲི་མ་སྦྱངས་ནས་བརྟན་གཡོ་སྣོད་བཅུད་ཐམས་
+# 
+# ཅད་རྟེན་བརྟེན་པར་བཅས་པའི་དཀྱིལ་འཁོར་གྱི་རོལ་པར་ཤར་ཏེ་
+# 
+# དེ་ཉིད་ཤིན་ཏུ་རྒྱས་པར་བྱས། 12. མཆོག་དབང་གོང་མ་གསུམ་བསྐུར་བས་
+# 
+#  13. གྱ་ནོམ་ལྟར་ཞེན་པའི་དྲི་མ་ཡང་སྦྱངས་ནས་ 14. སྲིད་ཞི་ཐམས་
+# 
+# ཅད་བདེ་བ་དང་སྟོང་པ་ཟུང་དུ་འཇུག་པའི་ཡེ་ཤེས་ཆེན་
+# 
+# པོར་གྲོལ་ནས་ 15. དེ་ཉིད་ཡོན་ཏན་འཕེལ་རྒྱས་མཐར་ཐུག་པར་བྱས་
+# 
+# པ་ལས་ 16. རྣལ་འབྱོར་བླ་མེད་ཀྱི་སྔགས་སྡོམ་ཡོངས་སུ་རྫོགས་པར་
+# 
+# སྐྱེས་ཤིང་ཐོབ་པ་ཡིན་ནོ། །་
+msgctxt "line 4, Livre5_4-2.4.txt"
+msgid ""
+"Ils (les voeux) prennent vie de la manière suivante: la graine des voeux "
+"tantriques est plantée par la consécration des trois portes du disciple en "
+"les trois vajras; Ils (les voeux eux-même) sont clairement médités "
+"(visualisés) par la triple répétition de l’engagement à tenir les voeux des "
+"cinq Familles de Bouddhas; Ils sont consacrés (litt. bénis) par la déscente "
+"(des divinités) de sagesse primordiale A la phase principale de "
+"l’initiation, en conférrant les cinq initiations de la conscience évéillée "
+"accompagnée de l’initiation de l’ascése supérieure, chacun des cinq agrégats"
+" -les objets manifestés – et, en sixième, la nature des phénomènes "
+"accompagnée d’impurtée, sont consacrés (bénis) en tant que les cinq Familles"
+" de Bouddha et, en sixième, Vajrasattva. Ils sont ainsi développés (peux "
+"aller au début de la section 8). Conférer l’initiation du vase, purifie des "
+"impuretées de la fixation sur les apparences ordinaire. Tous les univers "
+"stables et les êtres qui s’y meuvent s’élèvent alors comme le déploiement du"
+" mandala du contenant et de son contenu (du mandala des champs purs, palais "
+"et des divinités). Ils (ces voeux) sont ainsi grandement dévelopés. Conférer"
+" les trois initiations supérieures suprêmes (ces 3 sont suprêmes parmi les 4"
+" initiations), purifie aussi des impuretés de l’attachement au sublime du "
+"divin, puis, tous ce qui est samsara et le nirvana est (alors) libéré en la "
+"grande sagesse primordiale, félicité-vacuité en union. Puis, Leurs qualités "
+"sont (ainsi) pleinement dévelopées et amenées à leur perfection. C’est ainsi"
+" que les voeux tantriques du Yoga Tantra Insurpassable sont nés (en nous, en"
+" l’esprit du disciple) dans leur complétude et sont obtenus."
+msgstr ""
+
+#  17. སྤྱིར་རྒྱུད་སྡེ་བཞི་པོ་རང་རང་གི་དབང་གི་དངོས་གཞི་རྫོགས་པར་
+# 
+# ཐོབ་པའི་ཚེ་ 18. རང་རང་གི་དབང་བསྐུར་བ་དང་རྒྱུད་འཆད་པ་
+# 
+# དང་རབ་ཏུ་གནས་པ་སོགས་ལ་དབང་བའི་ཕྱིར་ན་ 19. རང་རང་
+# 
+# གི་རྡོ་རྗེ་སློབ་དཔོན་གྱི་དབང་ཐོབ་པ་ཡིན་ལ། 20. དེའི་ཚེ་མཐའ་
+# 
+# རྟེན་དུ་སློབ་དཔོན་ལ་དགོས་པའི་དམ་ཚིག་རྣམས་རྒྱས་པར་བསྒྲགས་
+# 
+# ནས་བསྡུས་ཏེ་བཟུང་བ་ལན་གསུམ་བྱས་པའི་མཐར་སྔགས་སྡོམ་ཡང་
+# 
+# ཡོངས་སུ་རྫོགས་པར་ཐོབ་པ་ཡིན་ཏེ། 21. དེའི་ཚེ་དེ་འདྲ་རེ་རང་
+# 
+# རང་ལ་ལྟོས་པའི་རྩ་བའི་ལྟུང་བ་དེ་དང་དེ་བསྐྱེད་པའི་
+# 
+# རྟེན་དུ་རུང་བ་ཡིན་ལ། དེའི་སྔ་རོལ་དུ་མ་ཡིན་པའི་ཕྱིར་
+# 
+# རོ། །་
+msgctxt "line 5, Livre5_4-2.4.txt"
+msgid ""
+"En générale, quand on a complétement recu la phase principale de "
+"l’initiation d’un tantra des quatre classes, on est habilité à conférer soi-"
+"même l’intitiation, enseigner le Tantra, faire les consécrations etc. Pour "
+"cette raison, on a recu soi-même l’initiation du Maître Vajra et, à ce "
+"moment précis, (à ce moment là), lors de l’initiation finale, aprés que les "
+"promesses sacrées propres (nécéssaires ou associés) au Maître (Vajra) aient "
+"été énnoncées extensivement et que la promesse de les maintenir ai été "
+"(formulée) succintement, les voeux tantriques sont obtenus dans leur totale "
+"complétude. La raison est que, qu’a ce moment là, le disciple devient une "
+"personne succeptible aux fautes majeurs correspondants aux voeux de tel ou "
+"tel Tantra et capable de les développées, alors qu’avant il ne l’était pas."
+msgstr ""
