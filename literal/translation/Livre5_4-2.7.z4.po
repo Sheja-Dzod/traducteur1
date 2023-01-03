@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2022
+# Damien Jampa, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2022\n"
+"Last-Translator: Damien Jampa, 2023\n"
 "Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -138,7 +138,7 @@ msgid ""
 "དབང་ དུ་ ཙམ་ ཐོབ་པ␣ས་ དཀྱིལ་འཁོར་ གྱི་ ལྷ␣འི་ གྲངས་ ཇི་སྙེད་པ་ དེ་སྙེད་ "
 "ལ་སྟོང་ ཕྲག་ གསུམ་ ཅུ་ རྩ་ དྲུག་ ཏུ་ བཟླས་ ཤིང"
 msgstr ""
-"Si on n'a recu que les initiations (les 7 initiations?) quand (le "
+"Si on n'a recu que les initiations (les initiations générales) quand (le "
 "pratiquant) aura réciter trente six mille fois le mantra de chaque divinités"
 " du mandala et"
 
