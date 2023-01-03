@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2022
+# Damien Jampa, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2022\n"
+"Last-Translator: Damien Jampa, 2023\n"
 "Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -483,8 +483,9 @@ msgid ""
 msgstr ""
 "Chez ceux qui ont recu les initiations spéciales des intiations supérieures "
 "et ont commis une faute racine, l'application des punitions communément "
-"employées (les 25 précités) comme méthodes de purficiation des actes "
-"négatifs ne pourront pas (restaurer le lien sacré), par conséquent,"
+"employées (les 25 précités) comme méthodes de purficiation etc (restauration"
+" des samayas...) des actes négatifs ne pourront pas (restaurer le lien "
+"sacré), par conséquent,"
 
 # 。︀	〝བསྐྱེད་རིམ〞 288
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ stade de création ⁃ stade de création ⁃ phase de
