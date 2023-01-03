@@ -297,7 +297,7 @@ msgstr "les secondaires (branches) sont  les cinq points a pratiquer,"
 # (êtres) humains, hommes, homo sapiens
 msgctxt "5d9a1e76b81941eba63c6c57225bc0eb"
 msgid "མི་ སྤང་བ་ ལྔ །"
-msgstr "les cinq à ne pas abandonner,"
+msgstr "les cinq points auxquels ne pas renoncer"
 
 # 。︀	〝ལེན་པ〞 6129
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ appropriation (9ème des douze facteurs de la relation
