@@ -1120,7 +1120,7 @@ msgstr ""
 msgctxt "44fa48806c9947558949c870314714fc"
 msgid "དེ་ལྟར་ རྟོགས་ ནས་ སྒྲུབ་པ␣ར་ བྱེད་པ་ བསྒོམ་པ␣འི་ དམ་ཚིག  །"
 msgstr ""
-"Une fois intégrés( litt. compris ou ralisé) on s'applique à la accomplir, "
+"Une fois intégrés( litt. compris ou ralisé) on s'applique à les accomplir, "
 "c'est le lien sacré de la méditation."
 
 # 。︀	〝དམ་ཚིག〞 2372
