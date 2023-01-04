@@ -312,7 +312,7 @@ msgstr "les cinq points à accepter,"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objet à prouver
 msgctxt "90ecbfff080447c29c4575e389f2e05c"
 msgid "བསྒྲུབ་བྱ་ ལྔ །"
-msgstr "les cinq à réaliser"
+msgstr "les cinq points à réaliser"
 
 # 。︀	〝ཁྱད་པར〞 336
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
