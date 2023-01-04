@@ -356,7 +356,7 @@ msgstr "les cinq à réaliser"
 msgctxt "4159735328904dceb23301500e7462ed"
 msgid "ཤེས་པ␣ར་ བྱ་བ་ ལྔ་ སྟེ་ ལྔ་ ཕྲག་ ལྔ་ ནི་ ཁྱད་པར་ གྱི་ དམ་ཚིག་ དང༌ །"
 msgstr ""
-"les cinq à connaitre. Ces cinq groupes de cinq sont les liens sacrés "
+"les cinq points à connaitre. Ces cinq groupes de cinq sont les liens sacrés "
 "spécifiques."
 
 # 。︀	〝སྐབས〞 195
