@@ -98,7 +98,7 @@ msgstr ""
 # comme sujet, percevoir
 msgctxt "67e5332f8583453381f2858d6dc2afcd"
 msgid "ཐུན་མོང་ སྡོམ་ ཙམ་ འཛིན་པ␣ར་ མི་ ནུས་ ན ། །"
-msgstr "S'ils ne peuvent tenir ne serais-ce que les voeux ordinaires, "
+msgstr "S'ils ne peuvent tenir ne serait-ce que les voeux ordinaires, "
 
 # 。︀	〝འཇུག་པ〞 1591
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
