@@ -1,0 +1,136 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. དྲུག་པ་གང་ལ་སྐྱེ་བའི་རྟེན་བཤད་པ་ནི།་
+msgctxt "line 1, Livre5_4-2.6.txt"
+msgid ""
+"6. Explication de qui est un support à la naissance (des voeux) (Qui peut "
+"recevoir les voeux)."
+msgstr "6. Le candidat pour les vœux."
+
+#  2. སྐྱེ་བའི་རྟེན་ལ་བྱེ་བྲག་མ་མཆིས་ཀྱང༌། ། 3. ཐུན་མོང་སྡོམ་ཙམ་འཛིན་པར་
+# 
+# མི་ནུས་ན། ། 4. དབང་བསྐུར་མི་རུང་འཇུག་པ་ཙམ་ཞིག་སྦྱིན། །་
+msgctxt "line 2, Livre5_4-2.6.txt"
+msgid ""
+"Bien qu’aucune discimination n’est à faire en ce qui concerne les aspirants "
+"(litt. quand au support pour la naissance (des voeux) aucune distinction "
+"n’est faite, cependant,) S’ils ne peuvent tenir ne serais-ce que les voeux "
+"ordinaires, Il est innaproprié de leur conférer les initiations; accordez "
+"leur seulement l’entrée (dans le mandala)."
+msgstr ""
+"« Bien qu’aucune discrimination n’est à faire en ce qui concerne les aspirants, \n"
+"Il est inapproprié de conférer les initiations à ceux qui ne peuvent même pas tenir les vœux ordinaires. \n"
+"A ceux-là, accordez leur seulement l’entrée dans le mandala. »"
+
+#  5. སྔགས་སྡོམ་སྐྱེ་བའི་རྟེན་ནི་ 6. གཙོ་བོར་ཁམས་དྲུག་ལྡན་པའི་མིའི་ལུས་
+# 
+# རྟེན་ཅན་དུ་གཟུང་དགོས་ཤིང༌། དེ་ལའང་ལས་དང་རིགས་བཟང་ངན་ལ་
+# 
+# སོགས་པའི་བྱེ་བྲག་གི་ཁྱད་པར་མ་མཆིས་ཏེ།་
+msgctxt "line 3, Livre5_4-2.6.txt"
+msgid ""
+"Le candidat aux voeux tantriques (litt. le support en lequel les voeux "
+"tantriques peuvent prendre naissance)(l’individu support pour la naissance "
+"des voeux tantriques) est considéré comme tel quand, principalement(la plus "
+"important), il possède un corps humain doté des six éléments. De plus, "
+"aucune distinction spécifique relative (basée sur) à leur karma, à leur "
+"niveau de social (litt. leur bonne ou mauvaise caste) etc. n’est à faire. En"
+" effet,"
+msgstr ""
+"Le principal critère d’indentification d’un candidat aux vœux du mantra est "
+"qu’il soit un humain au corps doté des six éléments. Il ne faut faire aucune"
+" distinction basée sur le karma, le statut social etc. "
+
+#  7. དམ་པ་དང་པོའི་རྒྱུད་ལས། 8. གདོལ་པ་སྨྱིག་མ་མཁན་ལ་སོགས། །མཚམས་མེད་ལྔ་
+# 
+# ནི་བྱེད་པ་ཡང༌། ། 9. སྔགས་ཀྱི་སྤྱོད་པ་རྗེས་སྤྱད་ན། ། 10. ཚེ་འདི་ཉིད་ལ་
+# 
+# སངས་རྒྱས་འགྲུབ། །་
+msgctxt "line 4, Livre5_4-2.6.txt"
+msgid ""
+"Tantra du Bouddha Sacré Primordial (Tantra de Kalachakra) dit : “Même s’il a"
+" accompli l’un des cinq actes aux conséquences immédiates, Un rempailleur ou"
+" autre intouchable, S’il adopte la conduite des mantras, En cette vie même, "
+"deviendra Bouddha.”"
+msgstr ""
+"Tantra du Bouddha Sacré Primordial (Tantra de Kalachakra) dit en effet :\n"
+"\n"
+"« Un rempailleur ou autre intouchable,\n"
+"Même s’il a accompli l’un des cinq actes aux conséquences immédiates, \n"
+"S’il adopte la conduite des mantras, \n"
+"En cette vie même, il deviendra Bouddha. »"
+
+#  11. ཅེས་གསུངས་པ་དང༌། 12. ཨོ་རྒྱན་གྱི་གནས་སུ་ཀླུ་རྣམས་ལ་དབང་བསྐུར་བར་
+# 
+# བཤད་པ་དང༌། རྒྱུད་སྡེ་རྣམས་ལས་ལྷ་དང་ལྷ་མིན་ལ་སོགས་པ་
+# 
+# རྒྱུད་མཉན་པའི་སྣོད་དུ་བསྡུས་པས་ 13. དད་ཅིང་མོས་པ་ཐམས་ཅད་
+# 
+# རྗེས་སུ་བཟུང་བར་བྱ་བར་གསུངས་ཀྱང༌། 14. བསྙེན་གནས་དང་སྨོན་སེམས་ཀྱིས་
+# 
+# མཚོན། ཐུན་མོང་སོ་བྱང་གི་སྡོམ་པ་ཙམ་ཡང་འཛིན་པར་མི་ནུས་
+# 
+# པའི་བློ་སྟོབས་དམན་ན་ 15. དབང་བསྐུར་དུ་མི་རུང་ཡང་དོན་དུ་
+# 
+# གཉེར་ན་འཇུག་པ་ཙམ་ཞིག་ནི་སྦྱིན་པར་བྱ་སྟེ། 16. དེ་ལས་དེ་
+# 
+# ཉིད་ཀྱི་རྣམ་པར་གྲོལ་བའི་རྒྱུར་འགྱུར་རོ། །་
+msgctxt "line 5, Livre5_4-2.6.txt"
+msgid ""
+"Ce qui est dit et aussi, (ce tantra) relate (enseigne) (l’histoire) où, à "
+"Oddiyana, on conféra des initiations au Nagas. Et dans les Tantras les dieux"
+" et les demi-dieux etc font partis (litt. sont inclus parmi) des récéptacles"
+" (adéquates) à l’écoute des Tantras. Par conséquent, il est dit que toute "
+"individu ayant la foi et y aspirant doivent être accéptés. Cependant, Si "
+"leurs détermination est faible -s’ils ne peuvent même pas tenir les voeux "
+"communs (a tous les voeux) de libération individuelle et (ceux communs à "
+"tous les voeux)de l’esprit d’éveil comme par exemple, les voeux d’un jour "
+"(litt. présent à coté, ’’en présence’’) ou celui de l’esprit d’éveil en "
+"aspiraton, il est innaproprié de leur conférer des initiations, mais s’ils "
+"le souhaitent (s’ils sont intéressé), on leur accorde seulement l’entrée "
+"(dans le mandala). En effet, cela deviendra une cause à leur parfaite "
+"libération."
+msgstr ""
+"Ce Tantra relate aussi qu’ à Oddiyana, on conféra des initiations au Nagas. \n"
+"Dans les Tantras, les dieux, les demi-dieux etc., font partis des réceptacles adéquates à l’écoute des Tantras. Par conséquent, il est dit que toute individu ayant la foi et aspirant aux Tantras doivent être acceptés. Cependant, si leurs détermination est faible - s’ils ne peuvent même pas tenir les vœux communs  de libération individuelle et de l’esprit d’éveil comme par exemple, les vœux d’un jour ou celui de l’esprit d’éveil en aspiration-, il est inapproprié de leur conférer des initiations. Cependant, s’ils le souhaitent, on leur accorde seulement l’entrée dans le mandala car cela deviendra une cause à leur parfaite libération."
+
+#  17. དེ་ལྟར་ཡང་རྡོ་རྗེ་རྩེ་མོ་ལས། 18. གང་ཞིག་སྡོམ་པ་མི་ལེན་ཞིང༌། ། 19. ཤིན་
+# 
+# ཏུ་གདུལ་དཀའ་དད་མེད་ལ། །གཞུག་པ་ཙམ་ནི་སྦྱིན་པར་བྱ། ། 20. དེ་ལ་
+# 
+# ལས་ནི་མི་བྱའོ། ། 21. ཞེས་དང༌།་
+msgctxt "line 6, Livre5_4-2.6.txt"
+msgid ""
+"Dans la même veine, La Pointe Vajra dit : “Celui qui n’a pas pris de voeux "
+"et, qui sont très difficile à discipliner et n’ont pas de foi, accordez leur"
+" seulement l’entrée. Ne leur conféréz pas l’initiation principale.” puis,"
+msgstr ""
+"Dans la même veine, La Pointe Vajra dit :\n"
+"\n"
+"« A celui qui n’a pas pris de vœux,\n"
+"Sans foi et très difficile à discipliner\n"
+"Accordez lui seulement l’entrée... »\n"
+"Puis,\n"
+"\"A la vue du Mandala\n"
+" Les vœux deviendront purs”."
+
+#  22. མཐོང་བ་ཙམ་གྱི་མོད་ལ་ནི། །སྡོམ་པ་དག་པར་འགྱུར་བ་ཡིན། ། 23. ཅེས་སོགས་
+# 
+# གསུངས་པས་སོ། །་
+msgctxt "line 7, Livre5_4-2.6.txt"
+msgid ""
+"“Dès qu’il l’auront vu (le mandala), les voeux deviennent purs”. Ceci etc. "
+"(ainsi que d’autres choses) sont dites et expriment ce point."
+msgstr "Ceci ainsi que d’autres choses sont dites et expriment ce point."
