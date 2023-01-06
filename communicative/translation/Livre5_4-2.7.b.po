@@ -1,0 +1,155 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གཉིས་པ་སོ་སོར་བཤད་པ་ལ་བཞི། 2. བྱ་རྒྱུད། སྤྱོད་རྒྱུད། རྣལ་འབྱོར།
+# རྣལ་འབྱོར་བླ་མེད་
+# 
+# ཀྱི་དམ་ཚིག་བཤད་པའོ། །་
+msgctxt "line 1, Livre5_4-2.7.b.txt"
+msgid ""
+"2. L’explication selon chacunes (des classes de Tantra) à quatre parties "
+"L’exposé des promesses sacrées du Tantra de l’Action, du Tantra de la "
+"Conduite, du Tantra de l’Union et du Tantra de l’Union Insurpassable."
+msgstr ""
+"B. La présentation des liens sacrés spécifiques à chaque classe de Tantra à "
+"quatre parties : les liens sacrées pour les Tantras de l’Action, pour les "
+"Tantras de la Conduite, pour les Tantras de l’Union et pour les Tantras de "
+"l’Union Insurpassable."
+
+#  3. དང་པོ་ལ་སྤྱིར་བྱ་བའི་རྒྱུད་རྣམས་ལས་དམ་ཚིག་གི་རིམ་པ་
+# 
+# གྲངས་སུ་ཆད་པ་དང་མ་ཆད་པ་ཅི་རིགས་གསུངས་པ་ལ་
+# 
+# མཁས་པ་རྣམས་ཀྱིས་རྣམ་བཞག་སྣ་ཚོགས་སྨྲ་ནའང༌། 4. བུ་སྟོན་གྱི་སྤྱི་
+# 
+# རྣམ་དུ་ཇོ་བོའི་དམ་ཚིག་བསྡུས་པར་བྱ་རྒྱུད་ལ་རྩ་ལྟུང་
+# 
+# སུམ་ཅུ་གསུངས་པས་ 5. དེ་ལེགས་གྲུབ་ལས་གསུངས་པའི། 6. མཁས་པས་ཞེ་སྡང་
+# 
+# མི་བྱའོ། ། 7. ཞེས་སོགས་འདི་ཡིན་ནམ་དཔྱད་ཅེས་འབྱུང་བ་དང༌།་
+msgctxt "line 2, Livre5_4-2.7.b.txt"
+msgid ""
+"1. En général dans les Tantras de l’Action, le détail des promesses sacrées "
+"sont enseignés de diverses manières, dans certains cas, leur nombre est "
+"défini, dans d’autres il ne l’est pas. Bien qu’à ce sujet, les érudits "
+"proposent (litt. expriment, parlent de) une variété de présentation, Dans La"
+" Présentation Générale des Classes de Tantra, Buton dit que Le Compendium "
+"des Promesses Sacrées d’Atisha parle des trente fautes racines du Tantra de "
+"l’Action. Par conséquent, Ceci (et) ce qui est dit dans le Tantra de "
+"l’Action Parfaite: “Les sages ne se mettent pas en colère.’’ et ce qui "
+"suit(dans ce même Tantra), il (Buton) demande à ce que l’on vérifie si c’est"
+" la même chose. Aussi,"
+msgstr ""
+" 1.    Les liens sacrés spécifique aux Tantras de l’Action\n"
+"\n"
+"Dans les Tantras de l’Action en général, on retrouve diverse manières de cataloguer ces liens sacrés. Dans certains tantras, leur nombre est défini alors que dans d’autres il ne l’est pas. La présentation que les différents sages-érudits en font varie donc énormément. Cependant, dans sa Présentation Générale des Classes de Tantra, Buton dit que Le Compendium des Promesses Sacrées d’Atisha parle des trente fautes racines pour les Tantras de l’Action. Il demande aussi à vérifier que ces fautes racines correspondent à celles exposées dans Le Tantra de l’Action Parfaite qui dit « Les sages ne se mettent pas en colère » etc."
+
+#  8. དུས་འཁོར་ལས་རྒྱུད་བཞི་ཀ་ལ་རྩ་ལྟུང་བཅུ་བཞིར་གསུངས་པ་དེ་
+# 
+# ངོས་འཛིན་ཚེ་གསང་བ་སྤྱི་རྒྱུད་ཀྱི་འདི་ལ་བྱེད་པ་དང༌། 9. ངོར་
+# 
+# ཆེན་སོགས་ཀྱིས་སྤྱི་རྒྱུད་ལས་གསུངས་པ་དེའི་དང་པོ་གསུམ་སྤྱིའི་
+# 
+# དམ་ཚིག ། 10. ཕྱི་མ་རྣམས་ལ་ནང་གསེས་དབྱེ་བ་དང་བཅས་པའི་བཅུ་
+# 
+# གསུམ་དབང་ལས་ཐོབ་པའི་དམ་ཚིག་ཅེས་དབྱེ་བར་མཛད་ཅིང༌། 11. ཀུན་མཁྱེན་
+# 
+# པདྨ་དཀར་པོས། 12. བསླབ་པར་བྱ་བའི་དམ་ཚིག་སུམ་ཅུ། 13. བསྲུང་བར་བྱ་བའི་
+# 
+# རྩ་ལྟུང་བཅུ་དྲུག་ཅེས་་
+msgctxt "line 3, Livre5_4-2.7.b.txt"
+msgid ""
+"Le Tantra du Kalachakra dit que chacun des quatre Tantras à quatorze fautes "
+"racines. Quand on les identifies, il s’avère que ce sont (pour le Tantra de "
+"l’Action) ceux mentionnés dans le Tantra Secret du Rituel Commun à Tous les "
+"Mandalas. Aussi, Norchen et d’autres, considèrent les trois premières citées"
+" dans le Tantra Commun comme étant les promesses sacrées générales et les "
+"(onze) suivantes avec leur subdivisions comme étant les treize promesses "
+"sacrées obtenues par les initiations. Aussi, L’omnisicent Péma Karpo "
+"considère trente promesses sacrées à appliquer (a cultiver) seize fautes "
+"racines dont il faut se préserver"
+msgstr ""
+"le Tantra de Kalacakra enseigne quatorze chutes racines spécifiques à chaque"
+" classe de tantras. Celles des Tantra de l’Action se trouvent dans le Tantra"
+" Secret du Rituel Commun à Tous les Mandalas. Norchen et d’autres, "
+"considèrent les trois premières citées dans le Tantra Commun comme étant les"
+" liens sacrés généraux et les onze suivantes avec leur subdivisions comme "
+"étant les treize liens sacrés obtenues par les initiations. L’omniscient "
+"Péma Karpo considère quant à lui trente promesses sacrées portant sur "
+"l’apprentissage et  seize chutes racines dont il convient de se préserver."
+
+#  14. རྣམ་པར་བཞག་པའི་དང་པོ་ལེགས་གྲུབ་ལས་སྒྲུབ་ཚིག་གིས་གསུངས་པ་
+# 
+# བཅུ་གཉིས། 15. དགག་ཚིག་གིས་གསུངས་པ་བཅོ་བརྒྱད་བཅས་བསྡམས་པ་དང༌།་
+msgctxt "line 4, Livre5_4-2.7.b.txt"
+msgid ""
+"Dans cet présentation, le premier (groupe de 30) sont les douze promesses "
+"sacrées à appliquer énnoncées dans le Tantra de L’Action Parfaite (les douze"
+" promesses sacrées énnoncées sous forme de douze consignes à appliquer) "
+"s’additionnant aux dix-huit promesses sacrées concernant ce qu’il ne faut "
+"pas accomplir (les consignes sur ce qu’il ne faut pas faire aussi énnoncées "
+"dans ce tantra) et,"
+msgstr ""
+"Dans sa présentation, il expose les premiers comme les douze liens sacrés "
+"énoncées sous forme de douze consignes à appliquer auxquelles s’additionnent"
+" les dix-huit liens sacrés concernant les consignes sur ce qu’il ne faut pas"
+" faire et que l’on retrouve dans le Tantra de L’Action Parfaite."
+
+#  16. གཉིས་པ་ནི། 17. གོང་སྨོས་སྤྱིའི་དམ་ཚིག་བཞིའི་སྟེང་དུ་བླ་མ་ལ་འཁུ་
+# 
+# བ་བཅས་འཇམ་དཔལ་རྩ་རྒྱུད་ལས་བསྟན་པ་ལྔ། 18. དཔུང་བཟང་གིས་ཞུས་
+# 
+# པ་ལས་གསུངས་པ་མཚམས་མེད་ལྔ་དང་ཉེ་བ་ལྔ་དཀོན་མཆོག་
+# 
+# ལ་གནོད་པར་བྱེད་པ་བཅས་བཅུ་གཅིག་བསྡམས་པས་བཅུ་དྲུག་གོ །་
+# 
+# 
+msgctxt "line 5, Livre5_4-2.7.b.txt"
+msgid ""
+"le second (groupe de 16) consiste en les quatre promesses sacrées générale "
+"énnoncées précédement auquelles s’ajoute l’aversion envers le Lama pour un "
+"total de cinq comme éxposé dans le Tantra Racine de Manjushri. (auquelles "
+"s’ajoutes les cinq méprises -celle concernant le Lama etc- éxposées dans le "
+"Tantra Racine de Manjushri,) auquelles on ajoute les onze énnoncées dans le "
+"Tantra des Questions de Subahu : les cinq fautes à rétribution immédiate, "
+"les cinq qui en sont proches et nuire au trois joyaux, pour un total de "
+"seize."
+msgstr ""
+"Les seconds sont, pour les cinq premières, tirées du Tantra Racine de "
+"Manjusri et portent sur les quatre liens sacrés généraux énoncées "
+"précédemment et l’aversion envers le Lama. Les onze suivantes, - les cinq "
+"fautes à rétribution immédiate, les cinq qui en sont proches et nuire au "
+"trois joyaux -, sont énoncées dans le Tantra des Questions de Subahu."
+
+#  19. གཞན་ཡང་བོ་དོང་པཎ་ཆེན་གྱི་རྒྱུད་སྡེ་སྤྱི་རྣམ་བྱམས་པ་གླིང་
+# 
+# པའི་སྔགས་འདུལ་ཆེན་མོ་སོགས་སུ་འདི་དག་ལ་གྲངས་འདྲེན་ཚུལ་
+# 
+# མང་ཉུང་དབྱེ་བསྡུ་ཅི་རིགས་བཤད་ཀྱང་ 20. སྤྱི་རྒྱུད་ལས་གསུངས་པ་
+# 
+# འདི་ལ་གཙོ་བོར་བྱེད་པ་ཐམས་ཅད་མཐུན་ནོ། །་
+msgctxt "line 6, Livre5_4-2.7.b.txt"
+msgid ""
+"De plus, différentes autres façons d’énumérer, distinguer ou regrouper (les "
+"promesses sacrées) suivant les Tantras de l’Action se trouvent dans d’autres"
+" sources, telles la Présentation Générale des Classes de Tantra de Panchen "
+"Bodong ou La Noble Discipline du Mantra, de Jampa Lingpa, cependant, tous "
+"s’accordent sur le fait que les principales promesses sacrées sont celles "
+"enseignées dans Le Tantra Secret du Rituel Commun à Tous les Mandalas."
+msgstr ""
+"Dans la Présentation Générale des Classes de Tantra de Panchen Bodong ou "
+"dans La Noble Discipline du Mantra, de Jampa Lingpa, on en retrouve un "
+"catalogage différent. Cependant tous s’accordent sur le fait que les "
+"principaux liens sacrés pour les Tantras de l’Action, sont ceux enseignées "
+"dans Le Tantra Secret du Rituel Commun à Tous les Mandalas."
