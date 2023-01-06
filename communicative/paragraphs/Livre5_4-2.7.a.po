@@ -1,0 +1,170 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. བདུན་པ་བསྲུང་བྱའི་དམ་ཚིག་དངོས་འཆད་པ་ལ་གཉིས། 2. རྒྱུད་སྡེ་བཞི་ཐུན་
+# 
+# མོང་དུ་བསྟན་པ། སོ་སོའི་རྣམ་པར་དབྱེ་བའོ། །་
+msgctxt "line 1, Livre5_4-2.7.a.txt"
+msgid ""
+"7. L’enseignement sur les promesses sacrées elles-mêmes (promesses sacrées "
+"ou voeux eux-mêmes) à tenir à deux parties, l’exposé de (celles) communes "
+"aux quatre classes de tantra et leurs divisions respectives (les promesses "
+"propres à chaques tantras)."
+msgstr ""
+
+#  3. དང་པོ་ནི། 4. དབང་བསྐུར་སྡོམ་ཐོབ་དམ་ཚིག་སྲོག་ལྟར་བཟུང༌། ། 5.
+# གཞི་ནི་ཡང་དག་
+# 
+# ལྟ་དང་སྐྱབས་སེམས་ལྡན། ། 6. དཀྱིལ་འཁོར་དབང་ཐོབ་བཞི་སྟེ་ཐུན་མོང་ངོ༌། །་
+# 
+# 
+msgctxt "line 2, Livre5_4-2.7.a.txt"
+msgid ""
+"1. (Le promesses sacrées communes aux quatre classes de tantra.) “Préserver "
+"comme sa vie les voeux et les les promesses sacrées obtenus par les "
+"initiations. La base est la vue parfaite, le refuge, l’esprit d’éveil Et "
+"recevoir les initiations au mandalas. Ces quatre sont les (promesses "
+"sacrées) communes. ”"
+msgstr ""
+
+#  7. དཀྱིལ་འཁོར་ཆེན་པོའི་དབང་བསྐུར་བ་ཡོངས་སུ་རྫོགས་པ་ཐོབ་ནས་ 8. རྡོ་
+# 
+# རྗེ་ཐེག་པའི་དམ་ཚིག་དང་སྡོམ་པ་མཐའ་དག་ཐོབ་པ་ཡིན་
+# 
+# པས་དེ་དང༌། 9. འཇུག་པ་ཙམ་ལའང་སྡོམ་བཟུང་གི་སྐབས་སུ་སྔགས་སྡོམ་
+# 
+# བཏགས་པ་བ་ཁས་བླངས་པའི་ཚུལ་དུ་ཐོབ་པས། 10. དེ་ཕྱིན་ཆད་ཇི་
+# 
+# ལྟར་ཁས་བླངས་པའི་དམ་ཚིག་དང་སྡོམ་པ་ལ་བརྩོན་པར་བྱས་
+# 
+# ནས་ 11. ལམ་སྒོམ་ན་ 12. དངོས་གྲུབ་མྱུར་དུ་འཐོབ་པར་འགྱུར་ལ། 13. སྲུང་སྡོམ་
+# 
+# ཡལ་བར་དོར་ནས་ལམ་ལ་འབད་ཀྱང་ 14. ཉེས་པ་ཆེན་པོའི་གཞིར་
+# 
+# འགྱུར་བས་ 15. དམ་ཚིག་སྲོག་ལྟར་དུ་བསྲུང་དགོས་ཏེ།་
+msgctxt "line 3, Livre5_4-2.7.a.txt"
+msgid ""
+"Aprés avoir obtenu dans son intégralité l’ intitation d’un grand mandala, on"
+" a obtenu l’intégralité des promesses sacrées et des voeux du Véhicule "
+"Adamantin. Par conséquent ceci ainsi que, ou bien seulement aprés avoir "
+"obtenu les voeux tantriques symboliques (litt. qui n’ont que le nom de "
+"voeux) pris sous forme d’engagement verbal, lors le l’engagement à tenir les"
+" voeux au moment de l’entrée (dans le mandala), en s’appliquant ensuite (à "
+"maintenir) ces promesses sacrées telles qu’elles furent formulées et les "
+"voeux, si on médite (pratique) la voie, on obtiendra rapidement les "
+"accomplissements. Alors que, en ayant négligé (abandonné) les voeux pour "
+"lesquelles l’on s’est engagé, même si on s’applique (pratique avec energie) "
+"sur la voie cela deviendra le fondement de conséquences négatives très "
+"sérieuses. Par conséquent, il nous faut tenir les promesses sacrées comme "
+"s’il s’agissait de sa propre vie. Pour appuyer cela,"
+msgstr ""
+
+#  16. སྡོམ་འབྱུང་ལས། 17. ཅི་སྟེ་དངོས་གྲུབ་མཆོག་འདོད་ན། ། 18.
+# སྲོག་ནི་ཡོངས་སུ་བཏང་ཡང་
+# 
+# བླ། ། 19. འཆི་བའི་དུས་ལ་བབས་ཀྱང་བླ། ། 20. རྟག་ཏུ་དམ་ཚིག་བསྲུང་བར་བྱ། ། 21.
+# ཞེས་
+# 
+# གསུངས་སོ། །་
+msgctxt "line 4, Livre5_4-2.7.a.txt"
+msgid ""
+"Le Samvara Tantra dit : “Si tu aspires aux accomplissements suprêmes, Même "
+"s’il te faut abandonner ta propre vie, Ou que tu es sur le point de mourir, "
+"Tient toujours tes promesses sacrées. ” Ce qui est dit."
+msgstr ""
+
+#  22. དེ་ལ་བསྲུང་བྱའི་དམ་ཚིག་གི་ཐོག་མར་རྒྱུད་སྡེ་ཐམས་ཅད་ཀྱི་
+# 
+# གཞིར་གྱུར་པའི་ཐུན་མོང་གི་དམ་ཚིག་ནི་ 23. རྩ་བའི་དམ་ཚིག་
+# 
+# ཆེན་པོ་བཞིར་གྲགས་པ་ 24. འཇིག་རྟེན་པའི་ཡང་དག་ལྟ་བ། 25. དཀོན་མཆོག་
+# 
+# གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ། 26. བྱང་ཆུབ་ཆེན་པོར་སེམས་བསྐྱེད་པ། 27. དཀྱིལ་འཁོར་
+# 
+# དུ་དབང་བསྐུར་བ་རྣམས་ཡིན་ཏེ།་
+msgctxt "line 5, Livre5_4-2.7.a.txt"
+msgid ""
+"A ce sujet, en ce qui concerne les promesses sacrées à tenir, nous avons en "
+"premier les promesses sacrées communes, fondements de toutes les classes de "
+"tantra. Elles sont connues comme étant “les quatre grandes promesses sacrées"
+" racines’’. La vue mondaine (ordinnaire) parfaitement pure, prendre refuge "
+"en les trois joyaux, développer l’esprit tourné vers le grand éveil, (et) "
+"toutes les initiations aux mandalas (litt. la conférance de toutes les "
+"initiations aux mandalas). Il en est ainsi parce que (pour appuyer cela)"
+msgstr ""
+
+#  28. སྔགས་ལ་འཇུག་པ་དྲུག་ཅུ་པ་ལས། 29. དེ་ལ་གཞི་ཡི་དམ་ཚིག་ནི། །རྣམ་
+# 
+# པ་བཞིར་ནི་ཤེས་བྱ་སྟེ། ། 30. ཡང་དག་ལྟ་དང་ལྡན་པ་དང༌། ། 31. དཀོན་མཆོག་
+# 
+# གསུམ་པོ་མི་སྤོང་དང༌། ། 32. བྱང་ཆུབ་སེམས་དང་ལྡན་པ་དང༌། ། 33. དབང་བསྐུར་ཡང་
+# 
+# དག་མི་སྤོང་བའོ། ། 34. ཞེས་དང༌།་
+msgctxt "line 6, Livre5_4-2.7.a.txt"
+msgid ""
+"L’Introduction aux Mantra Secret en Soixante Vers dit: “ Sachez que les "
+"quatre promesses sacrées de bases sont, Avoir la vue parfaite, Ne pas "
+"rejetter les trois joyaux, posséder l’esprit d’éveil, ne pas rejetter les "
+"parfaites initiations. ” puis,"
+msgstr ""
+
+#  35. འཇམ་དཔལ་རྩ་རྒྱུད་ལས། 36. གཞིའི་དམ་ཚིག་བཞི་པོ་སོ་སོར་རྒྱས་པར་བཤད་
+# 
+# པའི་རྗེས་སུ། 37. ཀྱེ་རྒྱལ་བའི་སྲས། 38. ངའི་སྔགས་ཀྱི་ཡུལ་རྨད་དུ་བྱུང་བ་
+# 
+# ལས་འཇུག་པའི་དམ་ཚིག་ནི་ 39. མདོར་བསྡུ་ན་རྣམ་པ་གཉིས་ཏེ། 40. གཞི་
+# 
+# དང་ཡན་ལག་གོ །་
+msgctxt "line 7, Livre5_4-2.7.a.txt"
+msgid ""
+"Le texte racine de Manjushri dit : “Aprés avoir enseigné extensivement "
+"chacunes des quatre promesses sacrées de base (le maître proclame): Oh Fils "
+"des Vainqueurs! les promesses sacrées conséquentes à l’entrée dans le "
+"domaine merveilleux de mon Mantra (ou es promesses sacrées nécessaire à "
+"l’entrée dans le domaine merveilleux de mon Mantra) sont rassemblées en deux"
+" (catégories): les bases et les branches."
+msgstr ""
+
+#  41. དེ་ལ་གཞི་ཇི་ལྟ་བུ་ཞེ་ན། 42. མངོན་པར་དབང་བསྐུར་བ་མི་གཏོང་
+# 
+# བ་ནི་གཞི་སྟེ། 43. ཇི་ལྟར་ཡང་དག་པའི་ལྟ་བ་མེད་པ་ལ་
+# 
+# སྡོམ་བརྩོན་མེད་པ་དང༌། 44. སྐྱབས་སུ་མ་སོང་བ་ལ་ཆོས་འདི་པར་
+# 
+# གཏོགས་པ་མེད་པ་དང༌། 45. བྱང་ཆུབ་ཏུ་སེམས་མ་བསྐྱེད་པ་ལ་བྱང་
+# 
+# ཆུབ་སེམས་དཔའ་མེད་པ་ལྟར་ 46. མངོན་པར་དབང་བསྐུར་བ་མ་བྱས་
+# 
+# པ་དག་ལ་ཡང་ 47. སྔགས་པའི་ཐ་སྙད་མེད་པར་རིག་པར་བྱའོ། ། 48. ཞེས་
+# 
+# སོགས་རྒྱས་པར་འབྱུང་ངོ༌། །་
+msgctxt "line 8, Livre5_4-2.7.a.txt"
+msgid ""
+"Quelles sont celles de base ? (litt. a ce sujet, si vous demandez en qui "
+"consiste les bases) La base est de ne pas rejetter les initiations "
+"pleinement recues. De plus, Sans la vue parfaite, on ne s’applique pas aux "
+"voeux et, sans avoir pris refuge, on n’est pas considéré comme Bouddhiste "
+"et, sans développer l’esprit tourné vers l’éveil, on n’est pas un "
+"Bodhisattva. De même, ceux qui n’ont pas recu pleinement l’initiation, "
+"comprenez (sachez) qu’ils ne peuvent être nommé des Nagapas (les pratiquant "
+"des mantras).” On retrouve ceci ainsi qu’une vastitude d’autres "
+"explications."
+msgstr ""
+
+#  49. དེས་ན་རྩ་བའི་ཆེན་པོ་བཞིའི་དམ་ཚིག་འདི་ནི་ 50. རྒྱུད་སྡེ་བཞིའི་
+# 
+# ལམ་གྱི་རིམ་པ་གང་ལ་འཇུག་ཀྱང་མེད་ཐབས་མེད་པས་ 51. ཐུན་
+# 
+# མོང་གི་དམ་ཚིག་ཏུ་བཞག་པའོ། །་
+msgctxt "line 9, Livre5_4-2.7.a.txt"
+msgid ""
+"Découlant de ce qui vient d’être dit, les quatre grandes promesses sacrées "
+"racines, sont indispensables quand on s’engage sur les étapes de la voie des"
+" quatre classes de tantra, quelque soit le tantra. Par conséquent, On les "
+"établies comme étant les promesses sacrées communes (à toutes les classes de"
+" tantra)."
+msgstr ""
