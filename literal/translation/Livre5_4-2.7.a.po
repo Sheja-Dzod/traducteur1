@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2022
+# Damien Jampa, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2022\n"
+"Last-Translator: Damien Jampa, 2023\n"
 "Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -944,7 +944,7 @@ msgstr "puis,"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "be1a4eada5604949abd2cebf5b397ecc"
 msgid "འཇམ་དཔལ་ རྩ་རྒྱུད་ ལ␣ས །"
-msgstr "Le texte racine de Manjushri dit :"
+msgstr "Le Tantra racine de Manjushri dit :"
 
 # 。︀	〝རྒྱས་པ〞 792
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Accroître, S'accroître, Accroissement, Amplifier,
