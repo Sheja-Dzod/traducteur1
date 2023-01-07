@@ -53,7 +53,7 @@ msgid ""
 msgstr ""
 "“ Pour les vœux des Tenants de la conscience pure, deux systèmes : le nouveau et l'ancien.” \n"
 "\n"
-"Il existe deux systèmes distincts concernant les vœux du mantra secret des Tenants de la conscience pure: celui très connu des traductions nouvelles secondaires et celui très connu des traductions anciennes premières."
+"Il existe deux systèmes distincts concernant les vœux du mantra secret des Tenants de la conscience pure: celui très connu des traductions nouvelles  secondaires [1] et celui très connu des traductions anciennes premières [2]."
 
 #  6. གཉིས་པ་ལ་གཉིས། སྔགས་གསར་མའི་ལུགས་དང༌། རྙིང་མའི་ལུགས་སོ། །་
 msgctxt "line 4, Livre5_4-1.txt"
