@@ -50,8 +50,8 @@ msgid ""
 " effet,"
 msgstr ""
 "Le principal critère d’indentification d’un candidat aux vœux du mantra est "
-"qu’il soit un humain au corps doté des six éléments. Il ne faut faire aucune"
-" distinction basée sur le karma, le statut social etc. "
+"qu’il soit un humain au corps doté des six éléments [51]. Il ne faut faire "
+"aucune distinction basée sur le karma, le statut social etc. "
 
 #  7. དམ་པ་དང་པོའི་རྒྱུད་ལས། 8. གདོལ་པ་སྨྱིག་མ་མཁན་ལ་སོགས། །མཚམས་མེད་ལྔ་
 # 
