@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གཉིས་པ་ནི། 2. དགག་ཕྱོགས་དཀོན་མཆོག་བྱང་སེམས་དོར་བ་དང༌། །ལྷ་དང་སྔགས་རྒྱ་
+# 
+# བླ་མར་སྨད་ཅིང་འགོམས། །བཟའ་མིན་གསང་བསྒྲགས་འདོར་འཚེ་དམན་ལ་དགའ། །སྐྱོ་
+# 
+# དང་སྤྱོད་དོར་བྱ་མིན་བྱ་བ་སྟེ། ། དེ་དག་བཤད་རྒྱུད་གཙོར་བྱས་
+# 
+# རིགས་ལྔའིའོ། །་
+msgctxt "line 1, Livre5_4-2.7.g.txt"
+msgid ""
+"Deuxièmement : Les restrictions : abandonner les Joyaux et l’esprit d’éveil;"
+" dénigrer les divinités, les mantras, les moudras et le Lama, enjamber (les "
+"objets sacrés); la nourriture prohibée, divulger le secret, abandonner (le "
+"mantras et les moudras), être nuisuble, se plaire dans le Petit (Véhicule); "
+"se décourager, abandonner la conduite (des transcendances) et s’adonner à ce"
+" qu’il ne faut pas, tels sont (les promesses sacrées) des cinq Familles que "
+"l’on retrouve essentiellement dans les Tantras Explicatifs."
+msgstr ""
+
+#  3. དགག་པའི་ཕྱོགས་ནས་སྨོས་པའི་བསླབ་བྱ་ནི། 4. དཀོན་མཆོག་གསུམ་མི་སྤང༌། 5.
+# བྱང་སེམས་
+# 
+# མི་འདོར། 6. ལྷ་རྣམས་ལ་མི་སྨད། 7. སྔགས་རྒྱ་ལ་མི་སྨད། 8. སློབ་དཔོན་ལ་མི་
+# 
+# བརྙས། 9. བླ་མའི་བཞོན་པ་སོགས་དང་མཚོན་ཆ་ཕྱག་མཚན་མི་འགོམ། 10. བཟའ་བྱ་
+# 
+# མིན་པ་མི་བཟའ། 11. གསང་བའི་ཡེ་ཤེས་མི་བསྒྲགས། 12. སྔགས་རྒྱའི་བསླབ་པ་མི་
+# 
+# འདོར། 13. གནོད་འཚེ་མི་བྱ། 14. ཐེག་དམན་ལ་མི་དགའ། 15. སེམས་ཅན་གྱི་དོན་ལ་དཀའ་
+# 
+# བས་མི་སྐྱོ། 16. ཕྱིན་དྲུག་གི་སྤྱོད་པ་མི་འདོར། 17. བྱ་མིན་མི་བྱ་བ་
+# 
+# བཅས་བཅུ་བཞི་སྟེ། 18. དགག་སྒྲུབ་དེ་དག་ནི་བཤད་རྒྱུད་གཙོར་བྱས་པའི་
+# 
+# རིགས་ལྔའི་དམ་ཚིག་ཅེས་བྱའོ། །་
+msgctxt "line 2, Livre5_4-2.7.g.txt"
+msgid ""
+"Les préceptes énnoncés concernant les restrictions sont les suivants: Ne pas"
+" rejeter les Trois Joyaux, Ne pas abandonner l’esprit d’éveil, Ne pas "
+"dénigrer les divinités, ne pas dénigrer les mantras et les moudras, ne pas "
+"manquer de respect au maître, ne pas enjamber (passer par dessus) la monture"
+" ou autres (attributs) du Lama, ni enjamber des armes ou des objets rituels "
+"symboliques, ne pas manger de nouriture prohibée, ne pas divulger la sagesse"
+" primordiale secrèrte, ne pas abandonner la pratique des mantras et des "
+"moudras, Ne pas être nuisible, ne pas se plaire dans le Petit Vehicule ne "
+"pas se décourager face aux difficultés à oeuvrer au bien des êtres, ne pas "
+"abandonner la pratique des six transcendances, (et) ne pas s’adonner à ce "
+"qu’il ne faut pas Ces restrictions et prescriptions que l’on retrouve "
+"essentiellement dans les Tantras Explicatifs sont appelés ’’les promesses "
+"sacrées des cinq Familles’’."
+msgstr ""
+
+#  19. གཉིས་པ་རྩ་རྒྱུད་གཙོ་བོར་བྱས་པའི་ལུགས་གཉིས་བཤད་པ་ནི། 20. རྩ་རྒྱུད་
+# 
+# དཔལ་མཆོག་ལུགས་སོགས་གཞན་དུ་ཤེས། །་
+msgctxt "line 3, Livre5_4-2.7.g.txt"
+msgid ""
+"2. Exposé des deux traditions que l’on retrouve essentiellement dans les "
+"Tantras Racines. “La présentation selon la tradition du Tantra Racine du "
+"Glorieux Paramadya ainsi que d’autres sont à étudier ailleurs. ”"
+msgstr ""
+
+#  21. རྩ་རྒྱུད་དེ་ཉིད་འདུས་པ་དང་དཔལ་མཆོག་ནས་གསུངས་པའི་ལུགས་སོགས་
+# 
+# འདིར་ཡི་གེ་མང་གིས་དོགས་ནས་མ་སྤྲོས་པས་གཞན་དུ་ཤེས་
+# 
+# པར་བྱའོ། །་
+msgctxt "line 4, Livre5_4-2.7.g.txt"
+msgid ""
+"La présentation selon ce qui est exposé dans la tradition du Tantra Racine "
+"“Le Condensé de l’essence des Ainsi-allés” ou du “Glorieux Paramadya ”ainsi "
+"que d’autres, ne seront pas exprimès ici par crainte d’une trop grande "
+"profusion de mots et sont donc à étudier ailleurs (dans d’autres sources)."
+msgstr ""
+
+#  22. ཞེས་སྨོས་པ་འགྲེལ་པའི་ཚིག་གིས་ཁ་བསྐངས་པ་ལ་དང་པོ་དེ་
+# 
+# ཉིད་འདུས་པ་ལས་གསུངས་པ་ལྷ་ལྔའི་དམ་ཚིག་ནི། 23. བྱང་ཆུབ་ཀྱི་
+# 
+# སེམས་རྣམ་པ་གཉིས་ལ་གོམས་པར་བྱེད་པ་དང༌། 24. དེ་ཉིད་ནན་ཏན་
+# 
+# གྱིས་གོང་དུ་སྤེལ་བ་ནི་དེ་བཞིན་གཤེགས་པའི་དམ་ཚིག །་
+msgctxt "line 5, Livre5_4-2.7.g.txt"
+msgid ""
+"Ceci dit, un commentaire (litt des mots qui commentent) peut compléter (le "
+"texte racine) en commencant par les promesses sacrées des cinq Divinités "
+"selon ce qui est enseigné dans le Tantra du Condensé de l’Ainsité. Se "
+"familiariser avec les deux aspects de l’esprit d’éveil et s’appliquer avec "
+"détermination à les développer (amplifier) est la promesse sacrée des Ainsi-"
+"Allés (de la Famille Bouddha)."
+msgstr ""
+
+#  25. ཉན་ཐོས་རྣམས་འདོད་པའི་ཡུལ་ལ་ཟུག་རྔུ་དང་འདྲ་བར་ལྟ་ཞིང་
+# 
+# སྤོང་བ་དེ་བཞིན་དུ་སྐྱོ་བ་མི་བསྐྱེད་པར་བྱང་ཆུབ་ཀྱི་
+# 
+# སེམས་བརྟན་པ་དང༌། 26. རྗེས་སུ་ཆགས་པ་དང༌། 27. མགུ་བ་ལ་སོགས་པས་རྗེས་
+# 
+# སུ་ཆགས་པ་ 28. དེ་བཞིན་གཤེགས་པའི་རིགས་ཀྱི་དམ་ཚིག །་
+msgctxt "line 6, Livre5_4-2.7.g.txt"
+msgid ""
+"Posséder un esprit d’éveil stable sans développer de la lassitude a l’instar"
+" des Auditeurs qui voient les objets des plaisir sensoriels comme souffrance"
+" et les rejettent, prendre en considération (les êtres….prendre soins des "
+"êtres) et prendre (les êtres) en considération avec plaisir etc. est la "
+"promesse sacrée de la Famille des Ainsi-Allés."
+msgstr ""
+
+#  29. གདུག་ཅིང་གདུལ་དཀའ་བའི་སེམས་ཅན་རྣམས་ལ་ཁྲོ་བ་ལྟར་བཅོས་ཏེ་
+# 
+#  30. མངོན་སྤྱོད་ཀྱི་ལས་ལ་སློབ་པ་རྡོ་རྗེ་རིགས་ཀྱི་དམ་ཚིག །་
+# 
+# 
+msgctxt "line 7, Livre5_4-2.7.g.txt"
+msgid ""
+"En feignant la colère envers les êtres nuisibles et difficile à discipliner,"
+" s’entrainer aux activités courroucées violentes (litt. Actions directes) "
+"est la promesse sacrée de la Famille Vajra."
+msgstr ""
+
+#  31. དོན་དམ་སྟོང་ཉིད་དུ་ཤེས་པའི་ངང་ལས་ཕྱག་རྒྱ་ཆེན་པོའི་སྐུར་
+# 
+# ལྡངས་པ་ལ་སོགས་པས་ 32. འགྲོ་བ་ལ་ཇི་ལྟར་ཕན་པ་དེ་
+# 
+# ལྟར་སྦྱོར་བ་ནི་པདྨའི་རིགས་ཀྱི་དམ་ཚིག།་
+msgctxt "line 8, Livre5_4-2.7.g.txt"
+msgid ""
+"Tout en demeurant en l’état de compréhension de la vacuité ultime, en "
+"s’élevant en tant que le Grand Moudra des Corps sacré (des divinités) "
+"etc.(et les autres moudras ou sceaux), s’appliquer à tout ce qui est "
+"bénéfique aux êtres est la promesse sacrée de la Famille Lotus."
+msgstr ""
+
+#  33. དངོས་པོ་རྣམ་པ་མང་ཉུང་གང་ཡང་རུང་ཉིན་རེ་བཞིན་དུ་ཇི་
+# 
+# ལྟར་འདོད་པ་སྦྱིན་པ་རིན་ཆེན་རིགས་ཀྱི་དམ་ཚིག་སྟེ། 34. གཞན་དོན་
+# 
+# གྱི་ཕྲིན་ལས་སུ་སོང་བའི་ཆ་ནས་ལས་ཀྱི་རིགས་ཀྱི་དམ་
+# 
+# ཚིག་ཤུགས་ལས་ཐོན་པ་ཡིན་ནོ། །་
+msgctxt "line 9, Livre5_4-2.7.g.txt"
+msgid ""
+"Faire don au quotidien de la quantité necessaire d’objets matériels "
+"répondant au désir (des êtres) est la promesse sacrée de la Famille Joyau. "
+"Tout celà faisant parti de l’Activité Eveillée altruiste, la promesse sacrée"
+" de la Famille Karma est exprimée de manière indirecte."
+msgstr ""
+
+#  35. གཉིས་པ་ལ་དཔལ་མཆོག་དང་པོ་ལས་རྩ་ལྟུང་བཅུར་གསུངས་པ་ནི། 36. སྨོན་
+# 
+# སེམས་སྤོང་བ། 37. འཇུག་སེམས་སྤོང་བ། 38. བདེན་གཉིས་སེམས་བསྐྱེད་དེ་ཟླ་བ་རྡོ་
+# 
+# རྗེའི་ཏིང་འཛིན་སྤོང་བ། 39. རྗོད་བྱེད་སྡེ་སྣོད་འཐིང་བསླད་ཀྱིས་སྤོང་བ། 40.
+# བརྗོད་
+# 
+# བྱ་ཉམས་ལེན་སྤོང་བ། 41. རྨོངས་པས་ཆོས་ལ་སྨོད་པ། 42. ཕྱག་རྒྱ་བཞི་འབྲེལ་
+# 
+# གྱི་རྣལ་འབྱོར་གྱིས་བྱིན་གྱིས་བརླབས་པའི་ལུས་སེམས་དཀའ་ཐུབ་ཀྱིས་
+# 
+# གདུང་བ། 43. དམ་ཚིག་རྣལ་འབྱོར་རྡོར་དྲིལ་སྤོང་བ། 44. ཕྱག་རྒྱ་བཞི་སྤངས་ནས་
+# 
+# ཐ་མལ་དུ་གནས་པ། 45. རྡོ་རྗེ་སློབ་དཔོན་སྤང་བ་སྟེ་བཅུ་དང༌། 46. དེ་
+# 
+# སྟེང་རྡོ་རྗེ་འབྱུང་བ་ལས་བཤད་པའི་མ་སྨིན་པ་ལ་གསང་
+# 
+# བ་སྒྲོག་པ་བསྣན་པས་བཅུ་གཅིག་གོ །་
+msgctxt "line 10, Livre5_4-2.7.g.txt"
+msgid ""
+"Deuxièmement, (ensuite), le Glorieux Paramadya énnonce dix fautes racines "
+"ainsi: Abandonner l’esprit d’éveil en aspiration abandonner l’esprit d’éveil"
+" en action, abandonner l’absorbtion méditative (samadhi) de la lune et du "
+"Vajra symbole du développement de l’esprit d’éveil relatif aux deux vérités."
+" Abandonner en les critiquants les Corbeilles qui exprimment (l’enseignement"
+" du Bouddha), abandonner la pratique des sujets enseignés (dans "
+"l’enseignement du Bouddha) critiquer le Dharma par ignorance, tourmenter par"
+" l’ascèse son corps et son esprit (alors qu’ils sont) consacrés par les "
+"yogas relatifs aux quatre moudras., abandonner le vajra et la cloche, la "
+"promesse sacrée ultime (litt. la promesse sacrée la plus haute) demeurer "
+"dans un état ordinaire (retourner à un état ordinaire) aprés avoir "
+"abandonner les quatre moudras abandonner le maitre vajra. Ce qui fait 10 "
+"(fautes racine). “La Source de Tous les Vajras’’ y ajoute un onzième qui est"
+" de proclamer (expliquer) ce qui est secret aux personnes immatures."
+msgstr ""

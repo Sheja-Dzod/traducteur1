@@ -1,0 +1,215 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གསུམ་པ་བཤད་རྒྱུད་ལ་བརྟེན་པའི་རྣམ་གྲངས་གཞན་ཞར་བྱུང་ཐོབ་ཚུལ་
+# 
+# བཅས་བཤད་པ་ནི། 2. ཡང་ན་རིགས་ལྔ་སོ་སོ་སྤྱི་མདོར་བསྡུས། ། 3. སྤྱི་ལ་
+# 
+# རྩ་བ་ཡན་ལག་གོ་རིམ་བཞིན། །བྱང་སེམས་ཕམ་པ་བཅུ་བཞི་རྩ་
+# 
+# བཞི་ཆང༌། ། 4. སྡོམ་དང་དམ་པ་བསྟེན་སོགས་དགེ་ཆོས་སྡུད། ། 5. ལྡོག་ཕྱོགས་བཞི་བྲལ་
+# 
+# དོན་བྱེད་ཚུལ་ཁྲིམས་ཏེ། །མི་བརྙས་ཐུན་མོང་བཟུང་རྣམས་ཕྱི་མའོ། །་
+msgctxt "line 1, Livre5_4-2.7.h.txt"
+msgid ""
+"Troisièmement, l’exposé d’énumérations alternatives basés sur les tantras "
+"explicatifs ainsi qu’une explication complémentaire sur leur obtention. "
+"Alternativement, il y a (les promesses sacrées) de chacunes des cinq "
+"Familles, celles générales et les (voeux) en résumé. Les générales sont sont"
+" (exposées) selon l’ordre établit :les racines puis les secondaires. (Les "
+"racines) concernent les quatorze défaites des Bodhisattvas. (ensuite nous "
+"avons) les quatre racines et l’alcool (la discipline de restreinte), celle "
+"rassemblant les qualités vertueuses -servir les êtres purs etc-, (ainsi que)"
+" la discipline oeuvrant au bien des êtres – être libre des quatre attitudes "
+"contraires. Ensuite, ne pas manquer de respect et tenir ce qui est commun "
+"forment la dernière (présentation)."
+msgstr ""
+
+#  6. བསླབ་གཞི་ཀུན་སྲུང་ཁས་བླངས་ཐོབ་པ་སྟེ། ། 7. རྩ་ལྟུང་བཅུ་སོགས་ཆོ་གས་
+# 
+# ཐོབ་པར་འདོད། །་
+msgctxt "line 2, Livre5_4-2.7.h.txt"
+msgid ""
+"Nous considérons que tous les préceptes de base à tenir sont acquises par un"
+" engagement verbale, alors que, les dix chutes racines etc. sont des voeux "
+"acquis lors de rituels."
+msgstr ""
+
+#  8. ཡང་བཤད་རྒྱུད་རྡོ་རྗེ་རྩེ་མོ་ལས་སྡོམ་པ་བསྒྲག་བཟུང་གསུངས་པ་
+# 
+# འདི་ཉིད་ 9. བླ་མེད་དང་ཐུན་མོང་དུ་འགྱུར་བའི་སྡོམ་པའི་ཆིངས་
+# 
+# སུ་སྣང་བས་དེའི་ལུགས་ལྟར་ན། 10. རིགས་ལྔ་སོ་སོའི་དམ་ཚིག །སྤྱིའི་དམ་
+# 
+# ཚིག །སྡོམ་པ་མདོར་བསྡུས་ཏེ་བསྒྲག་པ་གསུམ།་
+msgctxt "line 3, Livre5_4-2.7.h.txt"
+msgid ""
+"Alternativement (une explication alternative), selon le Tantra explicatif La"
+" Pointe Vajra, ce fait de proclamer puis d’accepter les voeux apparaît comme"
+" étant une méthodologie pour les voeux commune avec les Tantras "
+"Insurpassables. Par conséquent si on s’en réfère à cette tradition, (les "
+"engagements) sont exprimés de trois facons: les promesses sacrées de "
+"chacunes des cinq Familles, les promesses sacrées générales et la "
+"proclamation résumée des voeux."
+msgstr ""
+
+#  11. དང་པོ་ནི་གོང་དུ་བཤད་པ་ལྟར་རོ། ། 12. སྤྱི་ལ་རྩ་བ་དང་ཡན་
+# 
+# ལག་གཉིས། 13. དེ་དག་གི་ངོས་འཛིན་ཀྱང་འཆད་འགྱུར་གོ་རིམ་ལྟར་སྦྱར་
+# 
+# ཏེ་ 14. རྩ་བའི་དམ་ཚིག་ནི་ནམ་མཁའི་སྙིང་པོའི་མདོར་གསུངས་པའི་
+# 
+# བྱང་སེམས་ཀྱི་ཕམ་པ་བཅུ་བཞི་སྤོང་བའོ། །་
+msgctxt "line 4, Livre5_4-2.7.h.txt"
+msgid ""
+"Les premières sont celles (litt. similaires) exposées précédement. Les "
+"(promesses sacrées) générale se déclinent en deux parties -racines et "
+"branches (principales et secondaires). leur identification se fait en se "
+"basant sur l’ordre établit que l’on va expliquer plus tard, c’est à dire, "
+"les promesses sacrées racines sont celles d’abandonner les quatorzes "
+"défaites des Bodhisattvas expliquées dans le Sutra d’Akashagarbha"
+msgstr ""
+
+#  15. ཡན་ལག་གི་དམ་ཚིག་ནི་ཚུལ་ཁྲིམས་རྣམ་པ་གསུམ་སྟེ་ 16. དེའང་བསྒྲག་
+# 
+# ཚིག་གི་སྐབས་སུ་མ་མཐའ་དགེ་བསྙེན་གྱི་བསླབ་པ་ཙམ་མེད་
+# 
+# ཀ་མེད་ཀྱི་དབང་དུ་མཛད་དེ། 17. ཁྱོད་ཀྱིས་སྲོག་ཆགས་བསད་མི་བྱ། ། 18. ཞེས་
+# 
+# སོགས་འབྱུང་བ་ལྟར་རྩ་བ་བཞི་ཆང་དང་བཅས་པ།་
+msgctxt "line 5, Livre5_4-2.7.h.txt"
+msgid ""
+"Les promesses secondaites sont relatives aux trois disciplines, c’est à "
+"dire: De plus (à ce sujet), lorsque l’on fait leur énnoncé textuel, il faut "
+"au minimum que (le disciple) tienne absolument les préceptes de laique, "
+"c’est à dire “ne tues aucunes créatures’’ comme énnoncé par ceci et d’autres"
+" voeux, (il doit tenir) les quatre (voeux) racine et celui concernant "
+"l’alcool."
+msgstr ""
+
+#  19. གཞན་ཡང་སེམས་ཅན་གྱི་དོན་དུ་འགྱུར་ན་མ་གཏོགས་ཉེས་པར་སྤྱོད་
+# 
+# པ་མཐའ་དག་སྤོང་བ་སྡོམ་པའི་ཚུལ་ཁྲིམས། 20. དམ་པ་ཉེ་བར་བསྟེན་
+# 
+# པ་དང༌། 21. སོགས་ཁོངས་ནས་རྣལ་འབྱོར་ཅན་ལ་བསྙེན་བཀུར། 22. ཕྱིན་དྲུག་དང་ངོ་
+# 
+# བོ་གཅིག་པའི་ཐེག་ཆེན་དགེ་བཅུ་སྒྲུབ་པ་དགེ་བ་ཆོས་སྡུད་
+# 
+# ཀྱི་ཚུལ་ཁྲིམས།་
+msgctxt "line 6, Livre5_4-2.7.h.txt"
+msgid ""
+"Deplus, a moins que cela soit bénéfique aux êtres, il doit (adopter) la "
+"discipline de restreinte consistant à abandonner tout (l’intégralité) "
+"comportements nuisibles. S’en remettre pleinement aux êtres purs et le terme"
+" ectéréta inclue le fait de servir les pratiquants des yogas, l’application "
+"aux dix actes vertueux du Grand Véhicule qui est identiques en nature aux "
+"six transcendances, est la discipline rassemblant les qualités vertueuses."
+msgstr ""
+
+#  23. ཐེག་དམན་ལ་འདོད་པ། 24. གཞན་དོན་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ། 25. འཁོར་བ་སྤང་བ།
+# 26. མྱང་
+# 
+# འདས་ལ་ཆགས་པ་སྟེ་ཐེག་ཆེན་དང་མི་མཐུན་པའི་ལྡོག་ཕྱོགས་
+# 
+# བཞི་དང་བྲལ་བ་ནི་ 27. སེམས་ཅན་དོན་བྱེད་ཀྱི་ཚུལ་ཁྲིམས་སོ། །་
+# 
+# 
+msgctxt "line 7, Livre5_4-2.7.h.txt"
+msgid ""
+"Aspirer au Petit Véhicule, Tourner le dos à l’altruisme, abandonner le "
+"samsara et l’attachement au nirvana: se défaire des quatre attitudes "
+"contraires incompatibles avec le Grand Véhicule, est la discipline oeuvrant "
+"au bien des êtres."
+msgstr ""
+
+#  28. ལྷ་དང་ལྷ་མིན་གནོད་སྦྱིན་སོགས་ལ་མི་བརྙས་པ་དང༌། 29. རྡོ་རྗེ་སོགས་
+# 
+# ཕྱག་རྒྱ། 30. བླ་མའི་བཞོན་པ། 31. ཕྱག་མཚན་མཚོན་ཆ་དང་ལྷའི་མཚན་མ་རྣམས་
+# 
+# མི་འགོམ་པ་དང༌། 32. སྡོམ་པ་འོག་མ་རྣམས་གོང་མར་འདུ་བས་ཕར་
+# 
+# ཕྱིན་དང་བྱ་སྤྱོད་ཀྱི་སྡོམ་པ་ཐུན་མོང་བ་རྣམས་ཀྱང་བཟུང་
+# 
+# བ་ནི་་
+msgctxt "line 8, Livre5_4-2.7.h.txt"
+msgid ""
+"Manquer de respect aux Dieux, Asuras et Yaksha etc et, Les symboles sacrés "
+"que sont le Vajra etc. (la cloche etc) la monture du lama, les objets "
+"rituels symboliques, les armes ainsi que les signes des divinités, ne pas "
+"les enjamber (passer par dessus). De plus, il faut tenir les voeux des "
+"transcendences ainsi que ceux communs aux Tantras de l’ Action et de la "
+"Conduite, puisque puisque les voeux inférieurs sont compris dans ceux "
+"supérieurs."
+msgstr ""
+
+#  33. ཕྱི་མ་སྟེ་མདོར་བསྡུས་བསྒྲགས་པ་ལས་བཟུང་བའོ། །་
+msgctxt "line 9, Livre5_4-2.7.h.txt"
+msgid ""
+"Cette deuxième (présentation) sont (les voeux) à tenir lors de la "
+"proclamation résumé (des voeux)"
+msgstr ""
+
+#  34. པད་དཀར་ཞབས་ཀྱིས། 35. རིགས་ཀྱི་རྗེས་སུ་མཐུན་པའི་དམ་ཚིག་སྒྲུབ་ཕྱོགས་ཀྱི་
+# 
+# ཆོས་བཅུ་བཞི། དེའི་མི་མཐུན་ཕྱོགས་ཀྱི་ལྟུང་བ་ལ་དགག་ཕྱོགས་བཅུ་
+# 
+# བཞི་རྩ་བ་དང༌། 36. ཁྱོད་ཀྱིས་སྲོག་ཆགས་བསད་མི་བྱ། ། 37. ལ་སོགས་པས་བསྟན་
+# 
+# པ་ཡན་ལག་གི་ལྟུང་བ།་
+msgctxt "line 10, Livre5_4-2.7.h.txt"
+msgid ""
+"Le vénérable Pema Karpo (distingue trois groupes d’engagements) les "
+"promesses sacrées racines sont celles suivant les Familles sont les quatorze"
+" prescriptions, ainsi que les chutes qui vont à l’encontre de ces "
+"prescriptions et qui sont les quatorze restrictions. Et, “tu ne tueras point"
+" de créatures’’ ce qui est montré par (cette phrase) et ainsi de suite sont "
+"les chutes secondaires (branches)."
+msgstr ""
+
+#  38. ཉམས་སུ་བླངས་པའི་དམ་ཚིག་གོང་སྨོས་ལྷ་ལྔའི་དམ་ཚིག་རྣམས་ཏེ་
+# 
+# རྣམ་པ་གསུམ་དུ་བསྡུ་བར་མཛད་དོ། །་
+msgctxt "line 11, Livre5_4-2.7.h.txt"
+msgid ""
+"Les promesses sacrées pour la pratique sont celles des cinq divinités "
+"exposée précédement. Il les rassemble en trois groupes (aspects)."
+msgstr ""
+
+#  39. སྤྱིར་རྣལ་འབྱོར་རྒྱུད་ལས་དམ་ཚིག་དང་ལྟུང་བའི་རྣམ་གྲངས་བཤད་པ་
+# 
+# ནི་ 40. ཤིན་ཏུ་མང་བས་མཐའ་གཅིག་ཏུ་བསྡུ་མི་ནུས་སོ། །་
+msgctxt "line 12, Livre5_4-2.7.h.txt"
+msgid ""
+"D’une façon générale, les énumérations des promesses sacrées et des chutes "
+"suivant les Tantras de l’Union sont très nombreuses et il est n’est pas "
+"possible de toutes les synthétiser"
+msgstr ""
+
+#  41. དེ་ལྟར་བཤད་པའི་དགག་སྒྲུབ་ཀྱི་ཕྱོགས་བཅུ་བཞི་སོགས་བསླབ་བཞི་ཀུན་
+# 
+# སྲུང་བ་ནི་ 42. ཁས་བླངས་པའི་ཚུལ་གྱིས་ཐོབ་པ་དང༌། 43. རྩ་ལྟུང་བཅུ་
+# 
+# ལ་སོགས་པ་ནི་ཆོ་གས་ཐོབ་པའི་སྡོམ་པར་འདོད་དོ། །་
+msgctxt "line 13, Livre5_4-2.7.h.txt"
+msgid ""
+"Ces bases de l’entrainement, les (promesses sacrées des) quatorze "
+"restrictions et quatorze prescriptions que l’on vient d’énnoncer qui sont "
+"toutes à tenir sont acquises par un engagement formulé verbalement et, "
+"(tandis que) les dix chutes racines etc. sont des voeux acquis lors de "
+"rituels (d’initiation). Nous considérons (c’est ce à qui on s’accorde cad, "
+"que certaines sont prises oralement et d’autres par un rituel)."
+msgstr ""
+
+#  44. ཉམས་ན་ཕྱིར་བཅོས་པའི་ཚུལ་སྔར་སྨོས་པ་དང༌། 45. འཆད་འགྱུར་སྙིང་པོ་རྒྱན་
+# 
+# ལས་གསུངས་པ་རྣམས་ཀྱང་སྦྱར་རོ། །་
+msgctxt "line 14, Livre5_4-2.7.h.txt"
+msgid ""
+"Quand ils sont abimés, leur restauration se fait comme prédédement ennoncé "
+"et on peut aussi appliquer ce qui est exprimé dans le Tantra ornement de "
+"l’essence vajra tel qu’on le verra plus tard."
+msgstr ""
