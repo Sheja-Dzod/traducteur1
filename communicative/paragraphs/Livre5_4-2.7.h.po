@@ -13,7 +13,11 @@ msgstr ""
 # 
 # བཞི་ཆང༌། ། 4. སྡོམ་དང་དམ་པ་བསྟེན་སོགས་དགེ་ཆོས་སྡུད། ། 5. ལྡོག་ཕྱོགས་བཞི་བྲལ་
 # 
-# དོན་བྱེད་ཚུལ་ཁྲིམས་ཏེ། །མི་བརྙས་ཐུན་མོང་བཟུང་རྣམས་ཕྱི་མའོ། །་
+# དོན་བྱེད་ཚུལ་ཁྲིམས་ཏེ། །མི་བརྙས་ཐུན་མོང་བཟུང་རྣམས་ཕྱི་མའོ། ། 6. བསླབ་གཞི་
+# 
+# ཀུན་སྲུང་ཁས་བླངས་ཐོབ་པ་སྟེ། ། 7. རྩ་ལྟུང་བཅུ་སོགས་ཆོ་གས་ཐོབ་
+# 
+# པར་འདོད། །་
 msgctxt "line 1, Livre5_4-2.7.h.txt"
 msgid ""
 "Troisièmement, l’exposé d’énumérations alternatives basés sur les tantras "
@@ -26,17 +30,9 @@ msgid ""
 "rassemblant les qualités vertueuses -servir les êtres purs etc-, (ainsi que)"
 " la discipline oeuvrant au bien des êtres – être libre des quatre attitudes "
 "contraires. Ensuite, ne pas manquer de respect et tenir ce qui est commun "
-"forment la dernière (présentation)."
-msgstr ""
-
-#  6. བསླབ་གཞི་ཀུན་སྲུང་ཁས་བླངས་ཐོབ་པ་སྟེ། ། 7. རྩ་ལྟུང་བཅུ་སོགས་ཆོ་གས་
-# 
-# ཐོབ་པར་འདོད། །་
-msgctxt "line 2, Livre5_4-2.7.h.txt"
-msgid ""
-"Nous considérons que tous les préceptes de base à tenir sont acquises par un"
-" engagement verbale, alors que, les dix chutes racines etc. sont des voeux "
-"acquis lors de rituels."
+"forment la dernière (présentation). Nous considérons que tous les préceptes "
+"de base à tenir sont acquises par un engagement verbale, alors que, les dix "
+"chutes racines etc. sont des voeux acquis lors de rituels."
 msgstr ""
 
 #  8. ཡང་བཤད་རྒྱུད་རྡོ་རྗེ་རྩེ་མོ་ལས་སྡོམ་པ་བསྒྲག་བཟུང་གསུངས་པ་
@@ -46,7 +42,7 @@ msgstr ""
 # སུ་སྣང་བས་དེའི་ལུགས་ལྟར་ན། 10. རིགས་ལྔ་སོ་སོའི་དམ་ཚིག །སྤྱིའི་དམ་
 # 
 # ཚིག །སྡོམ་པ་མདོར་བསྡུས་ཏེ་བསྒྲག་པ་གསུམ།་
-msgctxt "line 3, Livre5_4-2.7.h.txt"
+msgctxt "line 2, Livre5_4-2.7.h.txt"
 msgid ""
 "Alternativement (une explication alternative), selon le Tantra explicatif La"
 " Pointe Vajra, ce fait de proclamer puis d’accepter les voeux apparaît comme"
@@ -64,7 +60,7 @@ msgstr ""
 # ཏེ་ 14. རྩ་བའི་དམ་ཚིག་ནི་ནམ་མཁའི་སྙིང་པོའི་མདོར་གསུངས་པའི་
 # 
 # བྱང་སེམས་ཀྱི་ཕམ་པ་བཅུ་བཞི་སྤོང་བའོ། །་
-msgctxt "line 4, Livre5_4-2.7.h.txt"
+msgctxt "line 3, Livre5_4-2.7.h.txt"
 msgid ""
 "Les premières sont celles (litt. similaires) exposées précédement. Les "
 "(promesses sacrées) générale se déclinent en deux parties -racines et "
@@ -81,7 +77,7 @@ msgstr ""
 # ཀ་མེད་ཀྱི་དབང་དུ་མཛད་དེ། 17. ཁྱོད་ཀྱིས་སྲོག་ཆགས་བསད་མི་བྱ། ། 18. ཞེས་
 # 
 # སོགས་འབྱུང་བ་ལྟར་རྩ་བ་བཞི་ཆང་དང་བཅས་པ།་
-msgctxt "line 5, Livre5_4-2.7.h.txt"
+msgctxt "line 4, Livre5_4-2.7.h.txt"
 msgid ""
 "Les promesses secondaites sont relatives aux trois disciplines, c’est à "
 "dire: De plus (à ce sujet), lorsque l’on fait leur énnoncé textuel, il faut "
@@ -100,7 +96,7 @@ msgstr ""
 # བོ་གཅིག་པའི་ཐེག་ཆེན་དགེ་བཅུ་སྒྲུབ་པ་དགེ་བ་ཆོས་སྡུད་
 # 
 # ཀྱི་ཚུལ་ཁྲིམས།་
-msgctxt "line 6, Livre5_4-2.7.h.txt"
+msgctxt "line 5, Livre5_4-2.7.h.txt"
 msgid ""
 "Deplus, a moins que cela soit bénéfique aux êtres, il doit (adopter) la "
 "discipline de restreinte consistant à abandonner tout (l’intégralité) "
@@ -118,7 +114,7 @@ msgstr ""
 # བཞི་དང་བྲལ་བ་ནི་ 27. སེམས་ཅན་དོན་བྱེད་ཀྱི་ཚུལ་ཁྲིམས་སོ། །་
 # 
 # 
-msgctxt "line 7, Livre5_4-2.7.h.txt"
+msgctxt "line 6, Livre5_4-2.7.h.txt"
 msgid ""
 "Aspirer au Petit Véhicule, Tourner le dos à l’altruisme, abandonner le "
 "samsara et l’attachement au nirvana: se défaire des quatre attitudes "
@@ -135,7 +131,7 @@ msgstr ""
 # ཕྱིན་དང་བྱ་སྤྱོད་ཀྱི་སྡོམ་པ་ཐུན་མོང་བ་རྣམས་ཀྱང་བཟུང་
 # 
 # བ་ནི་་
-msgctxt "line 8, Livre5_4-2.7.h.txt"
+msgctxt "line 7, Livre5_4-2.7.h.txt"
 msgid ""
 "Manquer de respect aux Dieux, Asuras et Yaksha etc et, Les symboles sacrés "
 "que sont le Vajra etc. (la cloche etc) la monture du lama, les objets "
@@ -147,7 +143,7 @@ msgid ""
 msgstr ""
 
 #  33. ཕྱི་མ་སྟེ་མདོར་བསྡུས་བསྒྲགས་པ་ལས་བཟུང་བའོ། །་
-msgctxt "line 9, Livre5_4-2.7.h.txt"
+msgctxt "line 8, Livre5_4-2.7.h.txt"
 msgid ""
 "Cette deuxième (présentation) sont (les voeux) à tenir lors de la "
 "proclamation résumé (des voeux)"
@@ -160,7 +156,7 @@ msgstr ""
 # བཞི་རྩ་བ་དང༌། 36. ཁྱོད་ཀྱིས་སྲོག་ཆགས་བསད་མི་བྱ། ། 37. ལ་སོགས་པས་བསྟན་
 # 
 # པ་ཡན་ལག་གི་ལྟུང་བ།་
-msgctxt "line 10, Livre5_4-2.7.h.txt"
+msgctxt "line 9, Livre5_4-2.7.h.txt"
 msgid ""
 "Le vénérable Pema Karpo (distingue trois groupes d’engagements) les "
 "promesses sacrées racines sont celles suivant les Familles sont les quatorze"
@@ -173,7 +169,7 @@ msgstr ""
 #  38. ཉམས་སུ་བླངས་པའི་དམ་ཚིག་གོང་སྨོས་ལྷ་ལྔའི་དམ་ཚིག་རྣམས་ཏེ་
 # 
 # རྣམ་པ་གསུམ་དུ་བསྡུ་བར་མཛད་དོ། །་
-msgctxt "line 11, Livre5_4-2.7.h.txt"
+msgctxt "line 10, Livre5_4-2.7.h.txt"
 msgid ""
 "Les promesses sacrées pour la pratique sont celles des cinq divinités "
 "exposée précédement. Il les rassemble en trois groupes (aspects)."
@@ -182,7 +178,7 @@ msgstr ""
 #  39. སྤྱིར་རྣལ་འབྱོར་རྒྱུད་ལས་དམ་ཚིག་དང་ལྟུང་བའི་རྣམ་གྲངས་བཤད་པ་
 # 
 # ནི་ 40. ཤིན་ཏུ་མང་བས་མཐའ་གཅིག་ཏུ་བསྡུ་མི་ནུས་སོ། །་
-msgctxt "line 12, Livre5_4-2.7.h.txt"
+msgctxt "line 11, Livre5_4-2.7.h.txt"
 msgid ""
 "D’une façon générale, les énumérations des promesses sacrées et des chutes "
 "suivant les Tantras de l’Union sont très nombreuses et il est n’est pas "
@@ -194,7 +190,7 @@ msgstr ""
 # སྲུང་བ་ནི་ 42. ཁས་བླངས་པའི་ཚུལ་གྱིས་ཐོབ་པ་དང༌། 43. རྩ་ལྟུང་བཅུ་
 # 
 # ལ་སོགས་པ་ནི་ཆོ་གས་ཐོབ་པའི་སྡོམ་པར་འདོད་དོ། །་
-msgctxt "line 13, Livre5_4-2.7.h.txt"
+msgctxt "line 12, Livre5_4-2.7.h.txt"
 msgid ""
 "Ces bases de l’entrainement, les (promesses sacrées des) quatorze "
 "restrictions et quatorze prescriptions que l’on vient d’énnoncer qui sont "
@@ -207,7 +203,7 @@ msgstr ""
 #  44. ཉམས་ན་ཕྱིར་བཅོས་པའི་ཚུལ་སྔར་སྨོས་པ་དང༌། 45. འཆད་འགྱུར་སྙིང་པོ་རྒྱན་
 # 
 # ལས་གསུངས་པ་རྣམས་ཀྱང་སྦྱར་རོ། །་
-msgctxt "line 14, Livre5_4-2.7.h.txt"
+msgctxt "line 13, Livre5_4-2.7.h.txt"
 msgid ""
 "Quand ils sont abimés, leur restauration se fait comme prédédement ennoncé "
 "et on peut aussi appliquer ce qui est exprimé dans le Tantra ornement de "
