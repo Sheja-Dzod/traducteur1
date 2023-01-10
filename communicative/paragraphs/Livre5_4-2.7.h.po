@@ -130,7 +130,7 @@ msgstr ""
 # 
 # ཕྱིན་དང་བྱ་སྤྱོད་ཀྱི་སྡོམ་པ་ཐུན་མོང་བ་རྣམས་ཀྱང་བཟུང་
 # 
-# བ་ནི་་
+# བ་ནི་ 33. ཕྱི་མ་སྟེ་མདོར་བསྡུས་བསྒྲགས་པ་ལས་བཟུང་བའོ། །་
 msgctxt "line 7, Livre5_4-2.7.h.txt"
 msgid ""
 "Manquer de respect aux Dieux, Asuras et Yaksha etc et, Les symboles sacrés "
@@ -139,14 +139,8 @@ msgid ""
 "les enjamber (passer par dessus). De plus, il faut tenir les voeux des "
 "transcendences ainsi que ceux communs aux Tantras de l’ Action et de la "
 "Conduite, puisque puisque les voeux inférieurs sont compris dans ceux "
-"supérieurs."
-msgstr ""
-
-#  33. ཕྱི་མ་སྟེ་མདོར་བསྡུས་བསྒྲགས་པ་ལས་བཟུང་བའོ། །་
-msgctxt "line 8, Livre5_4-2.7.h.txt"
-msgid ""
-"Cette deuxième (présentation) sont (les voeux) à tenir lors de la "
-"proclamation résumé (des voeux)"
+"supérieurs. Cette deuxième (présentation) sont (les voeux) à tenir lors de "
+"la proclamation résumé (des voeux)"
 msgstr ""
 
 #  34. པད་དཀར་ཞབས་ཀྱིས། 35. རིགས་ཀྱི་རྗེས་སུ་མཐུན་པའི་དམ་ཚིག་སྒྲུབ་ཕྱོགས་ཀྱི་
@@ -155,30 +149,27 @@ msgstr ""
 # 
 # བཞི་རྩ་བ་དང༌། 36. ཁྱོད་ཀྱིས་སྲོག་ཆགས་བསད་མི་བྱ། ། 37. ལ་སོགས་པས་བསྟན་
 # 
-# པ་ཡན་ལག་གི་ལྟུང་བ།་
-msgctxt "line 9, Livre5_4-2.7.h.txt"
+# པ་ཡན་ལག་གི་ལྟུང་བ། 38. ཉམས་སུ་བླངས་པའི་དམ་ཚིག་གོང་སྨོས་
+# 
+# ལྷ་ལྔའི་དམ་ཚིག་རྣམས་ཏེ་རྣམ་པ་གསུམ་དུ་བསྡུ་བར་མཛད་
+# 
+# དོ། །་
+msgctxt "line 8, Livre5_4-2.7.h.txt"
 msgid ""
 "Le vénérable Pema Karpo (distingue trois groupes d’engagements) les "
 "promesses sacrées racines sont celles suivant les Familles sont les quatorze"
 " prescriptions, ainsi que les chutes qui vont à l’encontre de ces "
 "prescriptions et qui sont les quatorze restrictions. Et, “tu ne tueras point"
 " de créatures’’ ce qui est montré par (cette phrase) et ainsi de suite sont "
-"les chutes secondaires (branches)."
-msgstr ""
-
-#  38. ཉམས་སུ་བླངས་པའི་དམ་ཚིག་གོང་སྨོས་ལྷ་ལྔའི་དམ་ཚིག་རྣམས་ཏེ་
-# 
-# རྣམ་པ་གསུམ་དུ་བསྡུ་བར་མཛད་དོ། །་
-msgctxt "line 10, Livre5_4-2.7.h.txt"
-msgid ""
-"Les promesses sacrées pour la pratique sont celles des cinq divinités "
-"exposée précédement. Il les rassemble en trois groupes (aspects)."
+"les chutes secondaires (branches). Les promesses sacrées pour la pratique "
+"sont celles des cinq divinités exposée précédement. Il les rassemble en "
+"trois groupes (aspects)."
 msgstr ""
 
 #  39. སྤྱིར་རྣལ་འབྱོར་རྒྱུད་ལས་དམ་ཚིག་དང་ལྟུང་བའི་རྣམ་གྲངས་བཤད་པ་
 # 
 # ནི་ 40. ཤིན་ཏུ་མང་བས་མཐའ་གཅིག་ཏུ་བསྡུ་མི་ནུས་སོ། །་
-msgctxt "line 11, Livre5_4-2.7.h.txt"
+msgctxt "line 9, Livre5_4-2.7.h.txt"
 msgid ""
 "D’une façon générale, les énumérations des promesses sacrées et des chutes "
 "suivant les Tantras de l’Union sont très nombreuses et il est n’est pas "
@@ -190,7 +181,7 @@ msgstr ""
 # སྲུང་བ་ནི་ 42. ཁས་བླངས་པའི་ཚུལ་གྱིས་ཐོབ་པ་དང༌། 43. རྩ་ལྟུང་བཅུ་
 # 
 # ལ་སོགས་པ་ནི་ཆོ་གས་ཐོབ་པའི་སྡོམ་པར་འདོད་དོ། །་
-msgctxt "line 12, Livre5_4-2.7.h.txt"
+msgctxt "line 10, Livre5_4-2.7.h.txt"
 msgid ""
 "Ces bases de l’entrainement, les (promesses sacrées des) quatorze "
 "restrictions et quatorze prescriptions que l’on vient d’énnoncer qui sont "
@@ -203,7 +194,7 @@ msgstr ""
 #  44. ཉམས་ན་ཕྱིར་བཅོས་པའི་ཚུལ་སྔར་སྨོས་པ་དང༌། 45. འཆད་འགྱུར་སྙིང་པོ་རྒྱན་
 # 
 # ལས་གསུངས་པ་རྣམས་ཀྱང་སྦྱར་རོ། །་
-msgctxt "line 13, Livre5_4-2.7.h.txt"
+msgctxt "line 11, Livre5_4-2.7.h.txt"
 msgid ""
 "Quand ils sont abimés, leur restauration se fait comme prédédement ennoncé "
 "et on peut aussi appliquer ce qui est exprimé dans le Tantra ornement de "
