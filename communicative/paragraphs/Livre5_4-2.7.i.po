@@ -27,7 +27,7 @@ msgstr ""
 # 
 # ཡན་ལག་གི་དམ་ཚིག་སྟེ་བླང་དོར་བྱ་བའི་རིགས་གསུམ་ཡོད་
 # 
-# དོ། ། 10. གཉིས་པ་ལ་གསུམ། བརྟུལ་ཞུགས། སྡོམ་པ། དམ་ཚིག་བཤད་པའོ། །་
+# དོ། །་
 msgctxt "line 2, Livre5_4-2.7.i.txt"
 msgid ""
 "La première section à deux parties: la présentation résumée et celle "
@@ -36,9 +36,14 @@ msgid ""
 "que l’on les a pris lors d’une intitiation de l’Union Insurpassable sont: il"
 " y a trois catégories: la conduite supérieur adamantine (l’ascése vajra ou "
 "la conduite vajra), les voeux des différentes familles de Bouddha et les "
-"promesses sacrées racines et secondaires. Deuxièmement, la présentation "
-"(détaillée) se fait en trois sections: l’explication de la conduite "
-"supérieure, des voeux et des promesses sacrées."
+"promesses sacrées racines et secondaires."
+msgstr ""
+
+#  10. གཉིས་པ་ལ་གསུམ། བརྟུལ་ཞུགས། སྡོམ་པ། དམ་ཚིག་བཤད་པའོ། །་
+msgctxt "line 3, Livre5_4-2.7.i.txt"
+msgid ""
+"Deuxièmement, la présentation (détaillée) se fait en trois sections: "
+"l’explication de la conduite supérieure, des voeux et des promesses sacrées."
 msgstr ""
 
 #  11. དང་པོ་ནི། 12. བརྟུལ་ཞུགས་སོ་སོར་དམིགས་སུ་གསུངས་པ་སྟེ། །འདུས་པར་རིགས་ལྔ་
@@ -52,7 +57,7 @@ msgstr ""
 # སོ་ནས་རང་ལུགས་ཐ་དད་དམིགས་བསལ་དུ་གསུངས་པ་རྣམས་ཏེ།་
 # 
 # 
-msgctxt "line 3, Livre5_4-2.7.i.txt"
+msgctxt "line 4, Livre5_4-2.7.i.txt"
 msgid ""
 "Premièrement (la conduite supérieure) : Chaque (Tantra) enseigne sa propre "
 "conduite supérieure. Celui de Guyasamaya en enseigne (la conduite) des cinq "
@@ -73,7 +78,7 @@ msgstr ""
 # གསུངས་པ་དང༌། 19. རྫོགས་རིམ་ལ་དེ་དག་ཕུང་པོ་ལྔ་པོ་འོད་གསལ་
 # 
 # དུ་སྡུད་པའི་ཐབས་ལ་བསླབ་པ་དང༌།་
-msgctxt "line 4, Livre5_4-2.7.i.txt"
+msgctxt "line 5, Livre5_4-2.7.i.txt"
 msgid ""
 "le Glorieux Guyasamaya (enseigne) que la conduite supérieure pour la phase "
 "de création consiste à s‘appliquer aux trois Vajras: la chaire humaine en "
@@ -90,7 +95,7 @@ msgstr ""
 # དགའ་བ་གང༌། །གཞན་གྱི་ནོར་ལ་ཆགས་པ་དང༌། །རྟག་ཏུ་འདོད་པ་སྤྱོད་
 # 
 # གང་དང༌། །་
-msgctxt "line 5, Livre5_4-2.7.i.txt"
+msgctxt "line 6, Livre5_4-2.7.i.txt"
 msgid ""
 "Le quatrième chapitre du Tantra de Guhyasamaja énnonce: “Celui-ci met fin à "
 "des vies, Se plait à mentir, Convoite les biens des autres Et s’adonne "
@@ -110,7 +115,7 @@ msgstr ""
 # འདོད་པ་སྤྱོད་པ་སྟེ། 29. ལས་དང་པོ་བས་ཀྱང་འདི་དག་མོས་པའི་
 # 
 # ཚུལ་གྱིས་བཟུང་ཞིང་རྒྱུ་ཚོགས་ལ་བསླབ་དགོས་པ་ཡིན་ནོ། །་
-msgctxt "line 6, Livre5_4-2.7.i.txt"
+msgctxt "line 7, Livre5_4-2.7.i.txt"
 msgid ""
 "(ce tantra) enseigne ainsi quatre promesses sacrées dont l’expression est a "
 "interpêter. Pour ceux (les pratiquants) qui s’appliquent à la phase de "
