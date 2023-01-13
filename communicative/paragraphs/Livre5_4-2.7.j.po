@@ -1,0 +1,203 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. བདེ་མཆོག་ཚངས་སྤྱོད་ཉེར་གཉིས་རིག་མར་བརྒྱད། །་
+msgctxt "line 1, Livre5_4-2.7.j.txt"
+msgid ""
+"Dans le Tantra de Chakrasamvara: vingt deux pour conduites excellentes et "
+"huit pour la femme de sagesse."
+msgstr ""
+
+#  2. འཁོར་ལོ་བདེ་མཆོག་གི་རྒྱུད་གཞུང་རྣམས་སུ་ཚངས་སྤྱོད་ཉི་ཤུ་རྩ་
+# 
+# གཉིས་ཞེས་གསུངས་པ་ནི་ 3. དམ་པ་སྔ་མ་ཕལ་པོ་ཆེ་རྩ་
+# 
+# ལྟུང་བཅུ་བཞི། ཡན་ལག་སྦོམ་ལྟུང་བརྒྱད་བསྡོམས་པ་ལ་བཞེད་པས་དེ་
+# 
+# ནི་ཕྱིས་ནས་འཆད་པར་འགྱུར་ཞིང༌།་
+msgctxt "line 2, Livre5_4-2.7.j.txt"
+msgid ""
+"Dans les texte du Tantra de Chakrasamvara, les vingt deux conduites "
+"excellentes enseignées sont: Puisque la pluspart des saints maîtres du passé"
+" les indentifient comme étant la somme des quatorze fautes racines et des "
+"huit fautes grossières nous les énnoncerons plus tard. De plus,"
+msgstr ""
+
+#  4. ཐུན་མོང་མ་ཡིན་པའི་བརྟུལ་ཞུགས་ནི། 5. ཚེས་བཅུའི་མཆོད་པ། 6. ལག་མཆོད། 7.
+# རྡོ་རྗེ་བཞིའི་
+# 
+# ངེས་དོན་གྱི་མཆོད་པ། 8. ཕྱག་རྒྱ་བཞི་བརྟེན་པ། 9. དཔའ་བོ་དང་རྣལ་འབྱོར་
+# 
+# མ་མཆོད་པ། 10. བརྡའི་ཀུན་སྤྱོད། 11. ཐུན་མོང་མ་ཡིན་པའི་དམ་ཚིག་བརྒྱད་རྣམས་
+# 
+# སུ་ཅི་རིགས་པར་འདུ་བའི་ཐོག་མར་ཚེས་བཅུའི་མཆོད་པ་ལའང་
+# 
+# ནང་གསེས་སུ་གཞོན་ནུ་མ་དང་རིགས་ལྡན་མའི་མཆོད་པ། 12. ཕྱི་རོལ་
+# 
+# མཆོད་པ། 13. གཏོར་ཆོག་ཆེ་ཆུང་སོགས་མང་དུ་ཡོད་ཅིང༌།་
+msgctxt "line 3, Livre5_4-2.7.j.txt"
+msgid ""
+"Les conduites supérieures non communes sont : Faire les offrandes lors des "
+"dizièmes jours, faire les offrandes de la main (gauche), L’offrande du sens "
+"définitif des quatre Vajras, appliquer les quatre sceaux (moudras), Les "
+"offrandes des Dakas et Dakinis la conduite basé sur des signes, et les huit "
+"promesses sacrées spécifiques. (les conduites supérieures) sont inclues dans"
+" tout ceci, parmi celles-ci, pour la première, les offrandes du dizième "
+"jours contient (beaucoup) de sous parties: faire offrande aux jeunes filles "
+"et aux femmes spirituelles (les dakinis) les offrandes extèrieures, les "
+"rituels d’offrande de torma majeurs ou mineurs etc, il y en a beaucoup "
+"(d’autres promesses sacrées concernant ce premier point)."
+msgstr ""
+
+#  14. ཕྱི་མའི་སྡོམ་ནི། 15. གཡོན་པའི་ཀུན་སྤྱོད་རྨོངས་པས་བགྲོད། ། 16.
+# ཐ་དད་འཛིན་དང་གུས་
+# 
+# པ་ལྷོད། ། 17. ཕྱག་རྒྱ་མི་སྒྲུབ་ཕྱག་རྒྱ་འབྲལ། ། 18. སྤྱོད་པ་ཉམས་དང་དམ་རྫས་
+# 
+# ཁྲོ། །་
+msgctxt "line 4, Livre5_4-2.7.j.txt"
+msgid ""
+"En ce qui concerne le dernier voeux, La conduite de la gauche et la "
+"recherche ignorante, Considérer comme différent et prendre le respect, Ne "
+"pas pratiquer avec consorte et rester sans consorte, Faire dégénérer sa "
+"conduite et l’aversion pour les substances sacrées (de samaya),"
+msgstr ""
+
+#  19. ཞེས་པ་སྟེ། 20. དང་པོ་ནི། 21. གཡོན་པའི་ཀུན་སྤྱོད་ཡིན་ཏེ། 22.
+# རྒྱུན་གྱི་དུས་སུ་དུས་
+# 
+# བཞིར་མ་དྲན་པ་དང༌། 23. ཚོགས་དང་ལག་མཆོད་སོགས་ཁྱད་པར་གྱི་དུས་
+# 
+# སུ་མ་བྱས་ན་ལྟུང་བའོ། །་
+msgctxt "line 5, Livre5_4-2.7.j.txt"
+msgid ""
+"Ceci est s’explique ainsi: 1. (Il y a faute pour) La conduite de la gauche "
+"consiste à oublier de l’appliquer au quotidien lors des quatre périodes "
+"d’une journée et ne pas l’utiliser lors des ganachakra et pour les offrandes"
+" manuelles. Si on fait cela, c’est une faute."
+msgstr ""
+
+#  24. གཉིས་པ་ནི། 25. ལམ་སྒོམ་པ་དང༌། 26. དབང་བསྐུར་བ་དང༌། 27. བཅུད་ལེན་དང༌།
+# 28. དམ་ཚིག་གི་རྫས་
+# 
+# ལ་སོགས་པ་མ་ཡིན་པར་འཛག་པ་དོན་གཉེར་གྱི་བུད་མེད་
+# 
+# ལ་སྲེད་པའི་དབང་འབའ་ཞིག་གིས་ཕྱག་རྒྱ་ལ་བགྲོད་ན་ལྟུང་
+# 
+# བའོ། །་
+msgctxt "line 6, Livre5_4-2.7.j.txt"
+msgid ""
+"2. Pour méditer sur la voie, donner une initiation, extraire la quintessence"
+" ou, en tant que substance de promesses sacrées etc, si ce n’est pas dans ce"
+" but et que l’on va chercher une consorte spirituelle sous l’emprise du "
+"désir envers une femme et avec l’ejaculation comme seul intéret, c’est une "
+"faute."
+msgstr ""
+
+#  29. གསུམ་པ་ནི། 30. རང་གཞན་ཐ་དད་དུ་འཛིན་པ་སྟེ། 31. ཆོས་ཐམས་ཅད་རང་བཞིན་
+# 
+# སྟོང་པ་ཉིད་དུ་མཉམ་པར་རྣམ་པར་མི་རྟོག་པའི་ཚུལ་གྱིས་
+# 
+# སྐྱོང་དགོས་པ་ཡིན་ལ། 32. ཐུན་བཞིར་དེ་ཉིད་མི་དྲན་ན་ལྟུང་བའོ། །་
+# 
+# 
+msgctxt "line 7, Livre5_4-2.7.j.txt"
+msgid ""
+"3. Considérer soi et l’autre comme différent : Alors qu’il faut se maintenir"
+" de manière non conceptuelle et égale en la nature vacuité de tous les "
+"phénomènes, ne pas ce souvenir de cela lors des quatre périodes (litt, "
+"sessions) est une faute."
+msgstr ""
+
+#  33. བཞི་པ་ནི། 34. ལམ་གཞན་ལ་མོས་པས་ལམ་འདི་ལ་གུས་པ་ལྷོད་པའམ་
+# 
+# སྐྱོན་དུ་འཛིན་པས་ཐེ་ཚོམ་སྐྱེས་ཏེ་སྒྲུབ་པ་ལ་ཆེད་ཆེར་
+# 
+# མི་འཛིན་ན་ལྟུང་བའོ། །་
+msgctxt "line 8, Livre5_4-2.7.j.txt"
+msgid ""
+"4. Perdre (litt. relacher) le respect pour cette voie parce qu’on est attiré"
+" par d’autres voies ou se mettre à douter parce qu’on la considère "
+"déféctueuse et ainsi ne plus considérer sa pratique comme importante est une"
+" faute."
+msgstr ""
+
+#  35. ལྔ་པ་ནི། 36. ཐིག་ལེ་འཆིང་བ་དང་བདེ་སྟོང་དུ་སྐྱོང་བའི་ནུས་པ་
+# 
+# དང་ལྡན་པས་ཕྱག་རྒྱ་བརྟེན་པར་བྱ་སྟེ་མི་བརྟེན་ན་ལྟུང་
+# 
+# བའོ། །་
+msgctxt "line 9, Livre5_4-2.7.j.txt"
+msgid ""
+"5. Alors qu’on a la capacité de contenir l’essence séminale, et de se "
+"maintenir en la félicité-vacuité et par conséquent de pratiquer avec une "
+"consorte, ne pas le faire est une faute."
+msgstr ""
+
+#  37. དྲུག་པ་ནི། 38. ལས་རྒྱ་ལ་བརྟེན་ཏེ་ཡེ་ཤེས་སྒྲུབ་པའི་འགོ་བརྩམས་ནས་
+# 
+#  39. བདེ་བ་ཆེན་པོའི་ཡེ་ཤེས་བརྟན་པར་མ་བྱས་པ་དང༌། 40. སྤྱོད་པ་
+# 
+# ལ་སོགས་པའི་ལམ་གྱི་འབྲས་བུ་མངོན་དུ་མ་གྱུར་བར་དུ་
+# 
+# གྲོགས་ཕྱག་རྒྱ་དང་མི་འབྲལ་བར་བྱ་སྟེ་བྲལ་ན་ལྟུང་བའོ། །་
+# 
+# 
+msgctxt "line 10, Livre5_4-2.7.j.txt"
+msgid ""
+"6. Aprés avoir commencé à partiquer la sagesse primordiale basé sur le "
+"Karma-moudra (le sceau de l’action), ne pas stabiliser la sagesse "
+"primordiale de grande félicité et, se séparer de la consorte, compagne dont "
+"on ne doit pas se séparer tant que l’on a pas rendu manifeste les résultats "
+"de la voie tel la conduite (supérieure) etc, est une faute."
+msgstr ""
+
+#  41. བདུན་པ་ནི། 42. ཕྱག་རྒྱའི་ལམ་ལས་བྱང་ཆུབ་ཀྱི་སེམས་ཀུནྡ་དབབ་བཟློག་གི་
+# 
+# སྦྱོར་བས་ 43. ཕྱིར་མི་ལྟུང་ཞིང་སྤྱི་བོར་མི་གཡོ་བར་བརྟན་པར་
+# 
+# བྱེད་པ་ལས། 44. གསང་དབང་བསྐུར་བ་སོགས་དམིགས་བསལ་གྱི་དུས་མ་ཡིན་
+# 
+# པར་ཐིག་ལེ་འཛག་པར་བྱེད་ན་ལྟུང་བའོ། །་
+msgctxt "line 11, Livre5_4-2.7.j.txt"
+msgid ""
+"7. Lors de l’activité tantrique (litt. la voie des moudras) quand on "
+"s’applique à faire descendre puis retourner l’esprit d’éveil kunda (de la "
+"couleur du jasmin), on ne la laisse pas retomber et on la maintient "
+"fermement immobile au sommet de la tête. A contrario, si on la fait "
+"s’écouler en dehors des circonsctances particulière comme lorsque l’on "
+"confère l’initiation secrête, c’est une faute."
+msgstr ""
+
+#  45. བརྒྱད་པ་ནི། 46. ཤེས་རབ་མའི་བྷ་ག་ལས་བྱུང་བའི་སིཧླ་ག་པུར་དྲི་
+# 
+# ཆུ་ལ་སོགས་པ་བཟའ་ཞིང་བསྟེན་པར་བྱ་བ་ཡིན་པ་ལ། 47. མི་
+# 
+# གཙང་བའི་སེམས་ཀྱིས་མི་བཟའ་ཞིང་ཡིད་ཀྱིས་སྤོང་ན་ལྟུང་བའོ། །་
+# 
+# 
+msgctxt "line 12, Livre5_4-2.7.j.txt"
+msgid ""
+"8. Alors que l’on se doit de manger le sindha(sang menstruel), le khapura "
+"(la cyprine) et l’eau parfumée (l’urine) etc (et autre sécrétions) sortant "
+"du bagha(vagin) de la dame de sagesse et que l’on doit se tenir (à cette "
+"promesse sacrée), ne pas l’avaler (le manger) parce que l’on pense que c’est"
+" sale et rejeter (cette promesse) mentalement est une faute."
+msgstr ""
+
+#  48. དེ་རྣམས་སྔགས་སྐྱེས་ཞིང་སྐྱེས་ལྷན་སྐྱེས་ཏེ་ཕོ་ཉ་གསུམ་གྱི་ལམ་
+# 
+# སྒྲུབ་པ་ལ་གནས་པ་ཙམ་གྱིས་གཙོ་བོར་བསྒྲུབ་པར་བྱ་དགོས་
+# 
+# པས་ 49. རིག་མ་ལ་བརྟེན་པའི་བརྟུལ་ཞུགས་བརྒྱད་དུ་གྲགས་སོ། །་
+msgctxt "line 13, Livre5_4-2.7.j.txt"
+msgid ""
+"Puisque ceux qui en sont à la pratique des trois émmisaires : nées des "
+"mantras, nées des lieux sacrés et innées, doivent faire ces (8 promesses "
+"sacrées) leur pratique principale, elles sont connues comme étant ’’les huit"
+" conduites supérieures s’appuyant sur les dames de sagesse”."
+msgstr ""
