@@ -545,7 +545,7 @@ msgstr "Ne pas manger les restes des autres. "
 # (êtres) humains, hommes, homo sapiens
 msgctxt "626f041e09ce46bcb398d0fa0e7fffa9"
 msgid "བླ་མ␣འི་ གདན་ས་ མི་ རློམ་པ་ དང༌ །"
-msgstr "Ne pas convoiter la position  du Lama."
+msgstr "Ne pas convoiter le siège monastique (et la position) du lama."
 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
