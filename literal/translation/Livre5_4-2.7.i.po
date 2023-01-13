@@ -619,7 +619,7 @@ msgstr ""
 # Participer à,
 msgctxt "02be374be035453abec65e44172b9d56"
 msgid "སྒོ་གསུམ་ རྡོ་རྗེ་ སེམས་དཔ␣འི་ ཚུལ་ ལ་ ཞུགས་པ་ ནི་"
-msgstr "adopter le mode d'être de Vajrasattva (l'être adamantin)"
+msgstr "adopter (zhugs) le mode d'être de Vajrasattva (l'être adamantin)"
 
 # 。︀	〝ཐོག་མ〞 2229
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Origine, début, premier
