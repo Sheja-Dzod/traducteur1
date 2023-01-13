@@ -1,0 +1,176 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གུར་ལས་བཅུ་བཞི་མངོན་བརྗོད་བླ་མར་དགུ། །་
+msgctxt "line 1, Livre5_4-2.7.k.txt"
+msgid ""
+"La Tente Vajra en énnonce quatorze et La Continuité Insurpassable, neuf."
+msgstr ""
+"« La Tente Vajra en énonce quatorze et Le Tantra Insurpassable, neuf. »"
+
+#  2. རྡོ་རྗེ་གུར་གྱི་རྒྱུད་ལས་ལས་དང་པོ་བའི་བསྒྲུབ་བྱ་བཅུ་བཞིར་
+# 
+# གསུངས་ཏེ། 3. སྡོམ་ནི།་
+msgctxt "line 2, Livre5_4-2.7.k.txt"
+msgid ""
+"Le Tantra de la Tente Vajra, énnonce quatorze presciptions addréssées aux "
+"débutants. Nous pouvons les résumer ainsi:"
+msgstr ""
+"Le Tantra de la Tente Vajra, énonce quatorze prescriptions adressées aux "
+"débutants qui se résument  ainsi :"
+
+#  4. དཀོན་མཆོག་མི་སྤང་དམ་ཚིག་རྣམས་ལ་སྤྱད། ། 5. རྡོ་རྗེ་དྲིལ་བུ་གླེགས་བམ་
+# 
+# གཙུག་ཏུ་བཅངས། ། 6. སྦྱིན་སྲེག་དཀྱིལ་འཁོར་རབ་གནས་ལས་ལ་བརྩོན། ། 7.
+# འབྱུང་པོར་གཏོར་
+# 
+# མ་སྦྱིན་ཞིང་བཟླས་བསྒོམ་འབད། ། 8. སློབ་མར་ཆོས་བཤད་སེམས་ཅན་བྱམས་པས་
+# 
+# བསྡུ། ། 9. རྒྱལ་ལ་ཚོགས་གསོག་ཛམ་ལར་ཆུ་སྦྱིན་བཏང༌། ། 10.
+# མཆོད་རྟེན་སཱཙྪ་དགེ་བའི་
+# 
+# ལས་བྱའོ། ། 11. ཞེས་སོ། །་
+msgctxt "line 3, Livre5_4-2.7.k.txt"
+msgid ""
+"Ne pas abandonner les (Trois) Joyaux, appliquer toutes les promesses "
+"sacrées, Portez au somment de votre tête, le vajra, la cloche et les textes "
+"sacrés. (Gardez (avec vous) le vajra et la cloche et portez-les ainsi que "
+"les texte sacrés au sommet de votre tête.) Appliquez vous aux offrandes dans"
+" le feu, aux mandalas et aux consécrations, Offrez la torma aux Buthas, "
+"persévérez dans la récitation (de mantra) et la méditation, Enseignez le "
+"Dharma aux disciples et rassemblez les êtres avec amour, Accumulez du mérite"
+" (en réjouissant) les Vainqueurs, offrez l’eau à Dzambala Accomplissez les "
+"actions vertueuses comme constuire des stupas ou des tsatsa C’est ce qui est"
+" dit."
+msgstr ""
+"« (1) N’ abandonnez les Trois Joyaux, (2) appliquez tous les liens sacrés,\n"
+"(3) Portez au somment de votre tête, le vajra, la cloche (4) et les textes sacrés,\n"
+"(5)Appliquez-vous aux offrandes dans le feu, (6) aux mandalas et (7) aux consécrations,\n"
+"(8) Offrez la torma aux Buthas, (9) persévérez dans la récitation des mantra et la méditation,\n"
+"(10) Enseignez le Dharma aux disciples, (11) rassemblez les êtres avec amour,\n"
+"(12) Accumulez du mérite en réjouissant les Vainqueurs,  (13) offrez l’eau à Dzambala\n"
+"(14) Accomplissez les actions vertueuses comme construire des stupas ou des Tsatsa. »"
+
+#  12. མངོན་བརྗོད་བླ་མར་རྒྱུན་གྱི་བྱ་བའི་སྤྱོད་པ། 13. མཆོད་པའི་དེ་ཉིད་ཀྱི་
+# 
+# སྤྱོད་པ། 14. གསང་ཞིང་སྤང་བའི་སྤྱོད་པ། 15. རིག་པའི་ཕོ་ཉའི་སྤྱོད་པ། 16.
+# སྔགས་ཀྱི་
+# 
+# བཟླས་པའི་སྤྱོད་པ། 17. ཞིང་ལ་གུས་པའི་སྤྱོད་པ། 18. སྤྱོད་པའི་བརྟུལ་ཞུགས་ཀྱི་
+# 
+# སྤྱོད་པ། 19. ཀློག་པ་ཐོས་བསམ་གྱི་སྤྱོད་པ། 20. སྒྲུབ་པ་བརྟན་པོར་བྱིན་གྱིས་
+# 
+# བརླབས་པའི་སྤྱོད་པ་སྟེ་ 21. རྣམ་པ་དགུར་གསུངས་སོ། །་
+msgctxt "line 4, Livre5_4-2.7.k.txt"
+msgid ""
+"Dans l’Abhidana Tantra, il y a les activités quotidiennes, les activités "
+"d’offrandes de telléité, les activités secretes et cachée, la conduite avec "
+"les dames de sagesses émissaires, l’activité consistant à réciter les "
+"mantras, la conduite respectueuse envers les champ de mérite (le lama), "
+"S’adoner a la conduite supérieure L’écoute et la réfléxion lié aux activités"
+" d’apprentissage (litt; lecture) pour une pratique stable, utiliser ce qui "
+"est consacré sont enseignés comme étant les neuf points."
+msgstr ""
+"Dans l’Abhidana Tantra, neuf conduites sont enseignées\n"
+"\n"
+"(1)   les  activités quotidiennes\n"
+"(2)   les activités d’offrandes de telléité,\n"
+"(3)   les activités secrètes et cachée,\n"
+"(4)   la conduite avec les dames de sagesses émissaires,\n"
+"(5)   l’activité consistant à réciter les mantras,\n"
+"(6)   la conduite respectueuse envers les champ de mérite (le lama),\n"
+"(7)   S’adonner à la conduite supérieure\n"
+"(8)   L’écoute et la réflexion lié aux activités d’apprentissage\n"
+"(9)   Utiliser ce qui est consacré pour obtenir une pratique stable."
+
+#  22. ཁྱད་པར་དུས་ཀྱི་འཁོར་ལོར་ཉི་ཤུ་ལྔ། །བསྲུང་བྱ་ལྔ་ནི་རྩ་བཞི་
+# 
+# ཆང་དང་བཅས། ། 23. ཁྱད་པར་དུས་ཀྱི་འཁོར་ལོའི་རྒྱུད་ལས་རྡོ་རྗེ་སེམས་
+# 
+# དཔའི་བརྟུལ་ཞུགས་ཉི་ཤུ་རྩ་ལྔར་གསུངས་པ་ལས། 24. ཐོག་མར་བསྲུང་བྱ་
+# 
+# ལྔ་ནི་ 25. རྩ་བཞི་ཆང་དང་བཅས་པ་སྟེ།་
+msgctxt "line 5, Livre5_4-2.7.k.txt"
+msgid ""
+"Partuculièrement, le Kalachakra (prescrit) vingt cinq (activités, conduites)"
+" Le Tantra de Kalachakra énnonce en particulier les vingt cinq conduites "
+"supérieures d’un Vajrasattva (un être adamantin) parmi lesquelles, les cinq "
+"premières a tenire concernent les quatre (fautes) racine et l’alcool."
+msgstr ""
+"« Plus spécifiquement, le Kalachakra en prescrit vingt-cinq ;\n"
+"Cinq portant sur les quatre fautes racines et l’alcool. »\n"
+"\n"
+"Plus spécifiquement, le Tantra de Kalachakra énonce les vingt-cinq conduites supérieures d’un Vajrasattva (un être adamantin) parmi lesquelles, les cinq premières à préserver étant les quatre fautes racine et l’alcool ."
+
+#  26. དེའང༌། འཚེ་དང་མི་བདེན་སོགས་ཀྱིས་བསྟན་པའི་དོན་ལས། 27. འཚེ་བ་ནི་མིའམ་མིར་
+# 
+# ཆགས་པ་བསོད་པ་ལྟ་ཞོག་སྟེ་ཐ་ན་གྲོག་སྦུར་ཡན་ཆད་
+# 
+# ལ་འཚེ་བ་གཞིར་བཅས་འགོག་པ། 28. མི་བདེན་པ་ནི་མིའི་ཆོས་བླ་
+# 
+# མ་སྨྲ་བ་ལྟ་ཞོག་སྟེ་བཞད་གད་ཙམ་གྱི་ཆེད་དུའང་རྫུན་
+# 
+# མི་སྨྲ་བ། 29. ཚངས་སྤྱོད་ཀྱི་སྡོམ་པ་ནོད་མ་ནོད་གང་ཡིན་ཀྱང་
+# 
+# རུང་སྟེ་གཞན་གྱི་བུད་མེད་སོགས་ལོག་གཡེམ་གྱི་ཡུལ་ཡོད་དགུ་
+# 
+# ཅོག་སྤོང་བ། 30. གཞན་ནོར་རིན་ཐང་ལོངས་པ་ལྟ་ཅི་སྨོས་པས་ཏིལ་
+# 
+# གྱི་ཤུན་པ་ཡན་ཆོད་བདག་གིར་མི་བྱེད་པ་སྟེ་ 31. རྩ་བ་
+# 
+# བཞི་དང༌།་
+msgctxt "line 6, Livre5_4-2.7.k.txt"
+msgid ""
+"A ce sujet, le sens de ce qui est exprimé par “nuisance, non-vérité” etc. "
+"est Concernant la nuisance, il s’agit évidement de ne pas tuer un humain ou "
+"un foetus humain mais même d’arrêter de nuire au moindre insecte comme une "
+"fourmi et a stopper les causes produisant ces actes. La non vérité consiste "
+"à évidement ne pas prononcer de mensonge spirituel mais aussi à ne pas "
+"mentir même sur le ton de la plaisanterie. Que l’on ai ou non pris les voeux"
+" de chasteté (litt. de conduite excellente, bramacharya), ne pas s’adonner "
+"aux nombreuses formes d’inconduites sexuelles comme l’adultère (litt. avec "
+"la compagne d’un autre) (Voler) consiste évidement à ne pas prendre à autrui"
+" un objet de valeur mais aussi a ne pas s’approprier ne serais-ce que la "
+"balle d’un grain de sésame. Ceci forme les quatre voeux racine. De plus,"
+msgstr ""
+"Le sens de ces quatre conduites supérieures racines exprimé par “ s’abstenir de nuire, des non-vérité…” etc. est le suivant :\n"
+"\n"
+"1.    Concernant la nuisance, il s’agit évidemment de ne pas tuer un humain ou un fœtus humain mais même d’arrêter de nuire au moindre insecte comme une fourmi et à stopper les causes produisant ces actes.\n"
+"\n"
+"2.    La non vérité consiste à évidement ne pas prononcer de mensonge spirituel mais aussi à ne pas mentir même sur le ton de la plaisanterie.\n"
+"3. Que l’on ait ou non pris les vœux de chasteté, ne pas s’adonner aux nombreuses formes d’inconduites sexuelles comme l’adultère\n"
+"\n"
+"4. Voler consiste évidement à ne pas prendre à autrui un objet de valeur mais aussi à ne pas s’approprier ne serait-ce que la balle d’un grain de sésame."
+
+#  32. ཆང་གི་བཏུང་བ་དམ་ཚིག་གི་ཆེད་དུ་དང་ལམ་སྒོམ་པའི་ཆེད་
+# 
+# དུ་བརྟེན་པ་ནི་མ་བཀག་གི ། 33. སྨྱོས་པ་ལས་བགེགས་འདྲེན་པར་གྱུར་
+# 
+# པ་རྣམས་སྤང་བར་བྱ་སྟེ། 34. དགེ་བསྙེན་གྱི་བསླབ་པའི་གནས་ལྔ་པོ་
+# 
+# ངོ་བོ་ངེས་པ་དང་ཀུན་སློང་རྒྱ་ཆེར་བཏང་བ་སྟེ་ལྷག་
+# 
+# པའི་སྡིག་པ་ལྔ་ཞེས་བྱའོ། །་
+msgctxt "line 7, Livre5_4-2.7.k.txt"
+msgid ""
+"l’absorption d’alcool n’est pas a proscire si elle est utilisée dans le but "
+"de tenir ses promesses sacrées ou pour méditer sur la voie, cependant, tous "
+"les intoxiquants qui sont des faiseurs d’obstacles sont a proscrire. Ceci, "
+"Ces cinq domaines d’apprentissage pour les pratiquants laiques, sont appelés"
+" “les cinq actes éminement nuisibles” de par leur nature certaine et leur "
+"capacité à accroitre les (mauvaises) motivations."
+msgstr ""
+"L’absorption d’alcool n’est pas à proscrire si elle est utilisée dans le cadre de ses liens sacrés ou pour méditer sur la voie, cependant, tous les intoxiquant qui sont des faiseurs d’obstacles sont à proscrire.\n"
+"\n"
+"Ces cinq domaines d’apprentissage pour les pratiquants laïques, sont appelés “les cinq actes éminemment nuisibles” de par leur nature certaine et leur capacité à accroitre les (mauvaises) motivations."
