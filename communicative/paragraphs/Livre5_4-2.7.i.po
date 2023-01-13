@@ -94,35 +94,35 @@ msgstr ""
 # 
 # དགའ་བ་གང༌། །གཞན་གྱི་ནོར་ལ་ཆགས་པ་དང༌། །རྟག་ཏུ་འདོད་པ་སྤྱོད་
 # 
-# གང་དང༌། །་
+# གང་དང༌། ། 22. ཞེས་དགོངས་ཏེ་གསུངས་པའི་དམ་ཚིག་བཞིར་བཤད་དེ་་
 msgctxt "line 6, Livre5_4-2.7.i.txt"
 msgid ""
 "Le quatrième chapitre du Tantra de Guhyasamaja énnonce: “Celui-ci met fin à "
 "des vies, Se plait à mentir, Convoite les biens des autres Et s’adonne "
-"continuellement aux plaisirs sexuels…”"
+"continuellement aux plaisirs sexuels…” (ce tantra) enseigne ainsi quatre "
+"promesses sacrées dont l’expression est a interpêter."
 msgstr ""
 
-#  22. ཞེས་དགོངས་ཏེ་གསུངས་པའི་དམ་ཚིག་བཞིར་བཤད་དེ་ 23. བསྐྱེད་རིམ་ལ་གནས་
+#  23. བསྐྱེད་རིམ་ལ་གནས་པས་གཞན་དོན་དུ་འགྱུར་ན། 24. དེ་དག་དངོས་སུ་ཡང་
 # 
-# པས་གཞན་དོན་དུ་འགྱུར་ན། 24. དེ་དག་དངོས་སུ་ཡང་བྱ་ལ། 25. རྫོགས་རིམ་
+# བྱ་ལ། 25. རྫོགས་རིམ་ལ་གནས་པས་རླུང་འགོག་པ་སྲོག་གཅོད། 26. རྟེན་འབྲེལ་གྱི་
 # 
-# ལ་གནས་པས་རླུང་འགོག་པ་སྲོག་གཅོད། 26. རྟེན་འབྲེལ་གྱི་རིམ་པ་ཤེས་
+# རིམ་པ་ཤེས་པས་ཆོས་སྨྲ་བ་རྫུན་སྨྲ། 27. སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་
 # 
-# པས་ཆོས་སྨྲ་བ་རྫུན་སྨྲ། 27. སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ཕྱག་རྒྱའི་སྟོབས་
+# ཕྱག་རྒྱའི་སྟོབས་ལས་སྒྲུབ་པ་མ་བྱིན་ལེན། 28. ཆོས་ཉིད་དེ་བཞིན་ཉིད་
 # 
-# ལས་སྒྲུབ་པ་མ་བྱིན་ལེན། 28. ཆོས་ཉིད་དེ་བཞིན་ཉིད་ལ་སྤྱོད་པའི་
+# ལ་སྤྱོད་པའི་འདོད་པ་སྤྱོད་པ་སྟེ། 29. ལས་དང་པོ་བས་ཀྱང་འདི་
 # 
-# འདོད་པ་སྤྱོད་པ་སྟེ། 29. ལས་དང་པོ་བས་ཀྱང་འདི་དག་མོས་པའི་
+# དག་མོས་པའི་ཚུལ་གྱིས་བཟུང་ཞིང་རྒྱུ་ཚོགས་ལ་བསླབ་དགོས་པ་
 # 
-# ཚུལ་གྱིས་བཟུང་ཞིང་རྒྱུ་ཚོགས་ལ་བསླབ་དགོས་པ་ཡིན་ནོ། །་
+# ཡིན་ནོ། །་
 msgctxt "line 7, Livre5_4-2.7.i.txt"
 msgid ""
-"(ce tantra) enseigne ainsi quatre promesses sacrées dont l’expression est a "
-"interpêter. Pour ceux (les pratiquants) qui s’appliquent à la phase de "
-"création, si elles s’avèrent bénéfique aux autres, ces actions sont a "
-"accomplir véritablement, alors que, pour ceux qui s’appliquent à la phase de"
-" complétion, bloquer les souffles vitaux revient à tuer, enseigner le dharma"
-" dans la compréhension du fonctionnement de l’interdépendance revient à "
+"Pour ceux (les pratiquants) qui s’appliquent à la phase de création, si "
+"elles s’avèrent bénéfique aux autres, ces actions sont a accomplir "
+"véritablement, alors que, pour ceux qui s’appliquent à la phase de "
+"complétion, bloquer les souffles vitaux revient à tuer, enseigner le dharma "
+"dans la compréhension du fonctionnement de l’interdépendance revient à "
 "mentir, accomplir la sagesse primordiale de la bouddhéité a l’aide de "
 "moudras revient à voler, vivre dans l’ainsité, la nature même des phénomènes"
 " revient à s’addoner aux plaisirs sexuels. en lien avec ceci, Quand au "
