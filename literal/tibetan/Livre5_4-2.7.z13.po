@@ -205,10 +205,17 @@ msgstr ""
 # 
 # 。︀	〝སེང་གེ〞 6344
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lion, Le roi des animaux,
+msgctxt "6d9008a0abcd49288c994f486a001e8b"
+msgid "སེང་གེ་ གྲོགས་ མེད་ གཅིག་པུ␣ར་ སྡོད་པ་ ལྟར །"
+msgstr ""
+
+# 
+# 。︀	〝གྲོགས〞 565
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ami, aide
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Ami, aide Alternatives: ami, soutien,
+# support, compagnon, aider, adjoints, partenaire, assistance
 msgctxt "20331a38d22e4ea3992cded7346931bc"
-msgid ""
-"སེང་གེ་ གྲོགས་ མེད་ གཅིག་པུ␣ར་ སྡོད་པ་ ལྟར །  ལྟ་སྤྱོད་ མི་མཐུན་པ␣འི་ གྲོགས་"
-" ངན་ སྤངས་ ནས་"
+msgid "ལྟ་སྤྱོད་ མི་མཐུན་པ␣འི་ གྲོགས་ ངན་ སྤངས་ ནས་"
 msgstr ""
 
 # 
@@ -261,6 +268,31 @@ msgid "ལྟ་ སྒོམ་ སྐྱོང་བ␣འི་ བརྟུ�
 msgstr ""
 
 # 
+# 。︀	〝བདེ་བ〞 2687
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
+# plaisant, ⁃ félicité, bonheur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
+# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
+# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
+# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
+# plaisir, béatitude, suprême béatitude
+# 
+# 。︀	〝འབྲལ་བ〞 4078
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre séparé, Etre libre de, Etre dépourvu de, Etre
+# denué de,
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "a9d93bd9164c421989de4ac2840abceb"
+msgid "ངང་པ་ ཕོ་མོ་ མི་ འབྲལ་བ␣ར་ བདེ་བ␣ར་ འགྲོགས་པ་ ལྟར །"
+msgstr ""
+
+# 
 # 。︀	〝བརྟུལ་ཞུགས〞 2064
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline yogique
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Activité disciplinée, Discipline yogique spéciale,
@@ -295,18 +327,6 @@ msgstr ""
 # saṃsāra)l'Omniscient
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ délivrance. ⁃ libération, émancipation, délivrance
 # 
-# 。︀	〝བདེ་བ〞 2687
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
-# plaisant, ⁃ félicité, bonheur
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
-# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
-# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
-# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
-# plaisir, béatitude, suprême béatitude
-# 
 # 。︀	〝འབྲལ་བ〞 4078
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre séparé, Etre libre de, Etre dépourvu de, Etre
 # denué de,
@@ -322,9 +342,34 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
 msgctxt "fc1cebd98f55457da3d15e0b3c2ea650"
 msgid ""
-"ངང་པ་ ཕོ་མོ་ མི་ འབྲལ་བ␣ར་ བདེ་བ␣ར་ འགྲོགས་པ་ ལྟར །  སེམས་ཅན་ ལ་ སྙིང་བརྩེ་ "
-"བས་ ཐར་པ␣འི་ བདེ་ ལ་ འགོད་པ␣འི་ ཐབས་ དང་ མི་ འབྲལ་བ␣ར་ འགྲོགས་པ␣འི་ "
-"བརྟུལ་ཞུགས་ སོ ། །"
+"སེམས་ཅན་ ལ་ སྙིང་བརྩེ་ བས་ ཐར་པ␣འི་ བདེ་ ལ་ འགོད་པ␣འི་ ཐབས་ དང་ མི་ "
+"འབྲལ་བ␣ར་ འགྲོགས་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྒྱུ་མ〞 884
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ illusion magique, fantasmagorie
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Illusion magique mirage ⁃ illusoire, illusion magique,
+# mirage
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ illusion, magie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ māyā Sens racine: Illusion magique mirage
+# Alternatives: magie, production magique, illusion, apparition, illusion
+# magique, apparition, expérience illusoire, fantôme, fantaisie,
+# fantasmagorie, imposition
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ illusion, tromperie, duperie ⁃ Illusion magique, mâyâ
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mâyâ, illusoire, illusion magique, mirage
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝གཟུགས་བརྙན〞 5178
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "image/représentation mentale; reflet"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Reflet,  Image, Statut,  Représentation, Réflexion,
+# reflet (en mirroir), Semblable,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ reflet, image
+msgctxt "38f7952524324ea5b90749aeccdb2920"
+msgid "སྒྱུ་མ་ མཁན་ གྱིས་ བྱས་པ␣འི་ གཟུགས་བརྙན་ ལྟར །"
 msgstr ""
 
 # 
@@ -401,22 +446,11 @@ msgstr ""
 # sources (psycho-) sensorielles, de perception, bases de la connaissance,
 # portes de la conscience
 # 
-# 。︀	〝བྱས་པ〞 3811
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
-# 
-# 。︀	〝གཟུགས་བརྙན〞 5178
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "image/représentation mentale; reflet"
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Reflet,  Image, Statut,  Représentation, Réflexion,
-# reflet (en mirroir), Semblable,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ reflet, image
-# 
 # 。︀	〝ཡིན་པ〞 5391
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 msgctxt "fb191eed96264473a7e0486853c3cc50"
 msgid ""
-"སྒྱུ་མ་ མཁན་ གྱིས་ བྱས་པ␣འི་ གཟུགས་བརྙན་ ལྟར །  ཕུང་ ཁམས་ སྐྱེ་མཆེད་ "
-"རྒྱལ་བ␣འི་ དཀྱིལ་འཁོར་ སྒྱུ་མ་ ལྟ་བུ་ ཡིན་པ␣ར་ ཤེས་ ནས་"
+"ཕུང་ ཁམས་ སྐྱེ་མཆེད་ རྒྱལ་བ␣འི་ དཀྱིལ་འཁོར་ སྒྱུ་མ་ ལྟ་བུ་ ཡིན་པ␣ར་ ཤེས་ ནས་"
 msgstr ""
 
 # 
@@ -447,6 +481,25 @@ msgstr ""
 msgctxt "552729736fd9477785708a496596ce2a"
 msgid ""
 "དེ་ལྟར་ སྒོམ་ ཞིང་ སྟོན་པ་ ནི་ ཐབས་མཁས་ ཀྱིས་ འདྲིད་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "1d760f19170e4149897fae59ce961633"
+msgid "ཕག་ གིས་ གཙང་དམེ་ མེད་པ␣ར་ ཐམས་ཅད་ བཟའ་བ་ ལྟར །"
 msgstr ""
 
 # 
@@ -532,8 +585,38 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
 msgctxt "832504b59eee4621b42627cf63c3b7a3"
 msgid ""
-"ཕག་ གིས་ གཙང་དམེ་ མེད་པ␣ར་ ཐམས་ཅད་ བཟའ་བ་ ལྟར །  དམ་རྫས་ ལྔ་ བླང་དོར་ "
-"མེད་པ␣ར་ མཉམ་ཉིད་ དུ་ སྤྱོད་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
+"དམ་རྫས་ ལྔ་ བླང་དོར་ མེད་པ␣ར་ མཉམ་ཉིད་ དུ་ སྤྱོད་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝དགའ་བ〞 620
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ joie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ joie
+# 
+# 。︀	〝ཐོགས་པ་མེད་པ〞 2238
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intangible, Insubstantiel, Sans résitance, Sans
+# obstacle. Sans saisie.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = thogs med asaṅga, asaṃga, apratihata Sens racine:
+# Intangible,Insubstantiel,Sans résitance,Sans obstacle.Sans saisie.
+# Alternatives: (le) sans entraves, celui que rien n'arrête, sans ambages,
+# encombre, obstacle(s)intangibleininterrompusans saisie, sans fixation
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "f7c15956364e44a4b25fa1acfcd3c666"
+msgid "ཅེ་སྤྱང་ ཐོགས་པ་ མེད་པ␣ར་ གསོད་ ལ་ དགའ་བ་ ལྟར །"
 msgstr ""
 
 # 
@@ -550,10 +633,6 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 3. Accoutumance = illuminatrice
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ familiarisation, habituation, habitude, maîtrise ⁃
 # Habitude, maîtrise par l'habitude
-# 
-# 。︀	〝དགའ་བ〞 620
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ joie
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ joie
 # 
 # 。︀	〝རྟོག་པ〞 1965
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
@@ -588,14 +667,6 @@ msgstr ""
 # potentialités de bonté, la bonté, l’énergie d’éveil, l’immense bonté,
 # l’énergie de grande bonté, compassion énergie
 # 
-# 。︀	〝ཐོགས་པ་མེད་པ〞 2238
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intangible, Insubstantiel, Sans résitance, Sans
-# obstacle. Sans saisie.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = thogs med asaṅga, asaṃga, apratihata Sens racine:
-# Intangible,Insubstantiel,Sans résitance,Sans obstacle.Sans saisie.
-# Alternatives: (le) sans entraves, celui que rien n'arrête, sans ambages,
-# encombre, obstacle(s)intangibleininterrompusans saisie, sans fixation
-# 
 # 。︀	〝རྣམ་ཤེས〞 3184
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ La conscience, La connaissance (de quelque chose)
 # L'expérience duelle. ⁃ vijñâna, conscience (duelle), cognition dualiste,
@@ -615,21 +686,6 @@ msgstr ""
 # (duelle), cognition dualiste, connaissance de (quelque chose), expérience
 # duelle (voir n100)
 # 
-# 。︀	〝མེད་པ〞 4372
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
-# ineffabilité (au sens de brjod du med par)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
-# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
-# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
-# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
-# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
-# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
-# dépourvu de réalité, n'est pas la question, non réalité, absence
-# d'existence, qui n'a rien à voir avec
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
-# 
 # 。︀	〝ཟག་མེད〞 5088
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans passions, Sans impureté, Sans saisie, ⁃ non
 # souillé (p81), non polluée, sans impureté (passionnelle)
@@ -648,8 +704,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "a8be9db94c27407d8bc5dd0cb618f82b"
 msgid ""
-"ཅེ་སྤྱང་ ཐོགས་པ་ མེད་པ␣ར་ གསོད་ ལ་ དགའ་བ་ ལྟར །  ལྟ་སྤྱོད་ གོམས་པ␣འི་ "
-"ཐུགས་རྗེ␣ས་ ལོག་ལྟ་ ཅན་ རྟོག་པ␣ས་ བསྒྲལ་ ཞིང་ རྣམ་ཤེས་ ཟག་མེད་ ལ་ བཀོད་པ␣ས་"
+"ལྟ་སྤྱོད་ གོམས་པ␣འི་ ཐུགས་རྗེ␣ས་ ལོག་ལྟ་ ཅན་ རྟོག་པ␣ས་ བསྒྲལ་ ཞིང་ རྣམ་ཤེས་ "
+"ཟག་མེད་ ལ་ བཀོད་པ␣ས་"
 msgstr ""
 
 # 
@@ -734,6 +790,30 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
 # singularité, état unique, unité, unicité, unique
 # 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝མྱུར་དུ〞 4400
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vite,  Rapidement,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Vite, Rapidement, Alternatives: vite,
+# rapidement, fissa, vitesse, vélocité, rapidité, se dépêcher, prompt, véloce,
+# preste, express, presto
+# 
+# 。︀	〝གསལ་བ〞 6563
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ clarté, lucidité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Clarté, Lucidité, Luminosité, La nature  lumineuse,
+# claire et lucide de l'esprit, Ce qui est clair, évident, manifeste,  Ce qui
+# est clair, sans voile, Ce qui est à clarifier, Le sujet d'élucidation, La
+# chose à établir, ⁃ une claire lucidité, luminosité, lucidité, lumineuse
+# clarté, claire luminosité, clair, être clairement évident (comme, ou en tant
+# que), être évident, illuminer
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ clair, évident, manifeste, clarté ⁃ Clarté
+msgctxt "d561f29c6f844ba892315d685cbba282"
+msgid "གློག་ གིས་ ཐམས་ཅད་ དུས་ གཅིག་ ལ་ མྱུར་ དུ་ གསལ་བ་ ལྟར །"
+msgstr ""
+
+# 
 # 。︀	〝ཉམས〞 1669
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
 # expérience) ⁃ expérience
@@ -749,10 +829,6 @@ msgstr ""
 # gravement, débaucher, avilissement, diminution, dépérir
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: expérience expérience de méditation,
 # expérience mystique
-# 
-# 。︀	〝དུས〞 2405
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
 # 
 # 。︀	〝མྱུར་དུ〞 4400
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vite,  Rapidement,
@@ -776,20 +852,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝གསལ་བ〞 6563
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ clarté, lucidité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Clarté, Lucidité, Luminosité, La nature  lumineuse,
-# claire et lucide de l'esprit, Ce qui est clair, évident, manifeste,  Ce qui
-# est clair, sans voile, Ce qui est à clarifier, Le sujet d'élucidation, La
-# chose à établir, ⁃ une claire lucidité, luminosité, lucidité, lumineuse
-# clarté, claire luminosité, clair, être clairement évident (comme, ou en tant
-# que), être évident, illuminer
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ clair, évident, manifeste, clarté ⁃ Clarté
 msgctxt "c533b48a75e24b68b577abf9e71daef9"
-msgid ""
-"གློག་ གིས་ ཐམས་ཅད་ དུས་ གཅིག་ ལ་ མྱུར་ དུ་ གསལ་བ་ ལྟར །  ལམ་ ཉམས་ སུ་ "
-"བླངས་པ␣ས་ རང་དོན་ མྱུར་ དུ་ འགྲུབ་ ཅིང་"
+msgid "ལམ་ ཉམས་ སུ་ བླངས་པ␣ས་ རང་དོན་ མྱུར་ དུ་ འགྲུབ་ ཅིང་"
 msgstr ""
 
 # 
@@ -827,6 +891,27 @@ msgstr ""
 # d'autrui, le but pour les autres
 msgctxt "8a80d48f569b438b8b2a1e34b7d7978a"
 msgid "གཞན་དོན་ མྱུར་བ␣ར་ འགྲུབ་པ␣ར་ བརྩོན་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ཚུལ་ཁྲིམས〞 4681
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Discipline, ⁃ shîla, discipline, éthique, bonne
+# moralité, moralité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éthique/discipline (une des six - ou dix - perfections) ⁃
+# éthique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nang tshul śīla (“rafraîchissant”) Sens racine:
+# Discipline,, ethical conduct (SL BP)ethic (SL MW) Alternatives: discipline
+# (mentale, morale), éthique, moralité, déontologie, préceptes moraux,
+# conduite morale, saine, une observance (pure)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éthique, discipline morale
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shîla, discipline, éthique bonne moralité,
+# moralité
+# 
+# 。︀	〝སྲོག་གཅོད〞 6512
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tuer, attenter à la vie
+msgctxt "dfe858be0a494c74b9bf2b4f200179b7"
+msgid "བྱ་རྒོད་ ཚུལ་ཁྲིམས་ སྲོག་གཅོད་ ལ་ འཛེམ་པ་ ལྟར །"
 msgstr ""
 
 # 
@@ -936,32 +1021,14 @@ msgstr ""
 # correctd'apparence
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
 # 
-# 。︀	〝ཚུལ་ཁྲིམས〞 4681
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Discipline, ⁃ shîla, discipline, éthique, bonne
-# moralité, moralité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éthique/discipline (une des six - ou dix - perfections) ⁃
-# éthique
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nang tshul śīla (“rafraîchissant”) Sens racine:
-# Discipline,, ethical conduct (SL BP)ethic (SL MW) Alternatives: discipline
-# (mentale, morale), éthique, moralité, déontologie, préceptes moraux,
-# conduite morale, saine, une observance (pure)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éthique, discipline morale
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shîla, discipline, éthique bonne moralité,
-# moralité
-# 
 # 。︀	〝གཞན〞 4962
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
-# 
-# 。︀	〝སྲོག་གཅོད〞 6512
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tuer, attenter à la vie
 msgctxt "5b0564bab94543318616202e16fe5ec1"
 msgid ""
-"བྱ་རྒོད་ ཚུལ་ཁྲིམས་ སྲོག་གཅོད་ ལ་ འཛེམ་པ་ ལྟར །  བརླངས་ སྤྱོད་ ཀྱི་ "
-"བརྟུལ་ཞུགས་ ཐེག་པ་ གཞན་ ལ་ མི་ འཚམས་པ་ ལྟར་ སྣང་ ཡང་ འདི␣ར་ བདག་ཉིད་ "
-"ཆེན་པོ␣འི་ ཚུལ་ དུ་ སྤྱད་ ན་ དམ་ཚིག་ སྐྱོང་ ཞིང་ ཉེས་པ་ དག་པ␣འི་ བརྟུལ་ཞུགས་"
-" སོ ། །"
+"བརླངས་ སྤྱོད་ ཀྱི་ བརྟུལ་ཞུགས་ ཐེག་པ་ གཞན་ ལ་ མི་ འཚམས་པ་ ལྟར་ སྣང་ ཡང་ "
+"འདི␣ར་ བདག་ཉིད་ ཆེན་པོ␣འི་ ཚུལ་ དུ་ སྤྱད་ ན་ དམ་ཚིག་ སྐྱོང་ ཞིང་ ཉེས་པ་ "
+"དག་པ␣འི་ བརྟུལ་ཞུགས་ སོ ། །"
 msgstr ""
 
 # 
@@ -976,6 +1043,24 @@ msgstr ""
 # 。︀	〝རྒྱལ་པོ〞 770
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ roi
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: roi
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "41be4d7138b741218fe0c396651c5fdb"
+msgid ""
+"རྒྱལ་པོ་ བག་ དང་ ལྡན་པ␣ས་ རྒྱལ་ས་ གནོན་ ཞིང་ རང་ ལ␣ས་ འཁོར་ གཅེས་པ␣ར་ "
+"སྐྱོང་བ་ ལྟར །"
+msgstr ""
+
 # 
 # 。︀	〝ཆེན་པོ〞 1352
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
@@ -1090,12 +1175,6 @@ msgstr ""
 # primordiale, présence d’immédiateté, connaissance hors du temps,
 # connaissance (ou présence) intemporelle, intelligence immédiate
 # 
-# 。︀	〝ལས〞 6028
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
-# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
-# expériences. ⁃ acte
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -1103,9 +1182,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "20d9941867d946e1b42513ffe77976dc"
 msgid ""
-"རྒྱལ་པོ་ བག་ དང་ ལྡན་པ␣ས་ རྒྱལ་ས་ གནོན་ ཞིང་ རང་ ལ␣ས་ འཁོར་ གཅེས་པ␣ར་ "
-"སྐྱོང་བ་ ལྟར །  དབྱིངས་ ཡེ་ཤེས་ དབྱེ␣ར་ མེད་ བདེ་བ་ ཆེན་པོ␣ར་ རྟོགས་ གོམས་ "
-"ཀྱི་ ཐབས་ ལ་ འབད་པ␣འི་ རྣལ་འབྱོར་པ␣ས་ བརྟུལ་ཞུགས་ ཀྱི་ རྒྱལ་ས་ གནོན་ ཞིང་"
+"དབྱིངས་ ཡེ་ཤེས་ དབྱེ␣ར་ མེད་ བདེ་བ་ ཆེན་པོ␣ར་ རྟོགས་ གོམས་ ཀྱི་ ཐབས་ ལ་ "
+"འབད་པ␣འི་ རྣལ་འབྱོར་པ␣ས་ བརྟུལ་ཞུགས་ ཀྱི་ རྒྱལ་ས་ གནོན་ ཞིང་"
 msgstr ""
 
 # 
