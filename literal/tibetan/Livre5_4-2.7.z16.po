@@ -357,43 +357,6 @@ msgid "སྣང་ བཏགས་ཆོས་ ཉིད་ དུ་ གྲོ
 msgstr ""
 
 # 
-# 。︀	〝རང་བཞིན〞 5664
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ juste nature, essence ⁃ nature (propre), essence, être-
-# par-soi
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etat, Modalité, L'essence, La nature, L'en soi, La
-# disposition naturelle, Sans artifice, Sans effort, Naturel, La nature de
-# tous les phénomènes. ⁃ svabhâva, nature (p73, 86), l'état présent (p99), la
-# nature des choses, nature intrinsèque (ou inhérente, propre)
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "nature; conceptions, conceptions naturelles, prakrit:
-# substance universelle, primordiale. Nature propre, être en soi, conceptions
-# naturelles" ⁃ nature
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nature, essence ⁃ Nature spontanée     svabhava,
-# l'Expression Naturelle, l'Existence spontanée. Sens ordinaire la nature
-# propre
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rdzogs pa chen po Sens racine: la grande perfection
-# naturelle
-# 
-# 。︀	〝རང་བཞིན་ལྷུན་གྲུབ〞 5704
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ La nature spontanée, La nature subsistant de par soi
-# (en soi, par soi) Existant sans effort ou fabrication, Existant
-# spontanément,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ caractère spontané
-# 
-# 。︀	〝ལྷུན་གྲུབ〞 6789
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ spontanément présent
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Spontané, Accompli spontanément,  Réalisé sans effort,
-# Accompli de soi, Qui subsiste de soi, Auto subsistant, ⁃ anâbhoga,
-# l'autosubsistance, la pratique du spontané (p106, n341), spontanément achevé
-# (ou apparu, parfait), spontanément présent, présence spontanée, spontanément
-# parachevé en soi, réalisé sans effort
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ présence spontanée, spontanéité, présence naturelle
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ présence spontanée, spontanément accompli ⁃ Présence
-# Spontanée, spontanément accompli
-msgctxt "f766c13897c544b6a2bd2147b7ed1f51"
-msgid "རང་བཞིན་ ལྷུན་གྲུབ་ ལ་ ལྟོས་ ནས་"
-msgstr ""
-
-# 
 # 。︀	〝ཉམས་ལེན〞 1684
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pratiquer, faire la pratique de. Mettre en pratique,
 # Cultiver l'expérience ⁃ pratique ⁃ pratiquer, mettre en pratique, cultiver
@@ -495,6 +458,28 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lumière, ⁃ la lumière (p86)
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: la lumière
 # 
+# 。︀	〝རང་བཞིན〞 5664
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ juste nature, essence ⁃ nature (propre), essence, être-
+# par-soi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etat, Modalité, L'essence, La nature, L'en soi, La
+# disposition naturelle, Sans artifice, Sans effort, Naturel, La nature de
+# tous les phénomènes. ⁃ svabhâva, nature (p73, 86), l'état présent (p99), la
+# nature des choses, nature intrinsèque (ou inhérente, propre)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "nature; conceptions, conceptions naturelles, prakrit:
+# substance universelle, primordiale. Nature propre, être en soi, conceptions
+# naturelles" ⁃ nature
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nature, essence ⁃ Nature spontanée     svabhava,
+# l'Expression Naturelle, l'Existence spontanée. Sens ordinaire la nature
+# propre
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rdzogs pa chen po Sens racine: la grande perfection
+# naturelle
+# 
+# 。︀	〝རང་བཞིན་ལྷུན་གྲུབ〞 5704
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ La nature spontanée, La nature subsistant de par soi
+# (en soi, par soi) Existant sans effort ou fabrication, Existant
+# spontanément,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ caractère spontané
+# 
 # 。︀	〝རང་གསལ〞 5747
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Clair en soi, Lucide de soi en soi, Clarté de la
 # cognition s'expérimentant en elle-même. Auto lucidité, Lucidité réflexive,
@@ -517,8 +502,8 @@ msgstr ""
 # Spontanée, spontanément accompli
 msgctxt "562c2d5b37c94203917f9645b67b9fc5"
 msgid ""
-"ཐོད་རྒལ་ གྱི་ དམ་ཚིག་ ཏུ་ འོད་ ལྔ་ རང་ གསལ་ ལྷུན་གྲུབ་ སྣང་བ་ བཞྀའི་ "
-"ཉམས་ལེན་ དང་ མ་ བྲལ་བ␣ས་"
+"རང་བཞིན་ ལྷུན་གྲུབ་ ལ་ ལྟོས་ ནས་ ཐོད་རྒལ་ གྱི་ དམ་ཚིག་ ཏུ་ འོད་ ལྔ་ རང་ གསལ་"
+" ལྷུན་གྲུབ་ སྣང་བ་ བཞྀའི་ ཉམས་ལེན་ དང་ མ་ བྲལ་བ␣ས་"
 msgstr ""
 
 # 
