@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\communicative",
-    "\\communicative\\paragraphs",
-    "\\literal"
+    "\\literal",
+    "\\literal\\tibetan"
   ],
-  "SelectedNode": "\\communicative\\paragraphs\\Livre5_4-2.7.k.txt",
+  "SelectedNode": "\\A_gen_literal_po.py",
   "PreviewInSolutionExplorer": false
 }
