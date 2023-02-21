@@ -1192,7 +1192,7 @@ msgid ""
 "ཡུལ་ བུད་མེད་ སྤྱི་ ལ་ ཞེ་ ནས་ སྨོད་པ␣འི་ བསྟིང་ཚིག་ བརྗོད་ ན་ ལྟུང་བ␣ར་ "
 "གྱུར་ ཏེ །"
 msgstr ""
-"La faute majeure à critiquer verbalement, conscienment et par derrière les "
+"La faute majeure à dénigrer verbalement, conscienment et avec ironie les "
 "femmes en général."
 
 # 。︀	〝ཡན་ལག〞 5331
@@ -1314,7 +1314,7 @@ msgstr ""
 # réalité
 msgctxt "bb9d4b0535654fa088f3cf9879aa9111"
 msgid "རྡོ་རྗེ་ སྙིང་ རྒྱན །"
-msgstr "Le Tantra l'Ornement du Coeur Adamantin,"
+msgstr " Le Tantra Ornement de l’Essence vajra "
 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
