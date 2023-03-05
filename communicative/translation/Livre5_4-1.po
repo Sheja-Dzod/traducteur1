@@ -118,7 +118,10 @@ msgid ""
 "sur la voie). En effet,"
 msgstr ""
 "Selon la tradition des traducteurs secondaires (ou de la traduction nouvelle), il est dit qu’il y a deux façons d’entrer dans le véhicule des mantras: les individus peu fortunés y entrent progressivement et les individus fortunés directement. \n"
-"La première méthode est enseignée directement dans le tantra d'Hevajra, cependant, dans les autres tantras elle est indirectement enseigné comme une méthode majeur pour amener les disciples sur la voie. En effet,"
+"La première méthode est enseignée directement dans le tantra d'Hevajra, cependant, dans les autres tantras elle est indirectement enseigné comme une méthode majeur pour amener les disciples sur la voie. En effet,\n"
+"\n"
+"Selon la tradition des traducteurs secondaires (correspondant à la traduction nouvelle), il y a deux façons d’entrer dans le véhicule des mantras : de manière progressive pour les individus peu fortunés et de manière directe pour les individus fortunés.\n"
+"La première méthode est enseignée ouvertement dans le tantra d’Hevajra, cependant, dans les autres tantras elle est enseignée indirectement comme méthode majeure pour amener les disciples sur la voie. En effet,"
 
 #  12. བརྟག་གཉིས་ལས། 13. དང་པོར་གསོ་སྦྱོང་སྦྱིན་པར་བྱ།
 # །དེ་རྗེས་བསླབ་པའི་གནས་བཅུ་
