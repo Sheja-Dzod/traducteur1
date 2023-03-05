@@ -87,7 +87,7 @@ msgstr ""
 #  8. དང་པོ་ནི།་
 msgctxt "line 6, Livre5_4-1.txt"
 msgid "Premièrement (présentation générale) :"
-msgstr "1. Présentation générale :"
+msgstr "a) Présentation générale de la tradition nouvelle du mantra"
 
 #  9. ཕྱི་འགྱུར་ལུགས་ལ་རིམ་དང་ཅིག་ཅར་འཇུག །་
 msgctxt "line 7, Livre5_4-1.txt"
