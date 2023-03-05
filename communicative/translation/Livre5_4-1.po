@@ -68,8 +68,8 @@ msgid ""
 "Deuxièmement (l’explication détaillée) a deux parties: la tradition nouvelle"
 " du mantra et la tradition ancienne."
 msgstr ""
-"Deuxièmement, l’explication détaillée, a deux parties: la tradition nouvelle"
-" du mantra et la tradition ancienne."
+"2. Explication détaillée des vœux du Mantra\n"
+"Elle se compose de deux parties : la tradition nouvelle du mantra et la tradition ancienne."
 
 #  7. དང་པོ་ལའང་གཉིས། འཇུག་ཚུལ་སྤྱིར་བསྟན། སྡོམ་པ་དངོས་བྱེ་བྲག་ཏུ་བཤད་པའོ། །་
 # 
