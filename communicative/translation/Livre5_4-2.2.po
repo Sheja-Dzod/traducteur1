@@ -141,8 +141,8 @@ msgid ""
 "Le premier (de ces trois voeux) n’as que le nom de ‘’voeux (engagement) du "
 "Mantra’’ alors que les deux autres en sont de véritables."
 msgstr ""
-"Le premier de ces trois vœux n’as que le nom de ‘’vœux (engagement) du "
-"Mantra’’ alors que les deux autres sont de véritables vœux. "
+"Le premier de ces trois types de vœux n’a que le nom de « vœu du Mantra » "
+"alors que les deux autres sont de véritables vœux."
 
 #  10. གཉིས་པ་ནི། 11. རྗོད་བྱེད་བྱ་སྤྱོད་རྣལ་འབྱོར་བླ་མེད་བཞི། །་
 msgctxt "line 8, Livre5_4-2.2.txt"
@@ -150,9 +150,9 @@ msgid ""
 "Deuxièmement : Selon le facteur enseignant elle est quadruple: Action, "
 "Conduite, Union et Insurpassable."
 msgstr ""
-"2.   Le signifiant ou les différentes classes de tantra\n"
+"B. Le signifiant, ou méthode d’enseignement, correspondant aux quatre classes de tantras\n"
 "\n"
-"« Selon le signifiant quadruple : Action, de la Conduite, de l’Union et Insurpassable. » "
+"« Les moyens d’enseigner se répartissent en quatre catégories : l’Action, la Conduite, l’Union et l’Union Insurpassable. »"
 
 #  12. རྗོད་བྱེད་རྒྱུད་སྡེ་བཞིའི་སྒོ་ནས་དབྱེ་ན། བྱ་བ། སྤྱོད་པ། རྣལ་འབྱོར།
 # བླ་མེད་ཀྱི་
