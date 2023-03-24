@@ -32,7 +32,9 @@ msgstr ""
 "\n"
 "B.   Le signifiant ou moyen d’enseigner, correspondant aux quatre classes de tantras ;\n"
 "\n"
-"C.   Le support qui permet d’obtenir les vœux, c’est-à-dire, les rituels."
+"C.   Le support qui permet d’obtenir les vœux, c’est-à-dire, les rituels.\n"
+"\n"
+"A. Le signifié ou tantra absolu"
 
 #  3. དབྱེ་བ་བརྗོད་བྱ་རྒྱུ་ཐབས་འབྲས་བུ་གསུམ། །སྣང་གྲགས་ཆོས་ཀུན་ལྷན་སྐྱེས་
 # 
