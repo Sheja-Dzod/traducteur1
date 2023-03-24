@@ -193,8 +193,8 @@ msgid ""
 "Le deuxième consiste à faire la même promesse en faisant de la félicité due "
 "au regard, la voie."
 msgstr ""
-"Dans les Tantras de la Conduite l’engagement est le même mais en faisant de "
-"la félicité due au regard notre voie."
+"Dans les Tantras de la Conduite, l’engagement est le même mais c’est la "
+"félicité due à la vision qui devient notre voie."
 
 #  15. གསུམ་པ་ནི། ལག་བཅངས་ཀྱི་བདེ་བ་ལམ་བྱེད་ཀྱི་སྒོ་ནས་དེ་ལྟར་
 # 
@@ -204,8 +204,8 @@ msgid ""
 "Le troisième consiste à faire la même promesse en faisant de la félicité due"
 " au contact (litt. tenir la main), la voie."
 msgstr ""
-"Dans les Tantras de l’Union, l’engagement est le même mais en faisant de la "
-"félicité due au contact notre voie."
+"Dans les Tantras de l’Union, l’engagement reste le même mais c’est la "
+"félicité due au contact qui devient notre voie."
 
 #  16. བཞི་པ་ནི། དབང་པོ་གཉིས་སྦྱོར་གྱི་བདེ་བ་ལམ་བྱེད་ཀྱི་སྒོ་ནས་
 # 
