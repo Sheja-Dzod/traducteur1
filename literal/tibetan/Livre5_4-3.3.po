@@ -23,29 +23,18 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
 # caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
 # même
+msgctxt "ba104acf13474025895535c60947a198"
+msgid "ངོ་བོ་ ཐ་དད་"
+msgstr ""
+
 msgctxt "61f164f10522444ebf27daf83194b657"
-msgid "ངོ་བོ་ ཐ་དད་ བསྲུང་ ན་ འཆོལ་བ␣ར་ བསྲུངས ། །"
+msgid "བསྲུང་ ན་ འཆོལ་བ␣ར་ བསྲུངས ། །"
 msgstr ""
 
 # 
 # 。︀	〝སྐྱོན〞 271
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Défauts
-# 
-# 。︀	〝རྗེས〞 1611
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ subséquent ⁃ suite, traces, après
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: subsequent (SL BP)
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. suite, traces, après 2. (section de)
-# conclusion
-# 
-# 。︀	〝ཐོབ་པ〞 2249
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
-# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
-# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
-# imminente, réalisation, gain, achèvement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
-# Obtention
 # 
 # 。︀	〝ཚུལ〞 4680
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
@@ -67,21 +56,43 @@ msgstr ""
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Qualités, Connaissances,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Qualités
+msgctxt "09b6e81ab565481d8cb93fdf50720e9f"
+msgid ""
+"འདོམ་ཐུག་ གོང་མ་ གཙོ་ ཞིང་ འོག་མ་ ཡི ། ། སྐྱོན་ ཀུན་ ཟིལ་གནོན་ ཡོན་ཏན་ ཡར་ "
+"ལྡན་ ཚུལ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝ས་མཚམས〞 6294
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Frontière, Limite de terres, Limite (dans la
+# réalisation de degrès spirituels)
+msgctxt "cfcd1ccbb4744f53a9eb7cb10646811e"
+msgid "གཏོང་ དང་ ཐོབ་པ␣འི་ ས་མཚམས་ ཐ་དད་ ཅེས ། །"
+msgstr ""
+
+# 
+# 。︀	〝རྗེས〞 1611
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ subséquent ⁃ suite, traces, après
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: subsequent (SL BP)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. suite, traces, après 2. (section de)
+# conclusion
 # 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝ས་མཚམས〞 6294
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Frontière, Limite de terres, Limite (dans la
-# réalisation de degrès spirituels)
 msgctxt "47c385873933465baaba69482c51eeba"
-msgid ""
-"འདོམ་ཐུག་ གོང་མ་ གཙོ་ ཞིང་ འོག་མ་ ཡི ། ། སྐྱོན་ ཀུན་ ཟིལ་གནོན་ ཡོན་ཏན་ ཡར་ "
-"ལྡན་ ཚུལ ། ། གཏོང་ དང་ ཐོབ་པ␣འི་ ས་མཚམས་ ཐ་དད་ ཅེས ། །  མཉམ་མེད་ དྭགས་པོ་ "
-"རྗེས་ འབྲངས་ བཅས་པ␣ས་ བཞེད ། །"
+msgid "མཉམ་མེད་ དྭགས་པོ་ རྗེས་ འབྲངས་ བཅས་པ␣ས་ བཞེད ། །"
 msgstr ""
 
 # 
