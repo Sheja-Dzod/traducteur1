@@ -408,6 +408,18 @@ msgid "བསྲུང་ ན་ འཆོལ་བ␣ར་ བསྲུང༌ 
 msgstr ""
 
 # 
+# 。︀	〝སྔགས〞 1190
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mantra Parole efficiente Charme ⁃ mantra, parole
+# efficiente, charme
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: MantraParole efficienteCharme
+# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrés,
+# formule magique, incantation, parole active, parole de force, ce qui
+# rappelle le suprêmeprotège-esprit, conscience, mental charme, sortlouer,
+# vanter
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
+# 
 # 。︀	〝བརྟེན〞 2066
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
@@ -431,39 +443,19 @@ msgstr ""
 # d'offrandes tantriques, cercle mystique, de rassemblement, agapes, fête
 # vajra, rituel d'offrandesactes vertueux
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Assemblage
-msgctxt "1a47d66c696d4973b385d8dbeebe35cf"
-msgid "ཚོགས་ ཀྱི་ དམ་རྫས་ ལྟ་བུ་ མ་ བརྟེན་ ན་"
-msgstr ""
-
-# 
-# 。︀	〝སྔགས〞 1190
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ mantra, formule
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mantra Parole efficiente Charme ⁃ mantra, parole
-# efficiente, charme
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: MantraParole efficienteCharme
-# Alternatives: mantra, (formule d') invocation, mots de pouvoir sacrés,
-# formule magique, incantation, parole active, parole de force, ce qui
-# rappelle le suprêmeprotège-esprit, conscience, mental charme, sortlouer,
-# vanter
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ formule sacrée ⁃ Formule, le mantra
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mantra, parole efficiente, charme
-# 
-# 。︀	〝བརྟེན〞 2066
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
-msgctxt "c141a27e10f745b58e832946428389ee"
-msgid "སྔགས་ དང་ འགལ་ ལ་ བརྟེན་ ན་"
+msgctxt "a58412b2deef47268e927c6729a5fdd9"
+msgid "ཚོགས་ ཀྱི་ དམ་རྫས་ ལྟ་བུ་ མ་ བརྟེན་ ན་ སྔགས་ དང་ འགལ་ ལ་"
 msgstr ""
 
 # 
 # 。︀	〝འགལ་བ〞 699
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contradiction
 # 
-# 。︀	〝སོ་ཐར〞 6417
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
-# personelle,
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
 msgctxt "992f779028f34811a7649d4ba01496bf"
-msgid "སོ་ཐར་ དང་ འགལ་བ་ ལྟ་བུ་ འདོམ་ཐུག་ ན་"
+msgid "བརྟེན་ ན་སོ་ ཐར་ དང་ འགལ་བ་ ལྟ་བུ་ འདོམ་ཐུག་ ན་"
 msgstr ""
 
 msgctxt "d4b6e7c8cbf345cb9e1793b22d82f8a8"
