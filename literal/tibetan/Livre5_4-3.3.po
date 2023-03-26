@@ -369,6 +369,10 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Point clé, le point crucial
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: point particulier, (pratique) essentielle
 # point clé, point essentiel, point crucial, point vital
+msgctxt "403b10a8e40e41798a1aa1d1830efd4a"
+msgid "སྡོམ་ གསུམ་ གཉེན་པོ␣འི་ གནད་ ལ་ གཅིག །"
+msgstr ""
+
 # 
 # 。︀	〝སྤང་གཉེན〞 3350
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Quelque chose  à abandonner et son antidote.
@@ -385,9 +389,7 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: objets référence, domaine, envergure, être à
 # la portée de
 msgctxt "7def1ec6b4c04e6dac396ed9482cbfd1"
-msgid ""
-"སྡོམ་ གསུམ་ གཉེན་པོ␣འི་ གནད་ ལ་ གཅིག །  སྤང་ གཉེན་ གྱི་ ཡུལ་ གང་ དང་ ཕྲད་པ་ "
-"དེ་ དང་"
+msgid "སྤང་ གཉེན་ གྱི་ ཡུལ་ གང་ དང་ ཕྲད་པ་ དེ་ དང་"
 msgstr ""
 
 # 
@@ -468,6 +470,10 @@ msgstr ""
 # personelle,
 msgctxt "992f779028f34811a7649d4ba01496bf"
 msgid "སོ་ཐར་ དང་ འགལ་བ་ ལྟ་བུ་ འདོམ་ཐུག་ ན་"
+msgstr ""
+
+msgctxt "d4b6e7c8cbf345cb9e1793b22d82f8a8"
+msgid "གོང་མ་ གཙོ␣ར་ སྤྱད །"
 msgstr ""
 
 # 
@@ -552,10 +558,9 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ intention d'agir, pensée
 msgctxt "ac29f743ff2a42369a1677cdbafcd3c7"
 msgid ""
-"གོང་མ་ གཙོ␣ར་ སྤྱད །  དེ་ལྟར་ ན␣འང་ བསམ་པ་ དང་ ཐབས་ ཁྱད་པར་ཅན་ གྱིས་ "
-"ཟིན་པ␣ས་ སོ་ཐར་ གྱི་ བཅས་ འདས་ ཉེས་པ་ མི་ འབྱུང་བ␣ས་ འོག་མ␣འི་ སྐྱོན་ ཟིལ་ "
-"གྱིས་ གནོན །  ཉེས་ལྟུང་ མེད་པ་ ཙམ་ དུ་མ་ ཟད་ གོང་མ␣འི་ ཕན་ཡོན་ རྒྱ་ཆེན་པོ་ "
-"འབྱུང་བ␣ས་"
+"དེ་ལྟར་ ན␣འང་ བསམ་པ་ དང་ ཐབས་ ཁྱད་པར་ཅན་ གྱིས་ ཟིན་པ␣ས་ སོ་ཐར་ གྱི་ བཅས་ "
+"འདས་ ཉེས་པ་ མི་ འབྱུང་བ␣ས་ འོག་མ␣འི་ སྐྱོན་ ཟིལ་ གྱིས་ གནོན །  ཉེས་ལྟུང་ "
+"མེད་པ་ ཙམ་ དུ་མ་ ཟད་ གོང་མ␣འི་ ཕན་ཡོན་ རྒྱ་ཆེན་པོ་ འབྱུང་བ␣ས་"
 msgstr ""
 
 # 
