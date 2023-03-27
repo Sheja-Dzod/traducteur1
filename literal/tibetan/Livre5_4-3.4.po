@@ -146,18 +146,6 @@ msgid "སོགས་ཁོངས་ ནས་ ལོ་ཆེན་ རིན�
 msgstr ""
 
 # 
-# 。︀	〝དགག〞 606
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ cessation
-# 
-# 。︀	〝དགག་བྱ〞 613
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ objet de réfutation/négation ⁃ objet de
-# réfutation/négation ⁃ objet de négation/réfutation
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objet de réfutation ⁃ objet de négation/ réfutation
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ objet à réfuter
-# 
-# 。︀	〝དགོས་པ〞 672
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
-# 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
 # Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
@@ -184,13 +172,10 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: subsequent (SL BP)
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. suite, traces, après 2. (section de)
 # conclusion
-# 
-# 。︀	〝ཉོན་མོངས་པ〞 1738
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
-# négative
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ passionnel, passions, émotions conflictuelles
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: klesha, passions, émotions conflictuelles
-# passionnel, émotions négatives
+msgctxt "5de324ad125d435c997b0f400d2ed546"
+msgid "རོང་ ཟོམ་ ཆོས་ བཟང་ རྗེས་ འབྲང་ དང་ བཅས་པ་ རྣམས་ ནི །"
+msgstr ""
+
 # 
 # 。︀	〝ཐ་དད་པ〞 2086
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ différent, séparé
@@ -219,6 +204,67 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les trois voeux sont les engagements acceptés qui
 # fournissent les bases de l'entraînement dans les trois véhicules.
 # 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝ཡུལ〞 5398
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Objet de la connaissance, Pays, Contrée, Domaine, ⁃
+# objets
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objet, domaine, environnement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lieu, espace ⁃ objet ⁃ Localisation ⁃ Domaine, sphère ⁃
+# Objet
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: objets référence, domaine, envergure, être à
+# la portée de
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "88966bb50330447d9f3c136846af8721"
+msgid ""
+"སྡོམ་པ་ གསུམ་ བླངས་པ␣འི་ ཡུལ་ སོགས་ ཐ་དད་པ␣ས་ རང་རང་ གི་ ལྡོག་ ཆ་ མ་ འདྲེས །"
+msgstr ""
+
+# 
+# 。︀	〝དགག་བྱ〞 613
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ objet de réfutation/négation ⁃ objet de
+# réfutation/négation ⁃ objet de négation/réfutation
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objet de réfutation ⁃ objet de négation/ réfutation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ objet à réfuter
+# 
+# 。︀	〝ཉོན་མོངས་པ〞 1738
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
+# négative
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ passionnel, passions, émotions conflictuelles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: klesha, passions, émotions conflictuelles
+# passionnel, émotions négatives
+# 
+# 。︀	〝སྤོང་བ〞 3367
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = spang ba prahāṇāni, prahāṇa, prahīṇa, varjita
+# Sens racine: Abandonner,Renoncer,, spangs pa = abandonment, relinquishment
+# (SL BP) Alternatives: renoncer, abandonner, arrêter de, lâcher prise,
+# laisser tomber, se débarrasser de, abandon, élimination, rejeter
+msgctxt "dda2caf4aafd4e60be214e144f00b189"
+msgid "དགག་བྱ་ ཉོན་མོངས་པ་ རང་མཚན་པ་ སྤོང་བ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དགག〞 606
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ cessation
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝ཉོན་མོངས་པ〞 1738
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
+# négative
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ passionnel, passions, émotions conflictuelles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: klesha, passions, émotions conflictuelles
+# passionnel, émotions négatives
+# 
 # 。︀	〝གནད〞 3000
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Point essentiel, Important, Essentiel, L'artère de vie
 # dans le corps, ⁃ point particulier (p104), (pratique) essentielle, point
@@ -233,30 +279,10 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: point particulier, (pratique) essentielle
 # point clé, point essentiel, point crucial, point vital
 # 
-# 。︀	〝སྤོང་བ〞 3367
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = spang ba prahāṇāni, prahāṇa, prahīṇa, varjita
-# Sens racine: Abandonner,Renoncer,, spangs pa = abandonment, relinquishment
-# (SL BP) Alternatives: renoncer, abandonner, arrêter de, lâcher prise,
-# laisser tomber, se débarrasser de, abandon, élimination, rejeter
-# 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
-# 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
 # (êtres) humains, hommes, homo sapiens
-# 
-# 。︀	〝ཡུལ〞 5398
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Objet de la connaissance, Pays, Contrée, Domaine, ⁃
-# objets
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ objet, domaine, environnement
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ lieu, espace ⁃ objet ⁃ Localisation ⁃ Domaine, sphère ⁃
-# Objet
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: objets référence, domaine, envergure, être à
-# la portée de
 # 
 # 。︀	〝ཡོངས་རྫོགས〞 5519
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Complétement parfait, Compléte perfection, Parachevé,
@@ -273,10 +299,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "8424746aec6c424eac33ade7f7b88532"
 msgid ""
-"རོང་ ཟོམ་ ཆོས་ བཟང་ རྗེས་ འབྲང་ དང་ བཅས་པ་ རྣམས་ ནི །  སྡོམ་པ་ གསུམ་ "
-"བླངས་པ␣འི་ ཡུལ་ སོགས་ ཐ་དད་པ␣ས་ རང་རང་ གི་ ལྡོག་ ཆ་ མ་ འདྲེས །  དགག་བྱ་ "
-"ཉོན་མོངས་པ་ རང་མཚན་པ་ སྤོང་བ་ དང༌ །  དགོས་པ་ ཉོན་མོངས་པ␣ས་ མི་ འཆིང་བ་ གནད་ "
-"གཅིག་པ␣ས་ དགག་ འོས་ དགག་ དགོས་ ཡོངས་རྫོགས །"
+"དགོས་པ་ ཉོན་མོངས་པ␣ས་ མི་ འཆིང་བ་ གནད་ གཅིག་པ␣ས་ དགག་ འོས་ དགག་ དགོས་ "
+"ཡོངས་རྫོགས །"
 msgstr ""
 
 # 
@@ -311,9 +335,6 @@ msgid ""
 msgstr ""
 
 # 
-# 。︀	〝ཐབས་ཤེས〞 2119
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Méthodes et connaissance
-# 
 # 。︀	〝ཐེག་ཆེན〞 2203
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Grand Véhicule, Mahayana
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ le grand véhicule
@@ -333,12 +354,6 @@ msgstr ""
 # rétention, s'abstenir
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 # 
-# 。︀	〝ཟིན་པ〞 5129
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ contrôler, tenir, fixer
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisir, Retenir, Mémoriser, Terminer, Achever, ⁃
-# terminé, fini, accompli, fait
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: terminé, fini, accompli, fait
-# 
 # 。︀	〝སེམས་བསྐྱེད〞 6367
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Développer le cour esprit du suprême éveil, ⁃
 # Développer bodhicitta, Développer, Engender, Générer: + l'esprit (d'éveil),
@@ -353,10 +368,22 @@ msgstr ""
 # 。︀	〝སོ་ཐར〞 6417
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
 # personelle,
-msgctxt "6a617213625a4cb9bf2714a457af6658"
+msgctxt "cd96be3a8ff74d31ac60baef6d5dcf15"
 msgid ""
-"སོ་ཐར་ སྡོམ་པ་ དེ་ ཐེག་ཆེན་ སེམས་བསྐྱེད་ ཀྱིས་ ཟིན་ ན་ དེ␣འི་ སྡོམ་པ་ དང༌ ། "
-" དེ␣འང་ ཐབས་ཤེས་ ཁྱད་པར་ཅན་ གྱིས་ ཟིན་པ་ ན་"
+"སོ་ཐར་ སྡོམ་པ་ དེ་ ཐེག་ཆེན་ སེམས་བསྐྱེད་ ཀྱིས་ ཟིན་ ན་ དེ␣འི་ སྡོམ་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝ཐབས་ཤེས〞 2119
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Méthodes et connaissance
+# 
+# 。︀	〝ཟིན་པ〞 5129
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ contrôler, tenir, fixer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisir, Retenir, Mémoriser, Terminer, Achever, ⁃
+# terminé, fini, accompli, fait
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: terminé, fini, accompli, fait
+msgctxt "6a617213625a4cb9bf2714a457af6658"
+msgid "དེ␣འང་ ཐབས་ཤེས་ ཁྱད་པར་ཅན་ གྱིས་ ཟིན་པ་ ན་"
 msgstr ""
 
 # 
