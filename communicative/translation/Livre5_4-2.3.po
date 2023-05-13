@@ -128,9 +128,9 @@ msgid ""
 "dans leur parfaite complétude une fois que les rituels d’inititation "
 "correspondants à leur (classes de Tantras) respectif sont accomplis."
 msgstr ""
-"Tout ceci nous amène au résumé suivant: les vœux tantriques sont obtenus "
+"Tout ceci nous amène au résumé suivant : les vœux tantriques sont obtenus "
 "dans leur parfaite complétude une fois que les rituels d’initiation "
-"correspondants à leur classes de Tantras respectif sont terminés. "
+"correspondants à leur classes de Tantras respectifs sont terminés."
 
 #  13. འོན་ཀྱང་བྱ་སྤྱོད་གཉིས་ལ་རྡོ་རྗེ་སློབ་དཔོན་གྱི་དབང་ཇི་ལྟར་
 # 
