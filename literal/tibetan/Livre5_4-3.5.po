@@ -39,13 +39,6 @@ msgid "སོ་སོ␣ར་ ལུང་ དང་ རིགས་པ␣འ�
 msgstr ""
 
 # 
-# 。︀	〝འགྱུར་བ〞 715
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
-# traduire,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
-# transformer,Transformation, traduire, Alternatives: transformation,
-# transmutation, changer, révolution, évolution
-# 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Cause, Substance, Biens, ⁃ cause
@@ -64,35 +57,6 @@ msgstr ""
 # incontestable, indéniable.
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Certitude, vérité, vrai, certain, établi
 # 
-# 。︀	〝དྭངས་པ〞 2515
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ une transparence ouverte (p85), lustre, brillance,
-# clair, pur, limpidité transparente (p70), transparent
-# 
-# 。︀	〝སྡོམ〞 2920
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ .des voux
-# 
-# 。︀	〝སྣོད〞 3294
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réceptacle/récipient/récepteur
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ réceptacle inanimé
-# 
-# 。︀	〝དཔེ〞 3330
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Exemple, Image, Symbole, Illustration, Analogie,
-# Métaphore, Modèle, Echantillon, ⁃ exemple, métaphore, allégorie
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dṛṣṭānta/ udāharaṇa (TR), upamā Sens racine:
-# Exemple,Image,Symbole,Illustration,Analogie,Métaphore,Modèle,Echantillon,
-# Alternatives: exemple, image, métaphore, comparaison, analogie, allégorie,
-# illustration, échantillon, copie, prototype, modèle
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ exemple
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: exemple, métaphore, allégorie
-# 
-# 。︀	〝བླུགས་པ〞 3884
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ remplissage (au sens où la consécration fait voir
-# clairement la présence naturelle des trois corps du fond en soi, à demeure
-# depuis toujours) (p19)
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: remplissage (au sens où la consécration fait
-# voir clairement la présence naturelle des trois corps du fond en soi, à
-# demeure depuis toujours)
-# 
 # 。︀	〝ཚུལ〞 4680
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
 # Comportement, ⁃ les circonstances (p106), méthode, manière, mode
@@ -102,16 +66,6 @@ msgstr ""
 # moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
 # correctd'apparence
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
-# 
-# 。︀	〝ཡན་ལག〞 5331
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Branches, Subdivisions,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ membre / partie
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 # 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
@@ -125,15 +79,72 @@ msgstr ""
 # 
 # 。︀	〝སོ་སོར་ངེས་པ〞 6440
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ distinction
+msgctxt "9161aa8d933c496fa6cb1ce09ba0b446"
+msgid "རི་བོ་ དགེ་ ལྡན་པ་ ནི་ ཐོབ་ ཚུལ་ གཏོང་ རྒྱུ་ སོ་སོ␣ར་ ངེས་པ␣ས་"
+msgstr ""
+
 # 
-# 。︀	〝སོ་སོར་ངེས་པས〞 6441
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Détermination des distinctions
+# 。︀	〝སྡོམ〞 2920
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ .des voux
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "9d024e7cab1447dbba521ba2c12410b6"
+msgid "སྡོམ་ གསུམ་ ཚུལ་ ཐ་དད །"
+msgstr ""
+
+# 
+# 。︀	〝འགྱུར་བ〞 715
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
+# traduire,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
+# transformer,Transformation, traduire, Alternatives: transformation,
+# transmutation, changer, révolution, évolution
+# 
+# 。︀	〝དཔེ〞 3330
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Exemple, Image, Symbole, Illustration, Analogie,
+# Métaphore, Modèle, Echantillon, ⁃ exemple, métaphore, allégorie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dṛṣṭānta/ udāharaṇa (TR), upamā Sens racine:
+# Exemple,Image,Symbole,Illustration,Analogie,Métaphore,Modèle,Echantillon,
+# Alternatives: exemple, image, métaphore, comparaison, analogie, allégorie,
+# illustration, échantillon, copie, prototype, modèle
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ exemple
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: exemple, métaphore, allégorie
+# 
+# 。︀	〝ཡན་ལག〞 5331
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Branches, Subdivisions,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ membre / partie
+msgctxt "7895c7175e9d4c83be42b6e722e2a057"
+msgid "འོག་མ་ གོང་མ␣འི་ ཡན་ལག་ ཏུ་ འགྱུར་བ␣འི་ དཔེ␣ར །"
+msgstr ""
+
+# 
+# 。︀	〝དྭངས་པ〞 2515
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ une transparence ouverte (p85), lustre, brillance,
+# clair, pur, limpidité transparente (p70), transparent
+# 
+# 。︀	〝སྣོད〞 3294
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réceptacle/récipient/récepteur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ réceptacle inanimé
+# 
+# 。︀	〝བླུགས་པ〞 3884
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ remplissage (au sens où la consécration fait voir
+# clairement la présence naturelle des trois corps du fond en soi, à demeure
+# depuis toujours) (p19)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: remplissage (au sens où la consécration fait
+# voir clairement la présence naturelle des trois corps du fond en soi, à
+# demeure depuis toujours)
 msgctxt "0bc102bf01924aada3fe23a1fde1423f"
 msgid ""
-"རི་བོ་ དགེ་ ལྡན་པ་ ནི་ ཐོབ་ ཚུལ་ གཏོང་ རྒྱུ་ སོ་སོ␣ར་ ངེས་པ␣ས་ སྡོམ་ གསུམ་ "
-"ཚུལ་ ཐ་དད །  འོག་མ་ གོང་མ␣འི་ ཡན་ལག་ ཏུ་ འགྱུར་བ␣འི་ དཔེ␣ར །  སྣོད་ ཤིན་ཏུ་ "
-"དྭངས་པ␣ར་ ཆུ་ གཙང་ བླུགས་པ␣འི་ ནང་ དུ་ རིན་པོ་ཆེ་ ཨིནྡྲ་ ནཱི་ ལ་ ལྟ་བུ་ "
-"བཅུག་ ན་"
+"སྣོད་ ཤིན་ཏུ་ དྭངས་པ␣ར་ ཆུ་ གཙང་ བླུགས་པ␣འི་ ནང་ དུ་ རིན་པོ་ཆེ་ ཨིནྡྲ་ ནཱི་ "
+"ལ་ ལྟ་བུ་ བཅུག་ ན་"
 msgstr ""
 
 msgctxt "65640b12a9984624a9f122d0317f1ecf"
@@ -160,9 +171,6 @@ msgctxt "83f0e426ff7b4d7cae1b3083bdb37b65"
 msgid "རིན་པོ་ཆེ␣འི་ ཁ་དོག་ ཏུ་ འགྱུར་བ␣ས་ མཚོན་པ␣ས་"
 msgstr ""
 
-# 
-# 。︀	〝སྒྲུབ་བྱེད〞 938
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ démonstration, preuve; démontrer, prouver
 # 
 # 。︀	〝རྟེན〞 1950
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Support, ⁃ support (p97)
@@ -198,15 +206,22 @@ msgstr ""
 # but, ultimement significatif, plein de sens, ultimement existant, l’état
 # ultime (de) ; les facettes
 # 
-# 。︀	〝མཛད་པ〞 4840
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Hon. pour: Faire, Agir,  Ouvrer, Activité, Ouvre,
-# Actions,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ acte, activité, activité éveillée (ou mdzad pa phrin las)
-# 
 # 。︀	〝བཞེད་པ〞 5070
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ h Promettre, Soutenir, Asserter, Expliquer, h Penser,
 # h Désirer, Souhaiter,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ affirmer, poser, soutenir
+msgctxt "80edaf489508409bbe42fa89942eb16f"
+msgid "གོང་མ་ འོག་མ␣འི་ རྟེན་ ཅན་ དུའང་ དོན་ གྱིས་ བཞེད་པ་ སྟེ །"
+msgstr ""
+
+# 
+# 。︀	〝སྒྲུབ་བྱེད〞 938
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ démonstration, preuve; démontrer, prouver
+# 
+# 。︀	〝མཛད་པ〞 4840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Hon. pour: Faire, Agir,  Ouvrer, Activité, Ouvre,
+# Actions,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ acte, activité, activité éveillée (ou mdzad pa phrin las)
 # 
 # 。︀	〝རིགས་པ〞 5883
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ logique, raisonnement
@@ -223,8 +238,8 @@ msgstr ""
 # différent, séparé
 msgctxt "050037a379024097ae7a68e3c8c4f969"
 msgid ""
-"གོང་མ་ འོག་མ␣འི་ རྟེན་ ཅན་ དུའང་ དོན་ གྱིས་ བཞེད་པ་ སྟེ །  ལུགས་ དེ་དག་ "
-"སོ་སོ་ ནས་ ལུང་ དང་ རིགས་པ␣འི་ སྒྲུབ་བྱེད་ མང་ དུ་ མཛད་པ␣ར་ སྣང་ངོ༌ ། །"
+"ལུགས་ དེ་དག་ སོ་སོ་ ནས་ ལུང་ དང་ རིགས་པ␣འི་ སྒྲུབ་བྱེད་ མང་ དུ་ མཛད་པ␣ར་ "
+"སྣང་ངོ༌ ། །"
 msgstr ""
 
 msgctxt "877c24ca1e09490cbc09b61f9c7e335c"
