@@ -152,9 +152,9 @@ msgid ""
 "l’on peut prouver que chacuns des quatre classes de Tantras ont leur propre "
 "initiation du Maitre Vajra."
 msgstr ""
-"On peut se demander “qu’en est-il de l’initiation du Maitre Vajra dans les Tantras de l’Action et de la Conduite ?”\n"
+"On peut se demander « qu’en est-il de l’initiation du Maître Vajra dans les Tantras de l’Action et de la Conduite ? »\n"
 "\n"
-"Utilisons le raisonnement suivant : d’une manière générale, dans chacune des classes de Tantra, pour accomplir les activités sacrées (activité éveillée) qui leur correspondent – donner les initiations, enseigner le Tantra, accomplir les consécrations etc. -, il est nécessaire d’en avoir recu l’initiation correspondante. Cela prouve donc que chacune des quatre classes de Tantras ont leur propre initiation du Maitre Vajra. "
+"Utilisons le raisonnement suivant : d’une manière générale, dans chacune des classes de Tantra, pour accomplir les activités sacrées (activité éveillée) qui leur correspondent – donner les initiations, enseigner le Tantra, accomplir les consécrations etc. –, il est nécessaire d’en avoir reçu l’initiation correspondante. Cela prouve donc que chacune des quatre classes de Tantras a sa propre initiation du Maître Vajra."
 
 #  15. ལུང་གིས་ཀྱང་ཤེས་ཏེ། 16. ཕྱག་རྡོར་དབང་རྒྱུད་ལས། 17. ལག་པ་གཡས་སུ་རྡོ་རྗེ་
 # 
@@ -168,13 +168,13 @@ msgid ""
 " La roue dans la gauche, Il dit au disciple : « Tu es maintenant un maître "
 "vajra ».” puis,"
 msgstr ""
-"On peut aussi comprendre cela par des citations: \n"
-"Le Tantra de l’Initiation de Vajrapani [39] dit: \n"
+"On peut aussi comprendre cela par des citations :\n"
+"Le Tantra de l’Initiation de Vajrapani dit :\n"
 "\n"
-"“Ayant placé le vajra dans la main droite, \n"
-"La roue dans la gauche, \n"
+"« Ayant placé le vajra dans la main droite,\n"
+"La roue dans la gauche,\n"
 "Il dit au disciple : \n"
-"« Tu es maintenant un maître vajra ».”"
+"« Tu es maintenant un maître vajra ». »"
 
 #  19. སྤྱི་རྒྱུད་ལས། 20. སློབ་དཔོན་གོ་འཕང་རབ་སྒྲུབ་ཕྱིར།
 # །དང་པོ་ཡོངས་སུ་བསྒྲག་པ་
