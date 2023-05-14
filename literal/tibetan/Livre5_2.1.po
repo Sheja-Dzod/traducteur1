@@ -86,6 +86,19 @@ msgid "དང་པོ་ ནི །"
 msgstr ""
 
 # 
+# 。︀	〝དགྲ་བཅོམ〞 675
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ destructeur de l'ennemi
+# 
+# 。︀	〝རྒྱལ་བ〞 774
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vainqueur, Victorieux, ⁃ le victorieux, le vainqueur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ victoire, pour le souffle tortue
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jinā, jina Sens racine: Vainqueur, Victorieux,
+# Alternatives: victorieux, vainqueur, conquérant le Vainqueur, le Conquérant,
+# le Victorieux
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vainqueur ⁃ Vainqueur, l'un des noms attribués aux Bouddhas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: Jina, le victorieux, le vainqueur (syn.
+# Bouddha)
+# 
 # 。︀	〝རྟེན〞 1950
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Support, ⁃ support (p97)
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "support, contenant; veut dire aussi: corps"
@@ -93,6 +106,16 @@ msgstr ""
 # base, fondement, fondation, forme, instrumental, représentations (des corps,
 # parole et esprit du Bouddha)
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: support
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 # 
 # 。︀	〝རྣམ་པ〞 3113
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
@@ -108,6 +131,15 @@ msgstr ""
 # 
 # 。︀	〝རྣམ་པ་གསུམ〞 3120
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois modes ou aspects d'un bouddha
+# 
+# 。︀	〝བྱང་སེམས〞 3800
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le cour esprit éveillé, Le Coeur esprit de l'éveil,
+# L'esprit d'éveil ⁃ bodhicitta, l'esprit d'éveil, l'éveil de l'esprit du
+# cour, cour-esprit éveillé, cour-esprit d'éveil
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ byang chub sems, byang chub kyi sems Sens racine:
+# bodhicitta, l’éveil de l’esprit du cœur, cœur-esprit éveillé, l’esprit
+# d’éveil (c’est-à-dire l’esprit pur, la nature de l’esprit qui est pur, voir
+# n137, n139) cœur-esprit d’éveil, éveil de l’esprit
 # 
 # 。︀	〝ཚུལ་ཁྲིམས〞 4681
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
@@ -138,49 +170,6 @@ msgstr ""
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Qualités, Connaissances,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Qualités
-msgctxt "587cc60389c248aa9f41dc3e4e0ecc88"
-msgid "ཡོན་ཏན་ གཞི་ རྟེན་ ཚུལ་ཁྲིམས་ རྣམ་པ་ གསུམ ། །"
-msgstr ""
-
-# 
-# 。︀	〝དགྲ་བཅོམ〞 675
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ destructeur de l'ennemi
-# 
-# 。︀	〝རྒྱལ་བ〞 774
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vainqueur, Victorieux, ⁃ le victorieux, le vainqueur
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ victoire, pour le souffle tortue
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jinā, jina Sens racine: Vainqueur, Victorieux,
-# Alternatives: victorieux, vainqueur, conquérant le Vainqueur, le Conquérant,
-# le Victorieux
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vainqueur ⁃ Vainqueur, l'un des noms attribués aux Bouddhas
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: Jina, le victorieux, le vainqueur (syn.
-# Bouddha)
-# 
-# 。︀	〝སེམས་དཔའ〞 6391
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vaillant, Courageux, Héro, Bodhisattva, Présence
-msgctxt "385be81f743a4f2ea7ef7b459de30f1c"
-msgid "དགྲ་བཅོམ་ སེམས་དཔའ་ རྒྱལ་བ␣འི་ རྗེས་སློབ་ སྟེ ། །"
-msgstr ""
-
-# 
-# 。︀	〝སྡོམ་པ〞 2921
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
-# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
-# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
-# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
-# restreindre, s'empêcher de, self contrôle, prendre une résolution,
-# rétention, s'abstenir
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
-# 
-# 。︀	〝བྱང་སེམས〞 3800
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le cour esprit éveillé, Le Coeur esprit de l'éveil,
-# L'esprit d'éveil ⁃ bodhicitta, l'esprit d'éveil, l'éveil de l'esprit du
-# cour, cour-esprit éveillé, cour-esprit d'éveil
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ byang chub sems, byang chub kyi sems Sens racine:
-# bodhicitta, l’éveil de l’esprit du cœur, cœur-esprit éveillé, l’esprit
-# d’éveil (c’est-à-dire l’esprit pur, la nature de l’esprit qui est pur, voir
-# n137, n139) cœur-esprit d’éveil, éveil de l’esprit
 # 
 # 。︀	〝རིག་འཛིན〞 5843
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vidyâdhara,  Détenteur de l'intelligence, ⁃ vidyâdhara
@@ -191,11 +180,16 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rig pa ‘dzin pa Sens racine: vidyâdhara, détenteur de
 # gnose, détenteur d’intelligence immédiate, détenteur de l’état d’immédiateté
 # 
+# 。︀	〝སེམས་དཔའ〞 6391
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vaillant, Courageux, Héro, Bodhisattva, Présence
+# 
 # 。︀	〝སོ་ཐར〞 6417
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
 # personelle,
-msgctxt "dc8c707e9d594ce88ee7856b7f8b84d0"
-msgid "སོ་ཐར་ བྱང་སེམས་ རིག་འཛིན་ སྡོམ་པ␣ར་ གྲགས ། །"
+msgctxt "385be81f743a4f2ea7ef7b459de30f1c"
+msgid ""
+"ཡོན་ཏན་ གཞི་ རྟེན་ ཚུལ་ཁྲིམས་ རྣམ་པ་ གསུམ ། ། དགྲ་བཅོམ་ སེམས་དཔའ་ རྒྱལ་བ␣འི་"
+" རྗེས་སློབ་ སྟེ ། །  སོ་ཐར་ བྱང་སེམས་ རིག་འཛིན་ སྡོམ་པ␣ར་ གྲགས ། །"
 msgstr ""
 
 # 
