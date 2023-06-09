@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -298,7 +298,7 @@ msgid ""
 "སྙིང་པོ་ རྒྱན་ ལ␣ས་ འབྱུང་བ་ ནི །"
 msgstr ""
 "Les vingt cing punitions ou (en d'autres mots) moyens pour la réstauration à"
-" appliquer sont évoqués dans Le Tantra l'Ornement du Coeur Adamantin."
+" appliquer sont évoqués dans L’ornement de l’essence de tous les secrets."
 
 # 。︀	〝ཚོགས〞 4720
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cérémonie d'offrande, festin sacré
