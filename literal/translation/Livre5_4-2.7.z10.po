@@ -1177,7 +1177,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "ee347a82a77b4725b945fb60ac70124c"
 msgid "དཀོན་མཆོག་ འགྲེལ་ ལ␣ས །"
-msgstr "Dans le commentaire du précieux joyau:"
+msgstr "Dans le commentaire des précieux joyaux:"
 
 # 。︀	〝ཀུན་ཏུ་བཟང་པོ〞 42
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ le Tout Bon, Toujours bon ⁃ Tout Bon, Samantabhadra,
