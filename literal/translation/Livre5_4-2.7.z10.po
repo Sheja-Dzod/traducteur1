@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -875,7 +875,7 @@ msgstr " il est impossible de tous les énoncer."
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "f591541a4281423a94d60309c816f285"
 msgid "སྙིང་པོ་ ལ␣ས །"
-msgstr "Le Tantra ornement de l'essence vajra dit :"
+msgstr "Le Tantra de Guhyagarbha dit :"
 
 # 。︀	〝འགྲོ་བ〞 730
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
