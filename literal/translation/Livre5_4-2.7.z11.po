@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -140,9 +140,9 @@ msgctxt "5ca946d59d42419e9f936dbc56a60258"
 msgid ""
 "ལུང་ ཨ་ནུ་ ཡོ་ག་ སྤྱི␣འི་ དམ་ཚིག་ ཏུ་ སྤྱི་མདོ␣འི་ ལེའུ་ རེ་ དྲུག་པ␣ར །"
 msgstr ""
-"Dans le chapitre soixante du Soutra Général qui Rassemble Toutes Intention, "
-"source scriptuaire pour les liens sacrés généraux de l'Anuyoga l'on retrouve"
-" "
+"Dans le chapitre soixante six, du Soutra Général qui Rassemble Toutes "
+"Intention, source scriptuaire pour les liens sacrés généraux de l'Anuyoga "
+"l'on retrouve "
 
 # 。︀	〝ངེས་པ〞 1011
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Certain, Certitude.
