@@ -438,9 +438,6 @@ msgid "འཇུག་ལྡོག་ གི་ གནས་ ལ་ གཟོབ
 msgstr ""
 
 # 
-# 。︀	〝ཁྲེལ་ཡོད་པ〞 391
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ considération envers autrui
-# 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
 # mental; tantra"
@@ -458,9 +455,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
 # existentielle, continuum mental 3. continuité
-# 
-# 。︀	〝ངོ་ཚ〞 1071
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ respect humain/par rapport à autrui
 # 
 # 。︀	〝རྟོག་པ〞 1965
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
@@ -499,6 +493,28 @@ msgstr ""
 # Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
 # attentif
 # 
+# 。︀	〝རང་གི་རྒྱུད〞 5572
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ sa propre continuité existentielle (p19), son
+# continuum personnel (p107), son propre courant de conscience, son propre
+# courant d'existence
+# 
+# 。︀	〝ཤེས་བཞིན〞 6227
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Vigilance ⁃ Vigilance ⁃ vigilance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Attention, Vigilance, Attention vigilante, Vigilance
+# attentive, Etat connaissant, vigile, lucide, de lucidité, de vigilance,
+# d'attention, Observation répétée du corps et de l'esprit,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vigilance, claire conscience
+msgctxt "45a797c8b4264499b9dbe25931df305e"
+msgid "རང་ གི་ རྒྱུད་ ལ་ རྟོག་པ␣འི་ དྲན་པ་ དང་ ཤེས་བཞིན །"
+msgstr ""
+
+# 
+# 。︀	〝ཁྲེལ་ཡོད་པ〞 391
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ considération envers autrui
+# 
+# 。︀	〝ངོ་ཚ〞 1071
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ respect humain/par rapport à autrui
+# 
 # 。︀	〝བྲལ་བ〞 3851
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre séparé, Etre libre de, Etre dépourvu de, Etre
 # denué de,
@@ -515,18 +531,6 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
 # 
-# 。︀	〝རང་གི་རྒྱུད〞 5572
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ sa propre continuité existentielle (p19), son
-# continuum personnel (p107), son propre courant de conscience, son propre
-# courant d'existence
-# 
-# 。︀	〝ཤེས་བཞིན〞 6227
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Vigilance ⁃ Vigilance ⁃ vigilance
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Attention, Vigilance, Attention vigilante, Vigilance
-# attentive, Etat connaissant, vigile, lucide, de lucidité, de vigilance,
-# d'attention, Observation répétée du corps et de l'esprit,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vigilance, claire conscience
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -534,8 +538,8 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "a547b49ed37b4abe85ceecb4f768e155"
 msgid ""
-"རང་ གི་ རྒྱུད་ ལ་ རྟོག་པ␣འི་ དྲན་པ་ དང་ ཤེས་བཞིན །  གཞན་ ལ་ ལྟོས་ ནས་ ངོ་ཚ་ "
-"ཤེས་ ཤིང་ རང་ ལ་ ལྟོས་ ནས་ ཁྲེལ་ཡོད་པ་ དང་ མ་ བྲལ་བ␣ས་ སོ ། །"
+"གཞན་ ལ་ ལྟོས་ ནས་ ངོ་ཚ་ ཤེས་ ཤིང་ རང་ ལ་ ལྟོས་ ནས་ ཁྲེལ་ཡོད་པ་ དང་ མ་ "
+"བྲལ་བ␣ས་ སོ ། །"
 msgstr ""
 
 # 
