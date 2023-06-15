@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -929,7 +929,7 @@ msgstr "La négligence qui correspond à la conduite eronnée (dévoyée)."
 msgctxt "7b5d23aa9a614f74bb5b730e30523f75"
 msgid "སྒོམ་པ་ ལོག་པ་ བྱིང་རྒོད་ དང་ གོལ་ སྒྲིབ །"
 msgstr ""
-"La torpeur et l'agitation ainsi que le voile de la déviance (dévier de la "
+"La torpeur et l'agitation ainsi que les voiles et la déviance (dévier de la "
 "voie correcte de méditation) qui correspondent à la méditation eronnée."
 
 # 。︀	〝རྟག་ཆད〞 1930
