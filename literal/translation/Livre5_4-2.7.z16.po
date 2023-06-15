@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -517,10 +517,10 @@ msgid ""
 "རང་བཞིན་ ལྷུན་གྲུབ་ ལ་ ལྟོས་ ནས་ ཐོད་རྒལ་ གྱི་ དམ་ཚིག་ ཏུ་ འོད་ ལྔ་ རང་ གསལ་"
 " ལྷུན་གྲུབ་ སྣང་བ་ བཞྀའི་ ཉམས་ལེན་ དང་ མ་ བྲལ་བ␣ས་"
 msgstr ""
-"Les liens sacrés du grand saut reposent sur la nature présence spontanée. "
-"Par une pratique continue (litt. sans ses séparer de la partique) des quatre"
-" perceptions en lien avec la présence spontanée des cinq lumières "
-"intrinsèquement lumineuses,"
+"Les liens sacrés du franchissement du pic reposent sur la nature présence "
+"spontanée. Par une pratique continue (litt. sans ses séparer de la partique)"
+" des quatre perceptions en lien avec la présence spontanée des cinq lumières"
+" intrinsèquement lumineuses,"
 
 # 。︀	〝འགྲུབ་པ〞 722
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ accomplir
