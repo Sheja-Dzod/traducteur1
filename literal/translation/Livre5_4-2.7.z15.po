@@ -929,7 +929,7 @@ msgstr "La négligence qui correspond à la conduite eronnée (dévoyée)."
 msgctxt "7b5d23aa9a614f74bb5b730e30523f75"
 msgid "སྒོམ་པ་ ལོག་པ་ བྱིང་རྒོད་ དང་ གོལ་ སྒྲིབ །"
 msgstr ""
-"La torpeur et l'agitation ainsi que les voiles et la déviance (dévier de la "
+"La torpeur et l'agitation ainsi que les déviances qui voilent(dévier de la "
 "voie correcte de méditation) qui correspondent à la méditation eronnée."
 
 # 。︀	〝རྟག་ཆད〞 1930
