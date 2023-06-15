@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -756,7 +756,7 @@ msgctxt "84f6f116574745baada80b305371d67f"
 msgid "བསྲུང་ མཚམས་མེད་པ་ ཆོས་ཉིད་ ཅིག་ཅར་བ␣འི་ དམ་ཚིག་ དང༌ །"
 msgstr ""
 "Les liens sacrés immédiat de la nature des phénoménes, et sui sont sans "
-"limites définies et"
+"limites définies (sans les contours des règles à observer) et"
 
 # 。︀	〝སྙིང་རྗེ〞 1820
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bonté, Bon cour, compassion, amour ⁃ Honorifique de
