@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -871,7 +871,7 @@ msgstr "5. Raviver par la telléité:"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "528415600e254af08aa60ea36b7944d9"
 msgid "ཀུན་ འདུས་ ལ␣ས །"
-msgstr "selon le Tantra qui rassemble les Sagesses Courrousées:"
+msgstr "selon le soutra qui rassemble les Sagesses Courrousées:"
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
