@@ -1,11 +1,11 @@
 # 
 # Translators:
-# Damien Jampa, 2022
+# Damien Jampa, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2022\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -363,7 +363,7 @@ msgstr ""
 msgctxt "bd67e86abea14a7095b8fcb23c5be407"
 msgid "ཚིག་ངན་ ཀློག་པ་ ནི་"
 msgstr ""
-"Relater des propos pervers (litt, lire des mauvaises paroles) consiste à"
+"Relater des propos malsains (litt, lire des mauvaises paroles) consiste à"
 
 # 。︀	〝རྒྱལ་པོ〞 770
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ roi
