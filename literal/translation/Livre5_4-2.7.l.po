@@ -356,7 +356,7 @@ msgid ""
 "རིན་ དང་ བཟའ་བ␣འི་ དོན་ དུ་ བསད་པ␣འི་ ཤ་ལ་ སོགས་པ་ སྟེ་ ཆོས་ དང་ "
 "མི་མཐུན་པ␣འི་ ལོག་པ␣འི་ འཚོ་བ །"
 msgstr ""
-"comme de la viande annimale tués pour la consommation ou le profit. C'est un"
+"comme de la viande annimale tués pour la consommation ou le profit.,c'est un"
 " moyen de subsistance incorrecte qui va en contradiction avec le Dharma "
 "(l'enseignement du Bouddha.) "
 
