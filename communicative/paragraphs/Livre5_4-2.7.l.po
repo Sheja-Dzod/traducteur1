@@ -1,0 +1,149 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. དེ་དག་བསྲུང་བར་ནུས་ཤིང་འདོད་ན་བརྟུལ་ཞུགས་ལྷག་མ་ཉི་ཤུ་
+# 
+# སྦྱིན་པར་བྱ་བ་ནི།་
+msgctxt "line 1, Livre5_4-2.7.l.txt"
+msgid ""
+"A ceux capable de tenir ces conduites supérieures, on donne les vingt "
+"conduites supérieures restantes qui sont:"
+msgstr ""
+
+#  2. རྒྱན་པོ་བཟའ་མིན་ངན་ཚིག་འབྱུང་པོ་དང༌། ། 3. ཀླ་ཀློའི་ཆོས་ནི་བྱ་བ་
+# 
+# མིན་པ་ལྔ། ། 4. དུད་འགྲོ་བྱིས་པ་ཕོ་མོ་མཆོད་རྟེན་སྣུན། ། 5. གྲོགས་དཔོན་སངས་
+# 
+# རྒྱས་དགེ་འདུན་ཡིད་བརྟོན་འཁུ། ། 6. གཟུགས་སྒྲ་དྲི་རོ་རེག་བྱ་ཞེན་པ་
+# 
+# སྟེ། ། 7. སྣུན་མིན་ལ་སོགས་དམ་སྡོམ་ཀུན་གྱི་གཞི། །་
+msgctxt "line 2, Livre5_4-2.7.l.txt"
+msgid ""
+"Les paris, la nourriture proscrite, les propos pervers, l’offrande aux "
+"esprits, et les doctrines barbares sont les cinq activités a proscrire. "
+"Abattre des annimaux, des enfants, des hommes ou des femes et des supports "
+"d’offrandes; Etre en conflit avec les amis, les dirigeants, le Bouddha, la "
+"Sangha et ceux digne de confiance; Les cinq convoitises ; des formes, sons, "
+"odeurs, saveurs et tactile. Ceci, Ne pas abattre etc. sont les fondements "
+"des liens sacrés et des voeux."
+msgstr ""
+
+#  8. དེ་ལ་རྒྱན་པོ་སྟེ་ཆོ་ལོ་ནི་དེ་ཉིད་ཀྱི་དུས་འདས་ཏེ་
+# 
+# དགེ་བའི་ཕྱོགས་ཉམས་པར་བྱེད་པ། 9. བཟའ་མིན་ཏེ་ཁ་ན་མ་ཐོ་
+# 
+# བའི་ཟས་ནི་ 10. རིན་དང་བཟའ་བའི་དོན་དུ་བསད་པའི་ཤ་ལ་
+# 
+# སོགས་པ་སྟེ་ཆོས་དང་མི་མཐུན་པའི་ལོག་པའི་འཚོ་བ། 11. ཚིག་ངན་
+# 
+# ཀློག་པ་ནི་ 12. དམག་དང་ཆོམ་རྐུན་དང་རྒྱལ་པོ་སོགས་ཀྱི་གཏམ་
+# 
+# སྨྲ་བ། 13. འབྱུང་པོའི་ཆོས་ནི་ 14. རིག་བྱེད་ལས་འབྱུང་བའི་ཕ་མེས་ཀྱི་
+# 
+# མཚུན་གསོལ་བ་སོགས་དང༌། 15. མཐོ་རིས་ཀྱི་ཆེད་དུ་ཕྱུགས་ཀྱི་མཆོད་སྦྱིན་
+# 
+# བྱེད་པ། 16. ཀླ་ཀློའི་ཆོས་ནི་ 17. མཁོ་བའི་བརྟུལ་ཞུགས་འཛིན་པ་རྣམས་ཏེ་
+# 
+# ཉེས་པའི་སྡིག་པ་བྱས་པ་མ་ཡིན་པ་ལྔ།་
+msgctxt "line 3, Livre5_4-2.7.l.txt"
+msgid ""
+"Les paris comme les jeux de dés sont une perte de temps et amenuise nos "
+"actions vertueuses. La nourriture proscrite fait référence aux aliments "
+"désavouables (nuisibles). comme de la viande annimale tués pour la "
+"consommation ou le profit. C’est un moyen de subsistance incorrecte qui va "
+"en contradiction avec le Dharma (l’enseignement du Bouddha.) Relater des "
+"propos pervers (litt, lire des mauvaises paroles) consiste à raconter des "
+"histoires de guerre, de bandits, de rois etc. Les offrandes aux esprits fait"
+" référence aux rituels provenant de la tradition védique comme l’offrande de"
+" chair et de sang aux ancètres et le sacrifice d’annimaux dans le but "
+"d’obtenir une meilleur renaissance,(une renaissance chez les dieux). "
+"(suivre) une regligion barbare consiste à suivre la discipline (les "
+"pratiques) nécessaire (à ces religions) et est un acte particulièrement "
+"négatif. C’est le cinquième (engagement)."
+msgstr ""
+
+#  18. བ་ལང་སོགས་དུད་འགྲོ། བྱིས་པ། སྐྱེས་པ་ཕོ། སྐྱེས་དམན་མོ།
+# མཆོད་རྟེན་གྱི་སྒྲས་བསླབ་
+# 
+# པ་ལྡན་པའི་གང་ཟག་དང་དཀོན་མཆོག་གསུམ་གྱི་རྟེན་གསུམ་ལ་
+# 
+# སྣུན་ཞིང་བཤིག་པ་ནི་ 19. གསོད་པ་ལྔ་སྟེ་ 20. འདི་དག་འཚེ་བ་
+# 
+# ལས་ལོགས་སུ་སྨོས་པ་ནི་ 21. འདི་རྣམས་བརྟུལ་ཞུགས་སུ་འཛིན་པ་
+# 
+# ལས་ལྡོག་པའི་ཕྱིར་དུའོ། །་
+msgctxt "line 4, Livre5_4-2.7.l.txt"
+msgid ""
+"(sacrifier) un annimal comme une vache, un enfant, un homme ou une femme, "
+"ainsi que le fait d’abattre les trois supports des trois joyaux ou une "
+"personne tenant ses préceptes par une autre personne ayant de l’animosité "
+"envers les supports d’offrandes, forment les cinq meurtres. A ce sujet, ils "
+"sont énnoncés séparément de l’action de nuire afin de réfuter l’idée qu’ils "
+"fassent parti des conduites supérieures."
+msgstr ""
+
+#  22. ཆོས་འཇིག་རྟེན་ལ་ཕན་པའི་གྲོགས་དང༌། 23. ལུགས་གཉིས་ཀྱིས་བཀུར་འོས་རྗེ་དཔོན་
+# 
+# རྒན་རབས་སོགས་དང༌། 24. ལྷ་མིའི་བླ་མ་སངས་རྒྱས་དང༌། 25. དགེ་འདུན་དང༌། 26.
+# ཡིད་བརྟན་
+# 
+# པ་བླ་མ་ལ་འཁུ་བ་སྟེ་འཁུ་བ་ལྔ་དང༌།་
+msgctxt "line 5, Livre5_4-2.7.l.txt"
+msgid ""
+"Les amis utiles pour le Dharma et pour les affaires mondaines et, Les "
+"dirigeants, anciens et autres personnes dignes de respect dans ces deux "
+"domaines (domaine du dharma et mondain) et, Le Bouddha, le maître des dieux "
+"et des humains et, La sangha (du bouddha) et les maîtres (lamas) digne de "
+"confiance. Etre en conflit avec eux forme les cinq conflits. En plus de "
+"celà,"
+msgstr ""
+
+#  27. མིག་གཟུགས་ལ་ཞེན་པ་ནས་ལུས་རེག་བྱ་ལ་ཞེན་པའི་བར་ཡང་
+# 
+# སྲིད་འཕེན་ནུས་ཀྱི་ལས་སུ་རྫོགས་པར་ཞེན་པ་ལྔ། 28. ཕྱི་མ་རྣམས་
+# 
+# ལའང་འདི་དག་ཚིག་གི་སྒྲ་སྦྱར་བས་སྣུན་མིན་ལ་སོགས་པ་
+# 
+# ལྔ་ཕྲག་གསུམ་སྟེ་ཐམས་ཅད་བསྡོམས་པའི་སྡོམ་པ་ཉེར་ལྔ་པོ་
+# 
+# འདི་དག་ནི་ 29. དམ་ཚིག་དང་སྡོམ་པ་ཐམས་ཅད་ཀྱི་གཞི་རྟེན་
+# 
+# དུ་གྱུར་པའོ། །་
+msgctxt "line 6, Livre5_4-2.7.l.txt"
+msgid ""
+"La convoitise des objets formels pour les yeux, (les sons pour l’oreille, "
+"les ordeurs pour le neze, les saveurs pour la bouche) jusqu’a la convoitise "
+"des objets tactiles pour le corps, sont les cinq convoitises qui parachèvent"
+" les actions (karmas) a même de nous envoyer dans une nouvelle exisance. "
+"L’expression (activités a proscrire) s’applique aussi aux (3) derniers "
+"groupes. Par conséquent, si on ajoute les trois groupes de cinq – celui "
+"consistant à ne pas abattre etc…- à tous les (autre voeux) obtient un total "
+"de vingt cinq voeux. Ces voeux font office de fondements pour tous les liens"
+" sacrés et tous les voeux."
+msgstr ""
+
+#  30. དེའང་བརྟུལ་ཞུགས་ཉེར་ལྔ་པོ་འདི་དག་ནི་ 31. ངེས་པར་དབང་གི་སྔོན་
+# 
+# དུ་འགྲོ་དགོས་པའི་བརྟུལ་ཞུགས་ཡིན་ལ། 32. གོང་མ་རྣམས་དེ་ལྟར་མ་
+# 
+# ངེས་ཀྱང་འདིར་ཕྱོགས་གཅིག་ཏུ་འཆད་བདེ་བ་དང༌། 33. དེ་དག་ལས་ཕལ་
+# 
+# ཆེར་དབང་བསྐུར་དངོས་གཞི་མ་ཐོབ་ཀྱང་ 34. དཀྱིལ་འཁོར་དུ་ཞུགས་པ་
+# 
+# ཙམ་གྱིས་དེ་དང་དེའི་བརྟུལ་ཞུགས་འཛིན་དགོས་པའང་ཡོད་པས་ཐོག་
+# 
+# མར་སྨོས་པའོ། །་
+msgctxt "line 7, Livre5_4-2.7.l.txt"
+msgid ""
+"De plus, ces vingt cinq conduites supérieures sont des conduites supérieures"
+" absolument nécessaire avant de recevoir une initiation. Cependant, Pour les"
+" initiations supérieures, ces voeux ne sont pas forcément tous nécessaires, "
+"mais par soucis de facilité je les ai exposés en même temps. même si on ne "
+"participe pas (litt obtient pas) à la phase principale de l’initiation, pour"
+" seulement entrer dans le mandala, il faut tenir l’une ou l’autre de ces "
+"conduites. C’est la raison pour laquelle je les énnonce en premier lieu."
+msgstr ""

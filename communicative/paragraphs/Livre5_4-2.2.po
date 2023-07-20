@@ -37,7 +37,7 @@ msgstr ""
 # བརྗོད་བྱ་དོན་གྱི་རྒྱུད་ཀྱི་སྒོ་ནས་དབྱེ་ན། 5. རྒྱུ་རྒྱུད། ཐབས་རྒྱུད།
 # འབྲས་རྒྱུད་
 # 
-# ཀྱི་སྔགས་སྡོམ་གསུམ་ཡོད།་
+# ཀྱི་༼ཝཾ༦༩བ༽སྔགས་སྡོམ་གསུམ་ཡོད།་
 msgctxt "line 3, Livre5_4-2.2.txt"
 msgid ""
 "Bien qu’il existe de nombreuses classifications des vœux du Mantra, en ce "
