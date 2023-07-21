@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (France) (https://www.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -98,7 +98,7 @@ msgstr ""
 "Les premiers sont ceux exposés précédemment.\n"
 "Les liens sacrés généraux se déclinent en deux parties : les racines et les secondaires. Nous les mentionnerons seulement ici et les expliquerons dans cet ordre ultérieurement. \n"
 "\n"
-"Les liens sacrés racines sont ceux d’abandonner les quatorze défaites des Bodhisattvas expliquées dans le Sutra d’Akashagarbha. "
+"Les liens sacrés racines sont ceux d’abandonner les quatorze défaites des Bodhisattvas expliquées dans le Sutra d’Akashagarbha. (116)"
 
 #  15. ཡན་ལག་གི་དམ་ཚིག་ནི་ཚུལ་ཁྲིམས་རྣམ་པ་གསུམ་སྟེ་ 16. དེའང་བསྒྲག་
 # 
