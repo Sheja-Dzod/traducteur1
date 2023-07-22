@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1203,7 +1203,7 @@ msgid ""
 msgstr ""
 "Afin d'amener dans sa pratique un tel état d'esprit, le corps doit aussi "
 "être purifié en accord (avec cet pratique). Il nous faut donc s'appuyer sur "
-"les liens sacrés relatifs à l'alimentation. "
+"les 10 liens sacrés relatifs à l'alimentation. "
 
 # 。︀	〝སྒྲུབ་པ〞 930
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pratiquer, Pratique, Accomplir, Affirmer, Etablir ⁃
