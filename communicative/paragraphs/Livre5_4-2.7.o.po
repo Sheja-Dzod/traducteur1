@@ -1,0 +1,175 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གོ་རིམ་ཡང་ཉམས་ལེན་གྱི་འགྲོས་དང་མཐུན་པར་གནས་པས་ལག་ལེན་
+# 
+# དེ་ཁོ་ན་ལྟར་འདེབས་དགོས་ཏེ། 2. རྒྱུད་འདིར་ཞུགས་ནས་ལུས་ཐ་མལ་
+# 
+# གྱི་སྣང་ཞེན་བསལ་ཏེ་ལྷའི་སྐུར་བྱ་བ་ཕྱག་རྒྱའི་དམ་ཚིག་
+# 
+# དང༌། 3. ངག་ཐ་མལ་གྱི་སྣང་ཞེན་བསལ་ནས་སྔགས་སུ་བྱ་བ་དྲིལ་
+# 
+# བུའི་དམ་ཚིག་དང༌། 4. སེམས་ཐ་མལ་གྱི་རྟོག་པ་བསལ་ནས་སྐབས་གང་
+# 
+# ཡང་རུང་བའི་དེ་ཁོ་ན་ཉིད་དུ་བྱ་བ་རྡོ་རྗེའི་དམ་
+# 
+# ཚིག་སྟེ། 5. རྣམ་པར་རྟོག་པའི་བློས་བཏགས་པའི་ཕྱིར་ 6. རྣམ་ཤེས་ཀྱི་ཕྱོགས་
+# 
+# ཀྱི་དམ་ཚིག་དང༌།་
+msgctxt "line 1, Livre5_4-2.7.o.txt"
+msgid ""
+"L’ordre (de cette présentation) suit le cours de la pratique expérientielle "
+"et doit, par conséquent, être mis en pratique tel quel. En effet, Une fois "
+"que l’on est engagé dans ce Tantra (le Kalachakra), on dissipe la saisie "
+"conceptuelle porté sur l’apparence du corps ordinaire et on le pratique "
+"comme étant le corps divin (corps de la divinité). Tel est le lien sacré du "
+"moudra (du sceau). on dissipe la saisie conceptuelle porté sur l’apparence "
+"de la parole ordinaire et on la pratique comme étant le mantra. Tel est le "
+"lien sacré de la cloche. On dissipe les pensées conceptuelles de l’esprit "
+"ordinaire et, quelque soient les circonstances on le pratique comme étant la"
+" telléité. Tel est le lien sacré du vajra. A ce sujet (au sujet des ces 3), "
+"puisque (ces trois liens sacrés impliquent) une élaboration mentale "
+"conceptuelle (litt. puisqu’ils sont imputés conceptuellement), il s’agit de "
+"liens sacrés relevant de la conscience (habituelle). De plus,"
+msgstr ""
+
+#  7. དེ་ལྟར་ལུས་ངག་ཡིད་གསུམ་སངས་རྒྱས་ཀྱི་རྡོ་རྗེ་གསུམ་དུ་དབང་
+# 
+# དུས་སུ་ངོ་སྤྲད་ཅིང་རྣལ་འབྱོར་དུ་བྱས་པས་ 8. མངོན་སུམ་གྱི་
+# 
+# མཚན་ཉིད་ཅན་དུ་ལུས་སྟོང་གཟུགས། 9. ངག་གཞོམ་མེད་ཀྱི་ནཱ་དའི་རང་
+# 
+# སྒྲ། 10. སེམས་བདེ་བ་ཆེན་པོར་མངོན་དུ་གྱུར་པ་སྟེ་ 11. དེ་དག་ནི་
+# 
+# ཡེ་ཤེས་ཀྱི་ཕྱོགས་ཀྱི་དམ་ཚིག་གསུམ་བཟུང་བ་ཡིན་ལ།་
+msgctxt "line 2, Livre5_4-2.7.o.txt"
+msgid ""
+"lors de l’initiation, nos corps, parole et esprit nous furent introduits "
+"comme étant les trois vajras d’un bouddha et nous en avons fait notre "
+"pratique (litt. yoga). Cela a pour effet de rendre manifeste le corps comme "
+"véritable forme vide, la parole, comme véritable résonance naturelle du Nada"
+" indestructible l’esprit comme la véritable grande félicité manifeste. Ces "
+"(trois), sont les trois liens sacrés à tenir relevant de la sagesse "
+"primordiale. A ce sujet,"
+msgstr ""
+
+#  12. དེ་གཉིས་ཀར་ཡང་ལྷན་ཅིག་བྱེད་རྐྱེན་གྱི་གཙོ་བོ་སངས་རྒྱས་ཀྱི་
+# 
+# ཕྲིན་ལས་ཀྱི་བདག་རྐྱེན་བྱེད་པའི་རྡོ་རྗེ་སློབ་དཔོན་ཉིད་བསྟེན་
+# 
+# པར་བྱ་བ་སྟེ། 13. མ་རིག་པའི་དངོས་་ཀྱི་གཉེན་པོར་འགྱུར་བའི་
+# 
+# ཕྱིར་རོ། ། 14. འདི་ནི་གསང་སྔགས་ཀྱི་ལམ་ཐམས་ཅད་ཀྱི་སྙིང་རྩ་ཡིན་
+# 
+# ལ་ 15. འདི་ལས་ནམ་དུ་ཡང་གཡོ་ཞིང་འཕགས་པར་བྱ་བ་མ་
+# 
+# ཡིན་པས་ན་ 16. མི་བསྐྱོད་པའི་དམ་ཚིག་ཅེས་བྱའོ། །་
+msgctxt "line 3, Livre5_4-2.7.o.txt"
+msgid ""
+"Pour ces deux (catégories de liens sacrés) le principal facteur accompagnant"
+" est le maître vajra qui est lui même le facteur humain permettant "
+"l’activité évéillée des Bouddhas. Il nous faut donc s’en remettre à lui "
+"parce que ceci (s’en remettre à lui) s’avère être l’antidote directe à "
+"l’ignorance. Ceci (s’en remettre au maître vajra) est à toutes les voies du "
+"mantra secret ce que l’aorte est au coeur (litt, est la veine du coeur) et "
+"par conséquent, ne jamais s’en détourner ni s’en éloigner est ce que l’on "
+"appel le lien sacré d’Akshobya."
+msgstr ""
+
+#  17. དེ་ཉིད་རྣལ་འབྱོར་དུ་བྱས་པ་ལས་མ་རིག་པའི་གཉེན་པོར་འགྱུར་
+# 
+# ཞིང༌། 18. འཁོར་བའི་རྩ་བ་མ་རིག་པ་ཡིན་མོད་ཀྱི་འཁོར་བར་ཡང་
+# 
+# སྲིད་འཕེན་པ་པོ་སྲེད་པ་ཡིན་པས། 19. དེའི་གཉེན་པོར་ཕྱི་རོལ་གྱི་
+# 
+# འདོད་པ་རྣམ་ས་ལ་མ་ཆགས་པ་ཞིག་དགོས་པས་འདོད་པ་
+# 
+# བཅུ་གཞན་ལ་སྦྱིན་ཏེ་མ་ཆགས་པར་བྱ་བ་དང༌། 20. དེ་ལྟ་བུའི་
+# 
+# སེམས་རྣལ་འབྱོར་དུ་བྱེད་པ་ལ་ལུས་ཀྱང་དེ་དང་མཐུན་པར་
+# 
+# སྦྱངས་པ་ཞིག་དགོས་པས་བཟའ་བའི་དམ་ཚིག་བཅུ་བསྟེན་ཏེ། 21. དེའང་ཟག་
+# 
+# མེད་ཀྱི་གཟུགས་ཕུང་སྒྲུབ་པར་བྱེད་པའམ། 22. ཡོན་ཏན་ཁྱད་པར་ཅན་གྱི་
+# 
+# མངོན་ཤེས་ལྔས་ཡུལ་སྣང་བའི་བྱ་བ་བྱེད་པའི་ཕྱིར་ 23. རྣམ་སྣང་
+# 
+# གི་དམ་ཚིག །་
+msgctxt "line 4, Livre5_4-2.7.o.txt"
+msgid ""
+"Quand on en fait sa pratique, il devient l’antidote à l’ignorance. De plus, "
+"bien que la racine du samsara soit l’ignorance, puisque l’envie (litt. la "
+"soif) est ce qui nous propulse dans de nouvelles existances samsariques, son"
+" antidote consiste en la nécessité de ne pas avoir d’attachement envers les "
+"objets de désir extérieurs. Par conséquent, on pratique se non attachement "
+"en offrant aux autres les dix objets de désir. Afin d’amener dans sa "
+"pratique un tel état d’esprit, le corps doit aussi être purifié en accord "
+"(avec cet pratique). Il nous faut donc s’appuyer sur les liens sacrés "
+"relatifs à l’alimentation. De plus, puisqu’ils permettent l’acquisition d’un"
+" corps non souillé ou encore, permettent la claire perception "
+"(l’illumination) des objets au travers des qualités speciales que sont les "
+"cinq clairvoyances, ils sont les liens sacrés de Vairochana "
+"(l’illuminateur)."
+msgstr ""
+
+#  24. དེ་ལྟར་མ་ཆགས་པ་དང་ལུས་ལས་སུ་རུང་བས་ 25. སྒོ་གསུམ་དབྱེར་
+# 
+# མེད་པའི་རྣལ་འབྱོར་གྱིས་བླ་མ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་
+# 
+# ཀྱི་བདག་ཉིད་དུ་སྒྲུབ་པར་བྱེད་པ་ལ་ 26. ཚོགས་གསུམ་དགོས་པས་
+# 
+# མཆོད་པ་ནི་བསོད་ནམས་ཀྱི་ཚོགས་ཡིན་ལ། 27. དེ་གཟུགས་སྐུའི་རྒྱུ་ཡིན་
+# 
+# པས་ 28. གཞན་དོན་ལ་མྱུར་བ་ཉིད་ཀྱི་ཕྱིར་མྱུར་འགྲོའི་རྟ་མཆོག་
+# 
+# གི་རིགས་དོན་གྲུབ་ཀྱི་དམ་ཚིག །་
+msgctxt "line 5, Livre5_4-2.7.o.txt"
+msgid ""
+"Ainsi, sans attachemenent et le corps souple (parfaitement à l’aise), par "
+"une pratique où corps, parole et esprit sont unifiés (litt. inséparable), il"
+" nous faut réaliser le Lama comme étant la personnification de tous les "
+"Ainsi-allés. Et pour ce faire, nous avons besoins des trois accumulations: "
+"l’offrande est l’accumulation de bienfaits, puisqu’elle (cette accumulation)"
+" est la cause des Corps Formels (Rupakaya), elle est la promptitude même "
+"dans l‘accomplissement du bien des autres. Elle est le lien sacré d’ "
+"Amoghasiddhi (Faiseur du bien véritable), de la famille du prompt suprême "
+"cheval."
+msgstr ""
+
+#  29. འཛག་མེད་ནི་ 30. ཚུལ་ཁྲིམས་ཀྱི་ཚོགས་ཏེ་ 31. འོད་མཐའ་ཡས་པའི་རྒྱུ་ཡིན་
+# 
+# པའི་ཕྱིར་ 32. འོད་དཔག་མེད་ཀྱི་དམ་ཚིག །་
+msgctxt "line 6, Livre5_4-2.7.o.txt"
+msgid ""
+"La non émission (du liquide séminale), est l’accumulation de discpline et, "
+"est la cause pour la radiance infinie. Par conséquent, elle est le lien "
+"sacré d’Amitabha (lumière infinie)."
+msgstr ""
+
+#  33. བྱང་ཆུབ་ཀྱི་སེམས་ནི་ 34. ཡེ་ཤེས་ཀྱི་ཚོགས་ཏེ་ 35. སྟོང་ཉིད་སྙིང་རྗེ་
+# 
+# རྩེ་གཅིག་པས་ 36. རྡོ་རྗེ་སེམས་དཔའི་དམ་ཚིག་ཏུ་བཞག་པའོ། །་
+msgctxt "line 7, Livre5_4-2.7.o.txt"
+msgid ""
+"L’esprit d’éveil est l’accumulation de sagesse primordiale et puisqu’elle "
+"consiste en (l’absorption) unifiée de la vacuité et de la compassion (litt, "
+"l’unique pointe de la vacuité-compassion), on la présente comme étant le "
+"lien sacré de Vajrasattva (l’être vajra)."
+msgstr ""
+
+#  37. བསྡུས་རྒྱུད་རྣམས་སུ་འབྱུང་བ་ནི་ 38. དྲང་དོན་གཙོ་ཆེ་ལ་འདིར་ནི་
+# 
+# ངེས་དོན་ཁོ་ནའི་དབང་དུ་བྱས་ཏེ་ 39. གོ་རིམ་དང་ངོས་འཛིན་
+# 
+# མི་འདྲ་བ་ཡིན་ནོ། །་
+msgctxt "line 8, Livre5_4-2.7.o.txt"
+msgid ""
+"(les présentations) que l’on trouve dans les Tantras résumés s’appuient "
+"principalement sur le sens provisoire alors qu’ici, elle s’appuie uniquement"
+" sur le sens définitif. Par conséquent, la présentation des séquences et "
+"l’indentification (des liens sacrés) sont différents."
+msgstr ""
