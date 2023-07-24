@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གསུམ་པ་སྤང་བྱ་དམ་ཚིག་བཤད་པ་ལ་བཞི། 2. རྩ་བའི་ལྟུང་བ། ཡན་ལག་
+# 
+# གི་ལྟུང་བ། ཕྲ་མོ་ཉེར་བརྒྱད། ཞར་བྱུང་དབང་བཞིའི་དམ་ཚིག་བཤད་པའོ། །་
+# 
+# 
+msgctxt "line 1, Livre5_4-2.7.r.txt"
+msgid ""
+"3. L’explication des liens sacrés concernant les restrictions à 4 parties: "
+"les fautes racines, les fautes secondaires (dérivées) (litt. branche), les "
+"28 fautes mineures et une présentation annexe des liens sacrés concernant "
+"les quatre initiations."
+msgstr ""
+
+#  3. དང་པོ་ནི། 4. དམ་ཚིག་རྩ་བའི་ལྟུང་བ་བཅུ་བཞི་སྟེ། ། 5. སློབ་དཔོན་བརྙས་དང་
+# 
+# བཀའ་འདས་སྤུན་ལ་ཁྲོ། ། 6. བྱམས་བཏང་བྱང་སེམས་སྤོང་དང་ཆོས་ལ་སྨོད། ། 7. གསང་
+# 
+# སྒྲོགས་ཕུང་པོར་བརྙས་དང་སོམ་ཉི་ཟ། ། 8. གདུག་ལ་བྱམས་ལྡན་དེར་རྟོག་
+# 
+# སེམས་སུན་འབྱིན། ། 9. དམ་ཚིག་རྙེད་འདོར་བུད་མེད་སྨོད་པའོ། །་
+msgctxt "line 2, Livre5_4-2.7.r.txt"
+msgid ""
+"1. Les fautes racines Les quatorze fautes racines sont : Manquer de respect "
+"au maître; transgresser les instructions; se mettre en colère contre ses "
+"frères et soeurs du dharma (litt. sa fratrie); Abandonner l’amour, rejeter "
+"l’esprit d’éveil, critiquer le dharma, Révéler les secrets; maltraiter ses "
+"agrégats; douter; Aimer les mauvais; conceptualiser la telléité; faire "
+"perdre la foi; Refuser les substances des liens sacrés; manquer de respect "
+"envers les femmes."
+msgstr ""
+
+#  10. དེའང་དམ་ཚིག་གི་སྐད་དོད་ས་མ་ཡ་ནི། 11. ཇི་སྐད་དུ། 12. ས་མ་ཡ་
+# 
+# མཉམ་ཇི་བཞིན་སྤྱོད། ། 13. གྲུབ་པའི་མཐའ་དང་ཕུན་སུམ་ཚོགས། ། 14.
+# ཁྲིམས་བཅའ་གཞན་ཡང་
+# 
+# རྒྱས་པར་བསྟན། ། 15. བརྡ་དང་དུས་དང་སྐད་རྣམས་ལའོ། །་
+msgctxt "line 3, Livre5_4-2.7.r.txt"
+msgid ""
+"A ce sujet, l’équivalant sanskrit du mot ’’lien sacré” est “samaya”. Voici "
+"ce qui en est dit : “Samaya (signifie): égalité, application exacte, "
+"Conclusion certaine, perfection, Régle établie, répétition, présentation "
+"détaillée, Signe, occasion et language.”"
+msgstr ""
+
+#  16. ཞེས་དོན་བཅུ་ལ་འཇུག་པར་བཤད་པ་ལས། 17. སྐབས་འདིར་ཇི་བཞིན་པར་སྤྱོད་
+# 
+# པ་དང༌། དམ་པའི་ཚིག་གིས་ཁྲིམས་སུ་བཅས་པ་དེ་ལས་འདར་མེད་
+# 
+# པའི་དོན་སོགས་སུ་བཟུང་བར་བྱ་སྟེ། 18. དེ་ལ་ཕྱིར་བཅོས་དང་མ་
+# 
+# འབྲེལ་ན་ 19. མནར་མེད་སོགས་སུ་ལྟུང་བའི་རྩ་བར་གྱུར་པས་ 20. རྩ་
+# 
+# བའི་ལྟུང་བ་ཞེས་གྲགས་པ་ནི་བཅུ་བཞི་སྟེ།་
+msgctxt "line 4, Livre5_4-2.7.r.txt"
+msgid ""
+"De ces dix signifiaction possibles il s’agit ici de l’application exacte et "
+"des règles établies selon les paroles sacrées (du lama qui est un être saint"
+" ou sacré, pure) desquelles il ne faut jamais se détourner etc (ne pas les "
+"transgresser, ni les abandonner..) et qu’il faut maintenir. Si on les "
+"transgresses sans les réparer (litt si, non reliée à la réparation), cela "
+"deviendra la (cause) racine (principale) pour tomber dans l’enfer des pires "
+"tourments. C’est la raison pour laquelle on les appelles les “fautes "
+"racines’’ (litt. les chutes racines). Elles sont au nombre de quatorze."
+msgstr ""
+
+#  21. རྩ་ལྟུང་དང་པོའི་ཡུལ་རྡོ་རྗེ་སློབ་དཔོན་ལའང༌། 22. དམ་ཚིག་བཟླས་པ་སྦྱིན་
+# 
+# པ་དང༌། ། 23. འཆད་བྱེད་མན་ངག་སྟོན་པ་དང༌། ། 24. དབང་བསྐུར་བ་དང་ལས་བྱེད་
+# 
+# པ། ། 25. སློབ་དཔོན་དྲུག་ཏུ་རབ་ཏུ་བརྗོད། །་
+msgctxt "line 5, Livre5_4-2.7.r.txt"
+msgid ""
+"L’objet de la première faute racine est le maître vajra. A son sujet, “Ceux "
+"qui confére les liens sacrés et les mantras à réciter, Ceux qui expliquent "
+"(les tantras) et ceux qui offrent (montrent) les instructions directes, Ceux"
+" qui confèrent les initiations et ceux qui officient, Sont clairement "
+"indentifés comme étant les six maîtres (vajra).”"
+msgstr ""
+
+#  26. ཅེས་གསུངས་པ་ལས་གཙོ་བོར་གྱུར་པ་དབང་བསྐུར་རྒྱུད་བཤད་མན་ངག་
+# 
+# ཕོག་པ་དང༌། 27. ཁྱད་པར་དེ་ཁོ་ན་ཉིད་ཀྱི་ཡེ་ཤེས་མཚོན་པར་
+# 
+# མཛད་པ་ནི་དཔལ་ལྡན་བླ་མ་ཞེས་བྱ་སྟེ་ 28. དེའི་ཐུགས་དཀྲུགས་
+# 
+# སམ་དེ་ལ་རྡེག་འཚོག་སྐུར་འདེབས་ལོག་ལྟ་སོགས་སྒོ་གསུམ་གང་
+# 
+# ཡང་རུང་བས་སྤྱོས་ཤིང་བརྙས་ན་རྩ་ལྟུང་དང་པོར་གྱུར་ཏེ། 29. དེའང་
+# 
+# ཡུལ་བླ་མ་དམ་པ་ཡིན་པ། མི་དགེ་བ་སྤྱད་ན་དེ་མི་
+# 
+# དགྱེས་པར་ཤེས་པ། 30. ལས་ལུས་ངག་གི་རྣམ་པར་རིག་བྱེད་དུ་བླ་
+# 
+# མའི་དངོས་སུ་ཐོན་པར་སྤྱད་པ། 31. གཞན་དོན་དུ་འགྱུར་བ་སོགས་ཀྱི་
+# 
+# དགོས་པ་མེད་པར་རང་དོན་ལྷུར་བླངས་པ། 32. ཕྱི་ནས་སྦྱོང་སེམས་མེད་
+# 
+# པ་སྟེ་ཡན་ལག་དྲུག་དང་ལྡན་ན་རྫོགས་པའོ། ། 33. དབང་བསྐུར་བ་སོགས་
+# 
+# གསུམ་ཀའམ་གཉིས་སམ་གཅིག་ལྡན་གྱིས་ལྟུང་བའི་ཡུལ་ལས་ལྕི་ཡང་
+# 
+# གསུམ་ལ་སོགས་པའང་དབྱེར་ཡོད་དོ། །་
+msgctxt "line 6, Livre5_4-2.7.r.txt"
+msgid ""
+"Parmi ces (maîtres) ainsi exprimés, ceux qui nous confèrent les initiations,"
+" nous enseigent les tantras et nous offrent les instructions directes sont "
+"les principaux. De plus, Ceux qui plus spécifiquement nous montrent la "
+"sagesse primordiale de la télléité sont appelés les ’’glorieux lamas”. "
+"Ainsi, quand on perturbe son esprit (lui déplait), on l’agresse "
+"physiquement, l’accuse à tort, développe des vues érronées à son égard etc, "
+"qu’avec son corps, sa parole ou son esprit, (litt. les trois portes) on le "
+"critie et le dénigre, cela devient la première faute racine. (la première "
+"faute racine à lieux quand on déplait au maître, qu’on l’agresse "
+"physiquement, l’accuse à tort, développe des vues érronées à son égard etc, "
+"ou qu’on le critique et de dénigre par notre attitude physique, par nos mots"
+" ou mentalement.) De plus si l’objet (de notre délit) est un Lama "
+"authentique (litt, sacré ou saint), que l’on sait qu’accomplir tel acte non "
+"vertueux lui déplaira, que l’acte lui même physique ou verbale est accompli "
+"de manière évidente (visible, compréhensive) devant le lama, qu’il ne sera "
+"d’aucun bénféfice pour les autres et qu’il n’est accompli que pour soi même,"
+" qu’une fois accompli, on ne développe pas l’intention de s’en purifier, si "
+"cet acte possède ces six aspects (branches) la faute est totale (complète). "
+"Plusieurs distinctions sont faites notament quand à la gravité de la faute :"
+" elle sera lourde moindre ou légére selon qu’elle s’adresse à un maître "
+"duquel on a recut trois, deux ou un seul des points du tryptique "
+"initiations, explications et instructions sacrés."
+msgstr ""
+
+#  34. གཉིས་པ་བཀའ་ལས་འདས་པ་ནི། 35. སྤྱིར་རྒྱལ་བའི་བཀའ་ལས་འདས་པར་བཤད་
+# 
+# དེ། 36. རང་གི་བློ་དང་མ་འཚམས་ཀྱང་སྨོད་ཅིང་སྤངས་ན་འདིར་གྱུར་
+# 
+# ཏེ། 37. དེའང་ཐེག་ཆེན་གྱི་ཆོས་སྤངས་ན་ཕམ་པ། 38. རང་འདོད་ཀྱི་བཀའི་ཚིག་
+# 
+# དང་མི་མཚུངས་པའི་བཀའ་གཞན་ལ་སྡང་ན་སྦོམ་པོ། 39. སྒྲོ་སྐུར་ཆུང་
+# 
+# ངུ་ནི་ཉེས་བྱས་སུ་འགྱུར་ལ། 40. བྱེ་བྲག་ཏུ། 41. བླ་མ་དེས་རང་ལ་
+# 
+# མི་དགེ་བཅུ་སོགས་ལས་བཟློག་པའི་ཆེད་དུ་གདམས་པ་ལས་ལྐོག་
+# 
+# ཏུ་དེ་དག་སྤྱད་ནས་ 42. བཀའ་དེ་འགོངས་ན་རྩ་ལྟུང་དུ་གྱུར་
+# 
+# ཏེ།་
+msgctxt "line 7, Livre5_4-2.7.r.txt"
+msgid ""
+"2. Transgresser les instructions Il s’agit (litt. enseigne) en général de ne"
+" pas transgresser les instructions (Paroles) du Vainqueur. En effet, cela "
+"deviendra (une faute racine) si on nie ou rejette ces instructions, même si "
+"nous n’arrivons pas à les accepter intellectuellement. En lien avec cette "
+"faute, si on rejette le Dharma du Grand Véhicule, c’est une défaite. Avoir "
+"de l’aversion envers des instructions alternatives du bouddha qui ne "
+"s’accordent pas celles que l’on a soi même acceptées est une violation "
+"sérieuse. inventer ou nier (certaines paroles du boudha) est une faute "
+"mineure. Pour ce voeux, plus particulièrement, Le lama nous a instruit de "
+"sorte que l’on se détourne des dix actes non vertueux et de toute autre non "
+"vertu, mais si on s’y adonne sans qu’il le sache, (dans son dos, en "
+"cachette) et qu’ainsi on outrepasse ses instructions, cela constitue une "
+"faute racine."
+msgstr ""
+
+#  43. ཡན་ལག་བླ་མ་དམ་པ་ཡིན་པ། སྤྱད་ན་མི་དགྱེས་པར་ཤེས་པ། 44. ལྐོག་
+# 
+# ཏུ་ལུས་ངག་གིས་སྤྱད་པ། 45. གོང་སྨོས་ཡན་ལག་ཕྱི་མ་གསུམ་མཚུངས་
+# 
+# པ་ལས་རྫོགས་པའོ། །་
+msgctxt "line 8, Livre5_4-2.7.r.txt"
+msgid ""
+"Les différentes branches (constituants) sont: que ce soit un Lama "
+"authentique, que l’on sait qu’accomplir tel acte non vertueux lui déplaira, "
+"qu’on l’accomplisse physiquement ou verbalement sans qu’il le sache, quand "
+"(ces trois points) avec en plus les trois derniers facteurs vu précédement "
+"sont tous présent, la faute est complète."
+msgstr ""
