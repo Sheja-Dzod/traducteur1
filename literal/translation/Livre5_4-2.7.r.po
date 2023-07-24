@@ -145,7 +145,7 @@ msgstr "1. Les chutes racines"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mûla,source, racine, fondamental
 msgctxt "7e90babb191b4c998860a33add4956b4"
 msgid "དམ་ཚིག་ རྩ་བ␣འི་ ལྟུང་བ་ བཅུ་བཞི་ སྟེ ། །"
-msgstr "Les quatorze fautes racines sont :"
+msgstr "Les liens sacrés concernant les quatorze fautes racines sont :"
 
 # 。︀	〝བཀའ〞 152
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Parole (honorifique) Parole du Buddha ⁃ verbe,
