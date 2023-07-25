@@ -1,0 +1,104 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གསུམ་པ་ནི། 2. ཕྲིན་ལས་བཅོ་ལྔ་དེ་ཡི་ཡན་ལག་བདུན། ། 3. ཕྲིན་ལས་སྒྲུབ་པ་
+# 
+# ལ་བརྟེན་པའི་ལྟུང་བ་བཅོ་ལྔ་པ་ཞེས་སློབ་དཔོན་དཔའ་བོས་
+# 
+# ཕྱུང་བ་ནི། 4. ༡མེ་ཏོག་ཕོག་པའི་ལྷ་ངོར་གཞན་བཟང་རྟོག ། 5. ༢རང་ལྷའི་བསྐྱེད་
+# 
+# རྫོགས་ཉིན་མཚན་དུས་ལས་ཡོལ། ། 6. ༣ཕྱི་རོལ་ལྷར་དགའ་༤བསྐྱེད་རིམ་དངོས་པོར་
+# 
+# ཞེན། ། 7. ༥རང་གིས་དབང་མ་རྫོགས་པར་གཞན་ལ་བསྐུར། ། 8. ༦ཚེ་འདིའི་ཆེད་དུ་ཟབ་
+# 
+# མོའི་དོན་རྣམས་སྟོན། ། 9. ༧བསླབ་པ་འོག་མར་བརྙས་དང་༨ཚུལ་འཆོས་བྱེད། ། 10.
+# ༩ནུས་མེད་
+# 
+# ལས་སྦྱོར་༡༠དོན་མེད་གཡེང་བས་འདའ། ། 11. ༡༡སྐྱབས་ནུས་མི་སྐྱོབ་༡༢འོག་མའི་སྤྱོད་
+# 
+# ལ་དགའ། ། 12. ༡༣ཟང་ཟིང་ལ་ཆགས་༡༤དམ་ཉམས་འདུལ་མི་བྱེད། ། 13.
+# ༡༥སྤྱོད་པའི་དུས་སྐབས་
+# 
+# མི་འབྲེལ་སྤྱད་བཅོ་ལྔ། །་
+msgctxt "line 1, Livre5_4-2.7.x.txt"
+msgid ""
+"3. “Quinze en lien avec les activités sacrées et sept branches”. Les quinze "
+"fautes en lien avec les activités sacrées à accomplir sont selon (litt.tiré "
+"des ecrits de) Lopon Ashvaghosha: 1. Préférer une autre divinité que celle "
+"sur laquelle la fleur est tombée (litt. concevoir comme meilleur "
+"(préférable) une autre divinité que celle touchée par la fleure (lors de "
+"l’initiation, quand on jette la fleur dans le mandala). Ne pas respecter les"
+" période du jour et de la nuit attitrées à la pratique de la phase de "
+"création et de complétion de sa divinité. (litt. repousser(delay) les temps "
+"de pratique). 3. Etre attiré (litt. apprécier) par les divinités des "
+"religions non bouddhistes. 4. Saisir comme réel (concret, solide) la phase "
+"de création(considérer comme solide le mandala visualisé lors de la phase de"
+" création). Conférer une initiation sans l’avoir soi-même recu dans son "
+"intégralité. Enseigner(litt. montrer) tous ce qui à un sens profond pour en "
+"tirer un bienfait dans cette vie (litt. pour cette vie). 7. Manquer de "
+"considération envers les pratiques (les entrainements des véhicules) "
+"inférieures. 9. S’engager des les activités sacrées (activité courroucées, "
+"de pacification, etc) sans en avoir la capacité. 10. Perdre son temps dans "
+"des distractions vide de sens. 11. Ne apporter de l’aide (litt. protection) "
+"alors qu’on en a la capacité. 12. Etre attiré (litt. aimer, apprécier et "
+"mettre en pratique) par les conduites éthiques (des véhicules) inférieurs. "
+"13. Etre attaché aux bien matériels. 14. Ne pas discipliner ceux qui "
+"manquent à leurs liens sacrés. 15. S’engager dans une conduite tantrique "
+"alors que ce n’est pas le bon moment. Tels sont les quinze (fautes)."
+msgstr ""
+
+#  14. ༡དམ་པ་བསྟེན་ཞིང་༢སྣོད་ཀྱི་སྤང་བླང་བརྟག ། 15. ༣རང་འདོད་ཕྱིར་དུ་སྲོག་ཆགས་
+# 
+# གཞན་གནོད་མིན། ། 16. ༤དཀོན་མཆོག་དཀོར་ལ་མི་སྤྱོད་༥གཞན་དོན་བྱ། ། 17.
+# ༦བསྔོ་བས་རྒྱས་
+# 
+# འདེབས་༧འཕོ་བའི་དེ་ཉིད་མཁས། ། 18. ཡན་ལག་བདུན་ནོ་་
+msgctxt "line 2, Livre5_4-2.7.x.txt"
+msgid ""
+"1. S’en remettre à un maître authentique (saint). 2. Examiner les disciple-"
+"receptacles à accepter et à rejeter. 3. Ne pas nuire a aucune créature afin "
+"d’accomplir son propre désir. 4. Ne pas utiliser les biens et possessions "
+"des trois joyaux. 5. Faire le bien des autres. 6. Sceller par la dédicace. "
+"7. Savoir appliquer la technique du transfert (de conscience). tels sont les"
+" 7 branches."
+msgstr ""
+
+#  19. ༡སྔགས་ལ་ཐེ་ཚོམ་ཟ། ། 20. ༢ཐེག་གསུམ་རིམ་པར་མི་བསྟན་གཅིག་ཏུ་སྦྱོར། ། 21.
+# ༣དེ་ཉིད་
+# 
+# བཅུ་དང་མི་ལྡན་སློབ་དཔོན་བྱེད། ། 22. ༤བདུད་བརྟག་མི་མཁས་༥དམ་ཚིག་བརྟག་
+# 
+# མི་བྱེད། ། 23. ༦ཕྲ་མོའི་ཉེས་བྱས་མི་བཤགས་ཉེས་པ་དྲུག། 24. ཅེས་པ་རྣམས་བསྡོམས་
+# 
+# པས་ཕྲ་མོ་ཉེར་བརྒྱད་དུ་འགྱུར་རོ། །་
+msgctxt "line 3, Livre5_4-2.7.x.txt"
+msgid ""
+"1. Douter des Mantras (du Mantrayana). 2. Enseigner les trois véhicules "
+"simultanément au lieu de les enseigner dans l’ordre. 3. Agir en tant que "
+"Maïtre Vajra sans connaître les dix domaines essentiels. 4. Ne pas avoir les"
+" compétence pour discerner (investiquer) les forces démoniaques. 5 Ne pas "
+"observer (si le disciple tient ou pas) les liens sacrés. 6. Ne pas confesser"
+" les fautes minimes. Tels sont les six erreures. Toutes fautes ajoutées "
+"forment les vingt huit fautes mineures."
+msgstr ""
+
+#  25. གཞན་ཡང་གཤེད་དམར་ནག་གི་རྒྱུད་ལས། 26. རྣལ་འབྱོར་སློང་མོས་མི་རྒྱུ་ཞིང༌། །
+# 27. རྣལ་
+# 
+# འབྱོར་སྤང་བར་མི་བྱ་སྟེ། ། 28. རྟག་པར་རྒྱུན་དུ་གསང་སྔགས་ཟླ། ། 29. རྟག་ཏུ་
+# 
+# དམ་ཚིག་ལ་སོགས་བསྟེན། ། 30. ཞེས་ཡན་ལག་གི་ལྟུང་བ་བཞིའང་བཤད་དོ། །་
+# 
+# 
+msgctxt "line 4, Livre5_4-2.7.x.txt"
+msgid ""
+"De plus, dans le Tantra de Yamari rouge et le Tantra de Yamari noir : Le "
+"Yogi ne mendie pas n’importe où. Il n’abandonne jamais sa pratique. Il "
+"récite toujours et de de manière continue son mantra. Il s’en tient (s’en "
+"remet, applique) toujours à ses liens sacrés. Ceci est une autre "
+"présentation en quatre fautes secondaires (branche)."
+msgstr ""
