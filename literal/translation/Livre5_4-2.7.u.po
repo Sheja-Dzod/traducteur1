@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -88,8 +88,8 @@ msgctxt "8ae3e09305f84268be29632b2c1c6261"
 msgid "སྤྱིར་ རང་གཞན་ གྱི་ ཕུང་ ཁམས་ སྐྱེ་མཆེད་ ཐམས་ཅད་ ལ་ མི་ བརྙས་ ཏེ་"
 msgstr ""
 "Le sens général est de ne pas nuire autant pour soi que pour les autres a "
-"ses agrégats, ses éléments et ses sources d'apparition et de développement. "
-"La raison est que"
+"ses agrégats, ses éléments et ses sources d'apparition et de développement "
+"(source d'expansion). La raison est que"
 
 # 。︀	〝དྲི〞 2556
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ odeur
