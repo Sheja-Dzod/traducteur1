@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -264,7 +264,8 @@ msgctxt "140f034e5bae48ffb32ed682299713dc"
 msgid "༧␣བསླབ་པ་ འོག་མ␣ར་ བརྙས་ དང་ ༨␣ཚུལ་འཆོས་ བྱེད ། །"
 msgstr ""
 "7. Manquer de considération envers les pratiques (les entrainements des "
-"véhicules) inférieures. "
+"véhicules) inférieures. 8. prétendre être ce que l'on est pas "
+"spirituellement (faire bonne figure). "
 
 # 。︀	〝དོན་མེད〞 2500
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ inanité, vanité (n88), (actions) absurdes, qui n'a pas
