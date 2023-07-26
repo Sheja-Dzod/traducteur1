@@ -1,0 +1,253 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གཉིས་པ་ནི། 2. ཡན་ལག་བརྒྱད་ནི་དམ་མེད་རིག་མ་བསྟེན། ། 3. ཚོགས་ལ་རྩོད་ཅིང་
+# 
+# ཡུལ་མིན་བདུད་རྩི་ལེན། ། 4. དུས་ལ་མི་བཤད་དྲིས་ལན་བྲེ་མོས་གདབ། ། 5. ཉན་
+# 
+# ཐོས་ནང་འདུག་མི་ཤེས་སྔགས་པར་རློམས། ། 6. སྣོད་མིན་གསང་བསྒྲགས་རྣམས་ཏེ་
+# 
+# འདྲེན་ཚུལ་མང༌། །་
+msgctxt "line 1, Livre5_4-2.7.w.txt"
+msgid ""
+"Deuxièmement : Les huit (liens sacrés) secondaires sont: pratiquer avec une "
+"consorte qui n’a pas les liens sacrés (samayas); Se disputer lors des "
+"ganachakras (festins tantriques); prendre l’elixire d’une consorte non "
+"approprié; Ne pas enseigner quand on le demande; répondre aux questions de "
+"facon perverte; Résider chez les Auditeurs; prétendre être un yogi alors "
+"qu’on est ignorant; Enseigner le Mantra Secret au récéptacle non adapté. Il "
+"existe de nombreuse autre manière de les présenter."
+msgstr ""
+"« Les huit secondaires concerne le fait de pratiquer avec une compagne de sagesse qui n’a pas de liens sacrés; \n"
+"\n"
+"Se disputer lors des ganachakras; prendre l’elixire d’une parèdre non approprié; \n"
+"Ne pas enseigner quand on le demande; répondre aux questions de facon perverte; \n"
+"Résider chez les Auditeurs; prétendre être un yogi alors qu’on est ignorant; Enseigner le Mantra Secret au récéptacle non adapté. \n"
+"Il existe de nombreuse autre manière de les présenter. »"
+
+#  7. རྩ་བ་བཅུ་བཞི་དང་རྗེས་སུ་མཐུན་པའི་ཡན་ལག་བརྒྱད་ནི། 8. དབང་མ་
+# 
+# ཐོབ་ཅིང་ཐོབ་ཀྱང་ཉམས་པས་དམ་ཚིག་མེད་པ། 9. གསང་མི་ཐུབ་པ། 10. རང་
+# 
+# ཉིད་ལ་མི་དད་ཅིང་མཚན་ཉིད་མི་ལྡན་པའི་རིག་མ་བསྟེན་
+# 
+# པ་དང་པོ་འདི་ནི་ 11. གཙོ་བོར་ཁྱིམ་པ་རྡོ་རྗེ་འཛིན་པའི་
+# 
+# དབང་དུ་བྱས་པའོ། །་
+msgctxt "line 2, Livre5_4-2.7.w.txt"
+msgid ""
+"Les huit branches (liens sacrés secondaires) s’accordantes aux quatorze "
+"racines (principaux) sont: Celles qui sont dépossédées (qui n’ont pas) du "
+"lien sacré parcequ’elles n’ont pas recu l’initiation ou encore l’ont recu "
+"mais l’ont détérioré, qui ne peuvent garder le secret, qui n’a pas la foi en"
+" vous et qui ne posséde pas les caratéristiques (authentique); s’en remettre"
+" à une telle consorte de sagesse, est le premier (manquement au lien sacré) "
+"Il s’adresse essentiellement aux pratiquants laiques détenteurs du Vajra "
+"(les maîtres du vajrayana)."
+msgstr ""
+"Les huit branches, liens sacrés secondaires s’accordants aux quatorze liens sacrés racines concernent huit chutes : \n"
+"1. Pratiquer avec une compagne de sagesse qui n’a pas de lien sacré par ce qu’elle n’a pas recu l’initiation ou qu’elle a détérioré ses liens sacré bien que l’ayant recue, qui n’a pas foi en vous et qui ne posséde pas les caratéristiques d’une parèdre authentique.\n"
+"\n"
+"Ce lien sacré s’adresse essentiellement aux pratiquants laiques détenteurs du Vajra (les maîtres du vajrayana)."
+
+#  12. ཚོགས་འཁོར་གྱི་སྐབས་སུ་གྲལ་དང་བཟའ་བཏུང་ལ་རྩོད་པས་ 13. མཚོན་དཀྱིལ་
+# 
+# འཁོར་སྒྲུབ་མཆོད་སྦྱིན་སྲེག་རབ་གནས་སོགས་སྔགས་ཀྱི་སྤྱོད་པའི་དུས་
+# 
+# སུ་འཁྲུག་ལོང་བསྐྱེད་པ་གཉིས་པ།་
+msgctxt "line 3, Livre5_4-2.7.w.txt"
+msgid ""
+"Lors des festins tantriques (Ganachakras) se disputer, par exemple pour le "
+"rang (la position dans le rang) et pour la nourriture et les boissons, ou "
+"encore se battre lors des rituels de mandalas, des offrandes dans le feu, "
+"des consécrations etc., ou d’autres activités du Mantra Secret, est le "
+"deuxième."
+msgstr ""
+"2. Se disputer pour une question de position dans le rang des pratiquants ou"
+" pour la nourriture et les boissons lors d’un ganachakras, ou encore se "
+"battre lors des rituels de mandalas, des offrandes dans le feu, des "
+"consécrations etc., ou lors de toute autre activité du Mantra Secret. "
+
+#  14. རྒྱུད་ནས་མ་གསུངས་ཤིང་སྨད་པའི་རིག་མ་ལས་ཕྱི་ནང་གི་དམ་
+# 
+# ཚིག་བདུད་རྩི་བླངས་ན་གསུམ་པ།་
+msgctxt "line 4, Livre5_4-2.7.w.txt"
+msgid ""
+"Prendre l’elixir de samaya extérieur ou intérieur d’une consorte de sagesse "
+"inférieur, non conforme à ce qui est enseigné dans les Tantras forme le "
+"troisième."
+msgstr ""
+"Prendre l’elixir de samaya extérieur ou intérieur d’une compagne de sagesse "
+"inférieure ou qui est non conforme à ce qui est enseigné dans les Tantras. "
+
+#  15. དད་པ་དང་ལྡན་པས་གདམས་ངག་ཞུས་པའི་དུས་ལ་ལོངས་སྤྱོད་མེད་
+# 
+# པའམ། 16. དཔེ་མཁྱུད་ཀྱིས་མི་སྟོན་པ་བཞི་པ།་
+msgctxt "line 5, Livre5_4-2.7.w.txt"
+msgid ""
+"Quand une personne ayant la foi fait la requête d’instructions, (ne pas lui "
+"les donner) soit parce qu’il ne possède rien (n’a rien a offrir), soit parce"
+" qu’on ne souhaite pas partager sa connaissance, ne pas l’enseigner."
+msgstr ""
+"4. Ne pas enseigner à une personne qui, avec foi, fait la requête "
+"d’instructions, soit parce qu’elle n’a rien a offrir, soit parce qu’on ne "
+"souhaite pas partager sa connaissance."
+
+#  17. གཞན་གྱིས་ཆོས་ཀྱི་དྲི་བ་དྲིས་པ་ལ་དེའི་ལན་མི་ལྡོན་པར་
+# 
+# ཀུ་རེ་བྲེ་མོའི་གཏམ་སྨྲ་བའམ། 18. སྔགས་དྲིས་པ་ལ་མདོ་ཆོས་བཤད་
+# 
+# པ་ལྟ་བུ་ལྔ་པ།་
+msgctxt "line 6, Livre5_4-2.7.w.txt"
+msgid ""
+"Quand une personne pose une question sur le Dharma, se moquer de lui ou "
+"tenir des propos innapropriés sans (dénier) lui répondre, comme par exemple "
+"répondre selon les soutras à une question sur les tantras. Cela forme le "
+"cinquième."
+msgstr ""
+"5. Se moquer d’une personne qui pose une question sur le Dharma, lui tenir "
+"des propos innapropriés sans dénier lui répondre, ou, comme par exemple, "
+"répondre selon les soutras à une question sur les tantras. "
+
+#  19. ཐེག་ཆེན་ལ་མི་དད་པའི་ཉན་ཐོས་ཀྱི་སྡེའི་ནང་དུ་ཞག་བདུན་
+# 
+# འདས་པར་འདུག་པ་དྲུག་པ།་
+msgctxt "line 7, Livre5_4-2.7.w.txt"
+msgid ""
+"Rester plus de sept jours dans la demeure d’un Auditeur qui n’a pas la foi "
+"en le Grand Véhicule forme le sixième."
+msgstr ""
+"6. Rester plus de sept jours dans la demeure d’un Auditeur qui n’a pas la "
+"foi en le Grand Véhicule."
+
+#  20. གསང་སྔགས་ཀྱི་ཚུལ་ཕྱི་ནང་གཞན་གསུམ་དང་ཟུང་འཇུག་གི་རྣལ་འབྱོར་
+# 
+# མི་ཤེས་ཀྱང་ 21. ཕྱིའི་བྱ་བ་དང་བསྐྱེད་རིམ་ཙམ་ཤེས་པས་ 22. ང་
+# 
+# ནི་སྔགས་འཆང་རྡོ་རྗེ་འཛིན་པའོ་ཞེས་མངོན་པའི་ང་རྒྱལ་གྱིས་
+# 
+# རློམས་པ་བདུན་པ།་
+msgctxt "line 8, Livre5_4-2.7.w.txt"
+msgid ""
+"ne connaisant ni le mode d’être extrérieur, intérieur et alternatif (la "
+"télléité) du Mantra Secret ni la pratique (yoga) de l’union n’ayant "
+"connaissance que des rites extérieurs (litt. activités) et des phases de "
+"création, développer l’orgeuil consistant à s’auto-illusionner en se croyant"
+" un pratiquant tantrique maître des mantras."
+msgstr ""
+"7. Développer l’orgeuil consistant à s’auto-illusionner en se croyant un "
+"pratiquant tantrique maître des mantras parce qu’on n’en connais que les "
+"rites extérieurs alors qu’on ne connaît ni son mode d’être extrérieur, "
+"intérieur et alternatif (la télléité) du Mantra Secret ni la pratique (yoga)"
+" de l’union."
+
+#  23. སློབ་མ་རིན་པོ་ཆེ་ལྟ་བུ་ལ་སློབ་བཤད། 24. ཙནྡན་ལྟ་བུ་སོགས་ལ་
+# 
+# ཚོགས་བཤད། 25. སྣོད་དང་མི་ལྡན་པ་ལ་ཐུན་མོང་ཙམ་འཆད་དགོས་པ་
+# 
+# ལ་ 26. དེ་ལས་ལྡོག་སྟེ་གསང་བ་སྒྲག་པ་རྣམས་ནི་བརྒྱད་པ་
+# 
+# སྟེ།་
+msgctxt "line 9, Livre5_4-2.7.w.txt"
+msgid ""
+"Donner au disciple semblable a un joyau les instructions personnalisées, "
+"celui semblables au santal, les instructions collectives. et pour les "
+"récéptacles non adaptés ne donner que des instructions générales est ce qui "
+"se doit d’être fait. Cepedant, si au lieu de celà (a l’inverse) on leur "
+"enseigne les mantras secrets cela consitute la huitième faute. Cependant,"
+msgstr ""
+"8. Révéler les mantras secret sans les adapter aux disciple, c’est à dire, "
+"donner aux disciples semblable a un joyau les instructions personnalisées, à"
+" ceux semblable au santal, les instructions collectives, et aux récéptacles "
+"non adaptés ne donner que des instructions générales."
+
+#  27. རྡོ་རྗེ་སྙིང་པོ་རྒྱན་གྱི་རྒྱུད་ལས། 28. དང་པོ། གཉིས་པ། ལྔ་པ། དྲུག་པ།
+# བརྒྱད་པ། གསང་བ་
+# 
+# སྟོན་པ་བཅས་དྲུག་གསུངས་ཤིང༌། 29. གཞན་ཡང་རྒྱུད་སྡེ་རྣམས་ལས་ཐོར་བུ་
+# 
+# ཅི་རིགས་གསུངས་པས་ 30. མཐའ་གཅིག་ཏུ་གྲངས་ངེས་དཀའ་ཞིང་ 31. སློབ་དཔོན་
+# 
+# རྣམས་ཀྱིས་འདྲེན་ཚུལ་ཡང་མང་བ་ལས་འདིར་བཤད་པ་ནི་ 32. འཇམ་
+# 
+# དཔལ་གྲགས་པའི་གཞུང་བཞིན་དམ་ཚིག་རྒྱ་མཚོ་ལས་བྱུང་བ་ཉིད་
+# 
+# ཡིན་ལ།་
+msgctxt "line 10, Livre5_4-2.7.w.txt"
+msgid ""
+"Dans le Tantra l’Ornement du Coeur Adamantin ne sont exposé que 6 (fautes) "
+"correspondant a la première, la deuxième, la cinquième, la sixième, la "
+"huitième avec en sixième le fait de montrer les objets secrets. En outre, "
+"dans les différents tantras on retouves enseignés toutes sortes de (fautes "
+"secondaires) de manière dispersées et par conséquent il est difficile "
+"d’affirmer un nombre avec exactitude. De plus, les différents maitres "
+"(Indiens) les ont eux aussi présentés de diverses manières, ici la "
+"présentation est celle que l’on retrouve dans l’Ocean des Liens Sacrés qui "
+"lui même suit les traités de Manjushri-Yasha. En lien avec celà,"
+msgstr ""
+"Dans le Tantra l’Ornement du Coeur Adamantin ne sont exposé que 6 chutes, "
+"les cinq premières correspondants a la première, la deuxième, la cinquième, "
+"la sixième, et la huitième, et avec en sixième le fait de montrer les objets"
+" secrets. En outre, dans les différents tantras on retouves enseignés de "
+"manière disperées toutes sortes de chutes secondaires ce qui rend difficile "
+"d’en identifier un nombre exact. De plus, les différents maitres (Indiens) "
+"les ont eux aussi présentés de diverses manières. La présentation proposée "
+"ici est celle que l’on retrouve dans l’Ocean des Liens Sacrés qui lui même "
+"suit les traités de Manjushri-Yasha."
+
+#  33. སྙིང་པོའི་ཞབས་ཀྱི་གཞུང་ལས། 34. དམ་ཚིག་དང་ནི་མི་ལྡན་པའི། །རིག་མ་བསྟེན་
+# 
+# པར་དགའ་བ་དང༌། ། 35. ཚོགས་ཀྱི་འཁོར་ལོར་རྩོད་པ་དང༌། ། 36. སེམས་ཅན་དད་དང་
+# 
+# ལྡན་པ་ལ། །དམ་ཆོས་གཞན་དུ་སྟོན་པ་དང༌། ། 37. ཉན་ཐོས་དག་ཏུ་རློམ་
+# 
+# བྱེད་པའི། །ནང་དུ་ཞག་བདུན་འདས་པ་དང༌། ། 38. སྤྱོད་པ་ལེགས་པར་མ་བྱས་
+# 
+# པའི། །སྐལ་མིན་གསང་བ་བསྟན་པ་དང༌། ། 39. གང་ཞིག་ཕྱག་རྒྱ་མི་མཁས་ལ། །ལུས་
+# 
+# ཀྱི་ཕྱག་རྒྱ་བསྟན་པ་དང༌། ། 40. བསྙེན་སོགས་དག་པར་མ་བྱས་པར། །དཀྱིལ་འཁོར་
+# 
+# ལས་ལ་འཇུག་པ་དང༌། ། 41. སྡོམ་པ་གཉིས་ཀྱི་བཅས་པ་ལས། །དགོས་པ་མེད་
+# 
+# པར་འདའ་བ་དང༌། ། 42. ཞེས་བརྒྱད་དུ་གསུངས་པ་ལྟར་ 43. འཁྲུལ་སྤང་དང་ཇོ་
+# 
+# ནང་རྗེ་བཙུན་ཆེན་པོས་ཀྱང་དེ་བཞིན་དུ་འཆད་པར་མཛད་དོ། ། 44. འགའ་
+# 
+# ཞིག་གིས་དེའི་སྟེང་དུ་དགོས་པ་མེད་པར་བརྡའི་སྐད་བསྟན་པ་
+# 
+# བསྣན་ནས་དགུར་བཤད་དོ། །་
+msgctxt "line 11, Livre5_4-2.7.w.txt"
+msgid ""
+"Dans un texte de Garbhapada on peut lire: Aimer pratiquer avec une consorte "
+"de sagesse qui n’a pas de samayas. Se disputer lors des festins sacrés "
+"(ganachakras). Enseigner Dharma sacré alternatif aux êtres qui ont la foi "
+"(en le vajrayana). Rester plus de sept jours dans la demeure d’une personne "
+"prétendant être un Auditeur. Exposer le secret (le mantra secret) à ceux "
+"qui, puisque mal préparé, ne le mérite pas. Montrer les moudras physiques à "
+"ceux qui n’ont pas de connaissance en les moudras. S’engager dans le rituel "
+"propre au mandala sans avoir bien accompli la récitation du mantra (des "
+"divinités en question). Transgresser sans que ce soit justifié les deux "
+"voeux (de libération individuelle et de bodhisattva). Tels sont les huits "
+"fautes. Dans la même ligne, ’’L’Elimination des Erreures” (de Sakya Chokden)"
+" et selon le Seigneur Jonangpa (Taranatha), les exposent de la même manière."
+" D’autres y ajoutent un neuvième qui est de montrer le language symbolique "
+"des signes sans que ce soit justifié."
+msgstr ""
+"Dans un texte de Garbhapada on peut lire les 8 présentés ainsi: \n"
+"« Aimer pratiquer avec une compagne de sagesse qui n’a pas de samayas ; Se disputer lors des festins sacrés (ganachakras) ; \n"
+"Enseigner Dharma sacré alternatif aux êtres qui ont la foi (en le vajrayana) ; Rester plus de sept jours dans la demeure d’une personne fier d’ être un Auditeur ; \n"
+"Exposer le secret (le mantra secret) à ceux qui, puisque mal préparé, ne le mérite pas ; \n"
+"Montrer les moudras physiques à ceux qui n’ont pas de connaissance en les moudras ; \n"
+"S’engager dans le rituel propre au mandala sans avoir bien accompli la récitation du mantra (des divinités en question) ; \n"
+"Transgresser sans que ce soit justifié les deux voeux (de libération individuelle et de bodhisattva) ;"
