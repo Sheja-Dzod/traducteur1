@@ -118,7 +118,9 @@ msgstr ""
 # adhésion,ajustement
 msgctxt "ee60cb5b683640d9afa007a03cecebce"
 msgid "རྩ་ལྟུང་ རྣམས་ ལ་ སྦྱོར་བ་ བདུན་ ཚང་ ན་ ཕམ་པ་ དངོས་གཞི␣ར་ གྱུར་ ཏེ །"
-msgstr "La défaite est complète quand sept facteurs sont réunis:"
+msgstr ""
+"Pour les chutes racine, la défaite est complète quand sept facteurs sont "
+"réunis:"
 
 msgctxt "26cb8d7b9fc54dcabbddf8b4b51d7ed8"
 msgid "སྦྱོར་ བདུན་ ནི །"
