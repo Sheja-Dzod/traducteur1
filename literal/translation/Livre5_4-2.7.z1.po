@@ -888,7 +888,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "410d9b4002af49b3bdf5d28de0b88abb"
 msgid "རང་བྱུང་ རྒྱལ་བ␣ས་ བསྡུས་པ་ བཞི་ རུ་ གསུངས ། །"
-msgstr "Le Vainquer Rangjung Dorje les regroupe en quatre:"
+msgstr "\"Le Vainquer Rangjung Dorje les regroupe en quatre\""
 
 # 。︀	〝ཀུན་མཁྱེན〞 22
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Omniscient   Connaissant tout ⁃ omniscient,
