@@ -1,0 +1,210 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གསུམ་པ་ཉམས་པའི་ཚད་དང་ཕྱིར་བཅོས་བཤད་པ་ལ་གཉིས། ལྟུང་བའི་ཚད། ཕྱིར་
+# 
+# བཅོས་སོ། །་
+msgctxt "line 1, Livre5_4-2.7.z3.txt"
+msgid ""
+"Comment évaluer qu’un lien sacré est endomagé et comment les restaurer. Cet "
+"exposé se divise en deux parties: comment évaluer les fautes et comment les "
+"restaurer."
+msgstr ""
+"3. Evaluation et restaurarion des liens sacrés\n"
+"\n"
+"Cette section se compose de deux parties : l’évaluation de la chute et sa restauration."
+
+#  2. དང་པོ་ནི། 3. ཀུན་བསླངས་དེར་ཤེས་བརྟན་དང་བར་དུ་བཅད། ། 4.
+# མ་འཁྲུལ་འགྱོད་མེད་
+# 
+# ཚད་འདས་ཕམ་པ་སྟེ། ། 5. ཡན་ལག་མ་ཚང་སྦོམ་ལྟུང་ལ་སོགས་དཔག །་
+# 
+# 
+msgctxt "line 2, Livre5_4-2.7.z3.txt"
+msgid ""
+"Premièrement : Un endomagement de lien sacré qui est motivé, fait en "
+"conscience, qui est bien établi et qui interromp (le voeux); Qui est "
+"accompli l’esprit non perturbé, sans regret et dont le délai (de confession)"
+" est dépassé est une défaite. Si toutes les branches ne sont pas réunies on "
+"mesure l’endomagement comme étant un faute grave, une faute mineur etc."
+msgstr ""
+"1. Evaluation des chutes\n"
+"« L’ endomagement d’un lien sacré qui est motivé, fait en conscience, qui est bien établi et qui l’interromp, \n"
+"Qui est accompli l’esprit non perturbé, sans regret et dont le délai de confession est dépassé est une défaite. \n"
+"Si toutes ces branches ne sont pas réunies on mesure l’endomagement comme étant un faute grave, une faute mineur etc. »"
+
+#  6. རྩ་ལྟུང་རྣམས་ལ་སྦྱོར་བ་བདུན་ཚང་ན་ཕམ་པ་དངོས་གཞིར་གྱུར་
+# 
+# ཏེ། 7. སྦྱོར་བདུན་ནི། 8. བསམ་པ་ཉོན་མོངས་པས་ཀུན་ནས་བསླངས་པ། 9. དེ་ལ་དེ་
+# 
+# ཡིན་པར་ཤེས་པ། 10. ལུས་ངག་གི་སྦྱོར་བ་གང་གིས་ཉེས་པ་སྐྱེད་
+# 
+# པ་དེ་བརྟན་པ། 11. བར་བཅད་ཅེས་པ་ལྟུང་བ་སོ་སོའི་དངོས་གཞི་
+# 
+# ལ་ཞུགས་པ་དང༌། 12. འགྱོད་པ་མེད་པ་ཡི་རང་བ་དང༌། 13. སེམས་མ་འཁྲུལ་
+# 
+# པ་དང༌། 14. བླ་མ་བཞུགས་ན་ལོ་གཅིག་གམ་གསུམ་ཚུན་དུ་མ་བཤགས་
+# 
+# ན་ཚད་ལས་འདས་པ་སྟེ་བདུན་ཚང་ན་ཕམ་པ་དང༌།་
+msgctxt "line 3, Livre5_4-2.7.z3.txt"
+msgid ""
+"La défaite est complète quand sept facteurs sont réunis: Les sept facteurs "
+"sont: Une intention motivée par les émotions perturbatrices; Etre conscient "
+"que l’objet de la faute est un objet de faute; Que l’acte soit établi c’est "
+"à dire que l’on ai accompli l’acte négatif physiquement ou verbalement. "
+"“Interrompu’’ signifie que la faute est accomplie complêtement. Que l’on ai "
+"pas de regret et que l’on s’en réjoui. Ne pas être mentalement perturbé. Si "
+"le Lama est toujours présent et que l’on ne s’est pas conféssé dans l’année "
+"ou dans les trois ans, on a dépasséle délai. Quand ces sept sont tous "
+"présents on a une défaite."
+msgstr ""
+"Les chutes racines sont qualifié de défaite totale quand sept facteurs sont réunis: \n"
+"1. une intention motivée par les émotions perturbatrices; \n"
+"2. être conscient que l’objet de la chute est un objet amenant une chute racine; \n"
+"3. que l’acte soit établi, c’est à dire que l’on ai accompli l’acte négatif physiquement ou verbalement ;\n"
+"4. “qui l’interrmomp’’ signifie que la faute est accomplie complêtement ;\n"
+"5. ne pas regrêter et en être satisfait;\n"
+"6. ne pas être mentalement perturbé ;\n"
+"7. si le Lama est toujours présent et que l’on ne s’est pas conféssé dans l’année ou dans les trois ans, le délai de confession est dépassé. Quand ces sept points sont tous présents on a une défaite."
+
+#  15. ཚད་ལས་མ་འདས་པའི་ཡན་ལག་དྲུག་ཚང་ན་ལྟུང་བ་ཞེས་སོ་
+# 
+# ཐར་གྱི་ལྷག་མ་དང་འདྲ་བ་དང༌། 16. ཡན་ལག་གཞན་མེད་པའི་དངོས་
+# 
+# གཞི་ནི་སྦོམ་པོ་དང༌། 17. དེ་བས་ཀྱང་དམན་ན་ལྟུང་བྱེད་དང༌། 18. ཡན་ལག་
+# 
+# གཞན་མེད་པའི་ལུས་ངག་གི་སྦྱོར་བ་གཅིག་ནི་ཉེས་བྱས་དང་
+# 
+# འདྲ་ལ་དྲན་པ་ཉམས་ཏེ་བྱས་པའི་དངོས་གཞིའང་ཉེས་བྱས་སོ། ། 19. ཡན་
+# 
+# ལག་གི་ལྟུང་བ་བརྒྱད་ལའང་སྦྱོར་བདུན་གྱི་དབང་གིས་སྦོམ་ལྟུང་
+# 
+# ཉེས་བྱས་དེ་བཞིན་དུ་འགྱུར་རོ། །་
+msgctxt "line 4, Livre5_4-2.7.z3.txt"
+msgid ""
+"Si les six premiéres branches sont présentent mais que le délai (de "
+"confession) n’est pas encore dépassé, on parle de faute (litt. chute). Ceci "
+"correspond aux “fautes avec résidu) que l’on trouve dans les voeux de "
+"libération personelles. Si une autre branche est manquante mais que l’on "
+"accompli l’acte en lui même, on a une faute grave. Si il en manque encore "
+"plus (litt. si c’est plus inférieur) on a un “provocateur de chute”. Si on "
+"accompli l’accompli juste physiquement ou verbalement sans que les autres "
+"branches soient présentes on a l’équivalent d’un faute mineure (selon le "
+"code du vinaya). on au aussi une faute mineure si on accompli l’acte lui-"
+"même mais que notre état de conscience est altéré (malade etc.) Selon "
+"l’importance des sept facteurs on aura de la même manière des fautes graves,"
+" des provocateur de chutes ou des fautes mineures."
+msgstr ""
+"Si les six premiéres branches sont présentent mais que le délai de confession n’est pas encore dépassé, on parle de « chute ». Ceci correspond aux « chutes avec résidu » que l’on trouve dans les voeux de libération personelles. \n"
+"Si une autre branche est manquante mais que l’on accompli l’acte en lui même, on a une « faute grave ».\n"
+"Si plus de branches manquent, on a un “provocateur de chute”. \n"
+"Si on l’accompli juste physiquement ou verbalement sans que les autres branches soient présentes on a l’équivalent d’une « faute mineure »  (selon le code du vinaya). On aura aussi une faute mineure si on accompli l’acte lui-même mais que notre état de conscience est altéré (on est malade etc.) \n"
+"Pour les huit chutes secondaires, la faute sera aussi propotionnelle au nombre de facteurs qui la consitue et on aura des fautes graves, des provocateur de chutes ou des fautes mineures."
+
+#  20. གཞན་གྱི་དོན་དུ་འགྱུར་བར་མཐོང་བ་སོགས་དོན་ཆེན་པོ་དང༌། 21. བར་ཆད་
+# 
+# དུ་འགྲོ་བ་དང༌། 22. གནང་བ་ཐོབ་པ་དང༌། ན་ཞིང་མི་ནུས་པ་སོགས་
+# 
+# ལ་དེ་དག་ལྟུང་བའི་གཟུགས་བརྙན་ཏེ་ཉེས་པ་མེད་པ་སྙིང་
+# 
+# པོ་རྒྱན་ལས་གསུངས་སོ། །་
+msgctxt "line 5, Livre5_4-2.7.z3.txt"
+msgid ""
+"(des transgressions) accomplies dans un but noble comme en ayant conscience "
+"(litt. en voyant) que cela sera bénéfique à quelqu’un, se cela nous crée un "
+"obstacle (a notre pratique), que l’on en a recu la permission, que l’on "
+"malade ou dans l’incapacité (de tenirs les samayas) etc. Ces actes sont des "
+"faux-semblants (litt. reflets) de fautes mais ne représente aucun méfait. "
+"C’est ce qui est dit dans le Tantra l’Ornement du Coeur Adamantin."
+msgstr ""
+"Le Tantra l’Ornement du Coeur Adamantin explique que les transgressions "
+"accomplies dans un but noble comme en ayant conscience que cela sera "
+"bénéfique à quelqu’un, que l’application du lien sacré crée un obstacle a "
+"notre pratique, qu’on a recu la permission de transgresser l’engagement, que"
+" l’on est malade ou dans l’incapacité de tenir ses liens sacrés etc, sont "
+"des faux-semblants (litt. reflets) de fautes mais ne représentent aucun "
+"méfait. "
+
+#  23. ཡང་ན་རྟེན་གྱི་ཡན་ལག་དམ་ཚིག་ཐོབ་ལ་མ་ཉམས་པ། 24. ཡུལ་གྱི་
+# 
+# ཡན་ལག་བླ་མ་ལ་སོགས་པ་དེ་དང་དེ་ཡིན་པ། 25. བསམ་པའི་
+# 
+# ཡན་ལག་སྦྱོར་བ་ངོ་ཚ་མེད་པ། 26. དངོས་གཞིར་གཉེན་པོས་མ་སླེབ་
+# 
+# པ། 27. རྗེས་འགྱོད་པ་མེད་ཅིང་དགའ་བར་བྱེད་པ། 28. སྦྱོར་བའི་ཡན་ལག་ལས་
+# 
+# དངོས་ལ་ཞུགས་པ། མཐར་ཐུག་ཡན་ལག་དེ་དང་དེ་ཟིན་པ་སྟེ་
+# 
+# ཡན་ལག་ལྔ་རུའང་བཤད་དེ་སྔ་མ་དང་དོན་གཅིག་གོ །་
+msgctxt "line 6, Livre5_4-2.7.z3.txt"
+msgid ""
+"De plus (dans une autre présentation), la branche du support (l’individu) "
+"qui n’a obtenus les liens sacrés et ne les a pas endomagés; la branche de "
+"l’objet: le maître etc et la reconnaissance de ce dernier comme étant un "
+"maître; La branche de l’intention: ne pas ressentir de honte par rapport à "
+"ce que l’on a fait ne pas avoir pu appliquer l’antidote avant "
+"l’accomplissement complet de l’action, et une fois l’action accomplie, ne "
+"pas avoir de regret et se réjouir (être satisfait). La branche de l’action: "
+"l’application directe de l’action. La branche de la finalité: l’acte est "
+"complètement accompli. Cet explication en cinq branche a le même sens que ce"
+" qui précéde."
+msgstr ""
+"Une autre présentation qui à le même sens que la présentation qui vient d’être faite donne cinq facteurs ou branche pour qu’une chute soit totale :\n"
+"1. la branche du support (l’individu) : la pratiquant qui a recu les liens sacrés et ne les a pas (encore) endomagés; \n"
+"2. la branche de l’objet: l’objet de l’offense doit être, par exemple, le Lama et savoir que ce dernier comme ést un Lama; \n"
+"3. la branche de l’intention: ne pas ressentir de honte par rapport à ce que l’on a fait, ne pas avoir pu appliquer l’antidote avant l’accomplissement complet de l’action, et une fois l’action accomplie, ne pas avoir de regret et s’en réjouir ;\n"
+"4. la branche de l’action: accomplir concrêtement la transgression ;\n"
+"5. la branche de la complétude: l’acte est complètement accompli. "
+
+#  29. དེ་དག་འབྱུང་བའི་རྒྱུའང་སྡོམ་པའི་རྒྱུད་ལས། 30. མི་ཤེས་པ་དང་བག་མེད་
+# 
+# དང༌། །ཉོན་མོངས་མང་དང་མ་གུས་དང༌། །བརྗེད་ངེས་དྲན་པ་མི་གསལ་བ། །འདི་
+# 
+# དྲུག་དམ་ཚིག་ཉམས་པའི་རྒྱུ། ། 31. ཞེས་གསུངས་པ་ལྟར་རྒྱུ་སྤོང་བ་ལ་
+# 
+# བརྩོན་ན་འབྲས་བུ་ཤུགས་ཀྱིས་ཁེགས་པ་ཡིན་ཞིང༌། 32. སྤྱིར་གསང་སྔགས་ཀྱི་
+# 
+# དམ་ཚིག་ནི་ཁེ་ཉེན་ཆེ་ཞིང་ཤིན་ཏུ་གཉན་པ་དང་རྩ་
+# 
+# ལྟུང་དང་པོ་རྡོ་རྗེ་སློབ་དཔོན་གྱི་དམ་ཚིག་དང་འགལ་ན་
+# 
+#  33. དམ་ཚིག་གཞན་བསྲུངས་ཀྱང་རྩ་བ་བཅད་པའི་ལྗོན་ཤིང་དང་མཚུངས་
+# 
+# པས་བླ་མའི་དམ་ལས་མ་འགལ་བ་ཙམ་ཞིག་མ་བྱུང་བའི་
+# 
+# ཐབས་མེད་དོ། །་
+msgctxt "line 7, Livre5_4-2.7.z3.txt"
+msgid ""
+"Les causes qui les font advenir (qui créent ces transgressions) sont selon "
+"le Dakinisamvara Tantra: l’ingnorance et l’innatention, trop d’émotions et "
+"manque de respect, l’oubli et la confusion mentale, ces six sont les cause "
+"de détérioration des liens sacrés. A l’instar de ce qui est dit, si on "
+"s’applique à rejeter les causes, leur resultat sera naturellement évité. De "
+"plus, En générale, les liens sacrés du Mantra Secret, procurent beaucoup de "
+"bienfaits mais sont aussi très risqués mais sont très puissants. De plus, la"
+" première des fautes racines est d’aller à l’encontre des liens sacrés "
+"envers le maître vajra. Si c’est le cas, même si on tient les autres liens "
+"sacrés, cela reviendra au même que de couper un arbre à sa racine. Par "
+"conséquent, nous n’avons pas d’autre choix que de ne pas s’opposer aux liens"
+" sacrés qu’on a envers le Lama."
+msgstr ""
+"Les causes qui les font advenir ces transgressions sont selon le Dakinisamvara Tantra: \n"
+"« L’ignorance et l’innatention,\n"
+"Trop d’émotions et le manque de respect, \n"
+"L’oubli et la confusion mentale, \n"
+"\n"
+"Ces six sont les cause de détérioration des liens sacrés. »\n"
+"A l’instar de ce qui est dit, si on s’applique à rejeter les causes, leur resultat sera naturellement évité. \n"
+"D’une manière générale les liens sacrés du Mantra Secret sont très puissants, ils procurent beaucoup de bienfaits mais sont aussi très risqués. \n"
+"Aussi, puisque la chute racines principale est d’aller à l’encontre des liens sacrés envers le maître vajra, si on la transgresse et même si on tient par ailleur les autres liens sacrés, cela reviendra au même que de couper un arbre à sa racine. Par conséquent, nous n’avons pas d’autre choix que de ne pas s’opposer aux liens sacrés qu’on a envers le Lama."
