@@ -1,0 +1,160 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གཉིས་པ་དབྱེ་བསྡུའི་རྣམ་གྲངས་གཞན་བསྟན་པ་ནི། 2. བསྲུང་དང་བཟའ་སྤྱད་མི་
+# 
+# འབྲལ་དམ་ཚིག་བཞི། ། 3. དབང་བཞིར་འབྲེལ་ཞེས་མི་བསྐྱོད་དགའ་བས་བཞེད། །་
+msgctxt "line 1, Livre5_4-2.7.z1.txt"
+msgid ""
+"2. Exposé d’autres forme de classification Les quatre liens sacrés "
+"concernant ce qui est à tenir, a manger, ceux de la conduite et ce dont il "
+"ne faut pas se défaire Mikyo Gawa les exprime en lien avec les quatre "
+"initiations."
+msgstr ""
+"2. D’autre classifications des liens sacrés\n"
+"« Les quatre liens sacrés concernant ce qui est à tenir, l’alimentation, la conduite et ce dont il ne faut pas se défaire,\n"
+"Mikyo Gawa les expliques en lien avec les quatre initiations. »"
+
+#  4. བླ་མེད་ཀྱི་དམ་ཚིག་ཐམས་ཅད་དབང་བཞིའི་དམ་ཚིག་ཏུ་འདུ་སྟེ། 5. དེའང་
+# 
+# བུམ་དབང་གི་སྡོམ་པས་ཐོབ་པ་ནི། 6. བསྲུང་བའི་དམ་ཚིག་སྟེ་རིགས་
+# 
+# ལྔ་སྤྱི་དང་སོ་སོའི་དམ་ཚིག་དང༌། རྩ་ལྟུང་བཅུ་བཞི་དང༌། ཡན་ལག་
+# 
+# བརྒྱད་རྣམས་བསྲུང༌། 7. གསང་དབང་གི་སྡོམ་པས་ཐོབ་པ་ནི་ 8. བཟའ་བའི་དམ་
+# 
+# ཚིག་སྟེ་ཤ་ལྔ་བདུད་རྩི་ལྔ་བསྟེན་པའོ། །་
+msgctxt "line 2, Livre5_4-2.7.z1.txt"
+msgid ""
+"Tous les liens sacrés du Tantra insurpassable se retrouvent tous dans les "
+"quatre initiations. En effet, Ceux obtenus par la prise des voeux relatifs a"
+" l’initiation du vase sont les liens sacrés à tenir, c’est à dire préserver "
+"(tenir) les liens sacrés généraux et spécifiques des cinq familles ainsi que"
+" les quatorze fautes racine et les huit mineures. Ceux obtenus par la prise "
+"des voeux relatifs a l’initiation secrète sont les liens sacrés en lien avec"
+" ce qui est à manger, c’est à dire, faire usage des cinq viandes et des cinq"
+" nectars."
+msgstr ""
+"L’omniscient Mikyo Gawa (8eme Karmapa) explique que les liens sacrés des Tantras insurpassables se retrouvent tous dans les quatre initiations. Pour expliquer brièvement sa pensée (son opinion) on peut les exposer ainsi :\n"
+"\n"
+"1. Les liens sacrés à tenir sont ceux obtenus par la prise des voeux relatifs à l’initiation du vase. Ils consiste en la préservation des liens sacrés généraux et spécifiques des cinq familles ainsi que du non accomplissement des quatorze fautes racine et les huit mineures. \n"
+"2. Les liens sacrés relatifs à l’alimentation sont ceux obtenus par la prise des voeux lors de l’initiation secrète. Il s’agit de manger les cinq viandes et boire les cinq nectars."
+
+#  9. ཤེར་དབང་གིས་ཐོབ་པ་ནི་ 10. སྤྱད་པའི་དམ་ཚིག་སྟེ་སྲོག་ཆགས་བསད་
+# 
+# པ་སོགས་ཁྱད་པར་གྱི་དམ་ཚིག་རྣམས་སོ། ། 11. དབང་བཞི་པའི་སྡོམ་པས་
+# 
+# ཐོབ་པ་ནི་ 12. མི་འབྲལ་བའི་དམ་ཚིག་སྟེ་ཧེ་རུ་ཀའི་ཆ་
+# 
+# ལུགས་དང་ཤེས་རབ་མ་བསྟེན། 13. དེ་ལྟར་དམ་ཚིག་བཞི་པོ་དང་དབང་
+# 
+# བཞིར་འབྲེལ་བས་སྡོམ་པ་མཐའ་དག་བསྡུས་པ་ཐམས་ཅད་མཁྱེན་པ་
+# 
+# མི་བསྐྱོད་དགའ་བས་བཞེད་པའི་རྣམ་གྲངས་ཟུར་ཙམ་སྨོས་པའོ། །་
+msgctxt "line 3, Livre5_4-2.7.z1.txt"
+msgid ""
+"Ceux obtenus par la prise des voeux relatifs a l’initiation de connaissance-"
+"sagesse sont les liens sacrés en lien avec la conduite. Ce sont les liens "
+"sacrés spéciaux comme celui de ne pas tuer d’être vivants. Ceux obtenus par "
+"la prise des voeux relatifs a la quatrième initiation sont les liens sacrés "
+"concernant ce don’t il ne faut pas se séparer, c’est à dire, les attributs "
+"de l’Herouka et pratiquer avec une consorte de sagesse. Cette présentation "
+"des quatre liens sacrés en relation avec les quatre initiations, recouvre "
+"tous les voeux. Cette brève présentation alternative est ce que pense "
+"l’omnisicent Mikyeu Gawa."
+msgstr ""
+"3. Les liens sacrés en lien avec la conduite sont ceux obtenus lors de l’initiation de connaissance-sagesse. Ce sont les liens sacrés spéciaux comme celui de ne pas tuer d’être vivants. \n"
+"4. Les liens sacrés concernant ce don’t il ne faut pas se séparer sont ceux obtenus lors de la quatrième initiation. Ce sont, les attributs de l’Herouka et pratiquer avec une consorte de sagesse. \n"
+"\n"
+"Cette présentation des quatre liens sacrés en relation avec les quatre initiations, recouvre tous les voeux."
+
+#  14. བསྲུང་བྱ་རྩ་ལྟུང་བསྒྲུབ་བྱ་རིགས་དྲུག་སྟེ། །ཉམས་ལེན་འབྲེལ་ལ་ཡོ་བྱད་
+# 
+# ལོངས་སུ་སྤྱོད། ། 15. མཉམ་རྗེས་རྣམས་སུ་པདྨ་དཀར་པོས་བསྡུས། །་
+msgctxt "line 4, Livre5_4-2.7.z1.txt"
+msgid ""
+"Ce qui est à tenir: les fautes racines; à accomplir: les six familles; en "
+"lien avec la pratique: les objets rituels, les objets de jouissances, le "
+"repos stable et l’attitude post repos, sont tous regroupés ainsi par Péma "
+"Karpo."
+msgstr ""
+"« Péma Karpo les regroupent ainsi : \n"
+"Ce qui est à tenir :les fautes racines; \n"
+"A accomplir: les six familles; \n"
+"En lien avec la pratique: les objets rituels, les objets de jouissances, \n"
+"Le repos stable et l’attitude post repos. »"
+
+#  16. བསྲུང་བྱ་རྩ་ལྟུང་བཅུ་བཞི་ཡན་ལག་དང་བཅས་པ། བསྒྲུབ་བྱ་རིགས་དྲུག་
+# 
+# གི་དམ་ཚིག་ཐུན་མོང་དང་ཐུན་མོང་མིན་པ་ཉམས་སུ་ལེན་
+# 
+# པ་དང་འབྲེལ་བའི་དམ་ཚིག་དེ་ལ་ནང་གསེས་སུ། 17. ཡོ་བྱད་ཀྱི་
+# 
+# དམ་ཚིག་བྲིས་སྐུ་གླེགས་བམ་ཕྱག་རྒྱ་ལ་སོགས་པ། ལོངས་སྤྱོད་ཀྱི་
+# 
+# དམ་ཚིག་ཤ་ལྔ་བདུད་རྩི་ལྔ་བཏུང་བ་ལྔ་རིག་མ་ལྔ་
+# 
+# ལ་སོགས་པ། མཉམ་གཞག་གི་དམ་ཚིག་དགོངས་ཏེ་གསུངས་པ་བཞི། 18. རྗེས་སྤྱོད་
+# 
+# ཀྱི་དམ་ཚིག་བརྟུལ་ཞུགས་ཉེར་ལྔ་གུར་གྱི་བཅུ་བཞི་ལ་སོགས་
+# 
+# པ་སྟེ། 19. དེ་ལྟར་དམ་ཚིག་གི་རྣམ་གྲངས་གསུམ་དུ་ཀུན་མཁྱེན་པདྨ་
+# 
+# དཀར་པོས་བསྡུས་སོ། །་
+msgctxt "line 5, Livre5_4-2.7.z1.txt"
+msgid ""
+"(les liens sacrés concernant) ce qui est à tenir sont les quatorze fautes "
+"racine et les (fautes) secondaires. Ceux a accomplir sont les liens sacrés "
+"relatifs aux six familles. Les liens sacrés en lien avec la pratique se "
+"regoupent en trois catégories: Les liens sacrés relatifs aux objets rituels "
+"comme une image sacrée, un texte ou une représentation symbolique (litt "
+"moudra). Les liens sacrés relatifs aux objets de jouissance (ce qu’il faut "
+"utiliser) comme les cinq viandes, les cinq nectars, les cinq beuvrages et "
+"les cing consortes de sagesse. les liens sacrés relatifs au repos stable qui"
+" sont les quatre liens sacrés nécessitant une explication. et les liens "
+"sacrés relatifs à l’attitude post repos stable comme les vingt cinq "
+"attitudes supérieures (enseignée dans le kalachakra) ou les quatorze "
+"enseignés dans la Tente Vajra. L’ omniscient Péma Karpo présente ainsi les "
+"liens sacrés regroupés en trois catégories."
+msgstr ""
+"L omniscient Péma Karpo présente regroupe les liens sacrés en trois catégories :\n"
+"1. les liens sacrés concernant ce qui est à tenir (ce dont il faut se préserver) sont ceux concernant les quatorze chutes racine et les chutes secondaires ;\n"
+"2. ceux a accomplir sont les liens sacrés relatifs aux six familles. \n"
+"3. les liens sacrés en lien avec la pratique se regoupent en trois catégories: \n"
+"a. les liens sacrés relatifs aux objets rituels comme une image sacrée, un texte ou une représentation symbolique. \n"
+"b. les liens sacrés relatifs aux objets de jouissance comme les cinq viandes, les cinq nectars, les cinq beuvrages et les cing compagnes de sagesse ;\n"
+"c. les liens sacrés relatifs au repos stable sont les quatre liens sacrés nécessitant une explication, et les liens sacrés relatifs à l’attitude post repos stable sont parmis d’autres, les vingt cinq attitudes supérieures (enseignée dans le kalachakra) ou les quatorze enseignées dans la Tente Vajra."
+
+#  20. རང་བྱུང་རྒྱལ་བས་བསྡུས་པ་བཞི་རུ་གསུངས། ། 21. ཀུན་མཁྱེན་རང་བྱུང་རྒྱལ་བས་
+# 
+# དམ་ཚིག་རྒྱ་མཚོར། 22. དཀོན་མཆོག་ཕྱི་ནང་བྱང་ཆུབ་སེམས། །ཡུལ་དང་ཡུལ་ཅན་
+# 
+# ཕྱི་ནང་རྐྱེན། །ཚར་གཅོད་རྗེས་བཟུང་ཕྲིན་ལས་སུ། །དམ་ཚིག་ཐམས་ཅད་བསྡུས་
+# 
+# པའོ། །་
+msgctxt "line 6, Livre5_4-2.7.z1.txt"
+msgid ""
+"Le Vainquer Rangjung Dorje les regroupe en quatre: Dans l’Océan des liens "
+"sacrés, l’omniscient vainqueur Rangjung Dorje dit: Tous les liens sacrés se "
+"retrouvent dans ; Les Joyaux et l’esprit d’éveil extérieur et intérieur; "
+"l’objet et le sujet; les conditions extérieures et intérieures; et dans "
+"l’activité éveillée d’annihilation et de protection."
+msgstr ""
+"« Le vainqueur Rangjung Dorje les regroupe en quatre » \n"
+"\n"
+"Dans l’Océan des liens sacrés, l’omniscient vainqueur Rangjung Dorje dit: \n"
+"« Tous les liens sacrés se retrouvent dans\n"
+"Les Joyaux et l’esprit d’éveil extérieur et intérieur; \n"
+"L’objet et le sujet; les conditions extérieures et intérieures; \n"
+"Et dans l’activité éveillée d’annihilation et de protection. »"
