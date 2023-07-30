@@ -1,0 +1,127 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. སྦས་དོན་ཡང་དག་པའི་དུག་ལྔ་སྟེ། 2. ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་དུ་
+# 
+# རྫོགས་པས་ལྟ་བ་ལ་ཕྱོགས་རིས་དང་སྤྱོད་པ་བླང་དོར་གྱིས་
+# 
+# འབྱེད་པ་མེད་པའི་གཏི་མུག ། 3. དེ་ལྟར་མ་རྟོགས་པ་ལ་དམིགས་པ་
+# 
+# མེད་པའི་སྙིང་རྗེ་ཆེན་པོས་རྗེས་སུ་ཆགས་པའི་འདོད་ཆགས། 4. རང་རིག་
+# 
+# པའི་ཡེ་ཤེས་ཀྱིས་ལོག་རྟོག་འཇོམས་པའི་ཞེ་སྡང༌། 5. མཉམ་ཉིད་རྟོགས་པའི་
+# 
+# ལྟ་བ་གཤོངས་སུ་མི་འབེབས་པའི་ང་རྒྱལ། 6. གཉིས་འཛིན་གྱི་ལྟ་སྤྱོད་
+# 
+# མཉམ་ཉིད་ཀྱི་ཀློང་དུ་མི་ཤོང་བའི་ཕྲག་དོག་རྣམས་ 7. རྟོགས་གོམས་
+# 
+# ཀྱི་ཐབས་ཀྱིས་མི་སྤོང་བའོ། །་
+msgctxt "line 1, Livre5_4-2.7.z8.txt"
+msgid ""
+"Suivant le sens caché, les cinq poisons dans leur puerté sont: L’obscurité "
+"mentale qui, du fait que tous les phénomènes soient parfait (litt. complet) "
+"dans l’état de l’égalité-même (égalité intrinséque), ne fait pas de "
+"distinction entre ce qui est a adpoter et a rejeter et dont la vue est "
+"impartiale. Le désir-attachement affectueux (le desir attachement qui "
+"s’oriente avec joie sur les être) animé d’une grande compassion sans "
+"référence envers les êtres (litt. ceux) qui qui ne l’ont pas réalisé (cette "
+"égalité intrinséque de tous les phénomène). La colère-aversion qui, par la "
+"sagesse primordiale auto-connaissante anéhanti les conceptions érronées. "
+"L’orgueil qui ne redescent pas des hauteurs de la vue qui réalise l’égalité "
+"même (des phénomènes). La jalousie qui ne s’accomode (litt. qui ne rentre "
+"pas) pas dans le vaste espace de l’égalité-même des vues et pratiques "
+"dualistes. Tous ceci, Puisque ce sont des moyens de réalisation et de "
+"familiarisation, Il ne faut pas y renoncer. (Il ne faut pas y renoncer car "
+"ce sont des moyens pour obtenir la réalisation et l’état de familiarisation "
+"(résultat de la méditation)"
+msgstr ""
+
+#  8. དང་དུ་བླང་བ་ལྔ་ནི། 9. དྲི་ཆེན་དྲི་ཆུ་རཀྟ་མཱཾ་ས་རྡོ་རྗེ་
+# 
+# ཟིལ་པ་ལྔ་ནི་ 10. ཆོས་ཉིད་རང་བཞིན་དང༌། རང་གི་ངོ་བོ་དང༌། མཐུ་
+# 
+# དང༌། བྱིན་གྱིས་རླབས་ཀྱིས་གྲུབ་པའི་རྫས་ཁྱད་པར་ཅན་ཡིན་པས་ 11. མི་
+# 
+# འདོར་བར་དང་དུ་བླང་བར་བྱའོ། ། 12. སྦས་དོན་དུ་ཕུང་ལྔའི་དྭངས་མ་
+# 
+# འཛག་མེད་དུ་བཅིང་བས་དང་དུ་བླང་བའོ། །་
+msgctxt "line 2, Livre5_4-2.7.z8.txt"
+msgid ""
+"les cinq liens sacrés à accepter sont la matière à la grande fragrance [que "
+"sont les fèces], l’eau parfumée [qu’est l’urine], le rakta (qu’est le sang),"
+" le mamsa (qu’est la chair) et la goutte de rosée du vajra (qu’est le "
+"sperm). Ces cinq, parce qu’ils ont la nature de la réalité même, et en vertu"
+" de leur essence, de leur capacité (puissance) et parcequ’ils sont des "
+"susbtances spéciales pour l’obtention d’acomplissements consacrées, il ne "
+"faut pas les rejeter mais les accepter. Le sens caché est (qu’un pratiquant)"
+" doit les accepter en controlant sans la perdre (sans qu’elle s’écoule) "
+"l’essence pure des cinq agrégats."
+msgstr ""
+
+#  13. ཤེས་པར་བྱ་བ་ལྔ་ནི། 14. ཆོས་ཐམས་ཅད་ཡེ་ནས་སངས་རྒྱས་པས་ 15. ཕུང་
+# 
+# པོ་ལྔ་དེ་བཞིན་གཤེགས་པ་ཡབ་ལྔ། 16. འབྱུང་བ་ལྔ་ཡུམ་ལྔ། 17. དབང་པོ་
+# 
+# དང་དབང་ཤེས་ལྔ་སེམས་དཔའ། 18. ཡུལ་ལྔ་སེམས་མ། 19. ཁ་དོག་ལྔ་རིགས་ལྔ་
+# 
+# ཡེ་ཤེས་ལྔ་སོགས་ 20. ལྔ་ཚན་གྱི་རྟོག་ཚོགས་ཐམས་ཅད་སྐུ་དང་
+# 
+# ཡེ་ཤེས་ཀྱི་དཀྱིལ་འཁོར་དུ་ཤེས་རབ་ཀྱིས་སྒྲོ་འདོགས་བཅད་ནས་
+# 
+# ཤེས་པར་བྱེད་པའོ། །་
+msgctxt "line 3, Livre5_4-2.7.z8.txt"
+msgid ""
+"les cinq liens sacrés à reconnaitre sont Puisque tous les phénomène sont "
+"depuis toujours Bouddha (évéillés et épanouis), (reconnaitre) les cinq "
+"aggrégats comme étant les cinq Ainsi-allés masculins; les cinq éléments "
+"comme étant les cinq consortes sacrées les cinq facultées sensorielles et "
+"les cinq consciences comme étant les cinq Bodhisattvas masculins les cinq "
+"objets des sens comme étant les cinq Bodhisattva féminins; Les cinq "
+"couleures associées aux cinq familles de bouddhas comme étant les cinq "
+"sagesses primordiales etc. Grâce à la sagesse qui met fin à toutes "
+"élaboration mentales, on renconnait l’ensemble (dans le sense d’assemblée) "
+"des conceptes relatifs à ces groupes de cinq, comme étant le mandala des "
+"Corps sacrés et des sagesses promordiales. (plus littéral: En coupant court "
+"grâce à la sagesse….)"
+msgstr ""
+
+#  21. བསྒྲུབ་པར་བྱ་བ་ལྔ་ནི། 22. ཤེས་པར་བྱ་བའི་དམ་ཚིག་ལྔ་པོ་དེ་
+# 
+# རྟོགས་གོམས་ཀྱི་སྦྱོར་བས་ 23. རང་རྒྱུད་ལ་ཚུལ་བཞིན་དུ་སྒྲུབ་པའི་
+# 
+# ཐབས་ལ་བརྩོན་པར་བྱེད་པའོ། ། 24. དེ་ལ་ཤེས་པར་བྱ་བ་ལྟ་བའི་
+# 
+# དམ་ཚིག ། 25. དེ་ལྟར་རྟོགས་ནས་སྒྲུབ་པར་བྱེད་པ་བསྒོམ་པའི་དམ་ཚིག ། 26. སྤྱད་
+# 
+# དང་མི་སྤང་དང་དུ་བླང་བ་གསུམ་པོ་དྲང་དོན་ལྟར་ན་
+# 
+# སྤྱོད་པའི་དམ་ཚིག་གཙོ་ཆེ་བ་ཡིན་པས་ 27. དེ་དག་ཀྱང་མཉམ་
+# 
+# གཞག་ཏུ་ངེས་དོན་དང༌། 28. ལྟ་དགོངས་ཀྱི་གདེང་དང་ཚོགས་དབེན་ལ་སོགས་
+# 
+# པའི་ཡུལ་དུས་ཀྱི་གནས་སྐབས་བརྩིས་ནས་ 29. དུས་ཚོད་དང་འབྲེལ་བའི་
+# 
+# དགོངས་པ་བླངས་ཏེ་རིམ་པ་མ་ནོར་བར་བསྲུངས་ཏེ་སྤྱད་པར་
+# 
+# བྱའོ། །་
+msgctxt "line 4, Livre5_4-2.7.z8.txt"
+msgid ""
+"Les cinq liens sacrés à a réaliser sont Par la pratique de la réalisation et"
+" de la familiarisation avec ces cinq liens sacrés à reconnaitre, l’on doit "
+"persévéré dans l’application des méthodes permettant de les (ces 5 a "
+"reconnaitre) accomplir tels qu’elles se doivent de l’être en son prorpre "
+"esprit. Celles relatives à ce qu’il faut reconnaitre sont les liens sacrés "
+"de la vue, Une fois intégrés(litt. compris ou ralisé) on s’applique à les "
+"accomplir, c’est le lien sacré de la méditation. les trois en liens avec ce "
+"qu’il faut accomplir, ne pas rejeter, et accepter sont, dans le cadre du "
+"sens provisoire, les principaux liens sacrés de la conduite. Par conséquent "
+"cependant, lors du repos stable, ils sont (a préserver selon) le sens "
+"définitif, et aussi en prenant en considération le degrés de confiance que "
+"l’on a dans la réalisation de la vue, les circonstances de temps et de lieu "
+"-être en groupe ou en solitaire (isolé) etc. on se doit de les appliquer "
+"dans l’ordre exacte aprés avoir évalué leur faisabilité selon le moment."
+msgstr ""
