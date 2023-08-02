@@ -93,13 +93,13 @@ msgid ""
 " 7 branches."
 msgstr ""
 "Les sept branches sont :\n"
-"1. s’en remettre à un maître authentique ;\n"
+"1. s’en remettre à un maître authentique ; (209)\n"
 "2. examiner les disciple-receptacles à accepter et à rejeter ;\n"
-"3. ne pas nuire a aucune créature afin d’accomplir ce à quoi on aspire ; \n"
-"4. ne pas utiliser les biens et possessions des trois joyaux ;\n"
+"3. ne pas nuire a aucune créature afin d’accomplir ce à quoi on aspire ; (210)\n"
+"4. ne pas utiliser les biens et possessions des trois joyaux ; (211)\n"
 "5. faire le bien des autres ;\n"
-"6. sceller par la dédicace ;\n"
-"7. savoir appliquer la technique du transfert (de conscience)."
+"6. sceller par la dédicace ; (212)\n"
+"7. savoir appliquer la technique du transfert (de conscience). (213)"
 
 #  19. ༡སྔགས་ལ་ཐེ་ཚོམ་ཟ། ། 20. ༢ཐེག་གསུམ་རིམ་པར་མི་བསྟན་གཅིག་ཏུ་སྦྱོར། ། 21.
 # ༣དེ་ཉིད་
