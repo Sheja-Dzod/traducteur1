@@ -130,7 +130,7 @@ msgid ""
 "en le Grand Véhicule forme le sixième."
 msgstr ""
 "6. Rester plus de sept jours dans la demeure d’un Auditeur qui n’a pas la "
-"foi en le Grand Véhicule."
+"foi en le Grand Véhicule. (193)"
 
 #  20. གསང་སྔགས་ཀྱི་ཚུལ་ཕྱི་ནང་གཞན་གསུམ་དང་ཟུང་འཇུག་གི་རྣལ་འབྱོར་
 # 
