@@ -26,9 +26,10 @@ msgid ""
 "Dharma sacré et de l’esprit d’éveil, l’avarice et être nuisible aux êtres; "
 "ces quatorze sont a abandonner, on les restaure comme précédement."
 msgstr ""
-"« Pour les Tantras de la Conduite : les dix actes non vertueux; \n"
-"L’abandon du Dharma sacré et de l’esprit d’éveil, l’avarice et être nuisible aux êtres; \n"
-"Ces quatorze sont à abandonner. On les restaure comme précédemment. »"
+"« Dans les Tantras de la Conduite, les dix actes non vertueux, \n"
+"L’abandon du Dharma sacré et de l’esprit d’éveil, l’avarice et la nuisance aux êtres, \n"
+"Sont les quatorze fautes à rejeter.\n"
+"On les restaure de la même façon que précédemment. »"
 
 #  3. སྤྱོད་པའི་རྒྱུད་སྤྱིར་དམ་ཚིག་ཁྱད་པར་བ་བཅུ་བཞི་རྣམ་སྣང་མངོན་
 # 
