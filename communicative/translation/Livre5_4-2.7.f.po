@@ -166,8 +166,15 @@ msgid ""
 "Les liens sacrés pris de cette manière, les quatorze prescriptions sont "
 "regroupées suivant les cinq Familles (de Bouddha)."
 msgstr ""
-"Les quatorze prescriptions concernant les liens sacrés sont regroupées "
-"suivant les cinq Familles de Bouddha (105) : "
+"Les quatorze prescriptions concernant les liens sacrés sont regroupées selon les cinq Familles de Bouddha[i] : \n"
+"\n"
+"[i] Abordant le sujet des cinq Familles (Panchakula ; rigs lnga) dans le contexte du Yoga Tantra, Péma Karpo explique ceci : le mot « ku » dans « kula » vient de « kutsi » qui signifie « mauvais ou inférieur » et « laya » qui signifie « entrer dans ». Il y a deux types de familles : celles qui sont inférieures (dman pa) et celles qui sont supérieures ou suprêmes (mchog). \n"
+"Les êtres de famille inférieure sont ceux qui, en raison de leurs émotions perturbatrices, sont entrés (thim pa) dans des états d’existence inférieurs (les mondes inférieurs) (ngan ‘gro). Les êtres qui sont de bonne nature et chez qui les émotions ont toutes la même intensité, appartiennent aux cinq familles en même temps. Ceux chez qui le désir-attachement domine, appartiennent à la famille des Tathagatas (Tathagatakula ; de bzhin gshegs pa’i rigs). Ceux chez qui la colère domine, appartiennent à la famille du Vajra (vajrakula ; rdo rej’i rigs). Ceux chez qui l’avarice domine, appartiennent à la famille du Joyau (ratnakula ; nor bu’i rigs). Ceux chez qui l’obscurité mentale domine, appartiennent à la famille du Lotus (pemakula ; pas ma’i rigs).  Ceux chez qui la paresse domine, appartiennent à la famille de l’Action (karmakula ; las kyi rigs).\n"
+"Les Bouddhas et Bodhisattvas, qui sont libres de ces voiles (les émotions précitées) et qui en sont l’antidote, appartiennent quant à eux aux familles supérieures ou suprêmes. Le terme « famille » s’applique aussi à eux dans le sens où, par compassion, ils sont entrés dans les états d’existence mauvais.\n"
+"Pour détailler, ces familles suprêmes sont celles des cinq Ainsi-allés : Vairochana, Akshobhya, Ratnasambhava, Amitabha, and Amoghasiddhi. Ce sont des familles d’Ainsi-allés (tathagatas) car toutes sont de la nature de tous les Ainsi-allés.\n"
+"Les divinités émanées de ces cinq Bouddhas pour agir en tant qu’antidote aux émotions perturbatrices associées, correspondent aux cinq familles suivantes : la famille des Ainsi-allés (de gzhin gshegs pa), la famille Vajra (rdo rje), la famille du Joyau (nor bu), la famille du Lotus (pad ma) et la famille de l’Action (las).\n"
+"\n"
+" "
 
 #  16. དཀོན་མཆོག་གསུམ་བཟུང་བ་སྟེ་རྣམ་སྣང་གི་རིགས་ཀྱི་དམ་ཚིག་གསུམ། 17. རྡོ་
 # 
