@@ -15,7 +15,7 @@ msgstr ""
 #  1. གཉིས་པ་སྤྱོད་རྒྱུད་ཀྱི་དམ་ཚིག་བཤད་པ་ནི།་
 msgctxt "line 1, Livre5_4-2.7.e.txt"
 msgid "2. Exposé des Promesses Sacrées du Tantra de la Conduite"
-msgstr "2. Exposé des liens sacrés des Tantras de la Conduite"
+msgstr "2.Exposé des liens sacrés des Tantras de la Conduite"
 
 #  2. སྤྱོད་རྒྱུད་མི་དགེ་བཅུ་དང་དམ་པའི་ཆོས། །བྱང་ཆུབ་སེམས་སྤང་སེར་སྣ་
 # 
