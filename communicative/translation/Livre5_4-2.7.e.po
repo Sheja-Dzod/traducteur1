@@ -55,9 +55,16 @@ msgid ""
 "qui, ajoutées (aux précédentes) forment un total de quatorze promesses "
 "sacrées concerant ce qu’il faut abandonner. ”"
 msgstr ""
-"D’une manière générale, les quatorze liens sacrés spécifiques aux Tantras de la Conduite sont ceux énoncées dans le Tantra de L’Eveil Suprême de Vairocana (100).  Ce sont quatorze liens sacrés concernant ce qu’il faut abandonner.\n"
+" D’une manière générale, les quatorze liens sacrés spécifiques aux Tantras de la Conduite sont énoncés dans le Tantra de l’Éveil suprême de Vairocana[i]. Ce sont quatorze liens sacrés concernant ce qu’il faut abandonner.\n"
+"Les dix premiers concernent l’abandon des dix actes non vertueux – trois pour le corps, quatre pour la parole et trois pour l’esprit – et un encouragement aux dix actes vertueux correspondants. Ils sont suivis des quatre liens sacrés racine[ii] décrivant les points à abandonner : se détourner du Dharma sacré et de l’esprit d’éveil, faire preuve d’avarice dans le Dharma et envers les richesses ainsi que nuire aux êtres. On obtient un total de quatorze points à abandonner. \n"
 "\n"
-"Les dix premiers consistent à abandonner les dix actes non vertueux – trois pour le corps, quatre pour la parole et trois pour l’esprit – et s’engager dans les dix actes vertueux. Ensuite viennent les quatre liens sacrés racine (101) : ne pas abandonner l’esprit d’éveil, faire preuve d’avarice dans le Dharma et envers les richesses et nuire aux êtres pour un total de quatorze. "
+"[i] Le Tantra de L'Éveil suprême de Vairocana (Vairochanabhisambodhi Tantra)\n"
+"\n"
+"(mahāvairocanābhisaṁbodhi-vikurvati-adhiṣthāna-vaipulya-sūtra-indrarājā-nāma-dharmaparyāya ; rnam par snang mdzed chen po mngon par rdzogs par byang chub pa rnam par sprul ba byin gyis rlob pa shin tu rgyas pa mdo sde'i dbang po'i rgyal po zhes bya ba'i chos kyi rnam grangs) (Toh. 494)\n"
+"Ce Tantra est le chef des Tantras de la Conduite.\n"
+"\n"
+" \n"
+"[ii] Selon Péma Karpo. ce sont des fautes majeures car elles ne font appel ni aux moyens habiles ni à la sagesse et sont par nature des perturbations mentales. Elles sont donc irréparables."
 
 #  10. འོ་ན་མི་དགེ་བ་བཅུ་སྤངས་པ་ནི་ཉན་རང་དང༌། འཇིག་རྟེན་མུ་
 # 
