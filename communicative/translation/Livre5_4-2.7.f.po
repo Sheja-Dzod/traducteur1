@@ -75,12 +75,13 @@ msgid ""
 " s’ordonnent suivant les cinq familles et portent sur : Trois Joyaux, trois "
 "maintiens, quatre dons, trois adoptions et une persévérance ;"
 msgstr ""
-"1.    Présentation détaillée :\n"
+"2. Présentation détaillée des liens sacrés des cinq familles\n"
 "\n"
-"Cette seconde partie se divise en deux parties, la première portant sur les quatorze prescriptions et la seconde sur les quatorze restrictions.\n"
-"1a. Les quatorze prescriptions \n"
-"« Les prescriptions s’ordonnent suivant les cinq familles et portent sur : \n"
-"Trois Joyaux, trois maintiens, quatre dons, trois adoptions et une persévérance. »"
+"Cette seconde partie se divise elle-même en deux parties, la première portant sur les quatorze prescriptions et la seconde sur les quatorze restrictions.\n"
+"\n"
+"(1)            Les quatorze prescriptions \n"
+"\n"
+"« Les prescriptions s’ordonnent selon les cinq familles et portent sur les Trois Joyaux, les trois maintiens, les quatre dons, les trois adoptions et une persévérance. »"
 
 #  9. དེའང༌། སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་ཏེ། །དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་སོང༌། །
 # 10. ཞེས་སོགས་
