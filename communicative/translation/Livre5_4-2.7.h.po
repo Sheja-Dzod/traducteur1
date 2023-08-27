@@ -341,10 +341,11 @@ msgid ""
 "rituels (d’initiation). Nous considérons (c’est ce à qui on s’accorde cad, "
 "que certaines sont prises oralement et d’autres par un rituel)."
 msgstr ""
-"Nous considérons que ces bases de l’entrainement, les quatorze restrictions "
-"et quatorze prescriptions que l’on vient d’énoncer qui sont toutes à tenir "
-"sont acquises par un engagement formulé verbalement alors que les dix chutes"
-" racines etc. sont des vœux acquis lors de rituels d’initiation."
+"Nous considérons que ces bases de l’entraînement, constituées des quatorze "
+"restrictions et des quatorze prescriptions telles nous venons de les "
+"énoncer, sont toutes à tenir et sont acquises lors d’un engagement formulé "
+"verbalement. Les dix chutes racine, etc. concernent quant à elles des vœux "
+"acquis lors de rituels d’initiation."
 
 #  44. ཉམས་ན་ཕྱིར་བཅོས་པའི་ཚུལ་སྔར་སྨོས་པ་དང༌། 45. འཆད་འགྱུར་སྙིང་པོ་རྒྱན་
 # 
