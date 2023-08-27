@@ -71,8 +71,15 @@ msgid ""
 "Deuxièmement, la présentation (détaillée) se fait en trois sections: "
 "l’explication de la conduite supérieure, des voeux et des promesses sacrées."
 msgstr ""
-"b. Présentation détaillés \n"
-"La présentation détaillée se fait en trois sections: l’explication de la conduite supérieure, des vœux et des liens sacrés"
+"b. Présentation détaillée\n"
+"\n"
+"La présentation détaillée comporte trois sections :\n"
+"\n"
+"·       l’explication de la conduite supérieure ;\n"
+"\n"
+"·       l’explication des vœux ;\n"
+"\n"
+"·       et l’explication des liens sacrés."
 
 #  11. དང་པོ་ནི། 12. བརྟུལ་ཞུགས་སོ་སོར་དམིགས་སུ་གསུངས་པ་སྟེ། །འདུས་པར་རིགས་ལྔ་
 # 
