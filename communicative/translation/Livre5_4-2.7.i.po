@@ -25,10 +25,14 @@ msgid ""
 "gravité de leur détérioration et les moyens de les restaurer."
 msgstr ""
 "3. Les liens sacrés des Tantras de l’Union Insurpassable\n"
-"L’ exposé des Promesses Sacrées du Tantra de l’Union Insurpassable contient 3 parties :\n"
-"A.  L’exposé extensif de la classification des liens sacrés\n"
-"B.   Une présentation de façons alternatives de les expliquer \n"
-"C.   La gravité de leur détérioration et les moyens de les restaurer"
+"\n"
+"L’exposé des liens sacrés du Tantra de l’Union Insurpassable comprend trois parties :\n"
+"\n"
+"A. Un exposé extensif de la classification des liens sacrés\n"
+"\n"
+"B. Une présentation de classification alternative des liens sacrés\n"
+"\n"
+"C. Une présentation de la gravité de leur détérioration et des moyens de les restaurer"
 
 #  5. དང་པོ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། ། 6. དང་པོ་ནི། 7.
 # བླ་མེད་བརྟུལ་ཞུགས་སྡོམ་པ་
