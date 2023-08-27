@@ -323,9 +323,9 @@ msgid ""
 "suivant les Tantras de l’Union sont très nombreuses et il est n’est pas "
 "possible de toutes les synthétiser"
 msgstr ""
-"D’une façon générale, les énumérations des promesses sacrées et des chutes "
-"suivant les Tantras de l’Union sont très nombreuses et il est n’est pas "
-"possible de toutes les synthétiser."
+"De manière générale, les énumérations des promesses sacrées et des chutes "
+"selon les Tantras de l’Union sont très nombreuses et il est n’est pas "
+"possible de toutes les synthétiser ici."
 
 #  41. དེ་ལྟར་བཤད་པའི་དགག་སྒྲུབ་ཀྱི་ཕྱོགས་བཅུ་བཞི་སོགས་བསླབ་བཞི་ཀུན་
 # 
