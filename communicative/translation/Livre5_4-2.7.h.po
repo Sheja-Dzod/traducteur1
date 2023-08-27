@@ -170,10 +170,11 @@ msgid ""
 " Grand Véhicule qui est identiques en nature aux six transcendances, est la "
 "discipline rassemblant les qualités vertueuses."
 msgstr ""
-"La discipline rassemblant les qualités vertueuses se fait en remettant "
-"pleinement aux êtres purs. Le terme etc. du texte racine inclue ici le fait "
-"de servir les pratiquants des yogas et l’application aux dix actes vertueux "
-"du Grand Véhicule qui sont identiques en nature aux six transcendances. "
+"La discipline rassemblant les qualités vertueuses se fait en s’en remettant "
+"pleinement aux êtres purs. Le terme « etc. » du texte racine inclut ici le "
+"fait de servir les pratiquants des yogas. Il inclue également l’application "
+"aux dix actes vertueux du Grand Véhicule qui sont en nature identiques aux "
+"six transcendances. "
 
 #  23. ཐེག་དམན་ལ་འདོད་པ། 24. གཞན་དོན་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ། 25. འཁོར་བ་སྤང་བ།
 # 26. མྱང་
