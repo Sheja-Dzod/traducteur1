@@ -31,11 +31,11 @@ msgid ""
 msgstr ""
 "2. Les quatorze restrictions\n"
 "\n"
-"« Les restrictions : l’abandon des Trois Joyaux, le rejet de l’esprit d’éveil ;\n"
-"Dénigrer les déités, les mantras et les moudras, manquer de respect au maître, enjamber les objets sacrés ;\n"
-"La nourriture prohibée, divulguer le secret,  se détourner des mantras et moudras, être nuisible, se plaire dans le Petit Véhicule ;\n"
-"Se décourager, abandonner la conduite des transcendances et s’adonner à ce qu’il ne faut pas,\n"
-"Tels sont les liens sacrés des cinq Familles que l’on retrouve essentiellement dans les Tantras Explicatifs. »"
+"« Les restrictions sont : l’abandon des Trois Joyaux, le rejet de l’esprit d’éveil,\n"
+"le fait de dénigrer les déités, les mantras et les moudras, le manque de respect au maître et le fait d’enjamber les objets sacrés,\n"
+"la consommation de nourriture prohibée, la divulgation du secret, le fait de se détourner des mantras et des moudras, les actions nuisibles, le fait de se plaire dans le Petit Véhicule,\n"
+"le fait de se décourager, l’abandon de la conduite des transcendances et le fait de s’adonner à ce qu’il ne faut pas,\n"
+"Tels sont les liens sacrés des cinq Familles que l’on retrouve essentiellement dans les Tantras Explicatifs. »"
 
 #  3. དགག་པའི་ཕྱོགས་ནས་སྨོས་པའི་བསླབ་བྱ་ནི། 4. དཀོན་མཆོག་གསུམ་མི་སྤང༌། 5.
 # བྱང་སེམས་
