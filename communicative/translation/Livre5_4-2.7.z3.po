@@ -109,7 +109,7 @@ msgstr ""
 "Si les six premiéres branches sont présentent mais que le délai de confession n’est pas encore dépassé, on parle de « chute ». Ceci correspond aux « chutes avec résidu » que l’on trouve dans les voeux de libération personelles. \n"
 "Si une autre branche est manquante mais que l’on accompli l’acte en lui même, on a une « faute grave ».\n"
 "Si plus de branches manquent, on a un “provocateur de chute”. \n"
-"Si on l’accompli juste physiquement ou verbalement sans que les autres branches soient présentes on a l’équivalent d’une « faute mineure »  (selon le code du vinaya). On aura aussi une faute mineure si on accompli l’acte lui-même mais que notre état de conscience est altéré (on est malade etc.) \n"
+"Si on l’accompli juste physiquement ou verbalement sans que les autres branches soient présentes on a l’équivalent d’une « faute mineure »  (selon le code du vinaya). On aura aussi une faute mineure si on accompli l’acte lui-même mais que notre état de conscience est altéré (on est malade etc.) (246) \n"
 "Pour les huit chutes secondaires, la faute sera aussi propotionnelle au nombre de facteurs qui la consitue et on aura des fautes graves, des provocateur de chutes ou des fautes mineures."
 
 #  20. གཞན་གྱི་དོན་དུ་འགྱུར་བར་མཐོང་བ་སོགས་དོན་ཆེན་པོ་དང༌། 21. བར་ཆད་
