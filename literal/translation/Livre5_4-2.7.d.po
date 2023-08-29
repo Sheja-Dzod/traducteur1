@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Damien Jampa, 2023\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -643,7 +643,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "659dda2a90cf4d25a8c05f581e2b6976"
 msgid "དུས་ ཀྱང་ ལེགས་ གྲུབ་ ལ␣ས །"
-msgstr "Quand au délais, le Tantra de L'Action Parfaite explique: "
+msgstr "Quant au délais, le Tantra de L'Action Parfaite explique: "
 
 # 。︀	〝བག་མེད〞 3684
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ insouciance, inattention
@@ -665,7 +665,7 @@ msgstr "Quand au délais, le Tantra de L'Action Parfaite explique: "
 # augures
 msgctxt "45b23491580044768f6f2248cf588b47"
 msgid "ཉིན་ མོ་ བག་མེད་ བྱས་པ་ དག  །"
-msgstr "\"Les fautes d'innatention du jour"
+msgstr "\"Les fautes d'inatention du jour"
 
 # 。︀	〝བཤགས་པ〞 6271
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dévoiler, Exposer, énoncer ses fautes sans les cacher,
