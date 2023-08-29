@@ -107,14 +107,11 @@ msgid ""
 "que (le Bouddha) à enseigné le sens direct et le sens caché. De plus, (les "
 "tantras) disent que ceux n’ayant pas obtenu les clairvoyances ne peuvent "
 "appliquer que les activités de pacification, d’enrichissement, de control et"
-" de sommation mais pas celles courroucées. Par conséquent, les pratiquants "
-"accomplis appliques (ces samayas) directement, les débutants les appliques "
-"en pensée seulement, tout yogi appliquera selon son niveau d’avancement ce "
-"qui est correcte d’appliquer."
+" de sommation mais pas celles courroucées comme tuer etc. Par conséquent, "
+"les pratiquants accomplis appliques (ces samayas) directement, les débutants"
+" les appliques en pensée seulement, tout yogi appliquera selon son niveau "
+"d’avancement ce qui est correcte d’appliquer."
 msgstr ""
-"Le Bouddha à enseigné le sens littéral et le sens caché de chacun de ces liens sacrés de sorte que chaque pratiquant puisse les appliquer selon son niveau d’avancement -les pratiquants qui n’ont pas la capacité de les appliquer et les pratiquants accomplis, qui par les branches de l’absorption méditative (172), ont obtenu les cinq clairvoyances et autres accomplissements. \n"
-"\n"
-"A ce sujet, le tantras disent aussi que ceux n’ayant pas obtenu les clairvoyances ne peuvent appliquer que les activités d’apaisement, d’expansion, de control et de sommation mais pas celles courroucées comme celle d’ôter la vie. Les pratiquants accomplis appliquent ces liens sacrés tels quels et les débutants les appliquent en pensée seulement. Tout yogi les appliquera donc selon son niveau d’avancement dans la pratique."
 
 #  19. འདི་ལ་ལུས་སོགས་གཏོང་བ་ནི་བསོད་ནམས་ཀྱི་ཚོགས་དང༌། 20. བུད་མེད་ལ་
 # 
