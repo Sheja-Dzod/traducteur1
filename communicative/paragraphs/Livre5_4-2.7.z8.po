@@ -19,7 +19,17 @@ msgstr ""
 # 
 # མཉམ་ཉིད་ཀྱི་ཀློང་དུ་མི་ཤོང་བའི་ཕྲག་དོག་རྣམས་ 7. རྟོགས་གོམས་
 # 
-# ཀྱི་ཐབས་ཀྱིས་མི་སྤོང་བའོ། །་
+# ཀྱི་ཐབས་ཀྱིས་མི་སྤོང་བའོ། ། 8. དང་དུ་བླང་བ་ལྔ་ནི། 9. དྲི་ཆེན་དྲི་
+# 
+# ཆུ་རཀྟ་མཱཾ་ས་རྡོ་རྗེ་ཟིལ་པ་ལྔ་ནི་ 10. ཆོས་ཉིད་རང་
+# 
+# བཞིན་དང༌། རང་གི་ངོ་བོ་དང༌། མཐུ་དང༌། བྱིན་གྱིས་རླབས་ཀྱིས་གྲུབ་པའི་རྫས་
+# 
+# ཁྱད་པར་ཅན་ཡིན་པས་ 11. མི་འདོར་བར་དང་དུ་བླང་བར་བྱའོ། ། 12. སྦས་
+# 
+# དོན་དུ་ཕུང་ལྔའི་དྭངས་མ་འཛག་མེད་དུ་བཅིང་བས་དང་དུ་
+# 
+# བླང་བའོ། །་
 msgctxt "line 1, Livre5_4-2.7.z8.txt"
 msgid ""
 "Suivant le sens caché, les cinq poisons dans leur puerté sont: L’obscurité "
@@ -37,20 +47,9 @@ msgid ""
 "dualistes. Tous ceci, Puisque ce sont des moyens de réalisation et de "
 "familiarisation, Il ne faut pas y renoncer. (Il ne faut pas y renoncer car "
 "ce sont des moyens pour obtenir la réalisation et l’état de familiarisation "
-"(résultat de la méditation)"
-msgstr ""
-
-#  8. དང་དུ་བླང་བ་ལྔ་ནི། 9. དྲི་ཆེན་དྲི་ཆུ་རཀྟ་མཱཾ་ས་རྡོ་རྗེ་
-# 
-# ཟིལ་པ་ལྔ་ནི་ 10. ཆོས་ཉིད་རང་བཞིན་དང༌། རང་གི་ངོ་བོ་དང༌། མཐུ་
-# 
-# དང༌། བྱིན་གྱིས་རླབས་ཀྱིས་གྲུབ་པའི་རྫས་ཁྱད་པར་ཅན་ཡིན་པས་ 11. མི་
-# 
-# འདོར་བར་དང་དུ་བླང་བར་བྱའོ། ། 12. སྦས་དོན་དུ་ཕུང་ལྔའི་དྭངས་མ་
-# 
-# འཛག་མེད་དུ་བཅིང་བས་དང་དུ་བླང་བའོ། །་
-msgctxt "line 2, Livre5_4-2.7.z8.txt"
-msgid ""
+"(résultat de la méditation) (pour Khenpo, cette phrase va avec la jalousie: "
+"les différents types de jalousies (pures) ne rejettent pas pour autant les "
+"méthodes amenant à la réalisation et à l’aboutissement de la méditation). "
 "les cinq liens sacrés à accepter sont la matière à la grande fragrance [que "
 "sont les fèces], l’eau parfumée [qu’est l’urine], le rakta (qu’est le sang),"
 " le mamsa (qu’est la chair) et la goutte de rosée du vajra (qu’est le "
@@ -73,7 +72,7 @@ msgstr ""
 # ཡེ་ཤེས་ཀྱི་དཀྱིལ་འཁོར་དུ་ཤེས་རབ་ཀྱིས་སྒྲོ་འདོགས་བཅད་ནས་
 # 
 # ཤེས་པར་བྱེད་པའོ། །་
-msgctxt "line 3, Livre5_4-2.7.z8.txt"
+msgctxt "line 2, Livre5_4-2.7.z8.txt"
 msgid ""
 "les cinq liens sacrés à reconnaitre sont Puisque tous les phénomène sont "
 "depuis toujours Bouddha (évéillés et épanouis), (reconnaitre) les cinq "
@@ -108,7 +107,7 @@ msgstr ""
 # དགོངས་པ་བླངས་ཏེ་རིམ་པ་མ་ནོར་བར་བསྲུངས་ཏེ་སྤྱད་པར་
 # 
 # བྱའོ། །་
-msgctxt "line 4, Livre5_4-2.7.z8.txt"
+msgctxt "line 3, Livre5_4-2.7.z8.txt"
 msgid ""
 "Les cinq liens sacrés à a réaliser sont Par la pratique de la réalisation et"
 " de la familiarisation avec ces cinq liens sacrés à reconnaitre, l’on doit "
