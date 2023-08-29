@@ -25,11 +25,11 @@ class Po:
             entries.append((text, trans))
         return '\n'.join(['\n'.join([e[0], '\t' + e[1]]) for e in entries]), \
                '\n'.join([e[1].strip() for e in entries]), \
-               '\n'.join(['\n'.join([e[1], '\t' + e[0]]) for e in entries])
+               '\n'.join(['\n'.join([e[0], '\t' + e[1]]) for e in entries])
 
     def write_txt(self):
         orig_trans, trans, pars_trans = self.format_entries()
-        if '5_1-10' in self.infile.stem:
+        if '5_4-2.7.t' in self.infile.stem:
             print()
         bitext = self.infile.parent / (self.infile.stem + '.txt')
         bitext.write_text(orig_trans, encoding='utf-8')
