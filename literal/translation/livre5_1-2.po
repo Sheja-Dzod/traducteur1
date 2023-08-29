@@ -6,16 +6,16 @@
 msgid ""
 msgstr ""
 "Last-Translator: Drupchen Dorje <drupchen@dharmasagar.org>, 2022\n"
-"Language-Team: French (https://www.transifex.com/shejadzod/teams/134378/fr/)\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 msgctxt "9e07380b6217449aa38f26f4d8645ec2"
-msgid "﻿གཉིས་པ་ ནི །"
-msgstr "Deuxièmement"
+msgid "གཉིས་པ་ ནི །"
+msgstr ""
 
 # 。︀	〝སྒོ〞 858
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
