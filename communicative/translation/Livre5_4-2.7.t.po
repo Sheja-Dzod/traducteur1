@@ -1,0 +1,215 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. དྲུག་པ་ནི། 2. སྤྱིར་རྙེད་བཀུར་འདོད་པས་གྲུབ་མཐའ་གཞན་ལ་སྨོད་པ་སྟེ། 3. ཐེག་
+# 
+# ཆེན་གྱི་མདོ་སྡེ་སྨད་ན་སྦོམ་པོ། 4. ཐེག་དམན་ལ་ཉེས་བྱས། 5. ཕྱི་རོལ་
+# 
+# པ་སོགས་ལ་ཕྲ་མོའི་ཉེས་བྱས། 6. དེ་དག་འདུལ་བའི་བསམ་པས་སྨད་
+# 
+# ན་ཉེས་པ་མེད་པའི་སྟེང་བསོད་ནམས་ཐོབ་པར་གསུངས་ལ།་
+msgctxt "line 1, Livre5_4-2.7.t.txt"
+msgid ""
+"6. Il s’agit en général (en ce qui concerne le sens général de ce samaya) de"
+" critiquer les autres traditions spirituelles avec pour intention le gain et"
+" le respect. En effet, Critiquer les écritures du Grand Véhicule forme une "
+"violation sérieuse. (critiquer) le Petit Véhicule est une faute mineure. "
+"Critiquer les religions non bouddhistes est une fautre mineure légére. Il "
+"est dit que si ces critiques sont faites avec l’intention de discipliner "
+"(l’autre, de lui etre utile) alors, en plus de ne pas être une faute, (celui"
+" qui les exprime) acquiert du mérite, de plus,"
+msgstr ""
+"6. Le sens général de cette chute concerne la critique d'autres traditions spirituelles motivé par une intention porté sur le gain et le respect.\n"
+"Critiquer les écritures du Grand Véhicule forme une violation sérieuse ; critiquer le Petit Véhicule une faute mineure ; et critiquer les religions non bouddhistes une faute mineure légère. \n"
+"Il est dit que si ces critiques sont faites avec une intention bénéfique pour autrui, celui qui les exprime non seulement ne commet pas de faute mais acquière du mérite. "
+
+#  7. བྱེ་བྲག་ཏུ་ནང་པའི་གྲུབ་མཐའ་སྔགས་དང་ཕ་རོལ་ཏུ་ཕྱིན་པ་
+# 
+# གཉིས་རྒྱུ་འབྲས་ཀྱི་འབྲེལ་བར་ཡོད་དེ། 8. འཁོར་ལོ་རིམ་པ་གསུམ་ལས་
+# 
+# དང་པོར་གང་ཟག་གི་བདག་མེད་དང་གཟུང་བ་དོན་སྤྱི་བདེན་
+# 
+# མེད་དུ་རྟོགས་པར་བསྟན་ལ། 9. བར་པར་ཆོས་ཐམས་ཅད་སྨྲ་བསམ་བརྗོད་
+# 
+# པ་ལས་འདས་པའི་སྟོང་པ་ཉིད་དུ་རྟོགས་པར་བསྟན། 10. ཕྱི་མར་ཉམས་
+# 
+# ལེན་གྱི་ངོ་བོར་སོ་སོ་རང་རིག་དང་འཆད་པའི་སྒོར་སེམས་
+# 
+# འོད་གསལ་བ་རྟོགས་པར་བསྟན་ལ། 11. དེ་འདྲ་བ་དེ་རྒྱུད་སྡེ་བཞིའི་
+# 
+# རིམ་པས་མཐར་བདེ་སྟོང་ཟུང་འཇུག་གི་ཨེ་ཝྃ་རོ་མཉམ་དུ་
+# 
+# རྟོགས་པར་བསྟན་པའི་ཕྱིར་ 12. མཐར་ཐུག་དེ་ཁོ་ན་ཉིད་གཅིག་པ་
+# 
+# ལ། 13. སྔགས་ཀྱི་ངེས་དོན་གྱི་སྙིང་པོ་ཅན་གྱི་ཤེར་ཕྱིན་ཟབ་མོ་
+# 
+# ལ་དམན་པར་བལྟས་ཏེ་སྨོད་ན་རྩ་ལྟུང་དྲུག་པར་གྱུར་ཏེ།་
+# 
+# 
+msgctxt "line 2, Livre5_4-2.7.t.txt"
+msgid ""
+"plus spécifiquement, puisqu’il existe une relation de cause à effet entre "
+"les systèmes philosophiques du (véhicule) du mantra et (de celui) des "
+"transcendances, Dans (le contexte) des trois roue du dharma, lors de la "
+"première, (le Bouddha) exposa le non-soi de l’individu et l’absence de "
+"réalité du sens générique des objets appréhendés, puis, lors (du tour de "
+"roue) intérmédiaire, il exposa la réalisation que tous les phénomènes sont "
+"vacuité, au delà d l‘exprimable, de l’ imaginable et du descriptif. Lors du "
+"dernier, il exposa l’essence de la pratique, la conscience qui se connait-"
+"elle même, et la réalisation de l’esprit claire lumière comme méthode "
+"d’enseignement. Et de même, il les exposa ausi progressivement dans les "
+"quatre classes de tantras pour terminer avec l’exposé de la réalisation de "
+"l’égale saveur d’EWAM, la félicité-vacuité. Par conséquent (a relier avec "
+"ཡོད་དེ de la séquence 7), Ultimement, (tous enseignent) la même telléité. En"
+" lien avec celà, critiquer en considérant comme inférieur la profonde "
+"sagesse transcendante qui est l’essence du sens définitif du mantrayana "
+"constitue la sixième faute racine."
+msgstr ""
+"Plus spécifiquement, il existe une relation de cause à effet entre les "
+"systèmes philosophiques du véhicule du mantra et de celui des "
+"transcendances. Ceci s’explique ainsi : dans le contexte des trois roue du "
+"dharma, lors de la première, le Bouddha exposa le non-soi de l’individu et "
+"l’absence de réalité du sens générique des objets appréhendés. Ensuite, lors"
+" du tour de roue intermédiaire, il exposa la réalisation de la vacuité de "
+"tous les phénomènes comme vacuité, leur nature qui transcende l‘exprimable, "
+"l’ imaginable et le descriptif. Lors du dernier, il exposa la conscience qui"
+" se connait-elle-même comme étant l’essence de la pratique, et la "
+"réalisation de l’esprit claire lumière comme méthode d’enseignement. Il "
+"exposa aussi cela progressivement dans les quatre classes de tantras et "
+"termina avec l’exposé de la réalisation de l’égale saveur d’EWAM, la "
+"félicité-vacuité. La finalité de tous ces enseignements est donc la même "
+"telléité. Ainsi, critiquer en considérant comme inférieur la profonde "
+"sagesse transcendante qui est l’essence du sens définitif du mantrayana "
+"constitue la sixième faute racine."
+
+#  14. ཡན་ལག་ངེས་དོན་སྔགས་སུ་གནས་པའི་ཤེར་ཕྱིན་དང་སྔགས་མཆོག་དམན་
+# 
+# ཏུ་བཟུང་ནས་སྨོད་ཚིག་དངོས་སུ་བརྗོད་པ། 15. དེ་ལེགས་བཤད་དུ་འཛིན་
+# 
+# པ། 16. ཕར་ཕྱིན་ཐེག་པ་ཁོ་ནར་འཆེལ་བ་དྲང་བའི་ཆེད་སོགས་མ་
+# 
+# ཡིན་པ་སྟེ་ 17. ཡན་ལག་གསུམ་གྱིས་རྫོགས་པའོ། །་
+msgctxt "line 3, Livre5_4-2.7.t.txt"
+msgid ""
+"Les consituants (branches de cette faute) sont: critiquer verbalement et "
+"clairement le sens définitif qui est la sagesse transcendante correspondante"
+" au mantrayana en la considérant comme inférieure aux mantras, croire que de"
+" telles paroles sont bien fondées ; (ne pas tenir de tels propos) dans le "
+"but d’élever ceux qui adhérent seulement au véhicule de la transcendance. "
+"Ces trois branches complètent (cette faute)."
+msgstr ""
+"Les trois constituants sont: \n"
+"1) critiquer verbalement et clairement le sens définitif qu’est la sagesse transcendante que l’on retrouve dans le Mantrayana en la considérant comme inférieure aux mantras ;\n"
+"\n"
+"2) croire que de telles paroles sont bien fondées ; \n"
+"\n"
+"3) ne pas tenir de tels propos dans le but d’élever ceux qui adhérent seulement au véhicule de la transcendance ou dans d’autres buts positifs."
+
+#  18. བདུན་པ་ནི། 19. མ་སྨིན་པའི་མི་ལ་གསང་བ་སྦྱིན་པ་སྟེ། 20. དབང་གིས་མ་
+# 
+# སྨིན་ཞིང་ཉན་ཐོས་སོགས་ཀྱི་ཐེག་པར་འཆེལ་བ། 21. གསང་བའི་གཏམ་ཐོས་
+# 
+# ན་སྐྲག་ཅིང་མ་གུས་པར་འགྱུར་བའི་རིགས་ཅན་ལ་བདེ་བ་
+# 
+# ཆེན་པོའི་གསང་བ་བསྒྲགས་ན་བདུན་པར་འགྱུར་ཏེ།་
+msgctxt "line 4, Livre5_4-2.7.t.txt"
+msgid ""
+"7. Partager le (mantra) secret aux personnes non mures (non prêtes a le "
+"recevoir, qui n’ont pas la maturité spirituelle suffisante): Ceux qui n’ont "
+"pas été amenés à la maturité par les initiations et ceux enfermés dans les "
+"Véhicules tels celui des Auditeurs si ils entendent le contenu (littt, les "
+"récits, les propos) du mantra secret, seront effrayé et deviendront "
+"irrespectueux. Révéler (exposer) le secret de la grande félicité à ces "
+"personnes constitue la septième (faute racine)."
+msgstr ""
+"7. Divulguer le mantra secret aux personnes qui ne sont pas prêtes à le recevoir.\n"
+"Cette chute racine concerne le fait de divulguer le secret de la grande félicité aux individus suivants : ceux qui n’ont pas été amenés à la maturité par les initiations, et ceux enfermés dans les Véhicules tels celui des Auditeurs qui seront effaré d’entendre le contenu du mantra secret et qui ne le respecterons pas."
+
+#  22. ཡན་ལག་མ་སྨིན་པའི་ཉན་རང་གི་རིགས་གསང་བ་ཐོས་ན་ 23. སྐྲག་
+# 
+# ཅིང་མི་གུས་པར་འགྱུར་བའི་རིགས་ཅན་ཡིན་ལ། 24. དེ་ལ་བདེ་བ་
+# 
+# ཆེན་པོའི་གསང་བ་བསྒྲགས་པ། 25. ཡན་ལག་ཕྱི་མ་གཉིས་འདྲ་སྟེ་དེས་
+# 
+# རྫོགས་སོ། །་
+msgctxt "line 5, Livre5_4-2.7.t.txt"
+msgid ""
+"Les constiuants (branches de cette faute) sont: L’individu doit être un "
+"adepte (du véhicule) des Auditeurs ou des Bouddha-par-soi qui en entendant "
+"le mantra secret, en soit effrayé et ne le respecte pas; Qu’on lui révèle le"
+" secret de la grande félicité; Les deux derniers facteurs sont les même que "
+"précédement. Ces (quatre) complète (cette faute)."
+msgstr ""
+"Les constituants: \n"
+"\n"
+"1)     L’individu doit être un adepte du véhicule des Auditeurs ou des Bouddha-par-soi qui en entendant le mantra secret, en soit effrayé et ne le respecte pas; \n"
+"\n"
+"3)      qu’on lui révèle le secret de la grande félicité; \n"
+"\n"
+"Les deux derniers facteurs sont les même que précédemment."
+
+#  26. དཱ་རི་ཀ་པས་བདེ་ཆེན་གྱི་གསང་བ་བསྒྲགས་ན་ 27. མཆོག་གི་དངོས་
+# 
+# གྲུབ་ཀྱི་བར་ཆད་དུ་འགྱུར་ཞིང༌། 28. གསང་སྔགས་སྤྱིའི་གསང་བ་བསྒྲགས་ན་
+# 
+#  29. ཐུན་མོང་གི་དངོས་གྲུབ་ཀྱི་བར་ཆད་དུ་འགྱུར་བར་བཤད་དོ། །་
+# 
+# 
+msgctxt "line 6, Livre5_4-2.7.t.txt"
+msgid ""
+"Selon Darikapa, si on révèle le secret de la grande félicité, cela deviendra"
+" un obstacle (à l’obtention) des accomplissements (siddhis) suprêmes et, Si "
+"on révèle les secrets généraux du mantra secret, cela deviendra un obstacle "
+"(à l’obtention) des accomplissements ordinaires. C’est ce qu’il a dit."
+msgstr ""
+"Darikapa (179) dit que révéler le secret de la grande félicité deviendra un "
+"obstacle à l’obtention des accomplissements suprêmes et révéler les secrets "
+"généraux du mantra secret, cela deviendra un obstacle à l’obtention des "
+"accomplissements ordinaires. (180)"
+
+#  30. འདིར་མ་སྨིན་པ་ལ་བཞི་སྟེ། 31. ཆོས་ལ་ཁོང་ཁྲོ་བའི་ལོག་ལྟ་ཅན་
+# 
+# རྒྱུས་མ་སྨིན་པ། 32. བདག་ཏུ་ལྟ་བ། 33. འཁོར་བ་ལ་སྐྱོ་བ། 34. སེམས་ཅན་གྱི་
+# 
+# དོན་མི་བྱེད་པ་གསུམ་རྐྱེན་གྱིས་མ་སྨིན་པ་སྟེ་ 35. འདོད་ཆེན་
+# 
+# མུ་སྟེགས་ཉན་རང་གི་སྒྲིབ་པ་བཞིའོ། །་
+msgctxt "line 7, Livre5_4-2.7.t.txt"
+msgid ""
+"En ce qui nous concerne il y a quatre type d’immature: Etre marqué par la "
+"vue érronée de l‘aversion envers le Dharma est la cause (même) de l’ "
+"immaturité. Considérer le soi comme existant, être lassé du samsara, ne pas "
+"accomplir le bien des autres, sont les trois facteurs favorisant "
+"l’immaturité. En effet, on retrouve ainsi les quatre voiles : celui des "
+"individus pris dans les affaire mondaines (litt; ceux qui ont beaucoup de "
+"désir), celui des adeptes de traditions non-bouddhistes (litt, de tradition "
+"extrèmistes), celui des Auditeurs et celui des Bouddhas-par-soi."
+msgstr ""
+"En ce qui nous concerne il y a quatre type d’immature :\n"
+"Ceux pris dans les affaire du monde, les adeptes de traditions non-bouddhistes, les Auditeurs et les Bouddhas-par-soi.\n"
+"Ces individus sont immature car leurs esprits sont dans l’ordre, obscurcit par quatre voiles : la cause principale de l’immaturité : avoir une vue erronée du Dharma de l‘aversion envers lui la cause (même) de l’ immaturité. \n"
+"Les trois conditions favorisant l’immaturité : considérer le soi comme existant, être lassé du samsara et ne pas accomplir le bien des autres."
+
+#  36. མ་སྨིན་པ་རིམ་པ་ལྟར་གོང་མ་རྣམས་གསང་དགོས་པར་གསུངས་སོ། །་
+# 
+# 
+msgctxt "line 8, Livre5_4-2.7.t.txt"
+msgid ""
+"Il est dit que l’enseignement plus avancé en doit pas être transmis à ceux "
+"qui n’en ont pas la maturité (l’enseignement des Auditeurs ne doit pas être "
+"enseigné aux non-bouddhistes, les religions non-bouddhistes aux athés)."
+msgstr ""
+"Il est dit qu’un enseignement plus avancé ne doit pas être transmis à ceux "
+"qui n’en ont pas la maturité (l’enseignement des Auditeurs ne doit pas être "
+"enseigné aux non-bouddhistes, les religions non-bouddhistes aux athés)."
