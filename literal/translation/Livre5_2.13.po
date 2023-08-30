@@ -35,7 +35,7 @@ msgid ""
 "དགེ་སློབ་མ །  དགེ་སློང་ ཕ་མ␣འི་ བསླབ་བྱ␣འོ ། །"
 msgstr ""
 "2. Les préceptes concernant les renoncants se déclinent en 3 parties: les "
-"préceptes pour les novices hommes ou femmes, pour les les noones à "
+"préceptes pour les novices hommes ou femmes, pour les les nonnes à "
 "l'ordination probatoire et pour les hommes ou femmes pleinement ordonnées.  "
 
 msgctxt "0fd3f0182fce41f689cb096b3c112692"
@@ -71,8 +71,10 @@ msgid ""
 "ཕྱོགས་མཐུན་ དགེ་སློང་ བཞིན ། །  བསྲུང་ བྱ་ ཉེས་མེད་ བཅུ་གསུམ་ ལ་སོགས་པ␣འོ "
 "། །"
 msgstr ""
-"Chez les novices, aux huit branches s'ajoutent le renoncement à l'argent et "
-"à l'or; Qui amène à 10 transgressions. "
+"Chez les novices les voeux sont les huit branches plus le renoncement à "
+"l'argent et à l'or pour faire dix transgressions, les fautes analogues aux "
+"voeux de pleine ordination, et l'exception de treize préceptes non "
+"obligatoires  et d'autres."
 
 # 。︀	〝དགེ་ཚུལ〞 653
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
@@ -99,6 +101,8 @@ msgstr ""
 msgctxt "5c18f970f83745f7b7dcc207efe36891"
 msgid "དགེ་ཚུལ་ གྱི་ བསླབ་བྱ་ བླངས་འདས་ དངོས །"
 msgstr ""
+"Les préceptes des novices correspondants aux trangressions (litt. "
+"transgresser ce qui a été adopté) ,"
 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
@@ -130,10 +134,13 @@ msgid ""
 "ཕྱོགས་མཐུན་ བསྡམ་བྱ␣འི་ ཉེས་བྱས །  རབ་བྱུང་ གི་ དུས་ སུ་ བླངས་པ་ ལ␣ས་ "
 "འདས་པ␣འི་ ཕྱོགས་མཐུན་ གསུམ་ དུ་ཡོད་པ་ ལ␣ས །"
 msgstr ""
+"les fautes analogues  (aux voeux de pleine ordination) relatives aux "
+"engagements et les transgressions analogues des engagements pris lors de "
+"l'ordination de renoncement (intérmédiaire)."
 
 msgctxt "d12b99336e534031936e57bdeca668b0"
 msgid "དང་པོ་ ནི །"
-msgstr ""
+msgstr "1."
 
 # 。︀	〝སྐབས〞 195
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Occasion, opportunité, moment ou,
@@ -151,6 +158,8 @@ msgstr ""
 msgctxt "74e3cf0dfe404647ac611cf53b47c024"
 msgid "བསྙེན་གནས་ ཀྱི་ སྐབས་ སུ་ བཤད་པ␣འི་ ཡན་ལག་ བརྒྱད་ ལ་ག␣ར་ སོགས་ དང༌ །"
 msgstr ""
+"Ce sont les transgressions des huit voeux exposés pour les voeux d'un jour, "
+"le trio danse, chant, musique, "
 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
@@ -164,6 +173,7 @@ msgstr ""
 msgctxt "11c75e776c844dcbb423fc73a6f99a72"
 msgid "ཕྲེང་ སོགས་ སོ་སོ␣ར་ དབྱེ །"
 msgstr ""
+"et le trio bijoux, parfums, maquillage, formant chacun un voeux distinct."
 
 # 。︀	〝སྤང་བ〞 3354
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
@@ -182,6 +192,8 @@ msgctxt "dc85745549b040fcbe14da0d0b3ce631"
 msgid ""
 "དེ་ སྟེང་ གསེར་དངུལ་ ལེན་པ་ སྤང་བ་ བཅས་ བླངས་འདས་ རགས་པ་ བཅུར་ གསུངས་པ་ ནི་"
 msgstr ""
+"A ces (9 voeux) s'ajoute celui de renoncer à toucher de l'argent et de l'or."
+" Ils furent enseignés comme étant les dix transgressions générales. "
 
 # 。︀	〝དགོངས་པ〞 666
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ intention, idée ⁃ intention, idée
@@ -212,6 +224,8 @@ msgstr ""
 msgctxt "10ad744598e64e789f1be584efe66c5c"
 msgid "བསླབ་གཞི་ མང་པོ་ ཐོས་ ནས་ ཞུམ་པ་ རྣམས་ ལ་ གཙོ་ ཆེ་བ␣ར་ དགོངས་པ་ སྟེ །"
 msgstr ""
+"Ils furent énnoncés comme étant les voeux principaux pour ceux qui auraient "
+"pu être découragés à l'énnoncé d'un grand nombre de préceptes à tenir."
 
 # 。︀	〝རྩ་བ〞 4536
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Base, origine,  source, Important, Texte
@@ -227,14 +241,21 @@ msgid ""
 "དེ␣འང་ རྩ་བ་ བཞི་ ནི་ དགེ་སློང་ དང་ འདྲ་ ཡང་ འདི␣ར་ ཕམ་ འདྲ␣འི་ ཉེས་བྱས་ དང༌"
 " །"
 msgstr ""
+"A leur sujet, les quatre transgressions racines sont semblables à celles de "
+"la pleine ordination mais sont ici considérées comme des fautes similaire à "
+"des chutes. "
 
 msgctxt "1fb531ec826f41589d729b120112e17c"
 msgid "ཆང་ འཐུང་བ་ སོགས་ དྲུག་ ནི་ བཤགས་ བྱ␣འི་ ཉེས་བྱས །"
 msgstr ""
+"Les six autres : boire de l'alcool etc. ( les deux trios, le siége élevé, "
+"manger le soir et toucher l'argent et l'or) sont des fautes confessables. "
 
 msgctxt "5a177fab6a6d4b2f8b4ff79716330800"
 msgid "དེ་ལས་ ཞིབ་མོ␣ར་ དབྱེ་ ན་ སུམ་ཅུ་ སོ་ གསུམ་ དུ་ གྱུར་ ཏེ །"
 msgstr ""
+"Dans le détail elles (les transgressions des novices) sont au nombre de "
+"trente trois:"
 
 # 。︀	〝རྩ་བ〞 4536
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Base, origine,  source, Important, Texte
@@ -259,7 +280,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "14cf31ca985b4ce785d2f652a04c7913"
 msgid "རྩ་བ་ བཞི་ ལ␣ས །"
-msgstr ""
+msgstr "Dérivé des quatre voeux racine:"
 
 # 。︀	〝དུད་འགྲོ〞 2397
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ animal,
@@ -272,6 +293,8 @@ msgstr ""
 msgctxt "24a388b0044e4f4385e3fb244289d81c"
 msgid "སྲོག་གཅོད་ ཀྱི་ ཆ␣ར་ གཏོགས་ དུད་འགྲོ་ གསོད་པ །"
 msgstr ""
+"En relation avec le fait d'ôter la vie, on a la transgression consistant à "
+"tuer un animal,"
 
 # 。︀	〝སྤྱོད་པ〞 3394
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "conduite, pratiques; action"
@@ -295,12 +318,15 @@ msgstr ""
 msgctxt "710f84af4648422bb7bd970f8c9c6508"
 msgid "སྲོག་ཆགས་ བཅས་པ␣འི་ རྩྭ་ དང་ ཆུར་ སྤྱོད་པ་ གསུམ །"
 msgstr ""
+"celle d'utiliser de l'herbe ou des légumes abritant des insectes et celle "
+"d'utiliser de l'eau (non filtrée) contenant des insectes, ce qui fait 3 "
+"(transgressions). "
 
 # 。︀	〝རྫུན〞 4875
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Illusion, Mensonge,
 msgctxt "f96bbd7a65974ef49afd7604e9818569"
 msgid "རྫུན་ གྱི་ ཆ␣ར་ གཏོགས །"
-msgstr ""
+msgstr "En relation avec le mensonge,"
 
 # 。︀	〝གཞི་མེད〞 5022
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sans base
@@ -309,7 +335,7 @@ msgstr ""
 # qui n'a ni base ni source ; qui n'a ni fondement ni substance"
 msgctxt "5ee1ac2e866342b0966cc617007208a0"
 msgid "གཞི་མེད །"
-msgstr ""
+msgstr "Porter des accusations non fondées,"
 
 # 。︀	〝སྐུར་འདེབས〞 214
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sous-estimation ⁃ sous-estimation ⁃ sous-estimation
@@ -317,6 +343,9 @@ msgstr ""
 msgctxt "d233441faa1040fe8111a22d8bf2e7e8"
 msgid "བག་ཙམ་ གྱི་ སྐུར་འདེབས །"
 msgstr ""
+"porter des accusations basé sur presque rien (example; on voit un moine se "
+"promener avec une fille et on l'accuse, juste pour cette raison, d'avoir une"
+" relation avec elle)."
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
@@ -326,7 +355,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
 msgctxt "b4a9c08a3f0e490884735ed5c64f5b52"
 msgid "དགེ་འདུན་ དབྱེན །"
-msgstr ""
+msgstr "diviser la sanga,"
 
 # 。︀	〝རྗེས〞 1611
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ subséquent ⁃ suite, traces, après
@@ -347,11 +376,11 @@ msgstr ""
 # l'opinion
 msgctxt "a6889863e762405fac61352d52df14af"
 msgid "དེ་ རྗེས་ ཕྱོགས །"
-msgstr ""
+msgstr "soutenir la division de la sangha,"
 
 msgctxt "3df18480eebe4513ad8391370285e447"
 msgid "ཁྱིམ་ སུན་ འབྱིན །"
-msgstr ""
+msgstr "faire prendre la foi à un laique"
 
 # 。︀	〝སྨྲ་བ〞 4493
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dire, Enoncer, Professer,
@@ -369,15 +398,18 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vigilance, claire conscience
 msgctxt "79251b2571014c34acf2c0de065b9629"
 msgid "ཤེས་བཞིན་ རྫུན་ དུ་ སྨྲ་བ །"
-msgstr ""
+msgstr "mentir en conscience (savoir exactement que l'on ment),"
 
 msgctxt "f25357e669e04fba8f4b07463dfbf269"
 msgid "བཤེས་ ངོ␣ར་ འཕྱ་བ །"
 msgstr ""
+"accusé a tort un moine de favoritisme (accuser un moine de donner un peu "
+"plus à un de ses amis ce qui se doit d'être pratagé par l'ensemble de la "
+"communauté)."
 
 msgctxt "60624d8cf27b4ac2b7e345f5b72b8d2f"
 msgid "ཞལ་ཏ་པ␣ར་ འཕྱ་བ །"
-msgstr ""
+msgstr "accuser a tort les intendants (cuisinier, comptable etc)."
 
 # 。︀	〝སྐུར་འདེབས〞 214
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sous-estimation ⁃ sous-estimation ⁃ sous-estimation
@@ -387,7 +419,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
 msgctxt "42d9215c70304f419de624ac8c9bf4fb"
 msgid "ཟས་ ཅུང་ཟད་ ཀྱི་ ཕྱིར་ ཆོས་སྟོན་ ཞེས་པ␣འི་ སྐུར་འདེབས །"
-msgstr ""
+msgstr "accuser un moine d'enseigner pour un peu de nourriture,"
 
 # 。︀	〝སྐུར་འདེབས〞 214
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sous-estimation ⁃ sous-estimation ⁃ sous-estimation
@@ -400,6 +432,8 @@ msgstr ""
 msgctxt "696dffc47bc54304bf19d4252fb83f3a"
 msgid "ལྷག་མ␣འི་ སྐུར་འདེབས །"
 msgstr ""
+"Accuser un moine d'avoir accompli l'une des fautes avec résidu. (faute "
+"appelée défaite partielle)."
 
 # 。︀	〝སྤོང་བ〞 3367
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
@@ -408,18 +442,25 @@ msgstr ""
 # (SL BP) Alternatives: renoncer, abandonner, arrêter de, lâcher prise,
 # laisser tomber, se débarrasser de, abandon, élimination, rejeter
 # 
-# 。︀	〝རྫུན〞 4875
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Illusion, Mensonge,
-# 
 # 。︀	〝བསླབ་པ〞 6676
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etudier, Apprendre, Ce qui est apprit, Ce qui est
 # enseigné, Ce qui est donné comme enseignement, Apprentissage, Etudes,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
-msgctxt "6371af43556641f8bbd938d8e73ce0ef"
-msgid ""
-"བསླབ་པ་ ལ་ ཁྱད་གསོད་ ཀྱིས་ སྤོང་བ །  ལྷག་པོ་ ལེན་ ཕྱིར་ འབྲས་ཆན་ འགེབས་པ་ "
-"སྟེ་ བཅུ་གཉིས␣( རྫུན་ གྱི་ ཆེ་ གཏོགས་ ༡༢␣) །"
+msgctxt "e2a3a5466ec74590b35290162c7a159f"
+msgid "བསླབ་པ་ ལ་ ཁྱད་གསོད་ ཀྱིས་ སྤོང་བ །"
+msgstr "rejeter un précepte par manque de considération pour lui."
+
+msgctxt "5f8ed076758541e09096268df3231f25"
+msgid "ལྷག་པོ་ ལེན་ ཕྱིར་ འབྲས་ཆན་ འགེབས་པ་ སྟེ་"
 msgstr ""
+"Couvrir les légumes avec du riz afin d'en avoir plus (cacher ses légumes "
+"sous le riz et dire qu'on a pas eu de légumes)."
+
+# 。︀	〝རྫུན〞 4875
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Illusion, Mensonge,
+msgctxt "6371af43556641f8bbd938d8e73ce0ef"
+msgid "བཅུ་གཉིས␣( རྫུན་ གྱི་ ཆེ་ གཏོགས་ ༡༢␣) །"
+msgstr "qui forment les douze transgressions en lien avec le mensonge."
 
 # 。︀	〝རྩ〞 4527
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ racine, fondement
@@ -434,14 +475,20 @@ msgstr ""
 msgctxt "6bc3449f741c46589869df1c60be25fb"
 msgid "དེ་ལྟར་ རྩ་ བཞི་ དང་ དེ␣འི་ ཆ␣ར་ གཏོགས་ བཅོ་ལྔ་ སྟེ་ བཅུ་དགུ །"
 msgstr ""
+"On a donc dix neuf transgressions quand on ajoute aux quatre racines ces "
+"quinze qui leur sont reliées."
+
+msgctxt "1da54f9d2aae4d0eb773571238d9c064"
+msgid "ཆང༌ །"
+msgstr "Boir de l'alcool,"
 
 msgctxt "9cfcef31df3c49dea88aac95238bcc26"
-msgid "ཆང༌ །  གར་ སོགས་ གསུམ །"
-msgstr ""
+msgid "གར་ སོགས་ གསུམ །"
+msgstr "le trio danse, chant, musique,"
 
 msgctxt "302523dddcf24af4af80eda7fdf6bf66"
 msgid "ཕྲེང་ སོགས་ གསུམ །"
-msgstr ""
+msgstr "le trio bijoux, parfums, maquillage,"
 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
@@ -455,10 +502,25 @@ msgstr ""
 msgctxt "e5794ac0424a4483889e982fcdc8bfac"
 msgid "མལ་སྟན་ ཆེ་ མཐོ་ རྣམས་ སོ་སོ␣ར་ བགྲངས་པ་ དང༌ །"
 msgstr ""
+"l'usage d'un lit luxueux et élevé compté chacun pour une transgression,"
 
 msgctxt "74d95a3ddf304600b3f9f5c143d8b29d"
 msgid "ཕྱི་དྲོ␣འི་ ཁ་ཟས །"
-msgstr ""
+msgstr "manger aprés midi,"
+
+# 。︀	〝ལེན་པ〞 6129
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ appropriation (9ème des douze facteurs de la relation
+# interdépendante)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ préhension
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "b19c42a4fdb845e699c687f4bbc9724e"
+msgid "གསེར་དངུལ་ ལེན་པ་ རྣམས་ བསྣན་པ␣ས་ སུམ་ཅུ །"
+msgstr "toucher de l'argent et l'or. Pour un total de trente."
 
 # 。︀	〝ཉམས་པ〞 1679
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
@@ -470,21 +532,17 @@ msgstr ""
 # observation, consulter les présages, observer la conjoncture, prendre les
 # augures
 # 
-# 。︀	〝ལེན་པ〞 6129
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ appropriation (9ème des douze facteurs de la relation
-# interdépendante)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ préhension
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "abff8e2bec264b8d8815f3de81926a12"
-msgid ""
-"གསེར་དངུལ་ ལེན་པ་ རྣམས་ བསྣན་པ␣ས་ སུམ་ཅུ །  ཉམས་པ་ གསུམ་ དང་ བཅས་པ␣ས་ "
-"བླངས་འདས་ སུམ་ཅུ་ སོ་ གསུམ་ མོ ། །"
+msgid "ཉམས་པ་ གསུམ་ དང་ བཅས་པ␣ས་ བླངས་འདས་ སུམ་ཅུ་ སོ་ གསུམ་ མོ ། །"
 msgstr ""
+"avec les trois détérioration ( s'habiller en laique, ne pas respecter le "
+"code vestimentaire monastique et manquer de respect à son maitre "
+"d'ordination) on a trente trois transgressions. "
 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
@@ -513,3 +571,4 @@ msgstr ""
 msgctxt "51687cc397c1407b992300a02dd805be"
 msgid "འདི་ ལ་ བཤད་པ␣འི་ རྣམ་ གྲངས་ གཞན་ ཡང་ ཡོད་ དོ ། །"
 msgstr ""
+"Il existe d'autres énumération de ces transgressions pour les novices."
