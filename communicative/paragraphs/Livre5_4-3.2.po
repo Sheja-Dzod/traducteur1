@@ -1,0 +1,93 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གཉིས་པ་ལ་གཉིས། 2. འཕགས་ཡུལ་བའི་བཞེད་སྲོལ།
+# བོད་ཀྱི་སློབ་དཔོན་རྣམས་ཀྱི་བཞེད་
+# 
+# སྲོལ་ལོ། །་
+msgctxt "line 1, Livre5_4-3.2.txt"
+msgid ""
+"La seconde section comporte deux parties L’interprétation (ce que pensent) "
+"Indienne (des maîtres indiens) et celle des maîtres tibétains."
+msgstr ""
+
+#  3. དང་པོ་ནི། 4. འཇིགས་མེད་ཞབས་ཀྱིས་སྤོང་སེམས་རིགས་མཐུན་ཀྱང༌། །རྣམ་པ་ཐ་དད་
+# 
+# པཎ་ཆེན་བི་བྷཱུ་ཏིས། །གོང་མས་འོག་མ་ཟིལ་གནོན་ཐ་དད་བཞེད། །་
+# 
+# 
+msgctxt "line 2, Livre5_4-3.2.txt"
+msgid ""
+"1. Pour Abhayakara ils sont similaires de pars leur l’intention (commune) "
+"d’abandon mais se distinguent selon leur formes. Le Grand Erudit "
+"Vibhutichandra pense que les voeux supérieurs éclipsent ceux inférieurs tout"
+" en restant distinct."
+msgstr ""
+
+#  5. སྤྱིར་འཕགས་ཡུལ་དུའང་དབང་གི་ལྡེའུ་མིག་ལས་གསུངས་པ་ལྟར་ན། 6. སྔགས་སྡོམ་
+# 
+# གྱི་རྟེན་བྱང་སྡོམ་དང་དེའི་རྟེན་སོ་ཐར་དུ་བཤད་པ་རྟེན་
+# 
+# ཅན་དང༌། 7. གོང་མ་ཐོབ་པ་ན་འོག་མ་འཕེལ་ཞིང་དག་པར་འདོད་
+# 
+# པ་དང༌། 8. སྡོམ་པ་གཅིག་ཉིད་ཕྱི་སོ་ཐར། ནང་བྱང་སྡོམ། གསང་བ་སྔགས་སུ་
+# 
+# འདོད་པ་དང༌། 9. གོང་མ་གོང་མ་ལ་འོག་མ་འོག་མ་ཚང་བར་
+# 
+# འདོད་པ་སྟེ་ཡར་ལྡན་དང༌། 10. གོང་མ་ཐོབ་པས་འོག་མའང་གནས་འགྱུར་
+# 
+# བ་སྟེ་རིམ་པ་ཅན་དུ་འདོད་པ་དང༌། 11. གཅིག་དང་གཅིག་མ་འདྲེས་
+# 
+# པ་སྟེ་མ་འདྲེས་ཡོངས་རྫོགས་སུ་འདོད་པ་དང་དྲུག་ཡོད་པར་
+# 
+# བཤད་དོ། །་
+msgctxt "line 3, Livre5_4-3.2.txt"
+msgid ""
+"Ce qui est dit dans La clés de l’initiation est prédominant (litt. général "
+"ou commun) en Inde. Selon ce texte Le support pour les voeux du mantra sont "
+"les voeux de bodhisattava dont le support sont les voeux de libération "
+"individuelle; acquérir un voeux supérieur améliore le voeux inférieur et le "
+"rend pur. C’est ce qu’ils pensent. Et, Ils sont un seul voeux: "
+"extérieurement, ceux de libération individuelle, intérieurement, ceux de "
+"bodhisattva et secrétement, ceux du mantra. C’est une évolution cumulative "
+"vers le haut, les voeux suivants contenant intégralement les voeux "
+"précédents. La position que les voeux sont une évolution graduelle du fait "
+"qu’en recevant le voeux suivant, le voeux précédent se transforment en le "
+"suivant. Et une sixième explication qui dit que les voeux sont tous présente"
+" complétement mais sans se mélanger les uns aux autres."
+msgstr ""
+
+#  12. དེ་ལས་དེང་སང་བོད་འདིར་གྲགས་ཆེ་བ་ནི་ 13. སློབ་དཔོན་ཆེན་པོ་
+# 
+# འཇིགས་མེད་ཞབས་ཀྱིས། 14. གསེར་གྱི་རྒྱན་གསེར་ཡིན་པར་རིགས་གཅིག་ཀྱང་མགོ་
+# 
+# རྒྱན་དང་རྐང་རྒྱན་ལག་གདུབ་ཏུ་ཐ་དད་པ་བཞིན་དུ། 15. སྡོམ་གསུམ་
+# 
+# སྤོང་བའི་སེམས་པར་རིགས་མཐུན་ཀྱང་གསུམ་པོ་རྣམ་པ་ཐ་དད་
+# 
+# པར་བཞེད་པ་དང༌། 16. པཎ་ཆེན་བི་བྷཱུ་ཏི་ཙནྡྲས་སྡོམ་གསུམ་འོད་ཕྲེང་
+# 
+# དུ་སྡོམ་པ་གསུམ་སྐར་མ་ཟླ་བ་ཉི་མའི་དཔེས་གོང་མས་
+# 
+# འོག་མ་སྟེ་ཕྱི་རིམ་གྱིས་སྔ་མ་ཟིལ་གྱིས་མནན་ནས་བག་
+# 
+# ལ་ཞ་བར་འགྱུར་ཡང་ངོ་བོ་ཐ་དད་དུ་བཞེད་པ་གཉིས་
+# 
+# སྣང་ངོ༌། །་
+msgctxt "line 4, Livre5_4-3.2.txt"
+msgid ""
+"Parmi (ces opinions), ce qui est le plus populaire au tibet de nos jours, Et"
+" celle d’Abhayakara qui a la manière où les ornements en or sont tous de la "
+"même nature d’or sont pourtant différents en tant que ornement pour la tête,"
+" bracelets pour les chevilles, pour les poignets, Les trois voeux partagent "
+"la même nature qui est l’esprit de renoncement mais ont une manifestations "
+"différente. Le Grand Erudit Vibhutichandra dans son “Rosaire de Lumière sur "
+"les trois voeux”, explique que les trois voeux sont comme les étoiles, la "
+"lune et le soleil, les second éclipsant les précédents, les rendant "
+"invisible. Cependant ils sont différent en essence. Ce sont les deux "
+"“opinions” qui existent (au tibet)."
+msgstr ""

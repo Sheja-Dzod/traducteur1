@@ -1,0 +1,100 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. ལྔ་པ་ནི། 2. མི་ཤིགས་པ་ནི་སེང་གེ་སྟེ། །གཅན་གཟན་རྒྱལ་པོའི་ཁྲི་མི་
+# 
+# གཞིག ། 3. ཅེས་སོགས་གསུངས་པའི་དོན། 4. སྔར་སྨོས་པའི་ལྷག་པའི་དམ་ཚིག་ཉི་ཤུ་
+# 
+# དང་གནད་གཅིག་གོ །་
+msgctxt "line 1, Livre5_4-2.7.z14.txt"
+msgid ""
+"5. “Ne pas détruire c’est ne pas détruire le trône du roi des animaux, le "
+"lion.” Etc. Le sens est est en essence le même que les vingt liens sacrés "
+"exceptionels (en lien avec la pratique) mentionné précédement."
+msgstr ""
+
+#  5. དྲུག་པ་ནི། 6. རྡོ་རྗེ་གོ་ཕུར་ཊྭཱཾ་ཆེན་སོགས་ཀྱིས་བསྟན་པའི་དོན། 7.
+# བསམ་གཏན་
+# 
+# གྱི་སྲོག་གཅོད་པ་གཉིད་དང༌། 8. ཆང་སྤང་བ། 9. གསང་སྔགས་བརྡ་སྐད་ཀྱིས་སྨྲ་
+# 
+# བ། 10. ལེ་ལོ་གཞོམ་པའོ། །་
+msgctxt "line 2, Livre5_4-2.7.z14.txt"
+msgid ""
+"6. Le vajra, l’armure, la dague (phurba), le grand katvangha et d’autres "
+"nous montrent qu’il faut (tenir quatre liens sacrés): (Eliminer) le sommeil "
+"tueur de la stabilité mentale, Abandonner l’alcool, Parler des mantras "
+"secrets en utilisant le langage symbolique, Vaincre l’oisiveté (ou paresse)."
+msgstr ""
+
+#  11. བདུན་པ་ནི། 12. རྣལ་འབྱོར་སྤྱོད་པ་ལ་རྒྱུན་གྱི་བར་དུ་གཅོད་པའི་བདུད་
+# 
+# ལྔར་བཤད་པ། 13. རྣམ་པར་རྟོག་པ་དང༌། ལེ་ལོ་དང༌། འདུ་འཛི་དང༌། ཚིག་རྩུབ་དང༌། ཁྲོ་
+# 
+# གཏུམ་སྤང་བའོ། །་
+msgctxt "line 3, Livre5_4-2.7.z14.txt"
+msgid ""
+"7. Exposé des cinq démons qui interrompent la continuité de la pratique "
+"yogique. Ce sont les pensées discursives, la paresse, les distractions "
+"futiles, le paroles dures et la colère."
+msgstr ""
+
+#  14. བརྒྱད་པ་ནི། 15. ལྟ་སྒོམ་སྤྱོད་གསུམ་བཅོས་མ་རང་གར་ཤོར་བའི་དགྲ། 16. ལྟ་བ་
+# 
+# དམན་ལ་སྤྱོད་པ་རྩིངས་པ་འཆལ་བའི་དགྲ། 17. རྩ་བ་དང་ཡན་ལག་
+# 
+# གི་དམ་ཚིག་ཉམས་པ་ལྟུང་བའི་དགྲ། 18. ཚོད་ཡོད་ལེ་ལོས་འབྲས་བུ་
+# 
+# འཕྲོག་པའི་དགྲ་སྟེ་བཞི་པོ་དེ་གཞོམ་པའོ། །་
+msgctxt "line 4, Livre5_4-2.7.z14.txt"
+msgid ""
+"8. L’énnemi qui fait de la vue, la méditation et l’action artificielle, la "
+"norme. L’ennemi de l’immoralité d’une conduite outrageuse alors que l’on "
+"tiens une vue inférieure. L’ennemi de la chute, qui fait endomager les liens"
+" sacrés racine et secondaires. L’ennemi de la paresse par manque de "
+"vigilance qui dérobe le résultat. Ces quatre ennemis sont a anéhentir."
+msgstr ""
+
+#  19. དགུ་པ་ནི། 20. སྣོད་རྣམ་པར་དག་པའི་འོག་མིན་གྱི་ཞིང༌། 21. འདོད་ཡོན་རྣམ་པར་
+# 
+# དག་པ་མཆོད་པའི་ཡོ་བྱད། 22. འཁོར་རྣམ་པར་དག་པ་ལྷའི་དཀྱིལ་འཁོར། 23. ཉོན་
+# 
+# མོངས་རྣམ་པར་དག་པ་ཡེ་ཤེས་ཆེན་པོར་རྟོགས་པའོ། ། 24. དེ་དག་ཀྱང་
+# 
+# བསྡུ་ན། 25. བསྲུང་མཚམས་མེད་པ་ཆོས་ཉིད་ཅིག་ཅར་བའི་དམ་ཚིག་དང༌། 26. བསྲུང་
+# 
+# མཚམས་ཡོད་པ་སྙིང་རྗེའི་དམ་ཚིག་རིམ་གྱིས་པའི་སྡོམ་པ་གཉིས་
+# 
+# སུ་འདུ་བར་བཤད་དེ།་
+msgctxt "line 5, Livre5_4-2.7.z14.txt"
+msgid ""
+"9. le monde est le champ pur d’Akanishta. Les plaisirs des sens dans leur "
+"pureté sont des objets d’offrandes. Notre entourage dans sa pureté et le "
+"mandala de la divinité. Les émotions perturbatrices dans leurs puerté sont "
+"la grande sagesse primordiale. Il faut réaliser cela. On peut les (tous ces "
+"liens sacrés de l’Anu) regrouper (en deux catégories) : Les liens sacrés "
+"immédiat de la nature des phénoménes, et sui sont sans limites définies "
+"(sans les contours des règles à observer) et ceux aux limites définies qui "
+"sont les liens sacrés de la compassion se référant a des voeux graduels. On "
+"les explique ainsi regroupés en deux catégories. On retrouve cela dans"
+msgstr ""
+
+#  27. སྤྱི་མདོ་ལས། 28. བསྲུང་བྱ་བསྲུང་དུ་མེད་པ་ནི། །ཆོས་ཉིད་དམ་ཚིག་དམ་པ་
+# 
+# ཡིན། ། 29. ཞེས་དང༌། དམ་ཚིག་འདི་ནི་རྨད་པོ་ཆེ། །ཀུན་གྱི་ཐུན་མོང་མ་ཡིན་
+# 
+# ཕྱིར། ། 30. མོས་པ་ཆུང་ངུ་ཐམས་ཅད་ལ། །བསྲུང་བའི་མཚམས་དག་བཟུང་བར་བྱ། ། 31. ཞེས་
+# 
+# སོ། །་
+msgctxt "line 6, Livre5_4-2.7.z14.txt"
+msgid ""
+"Dans le Soutra global qui rassemble toutes les réalisations: Celui pour "
+"lequel il n’y a rien a observer est le lien sacré pur de la nature des "
+"phénomènes. puis, Ce lien sacré est extraordinaire, parce qu’il se démarque "
+"de tous les autres, ceux à la faible aspiration, doivent observer ceux avec "
+"limites a observer. C’est ce qui est dit."
+msgstr ""

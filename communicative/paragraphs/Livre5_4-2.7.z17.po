@@ -1,0 +1,152 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གཉིས་པ་ནི། 2. ཉན་ཐོས་རྫ་བཞིན་བྱང་སེམས་གསེར་དངུལ་སྣོད། །ཆག་དང་འདིར་ནི་
+# 
+# ཞོམ་པ་དང་སྦྱར་ཏེ། ། གསོར་མི་རུང་དང་གསོར་རུང་རང་སྟོབས་སོས། །་
+# 
+# 
+msgctxt "line 1, Livre5_4-2.7.z17.txt"
+msgid ""
+"Deuxièmement (la restauration) : (Les liens sacrés endomagés) des Auditeurs "
+"sont comme des pots de terre et ceux des Bodhisattvas comme des pots en or "
+"ou en argent cassés et ceux mentionnés ici sont cabossés. Des exemples nous "
+"montre qu’ils sont respectivement impossible à réparer, réparable (par "
+"autrui) et réparable par soi même."
+msgstr ""
+
+#  3. ཉམས་པ་གསོར་རུང་ངམ་ཞེ་ན། 4. ཉན་ཐོས་ཀྱི་ཕམ་པ་འཆབ་བཅས་བྱུང་
+# 
+# བ་ནི་རྫ་སྣོད་ཆག་པ་སླར་བཅོས་སུ་མི་རུང་བ་བཞིན་
+# 
+# དང༌། 5. བྱང་སེམས་ཀྱི་སྡོམ་པ་ནི་གསེར་དངུལ་གྱི་སྣོད་ཆག་པ་མགར་
+# 
+# བའི་རྩོལ་བས་ད་དུང་བཅོས་སུ་རུང་བ་དང༌། 6. སྔགས་ཀྱི་སྡེ་སྣོད་
+# 
+# འདིར་ནི་གསེར་སྣོད་ཞོམ་པ་རང་ཉིད་ཀྱི་རྩོལ་བས་ཀྱང་བསྲང་
+# 
+# ཐུབ་པའི་དཔེ་དང་སྦྱར་ཏེ། 7. རིམ་བཞིན་གསོར་མི་རུང་བ་དང༌། གསོར་རུང་
+# 
+# བ་དང༌། རང་སྟོབས་ཀྱིས་སོས་པ་རྒྱུད་ལུང་རྣམས་ནས་གསུངས་སོ། །་
+msgctxt "line 2, Livre5_4-2.7.z17.txt"
+msgid ""
+"(Un lien sacré)endomagé peut-il être réparé ? Chez les Auditeurs, si on "
+"garde secret un défaite tel un pot de terre cassé, (le voeux) ne peut être "
+"restauré. Les voeux de Bodhisattva (endomagés) sont comme un pot en or ou en"
+" argent cassé qui peut être restauré en l’amenant (litt. en cherchant) chez "
+"un orfèvre (litt. artisan). Ceux mentionnés ici, dans la corbeille des "
+"mantras, (les liens sacrés endomagés) sont comme un pot en or cabossé qui "
+"peut être réparé (litt. remettre droit, reprendre forme) par soi même. Ces "
+"exemples nous montrent qu’ils sont respectivement par leur nature, "
+"impossible à réparer, réparable (par autrui) et éparables par soi même. "
+"C’est ce qui est expliqué dans les tantras et les écritures."
+msgstr ""
+
+#  8. ལས་རྫས་འདུན་དང་ཏིང་འཛིན་དེ་ཉིད་དེ། །སྤྱི་ཁྲུས་ཆེན་པོས་ཀུན་ཀྱང་
+# 
+# དག་ཚངས་འགྱུར། ། 9. ཇི་ལྟར་གསོ་བའི་ཐབས་ཀྱང་སྤྱི་མདོ་ལས་རྣམ་གྲངས་
+# 
+# ལྔར་གསུངས་པའི། 10. དང་པོ་ལས་ཀྱིས་སྐོང་བ་སྦྱིན་སྲེག་དང་བཟླས་བརྗོད་
+# 
+# ཉམས་པ་ཆེན་པོ་ལ་ཁྲི་ཕྲག་བཅུ་གསུམ་གྱིས་མཚོན་ཚོད་དང་
+# 
+# དཔགས།་
+msgctxt "line 3, Livre5_4-2.7.z17.txt"
+msgid ""
+"(Les liens sacrés sont restaurés par) des actions, des objets précieux, une "
+"aspiration intense, l’absoption méditative. “le grand lavage” néttoie et "
+"purifie tout. Dans le Soutra général qui regroupe toutes les réalisations, "
+"cinq méthodes de restauration sont mentionnées: 1. Raviver par des actions :"
+" en faisant des offrandes au feu et en récitant cent trent mille fois le "
+"mantra (de sa divinité) pour les endomagements les plus graves ou selon la "
+"gravité de la faute."
+msgstr ""
+
+#  11. རྫས་ཀྱིས་སྐོང་བ་རིགས་ལྔའི་དམ་ཚིག་དང་མཐུན་པའི་དམངས་གདོལ་སོགས་
+# 
+# རིགས་ལྔའི་བླ་མ་དངོས་སམ་དེར་མོས་པས་ 12. སངས་རྒྱས་རིགས་ལྔའི་
+# 
+# རང་བཞིན་ཅན་ལ་རིགས་མཐུན་གྱི་རིན་པོ་ཆེ་ཕངས་པ་མེད་
+# 
+# པར་འབུལ།་
+msgctxt "line 4, Livre5_4-2.7.z17.txt"
+msgid ""
+"2. Raviver à partir d’objets précieux; ce qui consiste à offrir, à un maître"
+" présent ou visualisé de la caste – intouchable, domestique ou autre – "
+"correspondant à la famille dont le lien sacré (a été endomagé) un joyau "
+"correspondant à cette même famille, et en considérant le maître comme étant "
+"de la nature des cinq familles. On fait cette offrande sans aucun sentiment "
+"de perte."
+msgstr ""
+
+#  13. འདུན་པས་སྐོང་བ་དང་འདོད་པའི་དད་པས་གནོང་འགྱོད་དྲག་པོས་བཤགས།་
+# 
+# 
+msgctxt "line 5, Livre5_4-2.7.z17.txt"
+msgid ""
+"3. Raviver avec une aspiration intense et se confesser avec une foi "
+"aspirante et regrettant fortement avec honte (la faute accomplie)."
+msgstr ""
+
+#  14. ཏིང་ངེ་འཛིན་གྱིས་སྐོང་བ་སྟོབས་བཞིའི་སྒོ་ནས་བཤགས་པས་ 15. རྟེན་གྱི་
+# 
+# གནས་གསུམ་གྱི་འོད་ཟེར་གྱིས་རང་གི་སྡིག་སྒྲིབ་སྦྱང་བར་བསམ་
+# 
+# པ་སྟེ། 16. དེ་ལའང་ཏིང་ངེ་འཛིན་གྱི་མེས་སྲེག་པ་དང༌། 17. བྱང་ཆུབ་སེམས་
+# 
+# ཀྱི་འོད་ཟེར་གྱིས་མུན་པ་ཐམས་ཅད་བསལ་བ་དང༌། 18. སྤྱོད་པ་རླབས་
+# 
+# པོ་ཆེའི་ཆུས་བཀྲུ་བ་ལ་སོགས་པའོ། །་
+msgctxt "line 6, Livre5_4-2.7.z17.txt"
+msgid ""
+"4. Raviver par l’absorption méditative consiste à se confesser en utilisant "
+"les quatre forces et pensant que des trois emplacements des (divinités) "
+"supports (de la confession) des rayons de lumière (irradient) et purifient "
+"nos actes négatifs et nos voiles, et ils (les actes négatis et les voiles) "
+"sont brûlés par le feu de l’absorption méditative, que les rayons de lumière"
+" de l’esprit d’éveil dissipent toute l’obscurité et qu’ils sont lavé par "
+"l’eau de la grande vague des activités altruistes (des bodhisattvas) etc. "
+"(et d’autres méthodes)."
+msgstr ""
+
+#  19. དེ་ཁོ་ན་ཉིད་ཀྱིས་སྐོང་བ་ནི། 20. ཀུན་འདུས་ལས། 21. ཤེས་རབ་ཆེན་པོས་རྒྱུད་
+# 
+# ཀྱི་བག་ཆགས་ཐམས་ཅད་རང་བཞིན་མེད་པར་ཤེས་པ་དང༌། 22. ཞེས་པས་
+# 
+# འཁོར་གསུམ་མི་དམིགས་པའི་ཤེས་རབ་སྒོམ་པ་ནི་ 23. སྡིག་སྦྱོང་རྣམས་
+# 
+# ཀྱི་ནང་ནས་ཕུལ་དུ་བྱུང་བའོ། །་
+msgctxt "line 7, Livre5_4-2.7.z17.txt"
+msgid ""
+"5. Raviver par la telléité: selon le soutra qui rassemble les Sagesses "
+"Courrousées: “la grande sagesse nous fait comprendre que toutes les "
+"empreintes de notre continuum mental sont vide de nature et…” ceci exprime "
+"que la méditation de la sagesse libre de la triple saisie, est la meilleur "
+"de toutes les méthodes de purfication des actes négatifs."
+msgstr ""
+
+#  24. ཁྱད་པར་རྣལ་འབྱོར་གྱི་སྤྱི་ཁྲུས་ཆེན་པོ་ན་རཀ་དོང་སྤྲུགས་ཀྱི་
+# 
+# མན་ངག་ལ་བརྟེན་ནས་ 25. ཕྱི་ཡོ་བྱད་ཚོགས་ཀྱི། 26. ནང་ཕུང་པོ་རྟེན་
+# 
+# གྱི། 27. གསང་བ་བྱང་ཆུབ་སེམས་ཀྱི་བསྐང་བཤགས་གསུམ་ 28. ཉ་སྟོང་ཚེས་བརྒྱད་
+# 
+# ལ་བྱས་ན་ 29. དེ་ཚུན་ཆད་ཀྱི་ཉམས་ཆགས་ཐམས་ཅད་དག་ཚངས་
+# 
+# སུ་འགྱུར་བར་གསུངས་པས་ 30. གཡར་དམ་བྱ་བར་རིགས་སོ། །་
+msgctxt "line 8, Livre5_4-2.7.z17.txt"
+msgid ""
+"Plus spécifiquement, en s’appuyant sur les instructions directes de la "
+"partique “Secouer les enfers dans leur tréfonds”, le Yoga du Grand Nettoyage"
+" Global, (le ravivement-confession) du ganachakra rassemblement d’objet "
+"extérieurs, celui basée sur les agrégats intérieurs, et le ravivement-"
+"confession de l’esprit d’éveil secret, ces trois, si on les faits (pratique)"
+" a la pleine lune, la nouvelle lune ou le huitième jour, tous les "
+"endomagements réalisés seront alors purifiés et remprendront leur purerté. "
+"C’es ce qui est dit, donc il est parfaitement approprié de reprendre ces "
+"engagements."
+msgstr ""

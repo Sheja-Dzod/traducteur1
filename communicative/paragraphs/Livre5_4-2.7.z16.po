@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གཉིས་པ་ཁྱད་པར་ཆེན་པོའི་དམ་ཚིག་བཞི་ནི། 2. ངོ་བོ་ཀ་དག་ལ་
+# 
+# བལྟས་ནས་ཁྲེགས་ཆོད་ཀྱི་དམ་ཚིག་ཏུ་སྣོད་བཅུད་སྣང་སྲིད་ཀྱི་
+# 
+# ཆོས་ཐམས་ཅད་ཡེ་ནས་མེད་པ་སྒྱུ་མའི་དཔེ་བརྒྱད་ལྟར་ཤེས་
+# 
+# པས་སྣང་བ་ལ་བདེན་ཞེན་གྲོལ། 3. སེམས་འཛིན་གྱི་འཇུར་བུས་མ་བཅིངས་
+# 
+# པའི་རིག་པ་རྟེན་མེད་ཕྱལ་པར་བསྐྱངས་པས་ 4. སྣང་བཏགས་ཆོས་ཉིད་
+# 
+# དུ་གྲོལ། 5. རང་བཞིན་ལྷུན་གྲུབ་ལ་ལྟོས་ནས་ཐོད་རྒལ་གྱི་དམ་ཚིག་
+# 
+# ཏུ་འོད་ལྔ་རང་གསལ་ལྷུན་གྲུབ་སྣང་བ་བཞྀའི་ཉམས་ལེན་དང་
+# 
+# མ་བྲལ་བས་ 6. སངས་རྒྱས་རང་ཆས་སུ་འགྲུབ་པར་ཐག་བཅད་པས་
+# 
+#  7. འབྲས་བུ་གཞན་ནས་འཚོལ་བའི་བློ་ལྡོག ། 8. རྣམ་རྟོག་བྱུང་ཚོར་རྐྱེན་སྣང་
+# 
+# ཅི་བྱུང་ཅི་ཤར་རང་བྱུང་གི་ཡེ་ཤེས་གཅིག་པུར་ཐག་ཆོད་
+# 
+# པས་ 9. ཆོས་ཉིད་གདོད་མའི་ཟད་སར་གཏན་སྲིད་ཟིན་པའོ། །་
+msgctxt "line 1, Livre5_4-2.7.z16.txt"
+msgid ""
+"2. Les quatre liens sacrés exceptionnels. Les liens sacrés qui tranchent la "
+"solidité reposent sur l’essence primordialement pure (litt. la pureté "
+"alpha). Ils consistent à être libéré de l’appréhension des perceptions comme"
+" étant réels par la compréhension que tous les phénomènes -l’univers, les "
+"êtres, ce qui se manifeste et ce qui peut se manifester- n’ont jamais eu "
+"d’existence comme cela est illustré par les huit exemples de l’illusion. "
+"(Et) en maintenant la conscience pure qui est sans fondement et "
+"omniprésente, non liée par l’enchevêtrement des saisies du mentale, les "
+"perceptions immaginaires seront libérée en la nature des phénomènes. Les "
+"liens sacrés du franchissement du pic reposent sur la nature présence "
+"spontanée. Par une pratique continue (litt. sans ses séparer de la partique)"
+" des quatre perceptions en lien avec la présence spontanée des cinq lumières"
+" intrinsèquement lumineuses, on aura la certitude que la bouddhéité "
+"s’accomplira par elle même et ainsi on n’aura plus l’idéee de chercher de "
+"résultat ailleur. Quand on a la certitude que toutes les perceptions "
+"conditionnées par les conceptes mentaux perceptibles et ressentis qui "
+"apparaissent, toutes celles qui s’élèvent, ne sont que la sagesse "
+"primordiale spontanée, l’on sera arrivé au domaine éternel de l’extinction "
+"primordiale en la nature des phénomènes."
+msgstr ""
+
+#  10. གསུམ་པ་ཉམས་བཤགས་ཀྱི་ཚུལ་བཤད་པ་ལའང་གཉིས། 11. ཉམས་ཚུལ་དང༌། 12.
+# བཅོས་ཚུལ་ལོ། །་
+# 
+# 
+msgctxt "line 2, Livre5_4-2.7.z16.txt"
+msgid ""
+"3. L’explication de la détérioration et de la confession a deux parties: la "
+"détérioration et la restauration."
+msgstr ""
+
+#  13. དང་པོ་ནི། 14. ཉམས་པ་ཆེ་དང་རྩ་ལག་ཟླས་ཞར་ལྔ། །མ་བཤགས་མི་འདོད་
+# 
+# ཀུན་འབྱུང་མནར་མེད་སྐྱེ། །་
+msgctxt "line 3, Livre5_4-2.7.z16.txt"
+msgid ""
+"Premièrement : Cinq types de détérioration : majeures, racines, secondaires,"
+" par association et indirectes ; Ne pas les confesser amène les malheurs et "
+"l’existence en l’Enfer des Pires Tourments."
+msgstr ""
+
+#  15. དུས་འདས་རལ་བའི་ཉམས་ཚུལ་རྣམས་གོང་དུ་སྨོས་པ་ལྟར་ལ། 16. གཞན་ཡང་
+# 
+# སྤྱི་མདོ་དགོངས་འདུས་ལས་ 17. ཉམས་པ་ལྔར་བཤད་པའི་ཉམས་པ་ཆེན་
+# 
+# པོའམ་ཀུན་ཏུ་ཉམས་པ་ནི་ཡུལ་ཆེས་གཉན་པ་ལ་ཀུན་དཀྲིས་
+# 
+# དྲག་པོས་སྤྱད་པའམ་ 18. ལན་གྲངས་མང་དུ་བྱུང་བ་དང་དུས་འདས་
+# 
+# རལ་བ་ལ་སོགས་པ་ཡིན་ལ། 19. རྩ་བ་ཉམས་པ་དང་ཡན་ལག་
+# 
+# ཉམས་པ་གཉིས་ནི་དེ་དག་དང༌། 20. ཟླས་ཉམས་ནི་ཉམས་པ་དང་འགྲོགས་
+# 
+# པའི་ཉེས་པ་དང༌། 21. ཞར་ཉམས་ནི་གཞན་གྱི་ངོ་དགར་ཐལ་བའི་ཉེས་
+# 
+# པའོ། །་
+msgctxt "line 4, Livre5_4-2.7.z16.txt"
+msgid ""
+"La durée pour qu’une détérioration devienne une transgression ou une rupture"
+" ont été décrite précédement. En paralél, dans le Soutra général qui "
+"regroupe toutes les réalisations il est enseigné cinq dégradation. La "
+"dégradation majeure ou dégradation totale, a lieu lorsqu ’on agit en "
+"relation avec un objet important avec un fort investissement émotionnel, ou "
+"de facon répétée, et quand la période (durant laquelle on ne s’est pas "
+"conféssé) correspond à une transgression, une rupture etc. Les deux "
+"dégradation (des liens sacrés) : racines et secondaires. La dégradation par "
+"association est une faute commise en association avec une personne dont les "
+"liens sacrés sont dégradés. La dégradation indirecte est une faute acquise "
+"lorsque l’on endommage ses liens sacrés pour faire plaisir à quelqu’un."
+msgstr ""
+
+#  22. དེ་ལྟར་བཤད་པའི་དམ་ཚིག་དེ་དག་ཐམས་ཅད་བླངས་ཟིན་ནས་མ་
+# 
+# ཉམས་པར་བསྲུང་བ་དང༌། 23. ཅིས་ཀྱང་ཉམས་ན་དེ་མ་ཐག་ཏུ་བཤགས་
+# 
+# པའི་ཆོ་ག་རྒྱུད་ལུང་མན་ངག་རྣམས་ལས་འབྱུང་བ་བཞིན་ཚུལ་
+# 
+# བཞིན་དུ་བྱ་བ་ཤིན་ཏུ་གལ་ཆེ་ཡི། 24. མ་བཤགས་ན་ཚེ་འདིར་
+# 
+# མི་འདོད་པ་སྣ་ཚོགས་པ་འབྱུང་ཞིང་ 25. ཕྱི་མ་མནར་མེད་རྡོ་
+# 
+# རྗེའི་དམྱལ་བ་ཆེན་པོར་སྐྱེས་ནས་ 26. ནམ་མཁའ་མ་ཞིག་གི་བར་
+# 
+# དུ་ཐར་བ་མེད་པར་གསུངས་ཏེ།་
+msgctxt "line 5, Livre5_4-2.7.z16.txt"
+msgid ""
+"Une fois l’engagement pris, tous les liens sacrés que l’on a exposés doivent"
+" être observés sans les détioriorer. lorsqu’il arrive d’en endomager (une ou"
+" plusieurs), il est très important d’appliquer tels qu’ils se doivent les "
+"rituels de confession que l’on trouve dans les tantras, les soutras, et les "
+"instructions directes. Cependant, Si on ne les confesses pas, toutes sortes "
+"de malheurs s’abatterons sur nous dans cette vie et dans la suivante on "
+"renaîtra dans l’enfer vajra des pires tourments puis, sans que l’on puisse "
+"s’en libérer jusqu’a ce que l’espace se consume. C’est ce qui est dit."
+msgstr ""
+
+#  27. ཟླ་གསང་ཐིག་ལེ་ལས། 28. དམ་ཚིག་སྡོམ་པ་ཉམས་པ་ལ། ། 29. སངས་རྒྱས་བྱང་ཆུབ་
+# 
+# སེམས་དཔའ་རྣམས། །བྱིན་གྱིས་རློབས་པར་མི་མཛད་དོ། ། 30. སྤོས་དང་མེ་ཏོག་ལ་
+# 
+# སོགས་པ། །ཕུལ་ཡང་བཞེས་པར་མི་འགྱུར་ཏེ། ། 31. ནད་དང་དུག་དང་དགྲ་རྣམས་
+# 
+# ཀྱིས། །བསད་ནས་སེམས་ཅན་དམྱལ་བར་འགྲོ། ། 32. ཞེས་དང༌།་
+msgctxt "line 6, Livre5_4-2.7.z16.txt"
+msgid ""
+"L’essence de la lune secrète: Ceux qui ont dégradés leurs liens sacrés et "
+"leurs voeux les bouddhas et les bodhisattvas ne leur donneront pas de "
+"bénédictions. Même s’ils leur offrent de l’encens, des fleurs etc, ces "
+"derniers ne les accepterons pas. De plus, Maladies, poisons ou ennemis les "
+"tuerons et ils renaîtrons en tant qu’être des enfers. puis,"
+msgstr ""
+
+#  33. ཡེ་ཤེས་གྲུབ་པ་ལས། 34. དམ་ཚིག་ཉམས་པ་སྡུག་བསྔལ་ཏེ། །ལུས་དང་དེ་བཞིན་
+# 
+# ཡིད་དང་ནི། །དེ་ཡི་ཡོན་ཏན་ཉམས་འགྱུར་ཞིང༌། ། 35. མྱུར་བ་ཉིད་དུ་འཆི་
+# 
+# བར་འགྱུར། ། 36. ཤི་ནས་དམྱལ་བའི་སྡུག་བསྔལ་ནི། །བསྐལ་པ་བྱེ་བ་བརྒྱ་ཕྲག་
+# 
+# ཏུ། །མྱོང་ནས་གནས་ལས་འཕོ་འགྱུར་ནས། ། 37. གདོལ་པའམ་དམན་པའི་རིགས་སུ་སྐྱེ། ། 38.
+# ལྐུགས་
+# 
+# པའམ་ཡང་ན་འོན་པར་སྐྱེ། ། 39. ཞེས་སོགས་གསར་རྙིང་གི་རྒྱུད་གཞུང་དུ་
+# 
+# མར་མགྲིན་གཅིག་ཏུ་གསུངས་སོ། །་
+msgctxt "line 7, Livre5_4-2.7.z16.txt"
+msgid ""
+"L’accomplissement de la sagesse primordiale dit: Ceux qui dégradent leur "
+"liens sacrés font l’expérience de la souffrance d’un corps et d’un esprit au"
+" qualités déchéantes et il mourra rapidement. Une fois mort, il vivra les "
+"souffrances des enfers durant des centaines de millions d’éons, puis, quand "
+"il changera d’existance, il renaîtra en tant que déshérité (caste "
+"intouchable) ou dans une caste inférieure. il naitra fou ou encore sourd ou "
+"muet. Ceci, ainsi que d’autres (conséquences) sont enseignés de manière "
+"unanime dans les différents texte tantriques de la tradition ancienne ou "
+"nouvelle."
+msgstr ""

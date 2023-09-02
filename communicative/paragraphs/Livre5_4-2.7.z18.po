@@ -1,0 +1,130 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. འདིར་འཕྲོས་དོན་དུ་རྡོ་རྗེ་ཐེག་པའི་ལམ་རིམ་མདོར་བསྡུ་ན།་
+msgctxt "line 1, Livre5_4-2.7.z18.txt"
+msgid ""
+"Explication complémentaire à notre propos: présentation résumée de la voie "
+"progressive du véhicule adamantin (le vajrayana). (litt. pour élaborer ce "
+"que l’on a abordé ici, en guise de résumé de la voie progressive du "
+"vajrayana…)"
+msgstr ""
+
+#  2. སློབ་དཔོན་སྐལ་བཟང་རྡོ་རྗེས། 3. སྐལ་པ་དང་ལྡན་གང་ཟག་གིས། །བླ་མ་དམ་
+# 
+# པར་གྱུར་པ་ལ། ། 4. སེམས་བསྐྱེད་སྡོམ་བླང་དབང་ནོད་ཅིང༌། ། 5. དེ་ཉིད་བསྲུང་དང་
+# 
+# མཚན་ཉིད་ཤེས། ། 6. སེམས་སྦྱོང་སྤྱོད་པ་དག་པ་དང༌། ། 7. ཆོ་ག་ལྔ་ཡི་མཚན་
+# 
+# ཉིད་དོ། །་
+msgctxt "line 2, Livre5_4-2.7.z18.txt"
+msgid ""
+"Acharya Subhagavajra a dit : Un individu fortuné, d’un maître authentique "
+"(litt. sacré ou saint), ayant pris les voeux de l’esprit d’éveil, recevra "
+"les initiations et les préservera (observera les liens sacrés), en connaîtra"
+" les caractéristiques, purifiera son esprit, maintiendra une conduite "
+"parfaite et tels sont les caractéristques de ces cinq procédures (litt. "
+"rituels)."
+msgstr ""
+
+#  8. ཞེས་མ་སྨིན་པ་སྨིན་པར་བྱེད་པ་དབང་གི་ཆོ་ག། 9. སྨིན་པ་མི་
+# 
+# ཉམས་པར་བྱེད་པ་དམ་ཚིག་སྲུང་བའི་ཆོ་ག ། 10. བླ་མ་ལས་རྒྱུད་
+# 
+# མཉན་ནས་མཚན་ཉིད་ཤེས་པར་བྱེད་པའི་ཆོ་ག ། 11. བྱང་ཆུབ་འགྲུབ་པར་
+# 
+# བྱེད་པ་སེམས་སྦྱོང་བའི་ཆོ་ག ། 12. དེ་མཐར་ཕྱིན་པའི་ཐབས་སྤྱོད་པ་
+# 
+# དགེ་བའི་ཆོ་ག་དང་ལྔར་བསྡུས་པ་ལས།་
+msgctxt "line 3, Livre5_4-2.7.z18.txt"
+msgid ""
+"L’étape (la procédure, litt. le rituel) de l’initiation améne à maturité ce "
+"qui n’est pas mure (fait murir l’esprit immature). L’étape consistant à "
+"observer les liens sacrés qui permet de ne pas endommager ce qui est arrivé "
+"a maturité. l’étape de la connaissance des caractéristique (des liens "
+"sacrés) en recevant les tantras d’un lama. L’étape de la purification qui "
+"amène à l’accomplissement de l’éveil. L’étape de la conduite vertueuse des "
+"moyens (habiles) qui amène l’éveil à sa complétion."
+msgstr ""
+
+#  13. དང་པོ་ནི། 14. རྒྱུ་རྒྱུད་ཐོག་མཐའ་མེད་པའི་བྱང་ཆུབ་སེམས་ཀྱི་རིགས་སད་
+# 
+# པས་ 15. ཁམས་དྲུག་དང་ལྡན་པའི་རྡོ་རྗེའི་ལུས་རྩ་ཐིག་རླུང་གསུམ་
+# 
+# གྱི་ཚོགས་པ་སྐྱོན་མེད་པའི་རྟེན་ཅན་མཚུངས་པར་ལྡན་པའི་རྒྱུ་
+# 
+# དང༌། 16. བསྙེན་སོགས་ཀྱིས་དག་པར་བྱས་པས་ 17. དཀྱིལ་འཁོར་བཞེངས་པ་དང་སྒྲུབ་
+# 
+# ཅིང་མཆོད་པའི་བྱ་བ་མ་འཁྲུལ་བར་བྱས་པ་ལྷན་ཅིག་བྱེད་
+# 
+# པའི་རྒྱུ། 18. དབང་བསྐུར་གྱི་སྣོད་རུང་པདྨ་ལྟ་བུ་ལ་སོགས་པའི་གང་
+# 
+# ཟག་ལྔ་པོ་རྒྱུའི་རྐྱེན།་
+msgctxt "line 4, Livre5_4-2.7.z18.txt"
+msgid ""
+"Premièrement : Ayant réveillé le facteur causal de la cause: le potentiel de"
+" l’esprit d’éveil sans obstructions et sans limites, l’individu possédant "
+"les six éléments et dont le corps adamantin contient les canaux, les gouttes"
+" principielles et les énergies est le support sans défaut.(pour la pratique "
+"de l’éveil) est le facteur causal concordant. De plus, Aprés s’être purifié "
+"par les récitation d’approche etc, l’élaboration du mandala et la pratique "
+"(de la divinité) ainsi que les activités d’offrandes accomplies sans "
+"erreures consitituent le facteur causal accompagnant. Le facteur "
+"conditionnant causal: Les cinq types d’individu, comme ceux semblables au "
+"lotus, sont les réceptacles adéquate aux initiations."
+msgstr ""
+
+#  19. བསྐུར་མཁན་སློབ་དཔོན་ཕྱི་ནང་གི་དེ་ཉིད་བཅུ་ལ་སོགས་པ་མཚན་
+# 
+# ཉིད་དང་ལྡན་ཞིང་ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པ་བདག་པོའི་རྐྱེན། 20. རྫས་
+# 
+# སྔགས་ཕྱག་རྒྱ་ཏིང་ངེ་འཛིན་ལེགས་པར་ཚོགས་པ་དམིགས་པའི་རྐྱེན། 21. བུམ་
+# 
+# པའི་དབང་སོགས་སྔ་མས་གོ་ཕྱེས་ནས་ 22. ཕྱི་མ་རྣམས་རིམ་གྱིས་
+# 
+# བསྐུར་ཐོབ་ཏུ་སྨིན་པ་དེ་མ་ཐག་པའི་རྐྱེན་ཏེ་ 23. རྒྱུ་གཉིས་
+# 
+# རྐྱེན་བཞི་(རྒྱུ་བཞི་དང་རྐྱེན་གཉིས་)ཚོགས་པས་ 24. སྔགས་ཀྱི་འཇུག་སྒོ་
+# 
+# དབང་བསྐུར་བ་ཐོབ་ནས། 25. གཉིས་པ་དབང་སྲོག་དམ་ཚིག་བྱ་སྤྱོད་རྣལ་
+# 
+# འབྱོར་སོ་སོ་ལས་བཤད་པ་རྣམས་དང༌། 26. ཁྱད་པར་བླ་མེད་ཀྱི་བརྟུལ་
+# 
+# ཞུགས་དང་སྡོམ་པ་དང་རྩ་བ་ཡན་ལག་གི་དམ་ཚིག་བཟའ་
+# 
+# བ་དང་བསྲུང་བ་དྲང་ངེས་ལྡེམ་པོར་དགོངས་ཏེ་གསུངས་པ་རྣམས་
+# 
+# རྟོགས་པའི་ཚོད་དང་སྦྱར་ཏེ་སྲོག་བཞིན་བསྲུང༌།་
+msgctxt "line 5, Livre5_4-2.7.z18.txt"
+msgid ""
+"Le facteur conditionnant humain: le maître qui confére les intitiations et "
+"qui posséde les caractéristiques comme les dix domaines essentiels "
+"extérieurs et intérieurs et qui a parachevé la puissance manifeste de "
+"l’absorption méditative. (c’est le maitre vajra qui confère les initiaions. "
+"il est une maître authentique par sa maitrise des dix domaines essentiels "
+"extérieurs et intérieurs etc. C’est aussi un maitre dont la puissance "
+"manifeste de l’absorption méditative est amané à sa complétion.) Le facteur "
+"conditionnant orienté sur un objet: l’association parfaite des substances "
+"(sacrés), des mantras, des moudras et des absorptions méditatives. (les "
+"facteurs conditionnants immédiats) sont les initiations comme celle du vase."
+" Les précédentes ouvrant la porte aux suivantes qui vont les unes aprés les "
+"autres transmettre le pouvoir (au pratiquant, litt. conférer l’initiation) "
+"et amener (son esprit) à maturité. (ces intitiations données les unes aprés "
+"les autres forment les conditions immédiates dans le sens où leur "
+"enchainement sans discontinuité va amener la capacité a pratiquer les "
+"initiations les unes aprés les autres.) Quand les deux facteur causals et "
+"les quatre conditionnants sont réunis, (le pratiquant) recevra les "
+"intiations qui sont la prote d’entrée du mantra(yana). La deuxièmme (des "
+"cinq étapes) concernent les liens sacrés qui sont l’essence vitale des "
+"initiations et sont enseignés selon les tantras de l’action, de la conduite,"
+" et ceux de l’union et, plus spécifiquement, les conduites supérieures, les "
+"voeux, les (liens sacrés) racine et secondaires concernant ce qu’il faut "
+"manger et ce qui est à observer enseignés dans les (tantras) insurpassables,"
+" sont a appliquer selon sa propre réalisation soit selon leur sens "
+"provisoire, leur sens définitif ou leur sens indirecte. Ils sont à préserver"
+" comme l’on préserve sa propre vie."
+msgstr ""

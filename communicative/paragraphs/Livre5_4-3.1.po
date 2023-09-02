@@ -1,0 +1,113 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. གཉིས་པ་སྡོམ་གསུམ་སྤྱི་དོན་བཤད་པ་ལ་གསུམ། 2. གཅིག་ལྡན་ལ་སོགས་པའི་
+# 
+# གྲངས། 3. གང་ཟག་གཅིག་ལ་ལྡན་ལུགས། 4. བསྲུངས་པའི་ཕན་ཡོན་སྨོས་པས་འཇུག་བསྡུ་
+# 
+# བའོ། །་
+msgctxt "line 1, Livre5_4-3.1.txt"
+msgid ""
+"L’exposé du sens général des trois voeux a trois parties: Le nombre de ces "
+"voeux tenus par une personne etc. La manière dont ils peuvent êtres présent "
+"en une seule personne. Et les bienfaits qu’il y a à les tenirs en guise de "
+"conclusion."
+msgstr ""
+
+#  5. དང་པོ་ནི། 6. སྡོམ་པ་གསུམ་པོ་གཅིག་གཉིས་གསུམ་ལྡན་སོགས། །དབྱེར་ཡོད། ། 7.
+# ཅེས་པ་སྟེ།་
+# 
+# 
+msgctxt "line 2, Livre5_4-3.1.txt"
+msgid ""
+"Premièrement : (Une personne) va posséder un, deux, puis trois de ces voeux,"
+" alternativement des variantes existes (litt. etc. des il y a des "
+"distinctions). Ceci est s’explique ainsi:"
+msgstr ""
+
+#  8. དེ་ལ་གཅིག་ལྡན་ནི་ 9. ཐེག་དམན་སོ་ཐར་རྒྱུད་ལྡན་གྱི་གང་ཟག་
+# 
+# སྟེ་འདི་ལ་སོ་ཐར་ཙམ་ལྡན་གྱི་གོང་མ་གཉིས་མི་ལྡན་
+# 
+# པའི་ཕྱིར། 10. གཉིས་ལྡན་ནི། 11. བྱང་སྡོམ་དང་ལྡན་པ་སྟེ་ཐེག་ཆེན་སོ་ཐར་
+# 
+# དང་བྱང་སྡོམ་གཉིས་རྫས་གཅིག་པར་ལྡན་པའི་ཕྱིར། 12. སུམ་ལྡན་གྱི་དབང་
+# 
+# དུ་བྱས་པ་ནི་ 13. སྔགས་སྡོམ་ཅན་ཏེ་སྔགས་སྡོམ་ཡིན་ན་སོ་
+# 
+# བྱང་སྡོམ་ལྡན་ཡིན་པ་ཞིག་དགོས་པའི་ཕྱིར།་
+msgctxt "line 3, Livre5_4-3.1.txt"
+msgid ""
+"Ceux qui n’en ont qu’un sont les individus du petit véhicule qui possèdent "
+"en eux les voeux de libération personelle, parce qu’ Ils ne possédent que "
+"les voeux de libération personnelle et n’ont pas les deux voeux supérieurs. "
+"Ceux qui en ont deux sont ceux qui ont les voeux de bodhisattva parce qu’ils"
+" possédent les voeux de libération personnelle du grand véhicule ainsi que "
+"les voeux de bodhisattva. Ces deux sont de même substance. selon ceux qui en"
+" ont trois. ils sont ceux qui possèdent les voeux du mantra parce que pour "
+"avoir les voeux du mantra ils se doivent d’avoir les voeux de libération "
+"personnelle et ceux de bodhisattva."
+msgstr ""
+
+#  14. དེའང་དགེ་སློང་རྡོ་རྗེ་འཛིན་པའི་རྒྱུད་ཀྱི་སྡོམ་པ་གསུམ་པོ་ངོ་
+# 
+# བོ་གཅིག་ལ་ལྡོག་པའི་སྒོ་ནས་ཕྱེ་བ་སྟེ། 15. དེའི་རྒྱུད་ཀྱི་ངེས་
+# 
+# པར་འབྱུང་བའི་ཚུལ་ཁྲིམས་དེ། 16. གཞན་གནོད་གཞིར་བཅས་སྤོང་བའི་ཆ་ནས་
+# 
+# ཐར་སྡོམ། 17. གཞན་ཕན་བསམ་པས་ཟིན་པའི་ཆ་ནས་བྱང་སྡོམ། 18. འབྲས་བུ་ལམ་
+# 
+# བྱེད་ཀྱི་ཐབས་ཀྱིས་ཟིན་པའི་ཆ་ནས་སྔགས་སྡོམ་དུ་བཞག་པའི་
+# 
+# ཕྱིར། 19. སོགས་ཁོངས་ནས་སྡོམ་པ་གསུམ་རིམ་པར་ཞུགས་པ་དང་གོང་མ་
+# 
+# གཉིས་གང་རུང་ཐོག་མར་ཞུས་ནས་ 20. སླར་སོ་ཐར་གྱི་སྡོམ་པ་
+# 
+# ཞུ་བ་སོགས་ཀྱི་ལྡན་ཚུལ་དབྱེ་བ་མང་དུ་འགྱུར་རོ། །་
+msgctxt "line 4, Livre5_4-3.1.txt"
+msgid ""
+"A ce sujet, (pour élaborer), les trois voeux présent en un moine pleinement "
+"ordonné détenteur du vajra (pratiquant du vajrayana) sont indentique en "
+"essence mais différenciable dans leur individualité. En effet, (la raison "
+"ext que) en ce qui concerne la discipline de l’émancipation présente en lui "
+"elle est le voeux de libération (individuelle) de pars son aspect abandon "
+"fondamental (total) de la nuisance à l’autre. elle est le voeux de "
+"bodhisattva quand elle est tenue avec un esprit altruiste. (de pars son "
+"aspect que tout est fait avec un esprit altruist) elle est le voeux du "
+"mantra quand elle est tenue avec les moyens habiles qui prennent le résultat"
+" pour voie. On les (différencie) ainsi de la sorte. Le terme "
+"“alternativement” (litt etc.), exprime que certains vont recevoir les trois "
+"voeux les uns aprés les autres, et que d’autres recevront les deux derniers "
+"puis rependront des voeux de libération individuelle etc. Il existe beaucoup"
+" de variantes à la manière de posséder les voeux."
+msgstr ""
+
+#  21. གཉིས་པ་ལ་གཉིས། མདོར་བསྟན། རྒྱས་བཤད་དོ། །་
+msgctxt "line 5, Livre5_4-3.1.txt"
+msgid "La deuxième section à deux parties: présentation résumée et extensive."
+msgstr ""
+
+#  22. དང་པོ་ནི། 23. གང་ཟག་གཅིག་ལ་སུམ་ལྡན་ཚེ། །གནས་ཚུལ་འཕགས་བོད་གཉིས་སུ་
+# 
+# བཞེད་སྲོལ་མང༌། ། 24. གང་ཟག་གཅིག་གིས་སོ་བྱང་སྔགས་ཀྱི་སྡོམ་པ་རིམ་
+# 
+# ཅན་དུ་ཞུས་ནས་རྒྱུད་ལ་གསུམ་ཀ་ལྡན་པའི་ཚེ། 25. གནས་ཚུལ་ཇི་
+# 
+# ལྟར་ལྡན་ཞེ་ན། 26. འདི་ལ་འཕགས་བོད་གཉིས་སུ་བཞེད་སྲོལ་མི་མཐུན་
+# 
+# པ་མང་དུ་བྱུང་ངོ༌། ། 27. ཞེས་སོ། །་
+msgctxt "line 6, Livre5_4-3.1.txt"
+msgid ""
+"Premièrement : Chez les maître Indiens et Tibétains on retouve de nombreuses"
+" interprétation (visions) de la manière dont les trois voeux sont présent en"
+" une seule personne. Alors qu’une seule et même personne va posséder en elle"
+" les trois voeux aprés avoir pris successivement les voeux de libération "
+"individuelle, ceux de bodhisattva et ceux des mantras, Comment vont-ils "
+"coéxister (litt. être présent) (en cette même personne) ? A ce sujet, les "
+"nombreuses interprétations des Indiens et tibétains différent. C’est ce qui "
+"est dit."
+msgstr ""
