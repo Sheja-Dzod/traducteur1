@@ -61,9 +61,7 @@ msgstr ""
 # 
 # ཅིང་མཆོད་པའི་བྱ་བ་མ་འཁྲུལ་བར་བྱས་པ་ལྷན་ཅིག་བྱེད་
 # 
-# པའི་རྒྱུ། 18. དབང་བསྐུར་གྱི་སྣོད་རུང་པདྨ་ལྟ་བུ་ལ་སོགས་པའི་གང་
-# 
-# ཟག་ལྔ་པོ་རྒྱུའི་རྐྱེན།་
+# པའི་རྒྱུ།་
 msgctxt "line 4, Livre5_4-2.7.z18.txt"
 msgid ""
 "Premièrement : Ayant réveillé le facteur causal de la cause: le potentiel de"
@@ -73,33 +71,24 @@ msgid ""
 "de l’éveil) est le facteur causal concordant. De plus, Aprés s’être purifié "
 "par les récitation d’approche etc, l’élaboration du mandala et la pratique "
 "(de la divinité) ainsi que les activités d’offrandes accomplies sans "
-"erreures consitituent le facteur causal accompagnant. Le facteur "
-"conditionnant causal: Les cinq types d’individu, comme ceux semblables au "
-"lotus, sont les réceptacles adéquate aux initiations."
+"erreures consitituent le facteur causal accompagnant."
+msgstr ""
+
+#  18. དབང་བསྐུར་གྱི་སྣོད་རུང་པདྨ་ལྟ་བུ་ལ་སོགས་པའི་གང་ཟག་ལྔ་
+# 
+# པོ་རྒྱུའི་རྐྱེན།་
+msgctxt "line 5, Livre5_4-2.7.z18.txt"
+msgid ""
+"Le facteur conditionnant causal: Les cinq types d’individu, comme ceux "
+"semblables au lotus, sont les réceptacles adéquate aux initiations."
 msgstr ""
 
 #  19. བསྐུར་མཁན་སློབ་དཔོན་ཕྱི་ནང་གི་དེ་ཉིད་བཅུ་ལ་སོགས་པ་མཚན་
 # 
-# ཉིད་དང་ལྡན་ཞིང་ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པ་བདག་པོའི་རྐྱེན། 20. རྫས་
+# ཉིད་དང་ལྡན་ཞིང་ཏིང་ངེ་འཛིན་རྩལ་རྫོགས་པ་བདག་པོའི་རྐྱེན།་
 # 
-# སྔགས་ཕྱག་རྒྱ་ཏིང་ངེ་འཛིན་ལེགས་པར་ཚོགས་པ་དམིགས་པའི་རྐྱེན། 21. བུམ་
 # 
-# པའི་དབང་སོགས་སྔ་མས་གོ་ཕྱེས་ནས་ 22. ཕྱི་མ་རྣམས་རིམ་གྱིས་
-# 
-# བསྐུར་ཐོབ་ཏུ་སྨིན་པ་དེ་མ་ཐག་པའི་རྐྱེན་ཏེ་ 23. རྒྱུ་གཉིས་
-# 
-# རྐྱེན་བཞི་(རྒྱུ་བཞི་དང་རྐྱེན་གཉིས་)ཚོགས་པས་ 24. སྔགས་ཀྱི་འཇུག་སྒོ་
-# 
-# དབང་བསྐུར་བ་ཐོབ་ནས། 25. གཉིས་པ་དབང་སྲོག་དམ་ཚིག་བྱ་སྤྱོད་རྣལ་
-# 
-# འབྱོར་སོ་སོ་ལས་བཤད་པ་རྣམས་དང༌། 26. ཁྱད་པར་བླ་མེད་ཀྱི་བརྟུལ་
-# 
-# ཞུགས་དང་སྡོམ་པ་དང་རྩ་བ་ཡན་ལག་གི་དམ་ཚིག་བཟའ་
-# 
-# བ་དང་བསྲུང་བ་དྲང་ངེས་ལྡེམ་པོར་དགོངས་ཏེ་གསུངས་པ་རྣམས་
-# 
-# རྟོགས་པའི་ཚོད་དང་སྦྱར་ཏེ་སྲོག་བཞིན་བསྲུང༌།་
-msgctxt "line 5, Livre5_4-2.7.z18.txt"
+msgctxt "line 6, Livre5_4-2.7.z18.txt"
 msgid ""
 "Le facteur conditionnant humain: le maître qui confére les intitiations et "
 "qui posséde les caractéristiques comme les dix domaines essentiels "
@@ -107,24 +96,61 @@ msgid ""
 "l’absorption méditative. (c’est le maitre vajra qui confère les initiaions. "
 "il est une maître authentique par sa maitrise des dix domaines essentiels "
 "extérieurs et intérieurs etc. C’est aussi un maitre dont la puissance "
-"manifeste de l’absorption méditative est amané à sa complétion.) Le facteur "
-"conditionnant orienté sur un objet: l’association parfaite des substances "
-"(sacrés), des mantras, des moudras et des absorptions méditatives. (les "
-"facteurs conditionnants immédiats) sont les initiations comme celle du vase."
-" Les précédentes ouvrant la porte aux suivantes qui vont les unes aprés les "
-"autres transmettre le pouvoir (au pratiquant, litt. conférer l’initiation) "
-"et amener (son esprit) à maturité. (ces intitiations données les unes aprés "
-"les autres forment les conditions immédiates dans le sens où leur "
-"enchainement sans discontinuité va amener la capacité a pratiquer les "
-"initiations les unes aprés les autres.) Quand les deux facteur causals et "
-"les quatre conditionnants sont réunis, (le pratiquant) recevra les "
-"intiations qui sont la prote d’entrée du mantra(yana). La deuxièmme (des "
-"cinq étapes) concernent les liens sacrés qui sont l’essence vitale des "
-"initiations et sont enseignés selon les tantras de l’action, de la conduite,"
-" et ceux de l’union et, plus spécifiquement, les conduites supérieures, les "
-"voeux, les (liens sacrés) racine et secondaires concernant ce qu’il faut "
-"manger et ce qui est à observer enseignés dans les (tantras) insurpassables,"
-" sont a appliquer selon sa propre réalisation soit selon leur sens "
-"provisoire, leur sens définitif ou leur sens indirecte. Ils sont à préserver"
-" comme l’on préserve sa propre vie."
+"manifeste de l’absorption méditative est amané à sa complétion.)"
+msgstr ""
+
+#  20. རྫས་སྔགས་ཕྱག་རྒྱ་ཏིང་ངེ་འཛིན་ལེགས་པར་ཚོགས་པ་དམིགས་པའི་རྐྱེན།་
+# 
+# 
+msgctxt "line 7, Livre5_4-2.7.z18.txt"
+msgid ""
+"Le facteur conditionnant orienté sur un objet: l’association parfaite des "
+"substances (sacrés), des mantras, des moudras et des absorptions "
+"méditatives."
+msgstr ""
+
+#  21. བུམ་པའི་དབང་སོགས་སྔ་མས་གོ་ཕྱེས་ནས་ 22. ཕྱི་མ་རྣམས་རིམ་གྱིས་
+# 
+# བསྐུར་ཐོབ་ཏུ་སྨིན་པ་དེ་མ་ཐག་པའི་རྐྱེན་ཏེ་་
+msgctxt "line 8, Livre5_4-2.7.z18.txt"
+msgid ""
+"(les facteurs conditionnants immédiats) sont les initiations comme celle du "
+"vase. Les précédentes ouvrant la porte aux suivantes qui vont les unes aprés"
+" les autres transmettre le pouvoir (au pratiquant, litt. conférer "
+"l’initiation) et amener (son esprit) à maturité. (ces intitiations données "
+"les unes aprés les autres forment les conditions immédiates dans le sens où "
+"leur enchainement sans discontinuité va amener la capacité a pratiquer les "
+"initiations les unes aprés les autres.)"
+msgstr ""
+
+#  23. རྒྱུ་གཉིས་རྐྱེན་བཞི་(རྒྱུ་བཞི་དང་རྐྱེན་གཉིས་)ཚོགས་པས་ 24.
+# སྔགས་ཀྱི་འཇུག་
+# 
+# སྒོ་དབང་བསྐུར་བ་ཐོབ་ནས།་
+msgctxt "line 9, Livre5_4-2.7.z18.txt"
+msgid ""
+"Quand les deux facteur causals et les quatre conditionnants sont réunis, (le"
+" pratiquant) recevra les intiations qui sont la prote d’entrée du "
+"mantra(yana)."
+msgstr ""
+
+#  25. གཉིས་པ་དབང་སྲོག་དམ་ཚིག་བྱ་སྤྱོད་རྣལ་འབྱོར་སོ་སོ་ལས་བཤད་
+# 
+# པ་རྣམས་དང༌། 26. ཁྱད་པར་བླ་མེད་ཀྱི་བརྟུལ་ཞུགས་དང་སྡོམ་པ་དང་
+# 
+# རྩ་བ་ཡན་ལག་གི་དམ་ཚིག་བཟའ་བ་དང་བསྲུང་བ་དྲང་
+# 
+# ངེས་ལྡེམ་པོར་དགོངས་ཏེ་གསུངས་པ་རྣམས་རྟོགས་པའི་ཚོད་དང་སྦྱར་
+# 
+# ཏེ་སྲོག་བཞིན་བསྲུང༌།་
+msgctxt "line 10, Livre5_4-2.7.z18.txt"
+msgid ""
+"La deuxièmme (des cinq étapes) concernent les liens sacrés qui sont "
+"l’essence vitale des initiations et sont enseignés selon les tantras de "
+"l’action, de la conduite, et ceux de l’union et, plus spécifiquement, les "
+"conduites supérieures, les voeux, les (liens sacrés) racine et secondaires "
+"concernant ce qu’il faut manger et ce qui est à observer enseignés dans les "
+"(tantras) insurpassables, sont a appliquer selon sa propre réalisation soit "
+"selon leur sens provisoire, leur sens définitif ou leur sens indirecte. Ils "
+"sont à préserver comme l’on préserve sa propre vie."
 msgstr ""
