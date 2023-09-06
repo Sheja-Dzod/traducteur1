@@ -25,21 +25,27 @@ msgstr ""
 # 
 # བ་གསུམ་གསུམ། དེ་རེ་རེ་ལའང་གསུམ་རེར་དབྱེ་བས་ཉི་ཤུ་རྩ་
 # 
-# བདུན་ཏེ། 6. དང་པོ་སྐུའི་དམ་ཚིག་གསུམ་ཚན་གསུམ་གྱི་ཕྱིའི་དམ་ཚིག་
-# 
-# ཕྱི་ནང་གསང་གསུམ་ནི། 7. རིམ་པར་མ་བྱིན་ལེན། མི་ཚངས་སྤྱོད། སྲོག་གཅོད་གསུམ་
-# 
-# སྤང་བའོ། །་
+# བདུན་ཏེ།་
 msgctxt "line 2, Livre5_4-2.7.z15.txt"
 msgid ""
 "Des (liens sacrés) communs et spécifiques de la tradition de l’Atiyoga, la "
 "Grande Perfection, les premiers sont: Les trois liens sacrés racines sont "
 "relatifs au corps, à la parole et à l’esprit éveillés. Chacune d’aspects "
 "extérieurs, intérieurs et secrets, et chacun de ces aspects divisé en trois."
-" Cela donne vingt-sept lien sacrés communs. Premièrement, des trois liens "
-"sacrés -extérieurs, intérieurs et secrets correspondant aux trois aspects "
-"des liens sacrés relatif au corps éveillé, sont dans l’ordre : s’absetenir "
-"des trois choses: de voler, de s’adonner a l’inconduite sexuelle et de tuer."
+" Cela donne vingt-sept lien sacrés communs."
+msgstr ""
+
+#  6. དང་པོ་སྐུའི་དམ་ཚིག་གསུམ་ཚན་གསུམ་གྱི་ཕྱིའི་དམ་ཚིག་ཕྱི་ནང་
+# 
+# གསང་གསུམ་ནི། 7. རིམ་པར་མ་བྱིན་ལེན། མི་ཚངས་སྤྱོད། སྲོག་གཅོད་གསུམ་སྤང་བའོ། །་
+# 
+# 
+msgctxt "line 3, Livre5_4-2.7.z15.txt"
+msgid ""
+"Premièrement, des trois liens sacrés -extérieurs, intérieurs et secrets "
+"correspondant aux trois aspects des liens sacrés relatif au corps éveillé, "
+"sont dans l’ordre : s’absetenir des trois choses: de voler, de s’adonner a "
+"l’inconduite sexuelle et de tuer."
 msgstr ""
 
 #  8. ནང་གི་གསུམ་ནི། 9. ཕ་མ་རྡོ་རྗེ་སྤུན་སྲིང་དང་རང་ལུས་སྨོད་པ། 10. ཆོས་
@@ -47,7 +53,7 @@ msgstr ""
 # དང་གང་ཟག་ལ་སྨོད་པ། 11. རང་ལུས་ལ་རྡེག་འཚོག་དང་དཀའ་ཐུབ་
 # 
 # ཀྱིས་བརྙས་ཤིང་གདུང་བ་རྣམས་སྤང་བའོ། །་
-msgctxt "line 3, Livre5_4-2.7.z15.txt"
+msgctxt "line 4, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés intérieurs) sont: Manquer de respect à ses parents, "
 "a ses frères et soeurs vajras et à son propre corps. Manquer de respect aux "
@@ -63,7 +69,7 @@ msgstr ""
 # ཡུམ་ལ་གཙེས་པ། 15. བླ་མའི་གྲིབ་མར་འགོང་བ་དང་སྤྱན་སྔར་ལུས་
 # 
 # ངག་གི་སྤྱོད་པ་བག་མེད་རྣམས་སྤང་བའོ། །་
-msgctxt "line 4, Livre5_4-2.7.z15.txt"
+msgctxt "line 5, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés) secrets sont: Frapper intentionellement le corps de"
 " ses frères et soeurs vajras et critiquer leurs ornements. Battre les "
@@ -77,7 +83,7 @@ msgstr ""
 # །ཕྲ་མ། གཞན་
 # 
 # གྱི་ཞེར་འདེབས་པའི་ཚིག་སྨྲ་བ་རྣམས་སྤང་བའོ། །་
-msgctxt "line 5, Livre5_4-2.7.z15.txt"
+msgctxt "line 6, Livre5_4-2.7.z15.txt"
 msgid ""
 "Deuxièmement, des trois aspects des liens sacrés relatifs à la parole "
 "éveillée, (les liens sacrés) extérieurs sont; Abandonner les paroles "
@@ -88,7 +94,7 @@ msgstr ""
 # གནས་ལུགས་སྒོམ་
 # 
 # པར་བྱེད་པ་རྣམས་ལ་གཤེ་སྐུར་འདེབས་པ་སྤང་བའོ། །་
-msgctxt "line 6, Livre5_4-2.7.z15.txt"
+msgctxt "line 7, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés intérieurs) sont: Ceux qui enseigne le Dharma, Ceux "
 "qui contemple le sens du Dharma Ceux qui méditent sur le mode d’être (des "
@@ -102,7 +108,7 @@ msgstr ""
 # འཁོར་གྱི་ཚིག ། 25. བླ་མའི་གསུང་རྣམས་ལ་བརྙས་ཤིང་གཅོག་པ་རྣམས་སྤང་
 # 
 # བའོ། །་
-msgctxt "line 7, Livre5_4-2.7.z15.txt"
+msgctxt "line 8, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés) secrets sont: Les paroles des frères et soeurs "
 "vajras, les paroles de la consorte du Lama et des membres de son entourage "
@@ -116,7 +122,7 @@ msgstr ""
 # གནོད་སེམས། བརྣབ་སེམས། ལོག་
 # 
 # ལྟ་གསུམ་སྤང་བའོ། །་
-msgctxt "line 8, Livre5_4-2.7.z15.txt"
+msgctxt "line 9, Livre5_4-2.7.z15.txt"
 msgid ""
 "Ne pas avoir de pensées malveillantes (litt. penser de nuire), l’envie et "
 "les vues eronnées."
@@ -127,7 +133,7 @@ msgstr ""
 # དང་གོལ་སྒྲིབ། 30. ལྟ་བ་ལོག་པ་རྟག་ཆད་མཐར་འཛིན་རྣམས་སྤང་བའོ། །་
 # 
 # 
-msgctxt "line 9, Livre5_4-2.7.z15.txt"
+msgctxt "line 10, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés intérieurs) sont: La négligence qui correspond à la "
 "conduite eronnée (dévoyée). La torpeur et l’agitation ainsi que les "
@@ -145,7 +151,7 @@ msgstr ""
 # པ་རྣམས་སྤང་བའོ། ། 35. དེ་དག་ནི་ཨ་ཏིའི་དམ་ཚིག་སྤྱི་ཡིན་ནོ། །་
 # 
 # 
-msgctxt "line 10, Livre5_4-2.7.z15.txt"
+msgctxt "line 11, Livre5_4-2.7.z15.txt"
 msgid ""
 "Les trois (liens sacrés) secrets sont: négliger (litt. ne pas garder à "
 "l’esprit) la vue, la méditation et l’action lors de chaque session du jour "
