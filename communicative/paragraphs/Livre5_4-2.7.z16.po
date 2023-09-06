@@ -5,39 +5,47 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#  1. གཉིས་པ་ཁྱད་པར་ཆེན་པོའི་དམ་ཚིག་བཞི་ནི། 2. ངོ་བོ་ཀ་དག་ལ་
-# 
-# བལྟས་ནས་ཁྲེགས་ཆོད་ཀྱི་དམ་ཚིག་ཏུ་སྣོད་བཅུད་སྣང་སྲིད་ཀྱི་
-# 
-# ཆོས་ཐམས་ཅད་ཡེ་ནས་མེད་པ་སྒྱུ་མའི་དཔེ་བརྒྱད་ལྟར་ཤེས་
-# 
-# པས་སྣང་བ་ལ་བདེན་ཞེན་གྲོལ། 3. སེམས་འཛིན་གྱི་འཇུར་བུས་མ་བཅིངས་
-# 
-# པའི་རིག་པ་རྟེན་མེད་ཕྱལ་པར་བསྐྱངས་པས་ 4. སྣང་བཏགས་ཆོས་ཉིད་
-# 
-# དུ་གྲོལ། 5. རང་བཞིན་ལྷུན་གྲུབ་ལ་ལྟོས་ནས་ཐོད་རྒལ་གྱི་དམ་ཚིག་
-# 
-# ཏུ་འོད་ལྔ་རང་གསལ་ལྷུན་གྲུབ་སྣང་བ་བཞྀའི་ཉམས་ལེན་དང་
-# 
-# མ་བྲལ་བས་ 6. སངས་རྒྱས་རང་ཆས་སུ་འགྲུབ་པར་ཐག་བཅད་པས་
-# 
-#  7. འབྲས་བུ་གཞན་ནས་འཚོལ་བའི་བློ་ལྡོག ། 8. རྣམ་རྟོག་བྱུང་ཚོར་རྐྱེན་སྣང་
-# 
-# ཅི་བྱུང་ཅི་ཤར་རང་བྱུང་གི་ཡེ་ཤེས་གཅིག་པུར་ཐག་ཆོད་
-# 
-# པས་ 9. ཆོས་ཉིད་གདོད་མའི་ཟད་སར་གཏན་སྲིད་ཟིན་པའོ། །་
+#  1. གཉིས་པ་ཁྱད་པར་ཆེན་པོའི་དམ་ཚིག་བཞི་ནི།་
 msgctxt "line 1, Livre5_4-2.7.z16.txt"
+msgid "2. Les quatre liens sacrés exceptionnels."
+msgstr ""
+
+#  2. ངོ་བོ་ཀ་དག་ལ་བལྟས་ནས་ཁྲེགས་ཆོད་ཀྱི་དམ་ཚིག་ཏུ་སྣོད་
+# 
+# བཅུད་སྣང་སྲིད་ཀྱི་ཆོས་ཐམས་ཅད་ཡེ་ནས་མེད་པ་སྒྱུ་མའི་
+# 
+# དཔེ་བརྒྱད་ལྟར་ཤེས་པས་སྣང་བ་ལ་བདེན་ཞེན་གྲོལ། 3. སེམས་འཛིན་གྱི་
+# 
+# འཇུར་བུས་མ་བཅིངས་པའི་རིག་པ་རྟེན་མེད་ཕྱལ་པར་བསྐྱངས་པས་
+# 
+#  4. སྣང་བཏགས་ཆོས་ཉིད་དུ་གྲོལ།་
+msgctxt "line 2, Livre5_4-2.7.z16.txt"
 msgid ""
-"2. Les quatre liens sacrés exceptionnels. Les liens sacrés qui tranchent la "
-"solidité reposent sur l’essence primordialement pure (litt. la pureté "
-"alpha). Ils consistent à être libéré de l’appréhension des perceptions comme"
-" étant réels par la compréhension que tous les phénomènes -l’univers, les "
-"êtres, ce qui se manifeste et ce qui peut se manifester- n’ont jamais eu "
-"d’existence comme cela est illustré par les huit exemples de l’illusion. "
-"(Et) en maintenant la conscience pure qui est sans fondement et "
-"omniprésente, non liée par l’enchevêtrement des saisies du mentale, les "
-"perceptions immaginaires seront libérée en la nature des phénomènes. Les "
-"liens sacrés du franchissement du pic reposent sur la nature présence "
+"Les liens sacrés qui tranchent la solidité reposent sur l’essence "
+"primordialement pure (litt. la pureté alpha). Ils consistent à être libéré "
+"de l’appréhension des perceptions comme étant réels par la compréhension que"
+" tous les phénomènes -l’univers, les êtres, ce qui se manifeste et ce qui "
+"peut se manifester- n’ont jamais eu d’existence comme cela est illustré par "
+"les huit exemples de l’illusion. (Et) en maintenant la conscience pure qui "
+"est sans fondement et omniprésente, non liée par l’enchevêtrement des "
+"saisies du mentale, les perceptions immaginaires seront libérée en la nature"
+" des phénomènes."
+msgstr ""
+
+#  5. རང་བཞིན་ལྷུན་གྲུབ་ལ་ལྟོས་ནས་ཐོད་རྒལ་གྱི་དམ་ཚིག་ཏུ་འོད་
+# 
+# ལྔ་རང་གསལ་ལྷུན་གྲུབ་སྣང་བ་བཞྀའི་ཉམས་ལེན་དང་མ་བྲལ་
+# 
+# བས་ 6. སངས་རྒྱས་རང་ཆས་སུ་འགྲུབ་པར་ཐག་བཅད་པས་ 7. འབྲས་བུ་
+# 
+# གཞན་ནས་འཚོལ་བའི་བློ་ལྡོག ། 8. རྣམ་རྟོག་བྱུང་ཚོར་རྐྱེན་སྣང་ཅི་བྱུང་
+# 
+# ཅི་ཤར་རང་བྱུང་གི་ཡེ་ཤེས་གཅིག་པུར་ཐག་ཆོད་པས་ 9. ཆོས་
+# 
+# ཉིད་གདོད་མའི་ཟད་སར་གཏན་སྲིད་ཟིན་པའོ། །་
+msgctxt "line 3, Livre5_4-2.7.z16.txt"
+msgid ""
+"Les liens sacrés du franchissement du pic reposent sur la nature présence "
 "spontanée. Par une pratique continue (litt. sans ses séparer de la partique)"
 " des quatre perceptions en lien avec la présence spontanée des cinq lumières"
 " intrinsèquement lumineuses, on aura la certitude que la bouddhéité "
@@ -53,7 +61,7 @@ msgstr ""
 # བཅོས་ཚུལ་ལོ། །་
 # 
 # 
-msgctxt "line 2, Livre5_4-2.7.z16.txt"
+msgctxt "line 4, Livre5_4-2.7.z16.txt"
 msgid ""
 "3. L’explication de la détérioration et de la confession a deux parties: la "
 "détérioration et la restauration."
@@ -62,7 +70,7 @@ msgstr ""
 #  13. དང་པོ་ནི། 14. ཉམས་པ་ཆེ་དང་རྩ་ལག་ཟླས་ཞར་ལྔ། །མ་བཤགས་མི་འདོད་
 # 
 # ཀུན་འབྱུང་མནར་མེད་སྐྱེ། །་
-msgctxt "line 3, Livre5_4-2.7.z16.txt"
+msgctxt "line 5, Livre5_4-2.7.z16.txt"
 msgid ""
 "Premièrement : Cinq types de détérioration : majeures, racines, secondaires,"
 " par association et indirectes ; Ne pas les confesser amène les malheurs et "
@@ -84,7 +92,7 @@ msgstr ""
 # པའི་ཉེས་པ་དང༌། 21. ཞར་ཉམས་ནི་གཞན་གྱི་ངོ་དགར་ཐལ་བའི་ཉེས་
 # 
 # པའོ། །་
-msgctxt "line 4, Livre5_4-2.7.z16.txt"
+msgctxt "line 6, Livre5_4-2.7.z16.txt"
 msgid ""
 "La durée pour qu’une détérioration devienne une transgression ou une rupture"
 " ont été décrite précédement. En paralél, dans le Soutra général qui "
@@ -112,7 +120,7 @@ msgstr ""
 # རྗེའི་དམྱལ་བ་ཆེན་པོར་སྐྱེས་ནས་ 26. ནམ་མཁའ་མ་ཞིག་གི་བར་
 # 
 # དུ་ཐར་བ་མེད་པར་གསུངས་ཏེ།་
-msgctxt "line 5, Livre5_4-2.7.z16.txt"
+msgctxt "line 7, Livre5_4-2.7.z16.txt"
 msgid ""
 "Une fois l’engagement pris, tous les liens sacrés que l’on a exposés doivent"
 " être observés sans les détioriorer. lorsqu’il arrive d’en endomager (une ou"
@@ -131,7 +139,7 @@ msgstr ""
 # སོགས་པ། །ཕུལ་ཡང་བཞེས་པར་མི་འགྱུར་ཏེ། ། 31. ནད་དང་དུག་དང་དགྲ་རྣམས་
 # 
 # ཀྱིས། །བསད་ནས་སེམས་ཅན་དམྱལ་བར་འགྲོ། ། 32. ཞེས་དང༌།་
-msgctxt "line 6, Livre5_4-2.7.z16.txt"
+msgctxt "line 8, Livre5_4-2.7.z16.txt"
 msgid ""
 "L’essence de la lune secrète: Ceux qui ont dégradés leurs liens sacrés et "
 "leurs voeux les bouddhas et les bodhisattvas ne leur donneront pas de "
@@ -152,7 +160,7 @@ msgstr ""
 # པའམ་ཡང་ན་འོན་པར་སྐྱེ། ། 39. ཞེས་སོགས་གསར་རྙིང་གི་རྒྱུད་གཞུང་དུ་
 # 
 # མར་མགྲིན་གཅིག་ཏུ་གསུངས་སོ། །་
-msgctxt "line 7, Livre5_4-2.7.z16.txt"
+msgctxt "line 9, Livre5_4-2.7.z16.txt"
 msgid ""
 "L’accomplissement de la sagesse primordiale dit: Ceux qui dégradent leur "
 "liens sacrés font l’expérience de la souffrance d’un corps et d’un esprit au"
