@@ -1,0 +1,175 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. གཉིས་པ་ནི། 2. ངོ་བོ་ཐ་དད་ 3. བསྲུང་ན་འཆོལ་བར་བསྲུངས། ། 4.
+# འདོམ་ཐུག་གོང་མ་
+# 
+# གཙོ་ཞིང་འོག་མ་ཡི། །སྐྱོན་ཀུན་ཟིལ་གནོན་ཡོན་ཏན་ཡར་ལྡན་ཚུལ། ། 5. གཏོང་
+# 
+# དང་ཐོབ་པའི་ས་མཚམས་ཐ་དད་ཅེས། ། 6. མཉམ་མེད་དྭགས་པོ་རྗེས་འབྲངས་
+# 
+# བཅས་པས་བཞེད། །་
+msgctxt "line 1, Livre5_4-3.3.txt"
+msgid ""
+"2. (dans la tradition Tibétaine) Différents en essence, tenus comme "
+"préscrits; Assemblés (partiqués ensemble) ceux des tantras supérieurs "
+"prévalent (sont principaux) et les défauts des tantras inférieurs sont "
+"éliminés -leurs qualités étant présentent dans les supérieurs. La mesure de "
+"leur (les voeux) rejet ou adoption différe (selon les différents systémes). "
+"C’est ce qu’il (Gamopa) dit. Tel est l’opinon (mis à l’honorifique) de "
+"l’inégalable Gampopa et ses successeurs."
+msgstr ""
+"2. Selon les maîtres Tibétains\n"
+"\n"
+"« D'essence différentes, ils sont tenus comme prescrits. \n"
+"Pratiqués ensemble, les vœux des tantras supérieurs prévalent \n"
+"Et éliminent les défauts des tantras inférieurs ; \n"
+"Leurs qualités sont ascendantes-cumulatives ;\n"
+"Et la délimitation de leur perte et de leur réception est variable.\n"
+"Tel est l’opinion de l’inégalable Gampopa et de ses successeurs. "
+
+#  7. རྗེ་སྒམ་པོ་པའི་གསུངས་ལས། 8. ངོ་བོ་ཐ་དད། 9. བསྲུང་ན་འཆོལ་བར་བསྲུང༌། 10.
+# འདོམ་ཐུག་
+# 
+# ན་གོང་མ་གཙོ། 11. འོག་མའི་སྐྱོན་ཟིལ་གྱིས་གནོན། 12. ཡོན་ཏན་ཡར་ལྡན་ཡིན་
+# 
+#  13. ཅེས་གསུངས་ཏེ།་
+msgctxt "line 2, Livre5_4-3.3.txt"
+msgid ""
+"Dans enseignements du Seigneur Gampopa (on retrouve ces 5 points ainsi): "
+"Différents en essence; tenus comme préscrits; Pratiqués ensemble, ceux des "
+"tantras supérieurs prévalent Eliminer les défauts des tantras inférieurs; "
+"C’est (ce qu’on appel) ’’la présence des qualités dans le supérieur” Voilà "
+"ce qu’il a dit."
+msgstr ""
+"Dans les enseignements du Seigneur Gampopa on retrouve les cinq points suivants : \n"
+"1) Les trois vœux sont d’essence différente;\n"
+"2) ils sont tenus comme prescrits; \n"
+"3) quand pratiqués ensemble, ceux des tantras supérieurs prévalent \n"
+"4) et éliminent les défauts des tantras inférieurs; \n"
+"5) leurs qualités sont ascendantes-cumulatives."
+
+#  14. དང་པོ་ནི། 15. སྡོམ་གསུམ་གང་ལས་བྱུང་བའི་སྡེ་སྣོད། ལེན་པའི་ཡུལ་དང་དུས་
+# 
+# ཚོད། བསམ་པ་ཆོ་ག་བསྲུང་བྱ་གཏོང་རྒྱུ་ཕན་ཡོན་ཉམས་པ་གསོར་
+# 
+# ཡོད་མེད་སོགས་ཐ་དད་པས་ངོ་བོ་ཐ་དད། 16. རྣམ་པ་མི་དགེ་
+# 
+# བ་སྡོམ་ཞིང་གཉེན་པོ་ཡང་དག་ལྟ་བ་སྐྱེད་པས་མཚོན་ 17. སྤོང་
+# 
+# སེམས་ཙམ་དུ་རིགས་གཅིག་པས་ 18. སྡོམ་གསུམ་གཉེན་པོའི་གནད་ལ་གཅིག།་
+# 
+# 
+msgctxt "line 3, Livre5_4-3.3.txt"
+msgid ""
+"1. En essence, les trois voeux différent de pars leurs sources scriptuaires "
+"(litt. corbeille); du précepteur (le maître qui donne les voeux); de "
+"l’intention (motivation); du rituel; des préceptes (a tenir); des facteurs "
+"causant leur perte; leurs bienfaits; leur possibilité ou non d’être "
+"restaurés etc. Leur expression consiste à bloquer les actes négatifs et à "
+"déveloper l’antidote de la vue juste. Par conséquent ils font tous partie de"
+" la même catégorie de ce qui est à rejeter mentalement et par conséquent, "
+"les trois voeux sont identiques dans le sens qu’ils sont des antidotes."
+msgstr ""
+"1)  Les trois vœux sont d’essence différente parce que chaque vœux est issu "
+"d’une source scripturaire ou corbeille différente, les précepteurs qui "
+"confèrent le vœux est aussi différent,  leur séquence d’acquisition, la "
+"motivation, le rituel, les préceptes à tenir, les facteurs causant leur "
+"perte, leurs bienfaits, la possibilité ou non de les restaurer etc. sont "
+"aussi différents. Dans leur expression, ils sont cependant identiques en "
+"tant qu’antidote par ce qu’ils appartient tous à la même catégorie "
+"d’attitude mentale qu’est le renoncement. Ils consistent tous, par exemple, "
+"à se préserver des actes négatifs en développant l’antidote de la vue juste."
+" "
+
+#  19. སྤང་གཉེན་གྱི་ཡུལ་གང་དང་ཕྲད་པ་ 20. དེ་དང་དེར་རང་རང་གི་
+# 
+# ལུགས་བཞིན་བསྲུང་དགོས་པས་ 21. བསྲུང་ན་འཆོལ་བར་བསྲུང༌།་
+msgctxt "line 4, Livre5_4-3.3.txt"
+msgid ""
+"Selon les circonstances dans lesquelles on est amené à rejetter quelque "
+"chose ou à appliquer un antidote, l’on devra tenir ses voeux selon sa "
+"catégorie (libération personnelle, bodhisattva et mantra). Par conséquent "
+"ils sont à tenir selon ce qui est prescrit."
+msgstr ""
+"2)  Ils sont à tenir en fonction de ce qui est prescrit parce que selon les "
+"circonstances, il faudra s’abstenir de faire telle ou telle chose en "
+"développant l’antidote correspondant à  la catégorie de vœux concernée. "
+
+#  22. ཚོགས་ཀྱི་དམ་རྫས་ལྟ་བུ་མ་བརྟེན་ན་སྔགས་དང་འགལ་ལ་ 23. བརྟེན་
+# 
+# ན་སོ་ཐར་དང་འགལ་བ་ལྟ་བུ་འདོམ་ཐུག་ན་ 24. གོང་མ་
+# 
+# གཙོར་སྤྱད།་
+msgctxt "line 5, Livre5_4-3.3.txt"
+msgid ""
+"Si on n’accepte pas les substances sacrés lors d’un Ganachakra on va a "
+"l’encontre des voeux du mantra alors que si on les acceptes on va a "
+"l’encontre des voeux de libération individuelle. Quand on se retouve ainsi à"
+" les pratiquer ensemble, le voeux supérieurs prévalent."
+msgstr ""
+"3)  Quand on les pratique ensemble, les vœux supérieurs prévalent. Par "
+"exemple lorsqu’on se trouve dans un festin sacré, si on n’accepte pas les "
+"substances sacrés de ce ganachakra on va à l’encontre des vœux du mantra "
+"alors que si on les acceptes on va à l’encontre des vœux de libération "
+"individuelle."
+
+#  25. དེ་ལྟར་ནའང་བསམ་པ་དང་ཐབས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པས་སོ་
+# 
+# ཐར་གྱི་བཅས་འདས་ཉེས་པ་མི་འབྱུང་བས་འོག་མའི་སྐྱོན་ཟིལ་
+# 
+# གྱིས་གནོན།་
+msgctxt "line 6, Livre5_4-3.3.txt"
+msgid ""
+"Agir ainsi élimine ce qui est une faute dans un véhicule inférieure car si "
+"l’on transgresse les voeux de libération individuelle avec une intention et "
+"des moyens habiles spécifiques, cela n’entraînera pas de faute."
+msgstr ""
+"4)  Agir ainsi élimine ce qui est considéré comme une faute dans un véhicule"
+" inférieure car si l’on transgresse les vœux de libération individuelle avec"
+" une intention et des moyens habiles spécifiques, cela n’entraîne pas de "
+"faute."
+
+#  26. ཉེས་ལྟུང་མེད་པ་ཙམ་དུ་མ་ཟད་གོང་མའི་ཕན་ཡོན་རྒྱ་ཆེན་
+# 
+# པོ་འབྱུང་བས་ཡོན་ཏན་ཡར་ལྡན་ཡིན་ཅེས་་
+msgctxt "line 7, Livre5_4-3.3.txt"
+msgid ""
+"Non seulement il n’y aura ni faute ni chute, mais aussi les qualités des "
+"pratiques supérieures apparaitrons en le pratiquant. Par conséquent, les "
+"qualités d’un système de pratique inférieur sont contenus dans le système "
+"supérieur. C’est ce qu’il dit."
+msgstr ""
+"5)  Non seulement il n’y aura ni faute ni chute, mais aussi les vastes "
+"bienfaits des pratiques supérieures apparaitrons dans le pratiquant. Par "
+"conséquent, les qualités sont ascendantes-cumulatives (c’est-à-dire que les "
+"qualités d’un système de pratique inférieur sont contenus dans le système "
+"supérieur)."
+
+#  27. མཉམ་མེད་དྭགས་པོ་ཉིད་དང་རྗེས་འབྲང་ཟུང་བཞི་ཡ་བརྒྱད་ཀྱི་མཁས་
+# 
+# གྲུབ་རྣམས་དང༌། ཁྱད་པར་རྒྱལ་དབང་ཐམས་ཅད་མཁྱེན་པ་བདུན་པ་ཆོས་
+# 
+# གྲགས་རྒྱ་མཚོའི་ཞལ་སྔ་ནས་གསུངས་སོ། །་
+msgctxt "line 8, Livre5_4-3.3.txt"
+msgid ""
+"C’est ce que disent l’inégalable Gampopa et ses successeurs les érudits et "
+"les accomplis des quatre écoles séniors et des huit écoles juniors (des "
+"kagyupas) et plus spécifiquement l’omniscient spetième Karmapa Tcheudrak "
+"Gyamtso."
+msgstr ""
+"Tel est l’opinion de l’inégalable Gampopa et de ses successeurs érudits "
+"accomplis des quatre écoles séniors et des huit écoles juniors kagyupas et "
+"plus spécifiquement celle de l’omniscient septième Karmapa Tcheudrak "
+"Gyamtso."
