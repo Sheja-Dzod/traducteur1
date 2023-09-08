@@ -47,29 +47,9 @@ msgstr ""
 # 
 # བ་སྡོམ་ཞིང་གཉེན་པོ་ཡང་དག་ལྟ་བ་སྐྱེད་པས་མཚོན་ 17. སྤོང་
 # 
-# སེམས་ཙམ་དུ་རིགས་གཅིག་པས་ 18. སྡོམ་གསུམ་གཉེན་པོའི་གནད་ལ་གཅིག། 19. སྤང་
+# སེམས་ཙམ་དུ་རིགས་གཅིག་པས་ 18. སྡོམ་གསུམ་གཉེན་པོའི་གནད་ལ་གཅིག།་
 # 
-# གཉེན་གྱི་ཡུལ་གང་དང་ཕྲད་པ་ 20. དེ་དང་དེར་རང་རང་གི་
 # 
-# ལུགས་བཞིན་བསྲུང་དགོས་པས་ 21. བསྲུང་ན་འཆོལ་བར་བསྲུང༌། 22. ཚོགས་ཀྱི་དམ་རྫས་
-# 
-# ལྟ་བུ་མ་བརྟེན་ན་སྔགས་དང་འགལ་ལ་ 23. བརྟེན་ན་སོ་ཐར་
-# 
-# དང་འགལ་བ་ལྟ་བུ་འདོམ་ཐུག་ན་ 24. གོང་མ་གཙོར་སྤྱད། 25. དེ་ལྟར་
-# 
-# ནའང་བསམ་པ་དང་ཐབས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པས་སོ་ཐར་
-# 
-# གྱི་བཅས་འདས་ཉེས་པ་མི་འབྱུང་བས་འོག་མའི་སྐྱོན་ཟིལ་གྱིས་
-# 
-# གནོན། 26. ཉེས་ལྟུང་མེད་པ་ཙམ་དུ་མ་ཟད་གོང་མའི་ཕན་ཡོན་རྒྱ་
-# 
-# ཆེན་པོ་འབྱུང་བས་ཡོན་ཏན་ཡར་ལྡན་ཡིན་ཅེས་ 27. མཉམ་མེད་དྭགས་
-# 
-# པོ་ཉིད་དང་རྗེས་འབྲང་ཟུང་བཞི་ཡ་བརྒྱད་ཀྱི་མཁས་གྲུབ་རྣམས་
-# 
-# དང༌། ཁྱད་པར་རྒྱལ་དབང་ཐམས་ཅད་མཁྱེན་པ་བདུན་པ་ཆོས་གྲགས་རྒྱ་
-# 
-# མཚོའི་ཞལ་སྔ་ནས་གསུངས་སོ། །་
 msgctxt "line 3, Livre5_4-3.3.txt"
 msgid ""
 "1. En essence, les trois voeux différent de pars leurs sources scriptuaires "
@@ -79,22 +59,65 @@ msgid ""
 "restaurés etc. Leur expression consiste à bloquer les actes négatifs et à "
 "déveloper l’antidote de la vue juste. Par conséquent ils font tous partie de"
 " la même catégorie de ce qui est à rejeter mentalement et par conséquent, "
-"les trois voeux sont identiques dans le sens qu’ils sont des antidotes. "
+"les trois voeux sont identiques dans le sens qu’ils sont des antidotes."
+msgstr ""
+
+#  19. སྤང་གཉེན་གྱི་ཡུལ་གང་དང་ཕྲད་པ་ 20. དེ་དང་དེར་རང་རང་གི་
+# 
+# ལུགས་བཞིན་བསྲུང་དགོས་པས་ 21. བསྲུང་ན་འཆོལ་བར་བསྲུང༌།་
+msgctxt "line 4, Livre5_4-3.3.txt"
+msgid ""
 "Selon les circonstances dans lesquelles on est amené à rejetter quelque "
 "chose ou à appliquer un antidote, l’on devra tenir ses voeux selon sa "
 "catégorie (libération personnelle, bodhisattva et mantra). Par conséquent "
-"ils sont à tenir selon ce qui est prescrit. Si on n’accepte pas les "
-"substances sacrés lors d’un Ganachakra on va a l’encontre des voeux du "
-"mantra alors que si on les acceptes on va a l’encontre des voeux de "
-"libération individuelle. Quand on se retouve ainsi à les pratiquer ensemble,"
-" le voeux supérieurs prévalent. Agir ainsi élimine ce qui est une faute dans"
-" un véhicule inférieure car si l’on transgresse les voeux de libération "
-"individuelle avec une intention et des moyens habiles spécifiques, cela "
-"n’entraînera pas de faute. Non seulement il n’y aura ni faute ni chute, mais"
-" aussi les qualités des pratiques supérieures apparaitrons en le pratiquant."
-" Par conséquent, les qualités d’un système de pratique inférieur sont "
-"contenus dans le système supérieur. C’est ce qu’il dit. C’est ce que disent "
-"l’inégalable Gampopa et ses successeurs les érudits et les accomplis des "
-"quatre écoles séniors et des huit écoles juniors (des kagyupas) et plus "
-"spécifiquement l’omniscient spetième Karmapa Tcheudrak Gyamtso."
+"ils sont à tenir selon ce qui est prescrit."
+msgstr ""
+
+#  22. ཚོགས་ཀྱི་དམ་རྫས་ལྟ་བུ་མ་བརྟེན་ན་སྔགས་དང་འགལ་ལ་ 23. བརྟེན་
+# 
+# ན་སོ་ཐར་དང་འགལ་བ་ལྟ་བུ་འདོམ་ཐུག་ན་ 24. གོང་མ་
+# 
+# གཙོར་སྤྱད།་
+msgctxt "line 5, Livre5_4-3.3.txt"
+msgid ""
+"Si on n’accepte pas les substances sacrés lors d’un Ganachakra on va a "
+"l’encontre des voeux du mantra alors que si on les acceptes on va a "
+"l’encontre des voeux de libération individuelle. Quand on se retouve ainsi à"
+" les pratiquer ensemble, le voeux supérieurs prévalent."
+msgstr ""
+
+#  25. དེ་ལྟར་ནའང་བསམ་པ་དང་ཐབས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པས་སོ་
+# 
+# ཐར་གྱི་བཅས་འདས་ཉེས་པ་མི་འབྱུང་བས་འོག་མའི་སྐྱོན་ཟིལ་
+# 
+# གྱིས་གནོན།་
+msgctxt "line 6, Livre5_4-3.3.txt"
+msgid ""
+"Agir ainsi élimine ce qui est une faute dans un véhicule inférieure car si "
+"l’on transgresse les voeux de libération individuelle avec une intention et "
+"des moyens habiles spécifiques, cela n’entraînera pas de faute."
+msgstr ""
+
+#  26. ཉེས་ལྟུང་མེད་པ་ཙམ་དུ་མ་ཟད་གོང་མའི་ཕན་ཡོན་རྒྱ་ཆེན་
+# 
+# པོ་འབྱུང་བས་ཡོན་ཏན་ཡར་ལྡན་ཡིན་ཅེས་་
+msgctxt "line 7, Livre5_4-3.3.txt"
+msgid ""
+"Non seulement il n’y aura ni faute ni chute, mais aussi les qualités des "
+"pratiques supérieures apparaitrons en le pratiquant. Par conséquent, les "
+"qualités d’un système de pratique inférieur sont contenus dans le système "
+"supérieur. C’est ce qu’il dit."
+msgstr ""
+
+#  27. མཉམ་མེད་དྭགས་པོ་ཉིད་དང་རྗེས་འབྲང་ཟུང་བཞི་ཡ་བརྒྱད་ཀྱི་མཁས་
+# 
+# གྲུབ་རྣམས་དང༌། ཁྱད་པར་རྒྱལ་དབང་ཐམས་ཅད་མཁྱེན་པ་བདུན་པ་ཆོས་
+# 
+# གྲགས་རྒྱ་མཚོའི་ཞལ་སྔ་ནས་གསུངས་སོ། །་
+msgctxt "line 8, Livre5_4-3.3.txt"
+msgid ""
+"C’est ce que disent l’inégalable Gampopa et ses successeurs les érudits et "
+"les accomplis des quatre écoles séniors et des huit écoles juniors (des "
+"kagyupas) et plus spécifiquement l’omniscient spetième Karmapa Tcheudrak "
+"Gyamtso."
 msgstr ""
