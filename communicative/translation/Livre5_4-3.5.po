@@ -1,0 +1,179 @@
+# 
+# Translators:
+# Damien Jampa, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2023\n"
+"Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#  1. དགེ་ལྡན་པ་རྣམས་ཐ་དད་རྟེན་ཅན་ཏེ། ། 2. སོ་སོར་ལུང་དང་རིགས་པའི་
+# 
+# སྒྲུབ་བྱེད་མང༌། །་
+msgctxt "line 1, Livre5_4-3.5.txt"
+msgid ""
+"Pour les Gedenpas (Geloukpas) ils sont différents et le précédent est "
+"fondation du suivant. En effet, Chacune de ces assertions se prouve par les "
+"nombreuses ecritures et le raisonements."
+msgstr ""
+"« Pour les Gédenpas (Géloukpas) ils sont différents, et le voeux précédent est fondation du suivant. \n"
+"Leurs assertions trouvent leurs preuves dans  les nombreuses écritures et dans le raisonnement. »"
+
+#  3. རི་བོ་དགེ་ལྡན་པ་ནི་ཐོབ་ཚུལ་གཏོང་རྒྱུ་སོ་སོར་ངེས་པས་
+# 
+#  4. སྡོམ་གསུམ་ཚུལ་ཐ་དད། 5. འོག་མ་གོང་མའི་ཡན་ལག་ཏུ་འགྱུར་བའི་
+# 
+# དཔེར། 6. སྣོད་ཤིན་ཏུ་དྭངས་པར་ཆུ་གཙང་བླུགས་པའི་ནང་དུ་རིན་པོ་
+# 
+# ཆེ་ཨིནྡྲ་ནཱི་ལ་ལྟ་བུ་བཅུག་ན་ 7. ཆུ་མདོག་ཀྱང་ 8. རིན་པོ་
+# 
+# ཆེའི་ཁ་དོག་ཏུ་འགྱུར་བས་མཚོན་པས་ 9. གོང་མ་འོག་མའི་རྟེན་
+# 
+# ཅན་དུའང་དོན་གྱིས་བཞེད་པ་སྟེ། 10. ལུགས་དེ་དག་སོ་སོ་ནས་ལུང་
+# 
+# དང་རིགས་པའི་སྒྲུབ་བྱེད་མང་དུ་མཛད་པར་སྣང་ངོ༌། །་
+msgctxt "line 2, Livre5_4-3.5.txt"
+msgid ""
+"Pour les Riwo Gédenpas, il s’avère (il est certain) que la manière des les "
+"obtenir et de les perdre est propre (à chaque type de voeux) par conséquent "
+"les trois voeux sont différents (sont d’essence différentes). Le type de "
+"voeux inférieur devenant une branche de celui supérieur. Par exemple, si on "
+"verse dans une vase très propre de l’eau pure et qu’on y met un sapphire, la"
+" couleur même de l’eau prendra celle du joyau. Cet exemple exprime leur "
+"opinion comme quoi les voeux supérieurs se basent sur les voeux inférieurs. "
+"Ils ont en effet, largement prouvé cette assertion en se basant sur des "
+"citations et des raisonement propres à chaque catégorie de voeux."
+msgstr ""
+"Pour les Riwo Gédenpas, il est évident que la manière de prendre les vœux et les causes qui les font briser est propre à chaque système et que par conséquent les trois types de vœux sont de nature différentes.\n"
+"\n"
+"Ils affirment aussi que quand on prend un vœux supérieur, le vœux inférieur pris précédemment prends les attributs du vœux supérieur. Par exemple, quand on immerge un saphir dans un vase propre rempli d’eau pure, l’eau prends elle aussi la couleur du joyau.\n"
+"Cet exemple illustre leur opinion comme quoi les vœux supérieurs s’appuient sur les vœux inférieurs. \n"
+"Ils ont largement prouvé ces assertions en se basant sur des citations et des raisonnement propres à chaque catégorie de vœux."
+
+#  11. གསུམ་པ་ནི། 12. སུམ་ལྡན་རྡོ་རྗེ་འཛིན་མཆོག་བརྩོན་ལྡན་ན། ། 13.
+# ཚེ་ལུས་གཅིག་གིས་
+# 
+# རྡོ་རྗེ་འཆང་འགྲུབ་འགྱུར། །་
+msgctxt "line 3, Livre5_4-3.5.txt"
+msgid ""
+"3. Un détenteur du Vajra qui posséde les trois voeux est suprême et s’il s’y"
+" applique, Deviendra Vajradhara en une vie et avec un seul corps."
+msgstr ""
+"3. Les bienfaits\n"
+"\n"
+"« Un détenteur du Vajra qui possède les trois vœux est suprême et s’il s’y applique, \n"
+"Deviendra Vajradhara en une vie et avec un seul corps. »"
+
+#  14. སུམ་ལྡན་རྡོ་རྗེ་འཛིན་པ་ནི་གཙོ་བོའི་སྒྲས་སྨོས་པ་སྟེ། 15. སྔགས་པ་
+# 
+# རྣམས་ཀྱི་མཆོག་དེའམ། 16. གང་ཡང་སྔགས་ཀྱི་སྒོར་ཞུགས་པ་རྣམས་དམ་ཚིག་
+# 
+# མ་ཉམས་ཤིང་ 17. ལམ་ལ་བརྩོན་འགྲུས་དང་ལྡན་ན། ཚེ་གཅིག་ལུས་གཅིག་
+# 
+# གིས་རྡོ་རྗེ་འཆང་གི་གོ་འཕང་འགྲུབ་པར་འགྱུར་བ་ 18. རྒྱུད་སྡེ་
+# 
+# རྣམས་ལས་ཡང་ཡང་གསུངས་ཤིང༌།་
+msgctxt "line 4, Livre5_4-3.5.txt"
+msgid ""
+"Un détenteur du vajra qui posséde les trois voeux, est considéré comme "
+"supérieurs; Il est suprême parmi les pratiquants du Mantra et aussi ceux qui"
+" sont sur la voie (litt. porte) du mantra, n’ont pas endomagé leurs liens "
+"sacrés et qui possède la persévérance sur la voie (s’adonne à la voie avec "
+"effort enthousiaste); atteindront (litt. deviendront) l’état de vajradhara "
+"en une seule vie et avec un seul corps. C’est ce qui est dit encore et "
+"encore dans les différents classes de Tantra. De plus (a ce sujet),"
+msgstr ""
+"Dans les différentes classes de Tantra il est dit à maintes reprises qu’un "
+"détenteur du vajra qui possède les trois vœux, est considéré comme "
+"supérieurs car il est suprême parmi les pratiquants du Mantra et que ceux "
+"qui sont sur la voie du mantra, qui n’ont pas endommagé leurs liens sacrés "
+"et qui s’adonnent à la voie avec un effort enthousiaste, atteindront l’état "
+"de Vajradhara en une seule vie et avec un seul corps. "
+
+#  19. རྗེ་རང་བྱུང་ཞབས་ཀྱིས་ཀྱང༌། 20. མ་ཉམས་རབ་ནི་ཚེ་གཅིག་གིས། ། 21.
+# རྡོ་རྗེ་སེམས་
+# 
+# དཔའ་ཉིད་འགྲུབ་ཅིང༌། ། 22. ཐུན་མོང་དངོས་གྲུབ་ཐམས་ཅད་ཀུན། ། 23.
+# ཐོགས་མེད་བསམ་པ་
+# 
+# ཙམ་གྱིས་འགྲུབ། ། 24. ཅེས་གསུངས།་
+msgctxt "line 5, Livre5_4-3.5.txt"
+msgid ""
+"le vénérable (Karmapa) Rangjung Dorje à dit: Les meilleurs, ceux qui ne les "
+"ont pas endomagés, en une seule vie, réaliseront (accompliront) l’état de "
+"Vajrasattva (de l’être adamantin) et tous les accomplissements ordinnaires "
+"s’accompliront sans restreinte. C’est ce qu’il a dit."
+msgstr ""
+"le vénérable (Karmapa) Rangjung Dorje à dit: \n"
+"\n"
+"« Les meilleurs, ceux qui ne les ont pas endommagés, \n"
+"En une seule vie, réaliseront l’état de Vajrasattva (de l’être adamantin) \n"
+"Et tous les accomplissements ordinaires \n"
+"S’accompliront sans restreinte. »"
+
+#  25. ལམ་ལ་བརྩོན་མི་ནུས་ཀྱང་དམ་ཚིག་མ་ཉམས་ན་ 26. ཡུན་རིང་མི་
+# 
+# འགོར་བར་དངོས་གྲུབ་ཐོབ་སྟེ།་
+msgctxt "line 6, Livre5_4-3.5.txt"
+msgid ""
+"Ceux qui n’ont pas la capacité de s’adonner à la voie avec persévérence mais"
+" si ils ne détériorent pas leurs liens sacrés obtiendront les "
+"accomplissements sans attendre (sans que cela prenne du temps). En effet,"
+msgstr ""
+"Ceux qui n’ont pas la capacité de s’adonner à la voie avec persévérance mais"
+" ne détériorent pas leurs liens sacrés obtiendront les accomplissements sans"
+" attendre."
+
+#  27. རྒྱུད་ལས། 28. གལ་ཏེ་དམ་ཚིག་སྡོམ་ལ་གནས། ། 29.
+# སྐྱེ་འདིར་ལས་དབང་གིས་མ་འགྲུབ། ། 30. སྐྱེ་
+# 
+# བ་གཞན་དུ་དངོས་གྲུབ་ཐོབ། ། 31. ཅེས་གསུངས་པ་ལྟར་རོ། །་
+msgctxt "line 7, Livre5_4-3.5.txt"
+msgid ""
+"Les tantras disent: Supposons que l’on tienne les liens sacrés et les voeux "
+"mais que, sous l’infulence de notre karma, on n’atteint pas (les "
+"accomplissements) dans cette vie, on obteindra les accomplissements dans une"
+" vie suivante. Il en est tel que c’est énoncé."
+msgstr ""
+"Les tantras disent: \n"
+"\n"
+"« Supposons que l’on tienne les liens sacrés et les vœux mais que, \n"
+"Sous l’influence de notre karma, on n’atteint pas les accomplissements dans cette vie,\n"
+"on les obtiendra  dans une vie suivante. »\n"
+"Il en est tel que c’est énoncé."
+
+#  32. རིག་འཛིན་གྱི་སྡོམ་པ་སྤྱིར་བཤད་པ་དང་བཅས་པ་སྐབས་བཞི་པའི་
+# 
+# འགྲེལ་པའོ། །་
+msgctxt "line 8, Livre5_4-3.5.txt"
+msgid ""
+"Ceci etait le commentaire de la quatrièmme section (de ce livre) portant sur"
+" les voeux des tenants de la conscience pure et leur explication générale."
+msgstr ""
+"Ceci termine le commentaire de la quatrième section de ce livre présentant "
+"une explications générale des vœux des tenants de la conscience ainsi qu’un "
+"résumé des trois voeux."
+
+#  33. ཐེག་པའི་སྒོ་ཀུན་ལས་བཏུས་པ་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་བསླབ་
+# 
+# པ་གསུམ་ལེགས་པར་སྟོན་པའི་བསྟན་བཅོས་ཤེས་བྱ་ཀུན་ཁྱབ་ཅེས་
+# 
+# བྱ་བ་ལས་ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པར་ཕྱེ་
+# 
+# བ་སྟེ་གནས་ལྔ་པའི་འགྲེལ་པ་གྲུབ་བོ།། །།་
+msgctxt "line 9, Livre5_4-3.5.txt"
+msgid ""
+"Ceci était le commentaire sur l’entrainement à la discipline supérieure, le "
+"Livre Cinq du Traité de la Connaissance Globale – Le Trésor des précieux "
+"discours du Bouddha –, compendium de tous les véhicules, qui expose de façon"
+" excellente les Trois Entraînements."
+msgstr ""
+"Ici termine le commentaire sur l’entrainement à la discipline supérieure, le"
+" Livre Cinq du Traité de la Connaissance Globale – Le Trésor des précieux "
+"discours du Bouddha –, compendium de tous les véhicules, qui expose de façon"
+" excellente les Trois Entraînements."
