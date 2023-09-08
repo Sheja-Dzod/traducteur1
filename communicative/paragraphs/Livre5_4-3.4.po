@@ -38,11 +38,9 @@ msgstr ""
 
 #  10. དགག་བྱ་ཉོན་མོངས་པ་རང་མཚན་པ་སྤོང་བ་དང༌། 11. དགོས་པ་ཉོན་མོངས་
 # 
-# པས་མི་འཆིང་བ་གནད་གཅིག་པས་དགག་འོས་དགག་དགོས་ཡོངས་རྫོགས། 12. ཟངས་
+# པས་མི་འཆིང་བ་གནད་གཅིག་པས་དགག་འོས་དགག་དགོས་ཡོངས་རྫོགས།་
 # 
-# རྡོ་ལས་ཟངས་དང་དེའང་གསེར་འགྱུར་གྱི་རྩིས་གསེར་དུ་བསྒྱུར་བའི་
 # 
-# དཔེས་་
 msgctxt "line 3, Livre5_4-3.4.txt"
 msgid ""
 "Rejeter ce à quoi il faut renoncer : les émotions perturbatrices "
@@ -50,22 +48,24 @@ msgid ""
 "essentiel commun (aux trois vœux). Par conséquent tous (les trois systèmes "
 "de vœux) permettent de rejeter totalement et avec le même but ce qui se doit"
 " d’être rejeté (ce dont il est nécessaire de se délivrer, ce qui se doit "
-"d’être éliminé). A l’image du cuivre extrait du minerai de cuivre puis "
-"transformé en or par l’alchimie de l’or (litt. Le produit qui transforme en "
-"or),"
+"d’être éliminé)."
 msgstr ""
 
-#  13. སོ་ཐར་སྡོམ་པ་དེ་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱིས་ཟིན་ན་དེའི་སྡོམ་
+#  12. ཟངས་རྡོ་ལས་ཟངས་དང་དེའང་གསེར་འགྱུར་གྱི་རྩིས་གསེར་དུ་བསྒྱུར་བའི་
 # 
-# པ་དང༌། 14. དེའང་ཐབས་ཤེས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པ་ན་ 15. སྔགས་སྡོམ་
+# དཔེས་ 13. སོ་ཐར་སྡོམ་པ་དེ་ཐེག་ཆེན་སེམས་བསྐྱེད་ཀྱིས་ཟིན་ན་
 # 
-# དུ་གནས་འགྱུར་བས་ངོ་བོ་གནས་འགྱུར།་
+# དེའི་སྡོམ་པ་དང༌། 14. དེའང་ཐབས་ཤེས་ཁྱད་པར་ཅན་གྱིས་ཟིན་པ་ན་
+# 
+#  15. སྔགས་སྡོམ་དུ་གནས་འགྱུར་བས་ངོ་བོ་གནས་འགྱུར།་
 msgctxt "line 4, Livre5_4-3.4.txt"
 msgid ""
-"les vœux de libération individuelle deviennent des vœux du Grand Véhicule si"
-" ils sont embrassés par l’esprit d’éveil et deviennent des vœux du mantra si"
-" utilisé avec des moyens habiles particuliers. C’est la raison pour laquelle"
-" leur essence est évolutive."
+"A l’image du cuivre extrait du minerai de cuivre puis transformé en or par "
+"l’alchimie de l’or (litt. Le produit qui transforme en or), les vœux de "
+"libération individuelle deviennent des vœux du Grand Véhicule si ils sont "
+"embrassés par l’esprit d’éveil et deviennent des vœux du mantra si utilisé "
+"avec des moyens habiles particuliers. C’est la raison pour laquelle leur "
+"essence est évolutive."
 msgstr ""
 
 #  16. གོང་མའི་སྡོམ་པ་ཉམས་སུ་བླངས་པས་ 17. འོག་མའི་དགག་དགོས་ཡར་ལྡན་
@@ -74,9 +74,7 @@ msgstr ""
 # 
 # ཅིག་འགལ་བ་ལྟར་སྣང་ཡང་ལྟ་བ་དང་ཐབས་ཀྱི་སྤྱོད་པའི་
 # 
-# གནད་ཀྱིས་མི་འགལ་ལ། 20. དུས་སྐབས་ཀྱིས་གཙོ་བོར་གང་འགྱུར་སྤྱད་པར་
-# 
-# གསུངས་པ་དང༌།་
+# གནད་ཀྱིས་མི་འགལ་ལ།་
 msgctxt "line 5, Livre5_4-3.4.txt"
 msgid ""
 "Pusique, quand on applique les vœux d’un véhicule supérieur les qualités "
@@ -85,9 +83,15 @@ msgid ""
 " Par conséquent, même si en apparence on a l’impression d’aller à l’encontre"
 " de certains vœux à tenir, puisque l’on agit avec la vue et les moyens "
 "habiles, en ce qui concerne le sens il n’y a pas de contravention. (pas "
-"d’incohérence). Ils disent aussi qu’il faut adapter sa conduite selon les "
-"situations (litt, appliquer principalement (soit la conduite du hinaya, soit"
-" celle du mayahana selon les circonstances)"
+"d’incohérence)."
+msgstr ""
+
+#  20. དུས་སྐབས་ཀྱིས་གཙོ་བོར་གང་འགྱུར་སྤྱད་པར་གསུངས་པ་དང༌།་
+msgctxt "line 6, Livre5_4-3.4.txt"
+msgid ""
+"Ils disent aussi qu’il faut adapter sa conduite selon les situations (litt, "
+"appliquer principalement (soit la conduite du hinaya, soit celle du mayahana"
+" selon les circonstances)"
 msgstr ""
 
 #  21. པཎ་ཆེན་པདྨ་དབང་རྒྱལ་གྱིས། 22. སྡིག་ཏོ་མི་དགེའི་ཕྱོགས་དང་ཚོགས་པའི་གསེབ།
@@ -99,7 +103,7 @@ msgstr ""
 # འདོམ་ན་དགག་
 # 
 # དགོས་བརྩི་ཞེས་མཁས་རྣམས་བཞེད། ། 26. ཅེས་གསུངས་སོ། །་
-msgctxt "line 6, Livre5_4-3.4.txt"
+msgctxt "line 7, Livre5_4-3.4.txt"
 msgid ""
 "Penchen Pema Wangyal dit : Pour les actes naturellement négatifs et la "
 "conduite a tenir en publique, on applique l’inférieure (la conduite des "
