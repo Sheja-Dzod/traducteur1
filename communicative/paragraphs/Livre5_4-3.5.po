@@ -99,17 +99,22 @@ msgstr ""
 #  27. རྒྱུད་ལས། 28. གལ་ཏེ་དམ་ཚིག་སྡོམ་ལ་གནས། ། 29.
 # སྐྱེ་འདིར་ལས་དབང་གིས་མ་འགྲུབ། ། 30. སྐྱེ་
 # 
-# བ་གཞན་དུ་དངོས་གྲུབ་ཐོབ། ། 31. ཅེས་གསུངས་པ་ལྟར་རོ། ། 32. རིག་འཛིན་གྱི་སྡོམ་
-# 
-# པ་སྤྱིར་བཤད་པ་དང་བཅས་པ་སྐབས་བཞི་པའི་འགྲེལ་པའོ། །་
+# བ་གཞན་དུ་དངོས་གྲུབ་ཐོབ། ། 31. ཅེས་གསུངས་པ་ལྟར་རོ། །་
 msgctxt "line 7, Livre5_4-3.5.txt"
 msgid ""
 "Les tantras disent: Supposons que l’on tienne les liens sacrés et les voeux "
 "mais que, sous l’infulence de notre karma, on n’atteint pas (les "
 "accomplissements) dans cette vie, on obteindra les accomplissements dans une"
-" vie suivante. Il en est tel que c’est énoncé. Ceci etait le commentaire de "
-"la quatrièmme section (de ce livre) portant sur les voeux des tenants de la "
-"conscience pure et leur explication générale."
+" vie suivante. Il en est tel que c’est énoncé."
+msgstr ""
+
+#  32. རིག་འཛིན་གྱི་སྡོམ་པ་སྤྱིར་བཤད་པ་དང་བཅས་པ་སྐབས་བཞི་པའི་
+# 
+# འགྲེལ་པའོ། །་
+msgctxt "line 8, Livre5_4-3.5.txt"
+msgid ""
+"Ceci etait le commentaire de la quatrièmme section (de ce livre) portant sur"
+" les voeux des tenants de la conscience pure et leur explication générale."
 msgstr ""
 
 #  33. ཐེག་པའི་སྒོ་ཀུན་ལས་བཏུས་པ་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་བསླབ་
@@ -119,7 +124,7 @@ msgstr ""
 # བྱ་བ་ལས་ལྷག་པ་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པའི་རིམ་པར་ཕྱེ་
 # 
 # བ་སྟེ་གནས་ལྔ་པའི་འགྲེལ་པ་གྲུབ་བོ།། །།་
-msgctxt "line 8, Livre5_4-3.5.txt"
+msgctxt "line 9, Livre5_4-3.5.txt"
 msgid ""
 "Ceci était le commentaire sur l’entrainement à la discipline supérieure, le "
 "Livre Cinq du Traité de la Connaissance Globale – Le Trésor des précieux "
