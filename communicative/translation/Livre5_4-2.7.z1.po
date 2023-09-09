@@ -22,6 +22,9 @@ msgid ""
 "ne faut pas se défaire Mikyo Gawa les exprime en lien avec les quatre "
 "initiations"
 msgstr ""
+"2. D’autre classifications des liens sacrés\n"
+"« Voici les quatre liens sacrés concernant ce qui est à tenir, l’alimentation, la conduite et ce dont il ne faut pas se défaire.\n"
+"Mikyo Gawa les expliques en lien avec les quatre initiations. »"
 
 #  4. བླ་མེད་ཀྱི་དམ་ཚིག་ཐམས་ཅད་དབང་བཞིའི་དམ་ཚིག་ཏུ་འདུ་སྟེ། 5. དེའང་
 # 
@@ -71,6 +74,10 @@ msgid ""
 "initiations, recouvre tous les voeux. Cette brève présentation alternative "
 "est ce que pense l’omnisicent Mikyeu Gawa."
 msgstr ""
+"3. Les liens sacrés en lien avec la conduite sont ceux obtenus lors de l’initiation de connaissance-sagesse. Ce sont les liens sacrés spéciaux comme celui de ne pas tuer d’être vivants. \n"
+"4. Les liens sacrés concernant ce don’t il ne faut pas se séparer sont ceux obtenus lors de la quatrième initiation. Ce sont, les attributs de l’Herouka et pratiquer avec une consorte de sagesse. \n"
+"\n"
+"Cette présentation des quatre liens sacrés en relation avec les quatre initiations, recouvre tous les voeux."
 
 #  14. བསྲུང་བྱ་རྩ་ལྟུང་བསྒྲུབ་བྱ་རིགས་དྲུག་སྟེ། །ཉམས་ལེན་འབྲེལ་ལ་ཡོ་བྱད་
 # 
@@ -144,3 +151,12 @@ msgid ""
 "l’objet et le sujet; les conditions extérieures et intérieures; et dans "
 "l’activité éveillée d’annihilation et de protection."
 msgstr ""
+"« Le vainqueur Rangjung Dorje les regroupe en quatre » \n"
+"\n"
+"Dans l’Océan des liens sacrés, l’omniscient vainqueur Rangjung Dorje dit: \n"
+"« Tous les liens sacrés se retrouvent dans\n"
+"Les Joyaux et l’esprit d’éveil extérieur et intérieur; \n"
+"L’objet et le sujet; les conditions extérieures et intérieures; \n"
+"Et dans l’activité éveillée d’annihilation et de protection. »\n"
+"\n"
+"(l'explication vient dans le document suivant)"
