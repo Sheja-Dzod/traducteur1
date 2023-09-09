@@ -29,6 +29,10 @@ msgid ""
 "séminale) cause de l’obtention du fruit de la bouddhéité, le mahamudra, sont"
 " les causes des accomplissements."
 msgstr ""
+"Le Tantra racine de Chakrasamvara quant à lui, expose huit liens sacrés spécifiques : \n"
+"\n"
+"1. Le lien sacré en lien avec les pratique suivantes : le karmamudra (avec une parèdre en chaire et en os) pour l’union dans le monde du désir, le Janamudra (avec une parèdre visualisé) pour le monde de la forme, le non-mouvement de la bodhiccita (essence séminale) cause de l’obtention du fruit de la bouddhéité, le mahamudra, sont les causes des accomplissements. (230)\n"
+"(autre compréhension : le lien sacré concernant la non emission de la bodhiccita (essence séminale). Le non mouvement de la bodhiccitta est la cause du plaisir obtenu dans le monde du désir par le karmamudra  (avec une parèdre en chaire et en os) ; la cause du plaisir dans le monde de la forme obtenu par le janamudra (avec une parèdre visualisé) et la cause pour l’obtention du fruit de la bouddhéité par le mahamudra. La non-émission de l’essence séminale est la cause de l’obtention des accomplissements ou pouvoirs)."
 
 #  5. ཤེས་རབ་ཀྱི་ཆགས་པས་མགྲིན་སྙིང་ལྟེ་གསང་གི་གནས་སུ་དགའ་བ་
 # 
@@ -110,6 +114,10 @@ msgid ""
 "diverse manières avec l’esprit dans la félicité est “s’activer (litt. "
 "baratter, remuer) dans l’action avec les femmes (l’accouplement parfait)”."
 msgstr ""
+"6. Parfaitement maintenir (235) le lien sacré de l’activité avec les "
+"femmes : constament s’appliquer à la conduite transcendante de samantabhadra"
+" (236), c’est à dire, accomplir le bien des êtres de diverse manières en "
+"maintenant son esprit dans la félicité."
 
 #  10. རྟག་ཏུ་འཕོ་བ་མེད་པའི་ཚུལ་ཁྲིམས་ལ་གནས་པ་ནི་ཚངས་པར་
 # 
