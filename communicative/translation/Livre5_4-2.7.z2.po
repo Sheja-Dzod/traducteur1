@@ -60,6 +60,9 @@ msgid ""
 "seconds rélèvent des voeux des cinq familles, des liens sacrés des "
 "initiations supérieures etc."
 msgstr ""
+"« En résumé, on peut les regrouper en deux catégories : proscription et prescription »\n"
+"\n"
+"En résumé, on peux regrouper ces liens sacrés précédement mentionnés en proscriptions (ce dont il faut se préserver) et préscriptions (ce qu’il faut accomplir). Les premiers concernent les chutes racines et secondaires ainsi que les conduites supérieures. Les seconds rélèvent des voeux des cinq familles, des liens sacrés des initiations supérieures etc."
 
 #  8. དྲོད་ཐོབ་བརྟུལ་ཞུགས་དྲུག་ཏུ་གུར་ལས་གསུངས། ། 9.
 # ཏིང་ངེ་འཛིན་བརྟན་ཞིང་དྲོད་
@@ -88,6 +91,15 @@ msgid ""
 "soeurs vajras mais ne rendez pas hommage aux autres maîtres. Voilà ce qui a "
 "été dit. Ensuite (pour développer) :"
 msgstr ""
+"« La Tente Vajra enseigne six conduites supérieures pour les partiquants qui ont atteint la chaleur. »\n"
+"\n"
+"Dans la Tente Vajra sont enseignés six types de conduite supérieure pour les individus dont l’absorption méditative est stable et qui ont atteint l'étape de la chaleur de la sagesse primordiale : (245)\n"
+"« Laissez de coté le moudra qui enchaine;\n"
+"N’accomplissez plus les activitées relatives aux supports d’offrandes ;\n"
+"Ne rendez plus hommage aux supêmes trois Vajras ;\n"
+"Abandonnez les activités du corps comme celles en liens avec les mandalas : \n"
+"Ne les accomplissez même pas en rêve ;\n"
+"Rendez homage au Lamas et aux frères et soeurs vajras; Mais ne rendez pas hommage aux autres maîtres. »"
 
 #  16. ཕྱི་རོལ་གྱི་ཕྱག་རྒྱ་འཆིང་བ། སཱཙྪ་གདབ་པ། རྡོ་རྗེ་གསུམ་གྱི་གཟུགས་བརྙན་
 # 
