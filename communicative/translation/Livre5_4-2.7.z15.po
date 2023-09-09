@@ -47,11 +47,9 @@ msgid ""
 "extérieurs, intérieurs et secrets, et chacun de ces aspects divisé en trois."
 " Cela donne vingt-sept lien sacrés communs."
 msgstr ""
-"En ce qui concerne les liens sacrés communs et spécifiques de la tradition "
-"de l’Atiyoga, la Grande Perfection, les vingt-sept communs sont les trois "
-"liens sacrés racine relatifs au corps, à la parole et à l’esprit éveillés, "
-"chacun déclinés selon leur aspect extérieur, intérieur et secret, qui eux-"
-"mêmes se déclinent en trois. "
+"1. Les liens sacrés communs\n"
+"\n"
+"En ce qui concerne les liens sacrés communs et spécifiques de la tradition de l’Atiyoga, la Grande Perfection, les vingt-sept communs sont les trois liens sacrés racine relatifs au corps, à la parole et à l’esprit éveillés, chacun déclinés selon leur aspect extérieur, intérieur et secret, qui eux-mêmes se déclinent en trois. "
 
 #  6. དང་པོ་སྐུའི་དམ་ཚིག་གསུམ་ཚན་གསུམ་གྱི་ཕྱིའི་དམ་ཚིག་ཕྱི་ནང་
 # 
