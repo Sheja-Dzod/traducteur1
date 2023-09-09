@@ -15,7 +15,7 @@ msgstr ""
 #  1. གཉིས་པ་ཁྱད་པར་ཆེན་པོའི་དམ་ཚིག་བཞི་ནི།་
 msgctxt "line 1, Livre5_4-2.7.z16.txt"
 msgid "2. Les quatre liens sacrés exceptionnels."
-msgstr "2. Les quatre liens sacrés exceptionnels"
+msgstr "2. Les quatre liens sacrés spécifiques"
 
 #  2. ངོ་བོ་ཀ་དག་ལ་བལྟས་ནས་ཁྲེགས་ཆོད་ཀྱི་དམ་ཚིག་ཏུ་སྣོད་
 # 
