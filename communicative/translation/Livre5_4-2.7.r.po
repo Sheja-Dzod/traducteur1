@@ -25,6 +25,9 @@ msgid ""
 "fautes mineures et une présentation annexe des liens sacrés concernant les "
 "quatre initiations."
 msgstr ""
+"3. L’explication des liens sacrés concernant les restrictions \n"
+"\n"
+"Cette section se décline en quatre parties : les chutes racines, les chutes secondaires, les 28 fautes mineures et une présentation annexe des liens sacrés en lien avec les quatre initiations."
 
 #  3. དང་པོ་ནི། 4. དམ་ཚིག་རྩ་བའི་ལྟུང་བ་བཅུ་བཞི་སྟེ། ། 5. སློབ་དཔོན་བརྙས་དང་
 # 
@@ -43,6 +46,14 @@ msgid ""
 "conceptualiser la telléité; faire perdre la foi; Refuser les substances des "
 "liens sacrés; manquer de respect envers les femmes."
 msgstr ""
+"1. Les chutes racines\n"
+"\n"
+"« Les liens sacrés concernant quatorze chutes racines sont : \n"
+"Manquer de respect au maître, transgresser les instructions et se mettre en colère contre ses frères et soeurs spirituels ; \n"
+"Abandonner l’amour, rejeter l’esprit d’éveil et critiquer le dharma ;\n"
+"Révéler les secrets, maltraiter ses agrégats et douter; \n"
+"Aimer les mauvais, conceptualiser la telléité et faire perdre la foi; \n"
+"Refuser les substances des liens sacrés et manquer de respect envers les femmes. »"
 
 #  10. དེའང་དམ་ཚིག་གི་སྐད་དོད་ས་མ་ཡ་ནི། 11. ཇི་སྐད་དུ། 12. ས་མ་ཡ་
 # 
