@@ -69,6 +69,14 @@ msgid ""
 "l’on ne s’est pas conféssé dans l’année ou dans les trois ans, on a "
 "dépasséle délai. Quand ces sept sont tous présents on a une défaite."
 msgstr ""
+"Les chutes racines sont qualifié de défaite totale quand sept facteurs sont réunis: \n"
+"1. une intention motivée par les émotions perturbatrices; \n"
+"2. être conscient que l’objet de la chute est un objet amenant une chute racine; \n"
+"3. que l’acte soit établi, c’est à dire que l’on ai accompli l’acte négatif physiquement ou verbalement ;\n"
+"4. “qui l’interrmomp’’ signifie que la faute est accomplie complêtement ;\n"
+"5. ne pas regrêter et en être satisfait;\n"
+"6. ne pas être mentalement perturbé ;\n"
+"7. si le Lama est toujours présent et que l’on ne s’est pas conféssé dans l’année ou dans les trois ans, le délai de confession est dépassé. Quand ces sept points sont tous présents on a une défaite."
 
 #  15. ཚད་ལས་མ་འདས་པའི་ཡན་ལག་དྲུག་ཚང་ན་ལྟུང་བ་ཞེས་སོ་
 # 
@@ -99,6 +107,11 @@ msgid ""
 "même manière des fautes graves, des provocateur de chutes ou des fautes "
 "mineures."
 msgstr ""
+"Si les six premiéres branches sont présentent mais que le délai de confession n’est pas encore dépassé, on parle de « chute ». Ceci correspond aux « chutes avec résidu » que l’on trouve dans les voeux de libération personelles. \n"
+"Si une autre branche est manquante mais que l’on accompli l’acte en lui même, on a une « faute grave ».\n"
+"Si plus de branches manquent, on a un “provocateur de chute”. \n"
+"Si on l’accompli juste physiquement ou verbalement sans que les autres branches soient présentes on a l’équivalent d’une « faute mineure »  (selon le code du vinaya). On aura aussi une faute mineure si on accompli l’acte lui-même mais que notre état de conscience est altéré (on est malade etc.) (246) \n"
+"Pour les huit chutes secondaires, la faute sera aussi propotionnelle au nombre de facteurs qui la consitue et on aura des fautes graves, des provocateur de chutes ou des fautes mineures."
 
 #  20. གཞན་གྱི་དོན་དུ་འགྱུར་བར་མཐོང་བ་སོགས་དོན་ཆེན་པོ་དང༌། 21. བར་ཆད་
 # 
@@ -116,6 +129,13 @@ msgid ""
 "faux-semblants (litt. reflets) de fautes mais ne représente aucun méfait. "
 "C’est ce qui est dit dans le Tantra l’Ornement du Coeur Adamantin."
 msgstr ""
+"Le Tantra l’Ornement du Coeur Adamantin (247)explique que les transgressions"
+" accomplies dans un but noble comme en ayant conscience que cela sera "
+"bénéfique à quelqu’un, que l’application du lien sacré crée un obstacle a "
+"notre pratique, qu’on a recu la permission de transgresser l’engagement, que"
+" l’on est malade ou dans l’incapacité de tenir ses liens sacrés etc, sont "
+"des faux-semblants (litt. reflets) de fautes mais ne représentent aucun "
+"méfait. "
 
 #  23. ཡང་ན་རྟེན་གྱི་ཡན་ལག་དམ་ཚིག་ཐོབ་ལ་མ་ཉམས་པ། 24. ཡུལ་གྱི་
 # 
