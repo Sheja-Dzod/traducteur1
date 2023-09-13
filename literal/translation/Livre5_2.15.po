@@ -1047,7 +1047,7 @@ msgstr "les provocateurs de chute,"
 # différent, séparé
 msgctxt "6c571865d17c49898131c38739c812e4"
 msgid "སོ་སོ␣ར་ བཤགས་པ␣འི་ སྡེ །"
-msgstr "les manquements confessables,"
+msgstr "les fautes confessables,"
 
 msgctxt "0e928d7bad844fd49e84e134cd917e15"
 msgid "ཉེས་བྱས་ ཀྱི་ སྡེ␣འོ ། །"
