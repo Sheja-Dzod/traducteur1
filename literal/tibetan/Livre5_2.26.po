@@ -1,0 +1,462 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "e80a797cf8c9486d9b1d97b178467d2c"
+msgid "བཅུ་ ཚན་ ལྔ་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "423a4bc7989f4c259f1de1bb85081b43"
+msgid ""
+"ཆུར་ སྤྱོད་ ཉལ་ས␣ར་ འདུག་ འགྲེང་ གཅེར་བུ␣ར་ སྦྱིན ། ། དམག་ ལ་ ལྟ་ གནས་ བཤམས་"
+" དཀྲུགས་ རྡེག་ གཟ␣ས་ འཆབ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ལོངས་སྤྱོད་པ〞 6149
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""transit"" en astrologie (sens
+# astrologique non trouvé)"
+# 
+# 。︀	〝སྲོག་ཆགས〞 6513
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nom commun pour les animaux, Les insectes,
+msgctxt "201cf09be97b42f79ed398a41105f2b9"
+msgid "སྲོག་ཆགས་ དང་ བཅས་པ␣འི་ ཆུ་ ལ་ ལོངས་སྤྱོད་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝རང་དོན〞 5627
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Son propre bien, Son intérêt personnel, Ses intérêts
+# personnels, Ses propres desseins,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ son propre bien, le but pour soi: atteindre l'Éveil
+msgctxt "36c9fd953af2443b972b1644b8b9a58f"
+msgid "རང་དོན་ དུ་"
+msgstr ""
+
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ལོངས་སྤྱོད་པ〞 6149
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""transit"" en astrologie (sens
+# astrologique non trouvé)"
+# 
+# 。︀	〝སྲོག་ཆགས〞 6513
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nom commun pour les animaux, Les insectes,
+msgctxt "cdf795a2cd8943778f6cbd3ce8025300"
+msgid ""
+"སྲོག་ཆགས་ གནས་པ␣འི་ ཆུ་ ལ་ ཁྲུས་ དང་ བཏུང་བ་ སོགས་ བྱེད་པ་ དང་ རྩྭ་ཤིང་ ལ་ "
+"ལོངས་སྤྱོད་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+msgctxt "819749d05a3b4187804dab2436432960"
+msgid "ཉལ་པོ་ བྱེད་པ␣འི་ ཁྱིམ་ དུ་ གནས་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝ཁྱིམ་པ〞 353
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître de maison, laïc
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "551326b99c9e497f8fadfd754362638a"
+msgid ""
+"ཁྱིམ་པ་ ཕོ་མོ་ ཉལ་པོ་ བྱེད་ ས␣ར་ འདུག་ སྟེ་ དེ་ ལ་བ␣ར་ དུ་ གཅོད་པ␣ར་ "
+"བྱེད་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+msgctxt "1fcf4d5b3c814860820ced81f09260c1"
+msgid "ཉལ་པོ་ བྱེད་པ␣འི་ ཁྱིམ་ དུ་ འགྲེང་བ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝ཁྱད་པར〞 336
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viśeṣa, viśeśa Sens racine: Particularités,
+# distinctions Alternatives: distinctions, différences, signes, qualités
+# distinctifs, qualités spéciales, particulièresparticulièrement, en
+# particulier
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Caractère distinctif, différence, spécificité
+# 
+# 。︀	〝རོ〞 5953
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
+msgctxt "c3114223ee554c3fba24a43dfe6bd716"
+msgid "འདུག་པ་ དང་ འགྲེང་བ␣འི་ ཁྱད་པར་ མ་གཏོགས་ སྔར་ལྟར་ རོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝གཅེར་བུ་པ〞 1264
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ école de "Ceux qui vont nus"
+msgctxt "5564d67c62df439e9e2dcece0145f5cf"
+msgid "གཅེར་བུ་པ་ ལ་ ཟས་སྦྱིན་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "28a5b7179a394179a6db43ef3e07d062"
+msgid "དགོས་པ་ ཁྱད་པར་ཅན་ མེད་པ␣ར་"
+msgstr ""
+
+# 
+# 。︀	〝ཕྱི་རོལ་པ〞 3535
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Une (personne) extérieure (à la traditon), Un non
+# bouddhiste
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "7c810d91359247fc9bb0522a6adeba55"
+msgid "ཕྱི་རོལ་པ་ ལ་ གཏོགས་པ␣འི་ ཕོ་མོ་ ལ་ ཟས་ སྟེར་བ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ལྟ་བ〞 1996
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "regarder, observer; vue"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vue philosophique, Perspective philosophique.
+# Regarder, Regard ⁃ drishti, vue, façon de voir, voir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vue, perspective
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dṛṣṭi, darśana Sens racine: Vue
+# philosophique,Perspective philosophique.Regarder,Regard, view (SL BP)
+# Alternatives: vue, perspective, philosophie, opinion, point de vue
+# philosophique (d'une école), regarder, vision (des choses), vue d'ensemble,
+# optique, façon, manière de voir, regarder, point de vue, percevoir,
+# perspective
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vue, point de vue, vision, opinion ⁃ Vue, opinion ⁃ Vue,
+# l'opinion, le point de vue
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: drishti, vue façon de voir, voir
+msgctxt "9223544c066249aaa8ddb95ca5ea64a2"
+msgid "དམག་ ལ་ ལྟ་བ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝འདས〞 2739
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: soit du samsâra ou du nirvâna le monde
+# manifeste – qu’il soit samsâra ou nirvâna
+# 
+# 。︀	〝མཚམས〞 4793
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intervalle, Intermédiaire, Limite, Jonction,
+# Frontière, Extrémité, Angle, Direction, Période,
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "bd5ba3b5a2b3441fb5cffd21d9afe5bf"
+msgid "མཚམས་ ཀྱི་ ཉེ་འཁོར་ ལ␣ས་ འདས་ ཏེ་"
+msgstr ""
+
+# 
+# 。︀	〝མཐོང་བ〞 2314
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vision, perception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ darśana Sens racine: Voir, see (SL MW)
+# Alternatives: voir, réaliser, percevoir (directement, personnellement, par
+# soi-même), perspicacité, sagacité, reconnaître, (soutenir la) vision (de),
+# témoin, être capable de réaliser
+msgctxt "519a7547aee64fd4ad97100765c07dbc"
+msgid "དམག་ ལ་ ལྟ་ ཞིང་ མཐོང་བ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+msgctxt "3a0f01f21ded4b82a6c2dbefa67b654f"
+msgid "དམག་ གི་ ནང་ དུ་ གནས་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "f660c2de107d4b8b8a41bf7063652680"
+msgid "དགོས་པ་ ཁྱད་པར་ཅན་ མེད་པ␣ར་"
+msgstr ""
+
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝འདས་པ〞 2741
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
+# Dépasser
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
+# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
+# transcender, aller au-delà, surpasser, transcendance
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "94439ccf768f4faba4e987903f306391"
+msgid "དམག་ གི་ ནང་ དུ་ཞག་ གཅིག་ ལ␣ས་ འདས་པ␣ར་ གནས་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "8feccb8e9c7841618b4ff36444d63613"
+msgid "བཤམས་པ་ དཀྲུགས་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+msgctxt "dd3dbac147a5409bad81a9cdacf1d3d7"
+msgid "དགོས་པ་ ཁྱད་པར་ཅན་ མ་ཡིན་པ␣ར་"
+msgstr ""
+
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝རུ〞 5936
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Classe, Division, Région,
+# 
+# 。︀	〝རེག་པ〞 5946
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Toucher, Contact,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le contact (6ème des douze facteurs de la relation
+# interdépendante)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contact ⁃ Contact ⁃ Contact
+msgctxt "f82ccbcf34d048cb92cd12473bfbeff4"
+msgid ""
+"དམག་ གི་ གོ་མཚོན་ དཀྲུགས་ ཤིང་ རེག་པ་ དང་ དཔུང་ གི་ རུ་ བཀོད་ བྱས་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "c0005ad8cf364b07b892ea109c2648fa"
+msgid "རྡེག་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "b53ee16e7dc343978fccd35457ea5344"
+msgid "དགེ་སློང་ ལ་ རང་ གིས་ རྡེག་ གམ་ གཞན་ བརྡེག་ ཏུ་ འཇུག་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "fa8aebe366154694aad2e7b6fe97e297"
+msgid "བརྡེག་པ␣ར་ གཟས་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+msgctxt "265ce2ca2a5c44bebc82933f6460a4df"
+msgid "དགེ་སློང་ ལ་ བརྡེག་པ␣ར་ བརྩམས་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝འཆབ་པ〞 1484
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dissimulation ⁃ Dissimulation
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝གནས་ངན་ལེན〞 3020
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mauvaises tendances, tendances nocives
+msgctxt "e2c757e1f8fc41c4a69b12d3af453042"
+msgid "གནས་ ངན་ ལེན་ འཆབ་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+msgctxt "61533de00b95427195133bb2c316a070"
+msgid "དགོས་པ་ ཁྱད་པར་ཅན་ མ་ཡིན་པ␣ར་"
+msgstr ""
+
+# 
+# 。︀	〝འཆབ་པ〞 1484
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dissimulation ⁃ Dissimulation
+# 
+# 。︀	〝ལྟུང་བ〞 2005
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, ⁃ Déchéances,  Chutes (des voux de
+# libération individuelle)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ apatti, sāvadya Sens racine: Déchéances, Chutes
+# (des vœux de libération individuelle) Alternatives: chuter, choir,
+# transgression, infraction, manquement (à un vœu monastique), chute
+# principale, défaite, ruine morale
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ཤེས་བཞིན〞 6227
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Vigilance ⁃ Vigilance ⁃ vigilance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Attention, Vigilance, Attention vigilante, Vigilance
+# attentive, Etat connaissant, vigile, lucide, de lucidité, de vigilance,
+# d'attention, Observation répétée du corps et de l'esprit,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vigilance, claire conscience
+msgctxt "9a6b0d346fad49378805bf800a0ade17"
+msgid ""
+"དགེ་སློང་ གཞན་ ལ་ ཕམ་ ལྷག་ གི་ ལྟུང་བ་ བྱུང་བ་ ཤེས་བཞིན་ དུ་ འཆབ་པ␣འོ ། །"
+msgstr ""

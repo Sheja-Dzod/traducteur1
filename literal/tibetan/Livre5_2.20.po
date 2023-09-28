@@ -1,0 +1,521 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "2a4ad97a4e884832993fa65419bbbeb1"
+msgid "བཅུ་ ཚན་ གཉིས་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "8f4fcd89c3484b85b2fcb70673741b09"
+msgid ""
+"༡␣སྲིན་བལ་ ༢␣བལ་ ནག་ ༣␣ཆ་ གཉིས་ ༤␣ལོ་ དྲུག་ དང༌ ། ། ༥␣མཐོ་གང་ ༦␣མི་ ལྷན་ "
+"ཁུར་ ༧␣རྨེལ་ ༨␣གསེར་དངུལ་ རེག  །  ༩␣བུན་ སྐྱེད་ ༡༠␣ཉོ་ཚོང༌ །"
+msgstr ""
+
+msgctxt "87ab08fb6a5b4d2d8f67b0f84ab6f5e8"
+msgid "ཞེས་པ་ སྟེ །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "03a3f2e9dd264ea69cab5eb436638bbd"
+msgid "༡␣སྲིན་བལ་ གྱི་ སྟན་ གྱི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝འཁོར་གསུམ〞 450
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Trois sphères ⁃ Trois sphères
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois sphères, les trois mandalas
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ trimaṇḍala, trivarga Sens racine: Les trois
+# sphères, les trois mandalas, three spheres (SL BP) Alternatives: la triple
+# saisie, les trois sphères des concepts, d’un acte, les trois polarités de
+# l’expérience, la triade, cycle composé de trois éléments, la triple polarité
+# de l’acte, d’une action, les trois manivelles de l’acte, triple roue, triple
+# cycle sujet-objet-action, trois types de conceptualisation, les trois
+# facteurs, éléments de toute action, le cercle de trois, les trois roues
+# sujet-objet-acte, les concepts des trois éléments, les trois extrêmes,
+# cercles, éléments, sphères, pôles
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois pôles de l'acte
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ ‘khor gsum dmigs med Sens racine: les trois mandalas (sont
+# les mandalas de sujet, objet et intermédiaire) sans séparer sujet, objet et
+# expérience, les trois indissociés et indissociables
+# 
+# 。︀	〝གྲུབ་པ〞 553
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ créé/e (la forme de la déité)
+# 
+# 。︀	〝དངོས་པོ〞 1090
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ chose, entité (réelle) ⁃ chose, entité (réelle) ⁃
+# "chose (efficiente), entité (réelle""), réalité(s)"""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chose, réel, réalité,  Fonction, action, ⁃ quelque
+# chose existant substanciellement (p66), exister (ex. l'esprit) (p67), la
+# réalité (p102), entité, chose concrète, substance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chose, réalité,  veut dire aussi "thème"; chose
+# substantielle (au sens d'effectuer une fonction); chose substantielle
+# (phénomène existant en général) ⁃ objet
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vastu, bhāva Sens racine: Chose, réel, réalité,
+# Fonction, action,, entity (SL BP)thing (SL MW) Alternatives: bien, chose,
+# ustensiles, objet, substance, entité substantiel, concret, tangible, solide,
+# matérielleun fait, une action ce qui peut effectuer une fonction la chose en
+# elle-même, en soiréalité, matérialité, existence concrète, réalité
+# subjective
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ choses efficientes, substances ⁃ Substance, chose
+# efficiente ⁃ Substance, l'objet matériel, l'entité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: quelque chose existant substanciellement,
+# exister (ex. l’esprit), la réalité entité, chose concrète, substance
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "ab37820b22174ab38574bb94f6989601"
+msgid ""
+"རིན་ཐང་ ཅན་ གྱི་ དངོས་པོ་ སྲིན་བལ་ ལྟ་བུ་ ལ␣ས་ གྲུབ་པ␣འི་ འཁོར་གསུམ་ "
+"ཁེབས་པ␣འི་ མཐ␣འི་ ཚད་ དུ་ ལོངས་པ␣འི་ སྟན་ བྱེད་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "00ef61addad642f2a23bedca20a73532"
+msgid "༢␣བལ་ ནག་ གི་ སྟན་ གྱི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝གྲུབ་པ〞 553
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ créé/e (la forme de la déité)
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "29fd4eb3f4524019a780daf97fbb5185"
+msgid "བལ་ ནག་པོ་ འབའ་ཞིག་ ལ␣ས་ གྲུབ་པ␣འི་ སྟན་ ཚད་ གོང་ དང་ འདྲ་བ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "bbdb183e68d445c694ac85fcfc9dab47"
+msgid "༣␣ཆ་ གཉིས་ བསྲེས་པ␣འི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝ལྷག་པ〞 6720
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Supérieur,  Meilleur,  Excellent,  Reste, qqch qui
+# reste,  Exception, (comme dans sans exception)  Rahoula comme planète
+msgctxt "d6b1e485ddc24955af22d1ff40ae51ae"
+msgid ""
+"སྟན་ ལ་ཆ་ བཞི␣ར་ བགོས་པ␣འི་ ཆ་ གཉིས་ ལ␣ས་ ལྷག་པ་ བལ་ ནག་ གིས་ བྱས་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "8134c7f403a24b79937f9d828dfebc9f"
+msgid "༤␣ལོ་ དྲུག་ གི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུ〞 796
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Cause, Substance, Biens, ⁃ cause
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ matériau (bar cha p.670) ⁃ cause
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hetu, anvayaḥ Sens racine: Cause,Substance,Biens,,
+# cause (SL BP) Alternatives: cause, base (causale), principe, nécessité,
+# graine
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cause, raison ⁃ Cause
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: hetu, cause, cause primaire
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝ཡོད〞 5528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
+msgctxt "48b61c6bf21740f59a46e01535b66abf"
+msgid ""
+"ལོ་ དྲུག་ གི་ བར་ དུ་ ལོངས་ སྤྱད་ རྒྱུ␣འི་ རང་ ལ་ སྟན་ ཡོད་ བཞིན་ དུ་ སྟན་ "
+"གསར་པ་ ཆེད་ དུ་ བྱས་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "1e828807f84643d48cd6c1695bd65a25"
+msgid "༥␣མཐོ་གང་ གི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝གདིང་བ〞 2601
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ assurance (impossible de retrouver ce sens où que ce
+# soit.) Vu avec Georges, à confirmer
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+msgctxt "cb4bc6a4369f4d99928bda54f5765085"
+msgid "གདིང་བ་ གསར་པ་ དྲུབ་པ␣འི་ ཚེ །"
+msgstr ""
+
+# 
+# 。︀	〝བདེ་བ〞 2687
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
+# plaisant, ⁃ félicité, bonheur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
+# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
+# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
+# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
+# plaisir, béatitude, suprême béatitude
+# 
+# 。︀	〝བདེ་བར་གཤེགས་པ〞 2694
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ bien-allé, sugata
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sughata, Parti en félicité, Parti en le bien-être. ⁃
+# Sugata, Parti en la félicité, Celui qui s'en est allé dans la félicité,
+# Bienheureux
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Allé en la joie, une épithète appliquée aux éveillés.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sugata Sens racine: Sughata,Parti en félicité,Parti
+# en le bien-être., sugata (those gone to bliss) (SL BP) Alternatives: (celui
+# qui est, qui s'en est) allé, parti en, qui marche en, qui a atteint l'état
+# de la félicité, allé en la joie, ceux qui s'en furent en la félicité,
+# bienheureuxCelui allé en la joie, le Bienheureux, Celui qui s'en est allé
+# dans la félicité, Celui qui s'en fut dans la paix, Celui qui partit dans la
+# paix
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ celui qui est allé dans le bien, le bien-allé
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝གཤེགས་པ〞 6266
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ h. Aller, Partir, Allé, Parti, Passé, Qui est passé,
+# Qui s'est est allé
+msgctxt "3deb421d5bd4495b9a3d9b12edb1355b"
+msgid ""
+"རྙིང་པ་ ནས་ བདེ་བ␣ར་ གཤེགས་པ␣འི་ མཐོ་གང་ གི་ ཚད་ དེ་ མི␣འི་ ཁྲུ་ ཕྱེད་ དོ་མ་"
+" གླན་པ␣ར་ ལོངས་ སྤྱད་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "810c87d394ee44c99ee159ef38b55a86"
+msgid "༦␣ལམ་ དུ་ བལ་ ཐོགས་པ␣འི་ སྤང་བ་ ནི །"
+msgstr ""
+
+msgctxt "fcfd444ec7cf4a05a8738770ea9ebf08"
+msgid "ཆགས་སེམས་ ཀྱིས་ ཀུན་ ནས་ བསླང་ སྟེ་"
+msgstr ""
+
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+msgctxt "075b7b8f86a24f158638a224cb349b28"
+msgid "བལ་ ལ་སོགས་པ␣འི་ ཁུར་ཆེན་པོ་ ཁུར་ ནས་"
+msgstr ""
+
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝ཉི་མ〞 1689
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ lumière solaire (signe de claire lumière, n238)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lumière solaire (signe de claire lumière)
+# 
+# 。︀	〝འདས་པ〞 2741
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Au-delà, Transcendant, Transcender, Aller au-delà,
+# Dépasser
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṅkrānti, atīta, atikrānta Sens racine: Au-
+# delà,Transcendant,Transcender,Aller au-delà, Dépasser Alternatives:
+# transcender, aller au-delà, surpasser, transcendance
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "dd01a477b1cc4f73a031c209655840a0"
+msgid "ཉི་མ་ གཅིག་ གི་ ནང་ དུ་ རྒྱང་གྲགས་ ལ␣ས་ འདས་པ␣ར་ ཕྱིན་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "052f0f1832434200b9ac1bc2294e4593"
+msgid "༧␣བལ་ འཁྲུར་ འཇུག་པ␣འི་ སྤང་བ་ ནི །"
+msgstr ""
+
+msgctxt "469272dd9f14496ea3c6f35e01d632eb"
+msgid "རང་ གི་ ཉེ་དུ་ མ་ཡིན་པ␣འི་ དགེ་སློང་ མ་ལ་"
+msgstr ""
+
+# 
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+msgctxt "262fc43da81a44d5b18913896f8f848f"
+msgid "བལ་ འཁྲུད་པ་ དང་ རྨེལ་བ་ དང་ འཚེད་ དུ་ འཇུག་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+# 
+# 。︀	〝རེག་པ〞 5946
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Toucher, Contact,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le contact (6ème des douze facteurs de la relation
+# interdépendante)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contact ⁃ Contact ⁃ Contact
+msgctxt "292a380d5a4e417f94f4f52032d04361"
+msgid "༨␣རིན་པོ་ཆེ་ ལ་ རེག་པ␣འི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝སྒོ〞 858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dvāra, mukhāni, mukha, gṛha Sens racine: Porte,
+# portail, Alternatives: porte (sensorielle), avenues (des sens), media,
+# opportunité, portail, approche (à), seuilaspect
+msgctxt "29be310c5d5e4e39ae2e935a316731eb"
+msgid "ཆགས་སེམས་ ཀྱི་ སྒོ་ ནས་"
+msgstr ""
+
+# 
+# 。︀	〝བདག〞 2635
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ identité, le soi ⁃ identité, le soi ⁃ soi, identité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Atman Soi, moi, ego, Entité, être. Maître,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ soi
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ātman, ātmā Sens racine: AtmanSoi, moi, ego,Entité,
+# être.Maître,, self, self-entity  (SL BP) Alternatives: soi, ego, je,
+# ātmanentité, identitéêtreexistence propre, l'ego, le moi, substance
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "moi", "soi" ⁃ Soi
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+# 
+# 。︀	〝གསེར〞 6596
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'or, Le premier joyau
+msgctxt "6b52659a19fb43628f2505172542f90d"
+msgid ""
+"རུང་བ་ མ་ བྱས་པ␣འི་ གསེར་ ལ་སོགས་པ␣འི་ རིན་པོ་ཆེ་ ལ་ རེག་ གམ་ རེག་ ཏུ་ བཅུག་"
+" ནས་ བདག་ གིར་ བྱས་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+msgctxt "f52b3befc83c462b93c5aaa5302eb00c"
+msgid "༩␣མངོན་ཚན་ ཅན་ གྱི་ སྤང་བ་ ནི །"
+msgstr ""
+
+msgctxt "70daf3bcf21c48f2849adbfb863b7046"
+msgid "ཆགས་སེམས་ ཀྱིས་"
+msgstr ""
+
+# 
+# 。︀	〝ཁྱིམ་པ〞 353
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître de maison, laïc
+msgctxt "7c66c15f19cd4e738cbfe393b1ea207a"
+msgid "ཉེ་དུ་ མ་ཡིན་པ␣འི་ ཁྱིམ་པ་ ལ་"
+msgstr ""
+
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+# 
+# 。︀	〝གསེར〞 6596
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'or, Le premier joyau
+msgctxt "5bc77d6d943746dfb2b2b7cc67f15c77"
+msgid "གསེར་ ལ་སོགས་པ་ བུན་ སྐྱེད་ དམ་ ཁེ་སྤོགས་ བྱེད་ དུ་ བཅུག་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྤང་བ〞 3354
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+msgctxt "1d8c2dd87fa14f4ab050dc296567fb88"
+msgid "༡༠␣ཉོ་ཚོང་ བྱེད་པ␣འི་ སྤང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དངོས་པོ〞 1090
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ chose, entité (réelle) ⁃ chose, entité (réelle) ⁃
+# "chose (efficiente), entité (réelle""), réalité(s)"""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chose, réel, réalité,  Fonction, action, ⁃ quelque
+# chose existant substanciellement (p66), exister (ex. l'esprit) (p67), la
+# réalité (p102), entité, chose concrète, substance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chose, réalité,  veut dire aussi "thème"; chose
+# substantielle (au sens d'effectuer une fonction); chose substantielle
+# (phénomène existant en général) ⁃ objet
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vastu, bhāva Sens racine: Chose, réel, réalité,
+# Fonction, action,, entity (SL BP)thing (SL MW) Alternatives: bien, chose,
+# ustensiles, objet, substance, entité substantiel, concret, tangible, solide,
+# matérielleun fait, une action ce qui peut effectuer une fonction la chose en
+# elle-même, en soiréalité, matérialité, existence concrète, réalité
+# subjective
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ choses efficientes, substances ⁃ Substance, chose
+# efficiente ⁃ Substance, l'objet matériel, l'entité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: quelque chose existant substanciellement,
+# exister (ex. l’esprit), la réalité entité, chose concrète, substance
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "c997ef6c33f144d18ebb30fc1815a9f4"
+msgid ""
+"རིན་པོ་ཆེ་ མ་ཡིན་པ␣འི་ དངོས་པོ་ འབྲུ་ སོགས་ གཞན་ ལ་ ཁེ་སྤོགས་ བྱེད་པ་ སྟེ་"
+msgstr ""
+
+# 
+# 。︀	〝དངོས་གཞི〞 1114
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratique principale, corps de la pratique, corps
+# principal de la pratique, pratique proprement dite, sujet principal
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ plan principal (recueillement proprement dit)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ partie principale ⁃ Pratique principale, le sujet
+# principal, le corps principal de la pratique
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pratique principale, corps de la pratique
+# corps principal de la pratique, pratique proprement dite, sujet principal,
+# section principale
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝རོ〞 5953
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
+msgctxt "c464147d88fa4f40b8f7a57f61fbe2d4"
+msgid "སྔ་ཕྱི་ དེ་ གཉིས་ སྐྱེད་ ཐོབ་པ་ ན་ དངོས་གཞི␣ར་ འགྱུར་ རོ ། །"
+msgstr ""
