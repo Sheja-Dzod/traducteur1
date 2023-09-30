@@ -20,8 +20,8 @@ msgid ""
 "A ceux capable de tenir ces conduites supérieures, on donne les vingt "
 "conduites supérieures restantes qui sont:"
 msgstr ""
-"Les vingt conduites supérieures restantes sont transmises à ceux capable de "
-"tenir ces conduites supérieures."
+"Les vingt conduites supérieures restantes sont transmises à ceux qui sont "
+"capables de les tenir."
 
 #  2. རྒྱན་པོ་བཟའ་མིན་ངན་ཚིག་འབྱུང་པོ་དང༌། ། 3. ཀླ་ཀློའི་ཆོས་ནི་བྱ་བ་
 # 
@@ -40,12 +40,12 @@ msgid ""
 "odeurs, saveurs et tactile. Ceci, Ne pas abattre etc. sont les fondements "
 "des liens sacrés et des voeux."
 msgstr ""
-"(texte racine:) \n"
-"Cinq activités a proscrire : Les paris, la nourriture interdite, les propos pervers, l’offrande aux esprits, et les doctrines barbares.\n"
-"Cinq meurtres : tuer un annimal, un enfant, un homme, une femme et détruire un support d’offrande.\n"
-"Cinq conflits : avec les amis, les dirigeants, le Bouddha, la Sangha et ceux digne de confiance;\n"
-"Cinq convoitises : en lien avec les formes, les sons, les odeurs, les saveurs et le tactile. \n"
-"Ces conduites forment les fondements de tous les liens sacrés et vœux."
+"\"Il faut proscrire ce qui suit :\n"
+"-        les cinq activités à bannir : les paris, la nourriture prohibée, les propos malsains, l’offrande aux esprits, et les doctrines barbares ;\n"
+"-        les cinq meurtres : tuer un animal, un enfant, un homme, une femme et détruire un support d’offrande ;\n"
+"-        les cinq conflits : avec les amis, les dirigeants, le Bouddha, la Sangha et ceux qui sont dignes de confiance ;\n"
+"-        les cinq convoitises : en lien avec les formes, les sons, les odeurs, les saveurs et le tactile.\n"
+"Ces conduites constituent les fondements de tous les liens sacrés et vœux.\""
 
 #  8. དེ་ལ་རྒྱན་པོ་སྟེ་ཆོ་ལོ་ནི་དེ་ཉིད་ཀྱི་དུས་འདས་ཏེ་
 # 
@@ -81,6 +81,14 @@ msgid ""
 "particulièrement négatifs qu’il faut proscrire. C’est le cinquième "
 "(engagement)."
 msgstr ""
+"Les cinq activités particulièrement négatifs à bannir sont :\n"
+"\n"
+"1.     faire des paris, comme les jeux de dés qui sont une perte de temps et amenuisent nos actions vertueuses ;\n"
+"2.  consommer de la nourriture prohibée, c’est-à-dire des aliments non éthique. La viande par exemple, est un moyen de subsistance incorrect, en contradiction avec le dharma du Bouddha, puisqu’on tue un animal pour pouvoir en consommer ou pour faire du profit ;\n"
+"3. relater des propos malsains, comme raconter des histoires de guerre, de bandits, de rois, etc. ;\n"
+"4. faire des offrandes aux esprits : cela fait référence aux rituels provenant de la tradition védique qui comprend l’offrande de chair et de sang aux ancêtres et le sacrifice d’animaux, accompli dans le but d’obtenir une meilleure renaissance dans le monde des dieux ;\n"
+"\n"
+"5. Suivre une doctrine barbare  c’est à dire suivre la discipline ou les pratiques requises par ces religions."
 
 #  18. བ་ལང་སོགས་དུད་འགྲོ། བྱིས་པ། སྐྱེས་པ་ཕོ། སྐྱེས་དམན་མོ།
 # མཆོད་རྟེན་གྱི་སྒྲས་བསླབ་
