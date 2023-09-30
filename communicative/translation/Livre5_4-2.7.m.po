@@ -20,8 +20,9 @@ msgid ""
 "2. L’exposé des voeux qui préscrivent ce qu’il faut accomplir a deux "
 "parties: les voeux communs et ceux spécifiques."
 msgstr ""
-"L’exposé des voeux qui préscrivent ce qu’il faut accomplir a deux parties: "
-"les voeux communs et ceux spécifiques."
+"La description des vœux qui prescrivent ce qu’il faut accomplir, comporte "
+"deux parties : la partie concernant les vœux communs et celle concernant les"
+" vœux spécifiques."
 
 #  2. དང་པོ་ནི། 3. སྡོམ་པ་ཐུན་མོང་ལྔའམ་རིགས་དྲུག་ནི། ། 4.
 # མི་བསྐྱོད་ཕྱག་རྒྱ་བླ་
