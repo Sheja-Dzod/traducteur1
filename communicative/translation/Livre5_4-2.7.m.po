@@ -72,9 +72,9 @@ msgid ""
 "l’exposé facile à comprendre, ils sont utilisés en accord avec la premières "
 "de ces approches."
 msgstr ""
-"Au sujet des termes vœux et lien sacré, il existe trois système ou approche de ces termes. La première approche considère le « voeux » comme désignant la discipline pour les préscriptions relatives à ce qui doit être appliqué et le « lien sacré » la discipline pour les restrictions c’est à dire, ce qu’il convient d’abandonner. La deuxième propose l’inverse et la troisième les considère comme étant synomymes. \n"
+"Concernant les termes « vœu » et « lien sacré », on distingue trois systèmes ou approches pour les définir. La première approche considère que le « vœu » désigne la discipline pour les prescriptions relatives à ce qui doit être appliqué et que le « lien sacré » désigne la discipline envers les restrictions, autrement dit ce qu’il convient d’abandonner. La deuxième approche propose l’inverse et la troisième les considère comme synonymes.\n"
 "\n"
-"Bien qu’il n’y ait pas de contradictions en ce qui concerne le sens de ces différentes acceptions, pour rendre l’exposé facile à comprendre, ils sont utilisés en accord avec la premières de ces approches."
+"Bien qu’il n’y ait pas de contradictions entre ces différentes acceptions, afin de rendre l’exposé aisé à comprendre, ces termes sont utilisés en accord avec la première de ces approches."
 
 #  14. སྡོམ་པའི་སྒྲ་དོན། སམྦརའི་སྒྲ་ལས། 15. ཐ་མལ་སྒོ་གསུམ་བག་ཆགས་དང་བཅས་པ་
 # 
