@@ -35,10 +35,10 @@ msgid ""
 " les indentifient comme étant la somme des quatorze fautes racines et des "
 "huit fautes grossières nous les énnoncerons plus tard. De plus,"
 msgstr ""
-"Selon la majorité des saints maitres du passé, les vingt-deux conduites "
-"excellentes enseignées dans les textes relevant du Tantra de Chakrasamvara "
-"sont les quatorze chutes racines et des huit chutes grossières secondaires "
-"que nous aborderons plus tard. "
+"Selon la majorité des saints maîtres du passé, les vingt-deux conduites "
+"excellentes enseignées dans les textes relevant du Tantra de Chakrasamvara, "
+"sont les quatorze chutes racine et les huit chutes grossières secondaires "
+"que nous aborderons plus tard."
 
 #  4. ཐུན་མོང་མ་ཡིན་པའི་བརྟུལ་ཞུགས་ནི། 5. ཚེས་བཅུའི་མཆོད་པ། 6. ལག་མཆོད། 7.
 # རྡོ་རྗེ་བཞིའི་
