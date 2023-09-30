@@ -178,8 +178,10 @@ msgid ""
 "d’une journée et ne pas l’utiliser lors des ganachakra et pour les offrandes"
 " manuelles. Si on fait cela, c’est une faute."
 msgstr ""
-"1. La conduite de la gauche (128) :\n"
-"Oublier de l’appliquer au quotidien lors des quatre périodes d’une journée et ne pas l’utiliser lors des ganachakra et pour les offrandes manuelles est une chute."
+"1. La conduite de la gauche[i] :\n"
+"Oublier de l’appliquer au quotidien lors des quatre périodes de la journée, ne pas l’utiliser lors des ganachakras et pour les offrandes manuelles, est une chute.\n"
+"\n"
+"[i] La conduite de la gauche (gyon pa’i kun spyod) est une observance spécifique aux tantras mère, consistant à initier tout mouvement physique avec le côté gauche de son corps. L’objectif est de se rappeler l’aspect vacuité de la sagesse, attribué au côté gauche, par rapport à celui des moyens, qui est attribué au côté droit."
 
 #  24. གཉིས་པ་ནི། 25. ལམ་སྒོམ་པ་དང༌། 26. དབང་བསྐུར་བ་དང༌། 27. བཅུད་ལེན་དང༌།
 # 28. དམ་ཚིག་གི་རྫས་
