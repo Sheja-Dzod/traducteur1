@@ -514,8 +514,8 @@ msgstr "Il faut 5 attributs"
 msgctxt "ba69fbd256694f3f832940d8a1d8c035"
 msgid "ཆོས་གོས་ གསུམ་ ཚད་ལྡན་ དངོས་ སམ་ རྒྱུ་ རུང་བ་ ཁྲུ་ གང་ ཡན་ཆད་ ལོངས་པ །"
 msgstr ""
-" les trois vêtements monastiques dans les bonnes proportions, ou les piece "
-"de tissus correctes pour les faires, d'une taille supérieur à une coudée."
+"les trois vêtements monastiques dans les bonnes proportions, ou les piece de"
+" tissus correctes pour les faires, d'une taille supérieur à une coudée."
 
 # 。︀	〝ཚད་ལྡན〞 4636
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ faire autorité (dans le sens: être une référence)
