@@ -41,7 +41,11 @@ msgid ""
 "༡ ། ༢␣ལྷུང་བཟེད་ ༣ ། ༤␣ཐ་ ག་ གཉིས ། ། ༥␣བྱིན་འཕྲོག་ ༦␣གཏད་ འབྱུང་ "
 "༧␣འབྲལ་སྤང་ ༨␣རས་ཆེན་ དང༌ ། །  ༩␣བསྔོས་ བསྒྱུར་ ༡༠␣གསོག་འཇོག་ སྤང་ འབྲལ་ "
 "ལྟུང་བ␣འི་ སྡེ ། །"
-msgstr "Deux chutes concernent le bol d'aumônes et deux le couturier;"
+msgstr ""
+"\"Deux chutes concernent le bol d'aumônes et deux le couturier; reprendre un"
+" don; utiliser ce qui est offert; renoncer à ne pas porter ses vêtements; à "
+"l'usage de l'habit pour la pluie; à détourner les offrandes; et à garder en "
+"réserve des aliments complètent la catégorie de ces chutes.\" "
 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
