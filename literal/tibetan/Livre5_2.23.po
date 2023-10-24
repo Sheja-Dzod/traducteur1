@@ -469,9 +469,36 @@ msgid "རིམ་པ་ ལྷག་པ་ བརྩིག་པ␣འི་ �
 msgstr ""
 
 # 
+# 。︀	〝ཐབས〞 2110
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Moyen, Méthode, Façon de faire, ⁃ moyen, upâya (p30),
+# moyen habile
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méthode, moyen, moyens habiles (une des dix perfections)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upāya Sens racine: Moyen,Méthode,Façon de faire,,
+# skillful means (SL MW) Alternatives: moyen (habile, adroit), méthode
+# (intelligente), façon de faire, mode, coutume, tradition, techniques,
+# expédients, efficacité, méthodes efficaces, habile compassion, pratique
+# ingénieuse
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moyens habiles, méthode, expédient salvifique ⁃ Méthode,
+# les moyens habiles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: upâya, moyen moyen habile
+# 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝གནོད་པ〞 3060
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nuire, Porter préjudice.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Nuire,Porter préjudice. Alternatives:
+# nuisance, nuire, tort, préjudice, faire obstacle, empêchement, souffrance,
+# facteurs adverses
+# 
+# 。︀	〝བྱས་པ〞 3811
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
 # 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
@@ -494,43 +521,14 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "0234bfacc0234c19a9be065c3fc4b595"
-msgid "གཞི་ མི་ བརྟན་ ས␣ར་ རམ་ ཆར་ཆུ་ བྱུང་བ␣འི་ དུས་ སུ་"
-msgstr ""
-
-# 
-# 。︀	〝ཐབས〞 2110
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Moyen, Méthode, Façon de faire, ⁃ moyen, upâya (p30),
-# moyen habile
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méthode, moyen, moyens habiles (une des dix perfections)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upāya Sens racine: Moyen,Méthode,Façon de faire,,
-# skillful means (SL MW) Alternatives: moyen (habile, adroit), méthode
-# (intelligente), façon de faire, mode, coutume, tradition, techniques,
-# expédients, efficacité, méthodes efficaces, habile compassion, pratique
-# ingénieuse
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moyens habiles, méthode, expédient salvifique ⁃ Méthode,
-# les moyens habiles
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: upâya, moyen moyen habile
-# 
-# 。︀	〝གནོད་པ〞 3060
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nuire, Porter préjudice.
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Nuire,Porter préjudice. Alternatives:
-# nuisance, nuire, tort, préjudice, faire obstacle, empêchement, souffrance,
-# facteurs adverses
-# 
-# 。︀	〝བྱས་པ〞 3811
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: acte délibéré, action volontaire
-# 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
 # 
 # 。︀	〝སྲུང་བ〞 6498
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Protéger, Garder, Se protéger, Etre protégé, Arrêter
 # ce qui est nuisible, ⁃ Garde,  Protecteur, Garder, Protéger
 msgctxt "4df926b1c8a645308026a515a7d8aa00"
-msgid "གནོད་པ་ སྲུང་བ␣འི་ ཐབས་ མ་ བྱས་པ␣ར །"
+msgid ""
+"གཞི་ མི་ བརྟན་ ས␣ར་ རམ་ ཆར་ཆུ་ བྱུང་བ␣འི་ དུས་ སུ་ གནོད་པ་ སྲུང་བ␣འི་ ཐབས་ "
+"མ་ བྱས་པ␣ར །"
 msgstr ""
 
 # 
