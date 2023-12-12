@@ -30,11 +30,8 @@ msgid ""
 " la viande, et pour celle du Trigou, respect des femmes et don. On s’y "
 "engage dans leur sens direct ou caché suivant notre niveau de pratique."
 msgstr ""
-"« Les liens sacrés spécifiques sont, pour la famille Vajra, ôter la vie; "
-"pour celle de l’épée, mentir; pour celle du joyau, voler les richesses; pour"
-" celle du Lotus, voler la femme d’autrui; pour celle de la roue, l’alcool et"
-" la viande, et pour celle du Trigou, respect des femmes et don. On s’y "
-"engage dans leur sens direct ou caché suivant notre niveau de pratique. »"
+"« Pour la famille du Vajra, le lien sacré spécifique consiste à ôter la vie, pour celle de l’Épée, à mentir, pour celle du Joyau, à dérober les richesses, pour celle du Lotus, à voler la femme d’autrui, pour celle de la Roue, à consommer de l’alcool et de la viande, et pour celle du Trigou, à respecter les femmes et à pratiquer le don. On les observe selon leur sens directe ou caché en fonction de notre niveau de pratique. »\n"
+" "
 
 #  6. འདིའང་དམ་པ་དང་པོའི་སངས་རྒྱས་ལས་གསུངས་པ་སྟེ། 7. དེ་ལས་དངོས་སྦས་
 # 
@@ -45,8 +42,8 @@ msgid ""
 "Primordial, ces (liens sacrés spécifiques) ont chacun (un sens) direct et un"
 " caché :"
 msgstr ""
-"Comme cela est exprimé dans le Tantra du Bouddha Sacré Primordial, ces liens"
-" sacrés spécifiques ont chacun un sens premier et un sens caché :"
+"Comme il est exprimé dans le Tantra du Bouddha Sacré Primordial, ces liens "
+"sacrés spécifiques ont chacun un sens premier et un sens caché :"
 
 #  8. རྡོ་རྗེའི་རིགས་དྲང་དོན་དུ་ཇི་སྲིད་འཚོའི་བར་མཚམས་མེད་ལྔ་སོགས་
 # 
