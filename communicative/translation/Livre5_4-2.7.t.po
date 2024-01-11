@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,9 +30,11 @@ msgid ""
 "(l’autre, de lui etre utile) alors, en plus de ne pas être une faute, (celui"
 " qui les exprime) acquiert du mérite, de plus,"
 msgstr ""
-"6. Le sens général de cette chute concerne la critique d'autres traditions spirituelles motivé par une intention porté sur le gain et le respect.\n"
-"Critiquer les écritures du Grand Véhicule forme une violation sérieuse ; critiquer le Petit Véhicule une faute mineure ; et critiquer les religions non bouddhistes une faute mineure légère. \n"
-"Il est dit que si ces critiques sont faites avec une intention bénéfique pour autrui, celui qui les exprime non seulement ne commet pas de faute mais acquière du mérite. "
+"6) Critiquer le Dharma\n"
+"Cette chute porte principalement sur la critique des autres traditions spirituelles, motivée par des intentions de gain et de respect.\n"
+"Critiquer les écritures du Grand Véhicule est considéré comme une violation sérieuse. Critiquer le Petit Véhicule est une faute mineure. Enfin, critiquer les religions non-bouddhistes est considéré comme une faute mineure légère.\n"
+" \n"
+"On dit que si ces critiques sont exprimées avec une intention bénéfique pour être utile à autrui, non seulement la personne qui les formule ne commet pas de faute, mais elle acquiert du mérite."
 
 #  7. བྱེ་བྲག་ཏུ་ནང་པའི་གྲུབ་མཐའ་སྔགས་དང་ཕ་རོལ་ཏུ་ཕྱིན་པ་
 # 
