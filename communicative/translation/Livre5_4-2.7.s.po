@@ -210,10 +210,11 @@ msgid ""
 "un être; avoir l’intention de ne jamais l’aider; et ne pas être intéréssé "
 "(litt. ne pas avoir l’intention) à purifier (cette faute)."
 msgstr ""
-"les constituants de cette chute sont: \n"
-"1. l’objet (que l’on refuse d’aimer) est un être; \n"
-"2. avoir l’intention de ne jamais l’aider; \n"
-"3.  ne pas avoir l’intention de purifier cette faute."
+"Les constituants de cette chute sont les suivants :\n"
+" \n"
+"1.     l’objet qu’on refuse d’aimer est un être ;\n"
+"2.     on a l’intention de ne jamais l’aider ;\n"
+"3.     on n’est pas intéressé par la purification de cette faute."
 
 #  22. ལྔ་པ་རྟེན་ཀུནྡ་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས་ཉམས་པ་སྟེ། 23. འགྲེལ་ཆེན་
 # 
