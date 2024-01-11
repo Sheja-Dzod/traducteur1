@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,11 +41,12 @@ msgid ""
 "toute autre nuisance (litt etc.) cela constitue une faute racine (la faute "
 "racine en lien avec ce voeux)."
 msgstr ""
-"3. Se mettre en colère contre ses frères et soeurs spirituels.\n"
+"3) Se mettre en colère contre ses frères et sœurs du Dharma\n"
+" \n"
+"L’objet de cette chute concerne tous les frères et sœurs spirituels, qu’ils soient plus âgés ou plus jeunes que nous.\n"
+"La chute racine consiste à leur nuire avec colère physiquement, verbalement ou mentalement, en leur adressant des blâmes, en les frappant ou de toute autre manière.\n"
 "\n"
-"Cette chute est en lien avec tous les frères et soeurs spirituels, qu’ils soient plus agé ou plus jeune que nous. La chute racine consiste à leur nuire avec colère physiquement, verbalement ou mentalement en leur adressant des propos dénigrant, en les frappant ou on leur apportant toute autre nuisance.\n"
-"\n"
-"D’une manière générale, la fratrie spirituelle est celle de tous ceux qui sont engagé dans l’enseignement du Bouddha (tous les bouddhistes). Ceux qui possèdent l’esprit d’éveil forment la fratrie proches ; et ceux qui sont engagé dans le véhicule des mantras et tiennent leurs voeux relèvent d’une importantce particulière. Encore plus spéciaux sont les frères et soeurs adamantins (vajras), c’est à dire ceux avec qui on recu, du même Lama, l’intégralité des quatres initiations."
+"D’une façon générale, la fratrie spirituelle est constituée de tous ceux qui sont engagés dans l’enseignement du Bouddha (les bouddhistes). Ceux qui possèdent l’esprit d’éveil forment la fratrie proche. Ceux qui sont engagés dans le véhicule des mantras et tiennent leurs vœux, ont une importance spéciale. Encore plus spéciaux sont les frères et sœurs adamantins (vajra), avec qui on a reçu du même Lama, l’intégralité des quatre initiations."
 
 #  7. དེའི་ཡན་ལག་ཡུལ་དེར་ངེས་པ། 8. དེ་ལ་ཁྲོས་ན་མི་དགའ་བར་ཤེས་
 # 
