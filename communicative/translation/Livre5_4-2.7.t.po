@@ -144,13 +144,12 @@ msgid ""
 " secret de la grande félicité; Les deux derniers facteurs sont les même que "
 "précédement. Ces (quatre) complète (cette faute)."
 msgstr ""
-"Les constituants: \n"
+"Les quatre facteurs qui caractérisent complètement la chute sont les suivants :\n"
+" \n"
+"1.     l’individu doit être un adepte du véhicule des Auditeurs ou des Bouddha-par-soi qui, en entendant le mantra secret, en sera effrayé et ne le respectera pas ;\n"
+"2.     le secret de la grande félicité doit lui être révélé ;\n"
 "\n"
-"1)     L’individu doit être un adepte du véhicule des Auditeurs ou des Bouddha-par-soi qui en entendant le mantra secret, en soit effrayé et ne le respecte pas; \n"
-"\n"
-"3)      qu’on lui révèle le secret de la grande félicité; \n"
-"\n"
-"Les deux derniers facteurs sont les même que précédemment."
+"Les deux derniers facteurs sont les mêmes que précédemment."
 
 #  26. དཱ་རི་ཀ་པས་བདེ་ཆེན་གྱི་གསང་བ་བསྒྲགས་ན་ 27. མཆོག་གི་དངོས་
 # 
