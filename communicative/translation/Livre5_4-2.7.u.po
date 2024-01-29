@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,11 +46,28 @@ msgid ""
 "du mal en lui faisant surmonter des épreuves comme le jeûne, cela constitue "
 "la faute racine."
 msgstr ""
-"8. Ne pas nuire aux aggrégats. \n"
+"8) Ne pas nuire aux agrégats\n"
+" \n"
+"Le sens général de ce lien sacré est qu’on ne doit pas causer de préjudice à ses propres agrégats (corps, sensations, conceptions, volition et conscience), éléments et sources d’apparition et d'expansion sensorielles, ni à ceux des autres. La raison en est qu’ils sont le Corps Absolu voilé.\n"
 "\n"
-"Le sens général de ce lien sacré est de ne pas nuire a ses agrégats (corps, sensation, conceptions, volition et conscience), ses éléments et ses sources sensorielles d’expansion ni à ceux des autres. La raison est que ils sont le Corps Absolu voilé. \n"
+"Ce lien sacré a également une signification plus précise : lors de l’initiation du vase[i], le pratiquant est introduit au fait queque ses agrégats (ainsi que ses sens, etc.) sont Bouddha en essence. En les comblant de plaisirs sensoriels, la félicité du corps, support de la sagesse primordiale, se développera et de là, la sagesse primordiale soutenue par cet agrégat se manifestera telle qu’elle est, dans sa réalité ultime. Si au contraire on considère notre corps comme la source principale de souffrance, qu’on le mutile avec une arme, qu’on le brûle avec du feu, qu’on lui inflige d’autres épreuves, ou encore qu’on lui fasse du mal en lui imposant des ascèses comme le jeûne, tout cela constituera la chute racine.\n"
+" \n"
+"[i] L’initiation du vase autorise le pratiquant à s’engager dans la phase de création durant laquelle les cinq agrégats sont mentalement associés aux cinq Bouddhas, les éléments, avec les parèdres (ou aspects féminins) des Bouddhas et les facultés sensorielles avec les bodhisattvas.\n"
+"Les correspondances entre agrégats et Bouddhas sont les suivantes :\n"
 "\n"
-"Le sens plus spécifique de ce lien sacré est le suivant : lors de l’initiation du vase, (181) le pratiquant est introduit au fait que ses agrégates (ainsi que ses facultés sensorielless etc) sont Boudha en leur essence. En leur offrant les plasirs sensoriels qui les satisfont, la félicité du corps, support pour la sagesse primordiale, se développera et à partir de là, la sagesse primordiale soutenue par ce support se manifestera telle qu’elle est (dans sa telléité). Dans le cas contraire, si on considère l’ agrégat (le corps) comme étant la source principale (de souffrance) et qu’on le mutile en utilisant une arme, qu’on le brûle avec du feu ou qu’on lui fasse subir d’autres épreuves, ou qu’on lui fasse du mal en lui faisant surmonter des épreuves comme le jeûne, cela constituera la chute racine."
+"Les formes sont associées à Vairochana.\n"
+"\n"
+"Les sensations sont associées à Ratnasambhava.\n"
+"\n"
+"Les conceptions sont associées à Amitabha.\n"
+"\n"
+"Les impulsions sont associées à Amoghasiddhi.\n"
+"\n"
+"Les consciences sont associées à Akshobhya.\n"
+"\n"
+"Traduit de l’anglais, pas de sources référencées.\n"
+"\n"
+" "
 
 #  11. ཡན་ལག་ཕུང་སོགས་དེ་དག་ཏུ་ཤེས་པ་ཤེས་བཞིན་དུ་ལུས་གདུང་
 # 
