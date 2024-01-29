@@ -171,10 +171,12 @@ msgid ""
 " deux derniers facteurs sont les même que précédement. Ces quatre complète "
 "(cette faute)."
 msgstr ""
-"Les constituants pour que cette chute soit complète sont: \n"
-"1. l’objet du doute doit être la vacuité de la purté (originelle) des phénomènes \n"
-"2. l’état d’esprit est de ne pas y consentir et d’adhérer à leur version mentalement ellaborée. \n"
-"3-4. Les deux derniers facteurs sont les même que précédement."
+"Pour que cette chute soit complète, elle doit comporter les facteurs suivants :\n"
+" \n"
+"1.     l’objet du doute doit être la vacuité de la pureté orginelle des phénomènes ;\n"
+"2.     l’état d’esprit consiste à ne pas accepter la vacuité tout en adhérant à la version mentalement élaborée des phénomènes.\n"
+"Les deux derniers facteurs (3 et 4) sont les mêmes que précédemment.\n"
+" "
 
 #  29. བཅུ་པ་ནི། 30. སྤྱི་ལྟར་ན། 31.
 # བདུད་དང་མུ་སྟེགས་ཕྱིར་རྒོལ་དྲེགས་པ་ཅན་བྱམས་
