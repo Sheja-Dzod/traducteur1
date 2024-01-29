@@ -217,10 +217,11 @@ msgid ""
 " Les deux derniers facteurs sont les même que précédement. Ces quatre "
 "complète (cette faute)."
 msgstr ""
-"Les composants pour que cette chute soit compléte sont: \n"
-"1. l’objet (de notre hypocrisie) est un autre être, principalement sa compagne spirituelle, \n"
-"2. faire preuve d’affection avec hypocrisie en lui tenant de belles paroles alors que l’on cultive mentalement de l’aversion envers elle. \n"
-"3-4. Les deux derniers facteurs sont les même que précédement. "
+"Pour que cette chute soit complète, elle doit comporter les facteurs suivants :\n"
+" \n"
+"1. l’objet de notre hypocrisie est un autre être, principalement notre compagne spirituelle ;\n"
+"2. nous faisons hypocritement preuve à son égard d’affection en lui tenant de belles paroles alors qu’on ne l’aime pas.\n"
+"Les deux derniers facteurs (3 et 4) sont les mêmes que précédemment."
 
 #  37. གཞན་དུ་གོང་སྨོས་ལྟར་གདུག་པའི་སེམས་ཅན་ཕྲིན་ལས་དྲག་པོས་ཚར་
 # 
