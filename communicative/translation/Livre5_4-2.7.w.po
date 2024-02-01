@@ -172,11 +172,12 @@ msgid ""
 "création, développer l’orgeuil consistant à s’auto-illusionner en se croyant"
 " un pratiquant tantrique maître des mantras."
 msgstr ""
-"7. Développer l’orgeuil consistant à s’auto-illusionner en se croyant un "
-"pratiquant tantrique maître des mantras parce qu’on n’en connais que les "
-"rites extérieurs alors qu’on ne connaît ni son mode d’être extrérieur, "
-"intérieur et alternatif (la télléité) du Mantra Secret ni la pratique (yoga)"
-" de l’union. (194)"
+"7. Développer l’orgueil de se croire un pratiquant tantrique maître des mantras parce qu’on connaît les activités extérieures des phases de création tout en ignorant le mode d’être extérieur, intérieur et alternatif (la telléité) du Mantra Secret et la pratique de l’union[i].\n"
+"\n"
+"\n"
+"[i] Dans le Tantra de Kalachakra, le niveau extérieur (phyi) est notre univers ; le niveau intérieur (nang) est notre corps adamantin ; le niveau alternatif (gzhan) est le mandala de Kalachakra.\n"
+"\n"
+"(IOK, vol. I, p. 214)."
 
 #  23. སློབ་མ་རིན་པོ་ཆེ་ལྟ་བུ་ལ་སློབ་བཤད། 24. ཙནྡན་ལྟ་བུ་སོགས་ལ་
 # 
