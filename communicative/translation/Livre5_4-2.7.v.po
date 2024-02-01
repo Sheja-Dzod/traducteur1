@@ -117,10 +117,10 @@ msgid ""
 "derniers facteurs sont les même que précédement. Ces quatre complète (cette "
 "faute)."
 msgstr ""
-"Les composants pour que cette chute soit complète sont: \n"
-"1. l’objet de la chute doit être un être pur. \n"
-"2. tenir, avec jalousie, des propos déourageant. \n"
-"3-4. les deux derniers facteurs sont les même que précédement."
+"Pour que cette chute soit complète, elle doit réunir les facteurs suivants :\n"
+"1.     la faute doit être commise envers un être pur ;\n"
+"2.     on tient par jalousie, des propos décourageants ;\n"
+"Les deux derniers facteurs (3 et 4) sont les mêmes que précédemment."
 
 #  22. བཅུ་གསུམ་པ་ནི། 23. སྤྱོད་པའི་དུས་ལ་སོགས་པར་ཚོགས་འཁོར་རམ་དཔའ་བོ་
 # 
