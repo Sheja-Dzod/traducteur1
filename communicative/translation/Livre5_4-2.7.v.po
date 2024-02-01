@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,11 +44,16 @@ msgid ""
 "vacuité de tous les aspects de la manifestation de Celle qui nous confére "
 "cette félicité (constitue cette faute racine)."
 msgstr ""
-"11. Se méprendre sur la réalité ultime.\n"
+"11) Se méprendre sur la réalité ultime\n"
+" \n"
+"D’une manière générale cette faute est commise lorsque le pratiquant invente ou nie ce qui est au-delà du définissable. En effet, s’il n’a pas réalisé que la nature même de tous les phénomènes est l’ainsité et que cette nature n’est rien d’autre que l’état naturel de tous les phénomènes, il se méprend sur la réalité ultime en tirant des conclusions intellectuelles quant à ce qui existe, ce qui n’existe pas, ce qui est et ce qui n’est pas, etc.\n"
+" \n"
+"Le sens plus spécifique de cette faute consiste à conceptualiser ou à douter de la félicité immuable qui est le soi ultime du corps, de la parole et de l’esprit éveillés des Bouddhas. En effet,  cette félicité dépasse tout exemple applicable au monde ordinaire, elle ne peut être nommée, identifiée etc : conceptualiser ou douter de la vacuité riche des apparences de Celle qui nous confère cette félicité constitue cette faute racine[i].\n"
+" \n"
+"[i] Commentaire explicatif du « Résumé de l'Initiation » appelé « le Résumé ultime » (paramārtha saṁgraha nāma sekoddeśā ṭīka ; dbang mdor bstan pa'i 'grel bshad don dam pa bsdus pa zhes bya ba) par Naropa (Toh. 1351)f. 273b3-274a1\n"
+"https://adarsha.dharma-treasure.org/kdbs/degetengyur?pbId=2851156\n"
 "\n"
-"Le sens général est: inventer ou nier ce qui est au delà du définissable, c’est à dire, tirer des conclusions intellectuelles quant à l’existant, le non existant, ce qui est et ce qui n’est pas etc. alors que l’on a pas réalisé que la nature même de tous les phénomènes est l’ainsité et que cette nature même n’est rien d’autre que l’état naturel de tous les phénomènes, \n"
-"\n"
-"Le sens plus spécifique de cette chute est de conceptualiser ou douter de la félicité immuable qui est le soi ultime du corps, de la parole et de l’esprit éveillé des Bouddhas, qui dépasse tout exemple conforme a la réalité du monde ordinaire, qui ne peut être nommé etc, ainsi que conceptualiser ou douter de la vacuité riche des apparences de Celle qui nous confére cette félicité. (183)"
+"Celle qui nous confère la félicité (bde ba sbyin pa mo), est la troisième des trois moudras (parèdres). Le Karmamudra, ou parèdre de l’action, apporte la félicitée changeante (ksara ; ‘gyur ba) ; la parèdre imaginée apporte la félicité vibrante (spanda ; gyo ba); la grande parèdre, ou Mahamudra, apporte la félicité immuable. Ce Mahamudra est la vacuité à l’apparence suprême (rnam kun mchog ldan gyi stong pa nyid)"
 
 #  8. ཡན་ལག་ཡུལ་འགྱུར་དེ་གཏན་མ་ཡིན་པའི་འགྱུར་མེད་ཀྱི་བདེ་བ་
 # 
