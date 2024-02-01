@@ -150,8 +150,12 @@ msgid ""
 "Rester plus de sept jours dans la demeure d’un Auditeur qui n’a pas la foi "
 "en le Grand Véhicule forme le sixième."
 msgstr ""
-"6. Rester plus de sept jours dans la demeure d’un Auditeur qui n’a pas la "
-"foi en le Grand Véhicule. (193)"
+"6. Demeurer plus de sept jours dans la demeure d’un Auditeur qui n’a pas foi dans le Grand Véhicule[i].\n"
+"\n"
+"\n"
+"[i] Pour Péma Karpo, ce lien sacré inclut également les Bouddha-par-soi. Les Auditeurs et les Bouddha-par-soi se satisfont de leur vue du non-soi et tandis que leur conduite physique et verbale et ne vise que leur propre libération. S’associer à eux ou vivre chez eux pendant plus de 7 jours constitue la faute.\n"
+"\n"
+" "
 
 #  20. གསང་སྔགས་ཀྱི་ཚུལ་ཕྱི་ནང་གཞན་གསུམ་དང་ཟུང་འཇུག་གི་རྣལ་འབྱོར་
 # 
