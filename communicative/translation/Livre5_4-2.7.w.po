@@ -111,8 +111,7 @@ msgid ""
 msgstr ""
 "3. Consommer l’élixir de samaya extérieur ou intérieur d’une compagne de sagesse inférieure ou non-conforme à ce qui est enseigné dans les Tantras[i].\n"
 "\n"
-"[i] Voir note n°145.\n"
-" "
+"[i] Voir note n°145."
 
 #  15. དད་པ་དང་ལྡན་པས་གདམས་ངག་ཞུས་པའི་དུས་ལ་ལོངས་སྤྱོད་མེད་
 # 
