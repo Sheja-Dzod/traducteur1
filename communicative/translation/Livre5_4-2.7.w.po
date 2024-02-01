@@ -122,9 +122,9 @@ msgid ""
 "les donner) soit parce qu’il ne possède rien (n’a rien a offrir), soit parce"
 " qu’on ne souhaite pas partager sa connaissance, ne pas l’enseigner."
 msgstr ""
-"4. Ne pas enseigner à une personne qui, avec foi, fait la requête "
-"d’instructions, soit parce qu’elle n’a rien a offrir, soit parce qu’on ne "
-"souhaite pas partager sa connaissance."
+"4. Refuser d’enseigner à une personne qui fait la requête d’instructions "
+"avec foi, soit parce qu’elle n’a rien à offrir, soit parce qu’on ne souhaite"
+" pas partager sa connaissance."
 
 #  17. གཞན་གྱིས་ཆོས་ཀྱི་དྲི་བ་དྲིས་པ་ལ་དེའི་ལན་མི་ལྡོན་པར་
 # 
