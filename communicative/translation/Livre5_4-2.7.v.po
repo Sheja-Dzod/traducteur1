@@ -67,10 +67,10 @@ msgid ""
 "une nature ultime autre que la félicité immuable). Les deux derniers "
 "facteurs sont les même que précédement. Ces quatre complète (cette faute)."
 msgstr ""
-"Les composants pour que cette chute soit complète sont: \n"
-"1. l’objet de la chute concerne la félicité immuable éternelle, \n"
-"2. concevoir une nature ultime autre que la félicité immuable,\n"
-"3-4. les deux derniers facteurs sont les même que précédement."
+"Pour que cette chute soit complète, elle doit réunir les facteurs suivants :\n"
+"1.     l’objet de la chute doit concerner l’éternelle félicité immuable ;\n"
+"2.     on conçoit une nature ultime autre que la félicité immuable ;\n"
+"Les deux derniers facteurs (3 et 4) sont les mêmes que précédemment."
 
 #  11. བཅུ་གཉིས་པ་ནི། 12. སྤྱིར་དད་ལྡན་སེམས་ཅན་སུན་མི་འབྱིན་པ་སྟེ། 13. དད་ལྡན་
 # 
