@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,9 +18,9 @@ msgid ""
 "4. “Les tantras proposent nombreuses classifications des liens sacrés : ceux"
 " des quatre initiations etc.”"
 msgstr ""
-"4. D'autres classification comme celle selon les quatre initiations\n"
-"\n"
-"“Les tantras proposent nombreuses classifications des liens sacrés : selon les quatre initiations etc.”"
+"d) Autres classifications\n"
+" \n"
+"« Les tantras proposent de nombreuses classifications des liens sacrés. Ceux-ci peuvent par exemple être classés en fonction des quatre initiations. »"
 
 #  3. སྤྱིར་བདེ་མཆོག་རྩ་བཤད་ཀྱི་དཀྱིལ་འཁོར་ཕལ་ཆེར་དུ་དབང་བཞིའི་དམ་
 # 
