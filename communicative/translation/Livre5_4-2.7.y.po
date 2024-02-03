@@ -42,8 +42,14 @@ msgid ""
 "correspondants à chacune des quatre initiation, chacune en comportant cinq "
 "(liens sacrés):"
 msgstr ""
-"En général les tantras proposent une grande variété de classification des liens sacrés. Le tantra racine et la majorité des tantras explicatif du mandala de Chakrasamvara exposent par exemple, les liens sacrés correspondants à chacune des quatre initiations. \n"
-"Plus spécifiquement, les intructions orales de La Voie et son Résultat (217) enseignent cinq liens sacrés pour chacune des quatre initiation. "
+"Une grande variété de classifications des liens sacrés est proposée par les tantras. D'une façon générale, le tantra racine et la majorité des tantras explicatifs du mandala de Chakrasamvara présentent les liens sacrés associés à chacune des quatre initiations.\n"
+"De manière plus détaillée, les instructions orales de La Voie et son Résultat[i] enseignent cinq liens sacrés pour chacune des quatre initiations.\n"
+"\n"
+"\n"
+"[i] La voie et son résultat (lam ‘bras) est le système de pratique le plus avancé de la tradition Sakyapa du Bouddhisme Tibétain.\n"
+"\n"
+"https://fr.wikipedia.org/wiki/Lamdr%C3%A9\n"
+"https://www.rigpawiki.org/index.php?title=Lamdr%C3%A9"
 
 #  5. བུམ་དབང་མཉམ་གཞག་གི་དམ་ཚིག་བསྐྱེད་རིམ། 6. རྗེས་སྤྱོད་ཀྱི་དམ་ཚིག་ངོ་
 # 
