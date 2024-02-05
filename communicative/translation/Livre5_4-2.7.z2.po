@@ -60,9 +60,9 @@ msgid ""
 "seconds rélèvent des voeux des cinq familles, des liens sacrés des "
 "initiations supérieures etc."
 msgstr ""
-"« En résumé, on peut les regrouper en deux catégories : proscription et prescription »\n"
+"« Pour récapituler, on peut regrouper les liens sacrés en deux catégories distinctes : les interdits (proscriptions) et les injonctions (préscriptions)»\n"
 "\n"
-"En résumé, on peux regrouper ces liens sacrés précédement mentionnés en proscriptions (ce dont il faut se préserver) et préscriptions (ce qu’il faut accomplir). Les premiers concernent les chutes racines et secondaires ainsi que les conduites supérieures. Les seconds rélèvent des voeux des cinq familles, des liens sacrés des initiations supérieures etc."
+"En résumé, les liens sacrés précédemment mentionnés peuvent être classifiés en deux catégories : les proscriptions (ce dont il faut s’abstenir) et les prescriptions (ce qu'il faut accomplir). La première catégorie englobe les chutes racine et secondaires ainsi que les conduites supérieures. La seconde se rapporte entre autres aux vœux des cinq familles et aux liens sacrés des initiations supérieures."
 
 #  8. དྲོད་ཐོབ་བརྟུལ་ཞུགས་དྲུག་ཏུ་གུར་ལས་གསུངས། ། 9.
 # ཏིང་ངེ་འཛིན་བརྟན་ཞིང་དྲོད་
