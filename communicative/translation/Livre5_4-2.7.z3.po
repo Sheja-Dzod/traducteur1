@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 "3. Evaluation et restauration des liens sacrés\n"
 " \n"
-"Cette section se subdivise en deux parties distinctes : l’évaluation des fautes et leur réparation"
+"Cette section se subdivise en deux parties distinctes : l’évaluation des chutes et leur réparation"
 
 #  2. དང་པོ་ནི། 3. ཀུན་བསླངས་དེར་ཤེས་བརྟན་དང་བར་དུ་བཅད། ། 4.
 # མ་འཁྲུལ་འགྱོད་མེད་
