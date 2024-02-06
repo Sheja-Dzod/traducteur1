@@ -137,13 +137,11 @@ msgid ""
 "faux-semblants (litt. reflets) de fautes mais ne représente aucun méfait. "
 "C’est ce qui est dit dans le Tantra l’Ornement du Coeur Adamantin."
 msgstr ""
-"Le Tantra l’Ornement du Coeur Adamantin (247)explique que les transgressions"
-" accomplies dans un but noble comme en ayant conscience que cela sera "
-"bénéfique à quelqu’un, que l’application du lien sacré crée un obstacle a "
-"notre pratique, qu’on a recu la permission de transgresser l’engagement, que"
-" l’on est malade ou dans l’incapacité de tenir ses liens sacrés etc, sont "
-"des faux-semblants (litt. reflets) de fautes mais ne représentent aucun "
-"méfait. "
+"Selon le Tantra intitulé L’Ornement du Cœur adamantin[i], lorsque des transgressions sont commises dans un dessein noble sachant que cela pourrait bénéficier à autrui, lorsque l’application du lien sacré pourrait gêner la pratique, lorsqu'on a reçu l’autorisation de transgresser l'engagement, lorsque l'on est malade ou dans l’incapacité de tenir ses liens sacrés, etc., ces actes sont considérés comme des semblants de fautes et ne correspondent à aucun méfait.\n"
+"\n"
+"\n"
+"[i] L’Ornement de l’Essence de tous les Secrets (śrī sarvaguhyavidhi garbha alangkara nāma ; dpal gsang ba thams cad kyi spyi'i cho ga'i snying po rgyan zhes bya ba) par Manjushriyashas. (Toh. 2490), f. 234b6-7\n"
+"https://adarsha.dharma-treasure.org/kdbs/degetengyur?pbId=2874534"
 
 #  23. ཡང་ན་རྟེན་གྱི་ཡན་ལག་དམ་ཚིག་ཐོབ་ལ་མ་ཉམས་པ། 24. ཡུལ་གྱི་
 # 
