@@ -150,8 +150,13 @@ msgid ""
 "La classification spécifique de chaque système les moyens de confession des "
 "détériorations accompagné d’exemples."
 msgstr ""
-"2. Les vœux tantriques selon la traditon ancienne de traduction \n"
-"L’exposé des vœux tantriques selon la traditon ancienne de traduction se fait en trois parties : une présentation générale des vœux communs au Mahayoga, Anuyoga et Atiyoga ; une classification des voeux spécifique à chaque système ; les méthodes pour restaurer les liens sacré endomagés ainsi que quelques exemples."
+"2. Les vœux tantriques selon la tradition ancienne de traduction\n"
+" \n"
+"L'exposé des vœux tantriques selon la tradition ancienne de traduction est divisé en trois parties :\n"
+" \n"
+"1.     Une présentation générale des vœux communs au Mahayoga, à l’Anuyoga et à l’Atiyoga\n"
+"2.     Une classification des vœux spécifiques à chaque système\n"
+"3.     L’exposé des méthodes pour restaurer les liens sacrés endommagés, accompagné d’exemples concrets"
 
 #  22. དང་པོ་ལ་གཉིས། 23. མདོར་བསྟན། 24. རྒྱས་བཤད་དོ། །་
 msgctxt "line 6, Livre5_4-2.7.z5.txt"
@@ -159,8 +164,9 @@ msgid ""
 "La première section contient deux points. Présentation résumé Présentation "
 "détaillée."
 msgstr ""
-"1. Présentation générale des vœux communs au Mahayoga, Anuyoga et Atiyoga.\n"
-"Cette section se décline en deux partie: présentation résumée et présentation détaillée."
+"1. Présentation générale des vœux communs au Mahayoga, à l’Anuyoga et à l’Atiyoga\n"
+" \n"
+"Cette section se décline en deux parties : une présentation résumée et une présentation détaillée."
 
 #  25. དང་པོ་ནི། 26. སྔ་འགྱུར་ཐབས་ཀྱི་ཐེག་པ་ཐུན་མོང་དུ། །སྤྱི་དང་ཁྱད་པར་
 # 
