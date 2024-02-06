@@ -39,10 +39,10 @@ msgid ""
 " est dépassé est une défaite. Si toutes les branches ne sont pas réunies on "
 "mesure l’endomagement comme étant un faute grave, une faute mineur etc."
 msgstr ""
-"1. Evaluation des chutes\n"
-"« L’ endomagement d’un lien sacré qui est motivé, fait en conscience, qui est bien établi et qui l’interromp, \n"
-"Qui est accompli l’esprit non perturbé, sans regret et dont le délai de confession est dépassé est une défaite. \n"
-"Si toutes ces branches ne sont pas réunies on mesure l’endomagement comme étant un faute grave, une faute mineur etc. »"
+"1) L’évaluation des chutes\n"
+"« Lorsqu’un lien sacré est endommagé de façon intentionnelle, délibérée, parfaitement établie, et qu'il est interrompu,\n"
+"Que la faute est accomplie avec un esprit sans trouble, sans remords et sans confession dans le délai imparti, cela constitue une défaite.\n"
+"Si l'une de ces composantes manque, le degré de gravité de la faute est plus ou moins élevé. »"
 
 #  6. རྩ་ལྟུང་རྣམས་ལ་སྦྱོར་བ་བདུན་ཚང་ན་ཕམ་པ་དངོས་གཞིར་གྱུར་
 # 
