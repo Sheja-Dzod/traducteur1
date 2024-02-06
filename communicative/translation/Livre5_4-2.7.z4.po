@@ -45,8 +45,15 @@ msgid ""
 "qu’ils peuvent a nouveaux recevoir les intiations après avoir accompli les "
 "punitions données par leur maître."
 msgstr ""
-"En générale, quant on commet une chute il faut restaurer le lien sacré. Pour ce faire, ceux qui n’ont recu que les sept initiations (249)générales pourront a nouveau recevoir les sept initiations quand ils auront récité trente six mille fois le mantra de chaque divinités du mandala et auront pris mentalement l’engagement de ne pas recommencer.\n"
-"Ceux qui ont recu les initiations non communes du vase et secrète il est dit qu’ils peuvent a nouveaux recevoir les intiations après avoir accompli les punitions données par leur maître."
+"En général, lorsqu'on commet une faute, il faut restaurer le lien sacré qui a été endommagé. Ceux qui ont reçu uniquement les sept initiations générales[i], peuvent les obtenir à nouveau après avoir récité trente-six mille fois le mantra de chaque divinité du mandala et pris mentalement l'engagement de ne pas répéter l'infraction.\n"
+"Pour ceux qui ont reçu les initiations non communes du vase et les initiations secrètes, il est précisé qu'ils peuvent les recevoir à nouveau après avoir accompli les punitions prescrites par leur maître.\n"
+"\n"
+"\n"
+"[i] Dans le Kalachakra, les sept premières parmi les onze initiations sont les suivantes : initiation de l’eau, du diadème, du bandeau, du vajra et de la cloche, de la conduite supérieure, du nom et de la permission. Les quatre suivantes sont l’initiation spéciale du vase, l’initiation secrète, l’initiation de sagesse-connaissance et l’initiation du mot.\n"
+"\n"
+"Note 249: Les 7 et 11 initiations selon le Kalachakra\n"
+"\n"
+"Voir aussi note n°148."
 
 #  9. ཆད་ལས་སམ་ཕྱིར་བཅོས་ཉམས་སུ་བླང་བར་བྱ་བའི་རྣམ་གྲངས་ཉེར་
 # 
