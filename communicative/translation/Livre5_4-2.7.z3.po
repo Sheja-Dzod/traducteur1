@@ -42,7 +42,7 @@ msgstr ""
 "1) L’évaluation des chutes\n"
 "« Lorsqu’un lien sacré est endommagé de façon intentionnelle, délibérée, parfaitement établie, et qu'il est interrompu,\n"
 "Que la faute est accomplie avec un esprit sans trouble, sans remords et sans confession dans le délai imparti, cela constitue une défaite.\n"
-"Si l'une de ces composantes manque, le degré de gravité de la faute est plus ou moins élevé. »"
+"Si l'une de ces composantes manque, la faute sera une grave, une faute mineur etc.. »"
 
 #  6. རྩ་ལྟུང་རྣམས་ལ་སྦྱོར་བ་བདུན་ཚང་ན་ཕམ་པ་དངོས་གཞིར་གྱུར་
 # 
