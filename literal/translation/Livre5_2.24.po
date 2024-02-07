@@ -1,0 +1,445 @@
+# 
+# Translators:
+# Damien Jampa, 2024
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2024\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgctxt "c7ab8884be344c13b5e2cd6cb670da40"
+msgid "བཅུ་ ཚན་ གསུམ་པ་ ནི །"
+msgstr "Troisième goupe de dix"
+
+# 。︀	〝ཆོས་གོས〞 1403
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robes du Dharma
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "f204145e5a004315914926aee3523d82"
+msgid "མ་ བསྐོས་ ཉི་ནུབ་ ཕྱིར་ སྟོན་ ཆོས་གོས་ གཉིས ། །"
+msgstr ""
+"Enseigner sans en être désigné, au couché du soleil, accuser d'enseigner "
+"pour le gain et deux concernant les robes, "
+
+msgctxt "796201f43c0841eeb2b9e5adfe422098"
+msgid "མཉམ་འགྲོ་ གྲུ␣ར་ འཇུག་ འདུག་ འགྲེང་ སྦྱོར་ བཅུག་ དང༌ ། །"
+msgstr ""
+"Marcher avec, prendre le bateau avec, s'asseoire avec, se tenir debout avec "
+"et persuader quelqu'un de préparer de la nourriture. \""
+
+msgctxt "0db2c451c1ac4e5f866223cad7a529a9"
+msgid "དགེ་སློང་ མ་ལ་ ཆོས་སྟོན་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à enseigner le Dharma à une nonne "
+"pleinement ordonnée:"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝སྟོན་པ〞 2053
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseigner, Montrer L'enseignant, Le maître
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāstā, deśaka, śāstṛ Sens racine:
+# Enseigner,MontrerL’enseignant,Le maître Alternatives: révéler,
+# montrerInstructeur, maître, instituteur, guide, celui qui révèle, montre,
+# démontre, référencenotre Instructeur, le Guideexpression, exprimer
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Maître, l'instructeur, l'enseignant
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "f3452f12819a4c169c9edc91218514d8"
+msgid "དགེ་སློང་ མ␣འི་ སྟོན་པ␣ར་ མ་ བསྐོས་ བཞིན་ དུ་ ཆོས་སྟོན་པ␣འོ ། །"
+msgstr ""
+"c'est instruire une nonne pleinement ordonnée alors que l'on n'a pas été "
+"désigné comme enseignant (des nonnes par la communauté.)"
+
+# 。︀	〝ཉི་མ〞 1689
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ lumière solaire (signe de claire lumière, n238)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lumière solaire (signe de claire lumière)
+msgctxt "8fb9c56364764998832d3106f5d097ce"
+msgid "ཉི་མ་ ནུབ་ ཀྱི་ བར་ དུ་ ཆོས་སྟོན་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à enseigner le Dharma au couché du soleil"
+" (litt jusqu'a ce que le soleil ce couche; khenpo mentionne la période entre"
+" le moment où le soleil disparait et que la nuit noir se fait, environ 30 "
+"min)"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝སྟོན་པ〞 2053
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseigner, Montrer L'enseignant, Le maître
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāstā, deśaka, śāstṛ Sens racine:
+# Enseigner,MontrerL’enseignant,Le maître Alternatives: révéler,
+# montrerInstructeur, maître, instituteur, guide, celui qui révèle, montre,
+# démontre, référencenotre Instructeur, le Guideexpression, exprimer
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Maître, l'instructeur, l'enseignant
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "5240b6e96fa3406f9bf335c10e133a3f"
+msgid "དགེ་སློང་ མ␣འི་ སྟོན་པ་ ཡིན་ཡང་"
+msgstr "même si l'on est un enseignant pour les nonnes,"
+
+# 。︀	〝ཡོད་པ〞 5530
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
+# valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
+# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
+# existe, exister (p67), être là
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "9ed08304ce14413c93f8947456edd8e2"
+msgid "འཇིགས་པ་ ཡོད་པ␣འི་ ས␣ར་"
+msgstr "dans un lieu ou il a du danger "
+
+# 。︀	〝ཉི་མ〞 1689
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ lumière solaire (signe de claire lumière, n238)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lumière solaire (signe de claire lumière)
+msgctxt "6fc21f34956444339695195e07fb0184"
+msgid "ཉི་མ་ ནུབ་ ནས་ ཆོས་སྟོན་པ␣འོ །"
+msgstr "enseigner le dharma aprés le couché du soleil. "
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "bd7649cc56854bf399eb713b3cc95ab8"
+msgid "ཟས་ ཅུང་ཟད་ ཙམ་ གྱི་ ཕྱིར་དུ་ ཆོས་སྟོན་ ནོ་ ཟེར་བ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à accuser d'enseigner le Dharma pour "
+"obtenir un peu de nourriture"
+
+# 。︀	〝སྒོ〞 858
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dvāra, mukhāni, mukha, gṛha Sens racine: Porte,
+# portail, Alternatives: porte (sensorielle), avenues (des sens), media,
+# opportunité, portail, approche (à), seuilaspect
+# 
+# 。︀	〝ཕྲག་དོག〞 3597
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jalousie,  Envie, Convoitise, Attitude envieuse,  «Ne
+# pas supporter ce que les autres ont de bien»
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Jalousie, Envie,Convoitise,Attitude
+# envieuse, « Ne pas supporter ce que les autres ont de bien » Alternatives:
+# jalousie, haine jalouse, envie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ jalousie, envie ⁃ Jalousie
+msgctxt "a8e7a24be4d6403a8e617cc8ac062d0f"
+msgid "ཕྲག་དོག་ གི་ སྒོ་ ནས་"
+msgstr "Par jalousie"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝སྟོན་པ〞 2053
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseigner, Montrer L'enseignant, Le maître
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāstā, deśaka, śāstṛ Sens racine:
+# Enseigner,MontrerL’enseignant,Le maître Alternatives: révéler,
+# montrerInstructeur, maître, instituteur, guide, celui qui révèle, montre,
+# démontre, référencenotre Instructeur, le Guideexpression, exprimer
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Maître, l'instructeur, l'enseignant
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "3e6eb99f9fc040f4a3f90e2ccd7e86c1"
+msgid "དགེ་སློང་ མ␣འི་ སྟོན་པ␣ར་ བསྐོས་པ␣འི་ དགེ་སློང་ ལ་"
+msgstr ""
+"envers un moine pleinement ordonné désigné comme enseignant pour les nonnes "
+"pleinement ordonnées"
+
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
+# 
+# 。︀	〝གཞི〞 4998
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fond, Base, Fondement, Appui, L'en soi, Terre,
+# Contrée, Cause, Graine, Racine, ⁃ "le fond, la base, fondation, la base
+# d'existence, la base existentielle, le fondement de l'existant ; la base
+# fondamentale"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ base, fondement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Base
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gzhi ma, gzhi mo, gzhi rtsa Sens racine: le fond la base,
+# fondation, la base d’existence, la base existentielle, le fondement de
+# l’existant ; la base fondamentale
+msgctxt "06695d68ebe047d9beaf237a4d6b0fc6"
+msgid "བཟའ་བཏུང་ ལྟ་བུ་ གཞི་ གཅིག་ ལ་ བརྟེན་ ནས་ སྐུར་པ་ འདེབས་པ␣འོ ། །"
+msgstr ""
+"le diffamer en insinuant qu'il enseigne dans le but d'obtenir de la "
+"nourriture, des boissons, etc."
+
+# 。︀	〝ཆོས་གོས〞 1403
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robes du Dharma
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "2071f8b0ea034eaab06f6a4794be18cd"
+msgid "ཆོས་གོས་ གཉིས་ ལ␣ས་ གོས་ བྱིན་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Des deux provocateurs de chute relatifs aux vetements monastique, celui "
+"consistant à en donner un."
+
+msgctxt "61e847b96138458d90da6a42bdd84810"
+msgid "ཉེ་དུ་ མ་ཡིན་པ␣འི་ དགེ་སློང་ མར་ གོས་ བྱིན་པ␣འོ ། །"
+msgstr ""
+"donner un vêtement monastique à une nonne pleinement ordonnée qui n'est pas "
+"une parent."
+
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+msgctxt "a6cd9921241345a7ba7d26156f54bc2a"
+msgid "གོས་ བྱེད་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"le provocateur de chute consistant à confectionner un vêtement monastique"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "44066292fa814abbb5401861522f5298"
+msgid "ཉེ་དུ་ མ་ཡིན་པ␣འི་ དགེ་སློང་ མ␣འི་ གོས་ འཚེམ་པ␣འོ ། །"
+msgstr "c'est coudre un vêtement pour une nonne qui n'est pas un parent."
+
+# 。︀	〝འགྲོ་བ〞 730
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ tara, gamana, gati, jaga, jagan, jagad Sens racine:
+# Les vivants, les migrants Alternatives: les vivants, les êtres (vivants),
+# migrants, errants, animés, créatures
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "696811e9ab004958af88373f6fc988d5"
+msgid "ལམ་ དུ་ འགྲོ་བ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr "Le provocateur de chute consistant à marcher ensemble sur une route"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "cda8276296b8498085493cd663747d2c"
+msgid "དགེ་སློང་ མ་ དང་ ལྷན་ཅིག་ རྒྱང་གྲགས་ ལ␣ས་ འདའ་བ␣ར་ བྱེད་པ␣འོ ། །"
+msgstr ""
+"accompagner une (ou plusieures) nonnes sur une distance dépassant la portée "
+"d'un cris. (env 1km)"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "3ec01913fb5b4f8cadb435176a58136b"
+msgid "དགེ་སློང་ མ་ དང་ ལྷན་ཅིག་ གྲུ␣ར་ འཇུག་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à prendre un bateau avec une nonne "
+"pleinement ordonnée"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝ཞུགས〞 4945
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ entrer (p101), rentrer, participer
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: entrer rentrer, participer
+msgctxt "84df923531074ba081c209b8871e6c16"
+msgid "དགེ་སློང་ མ་ དང་ ལྷན་ཅིག་ གྲུ␣ར་ ཞུགས་ ཏེ་"
+msgstr "entrer dans un bateau avec une nonne pleinement ordonnée puis,"
+
+msgctxt "bb9467f94fde4eb4a1f5445f280f20d1"
+msgid ""
+"ཆུ␣འི་ རྒྱུན་ཕྱོགས་ སམ་ ལྡོག་ཕྱོགས་ གང་རུང་ ལ་ རྒྱང་གྲགས་ ཀྱི་ བར་ ཕྱིན་པ␣འོ"
+" ། །"
+msgstr ""
+"l'accompagner en amont ou en aval (dans le sens du courrant ou a contre "
+"sens) sur une distance dépassant la portée d'un cris."
+
+# 。︀	〝སྐྱབས〞 217
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ refuge
+# 
+# 。︀	〝དབེན་པ〞 3995
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement, solitude
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Isolé, Isolation, Vide de. Etre à l'écart, Lieu
+# désert,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ dénué
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viveka Sens racine: Isolé,Isolation,Vide de…Etre à
+# l’écart,Lieu désert, Alternatives: isolement (emmurée), solitude, vide,
+# endroit isolé et distant (non fréquenté par des gens malsains)mise sur plan
+# nouménal
+# 
+# 。︀	〝ཡོད〞 5528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
+msgctxt "4598bc7c6f864882954a1a0741629fcc"
+msgid "དབེན་པ་ སྐྱབས་ ཡོད་ དུ་ འདུག་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à s'asseoire dans un endroit isolé et "
+"abrité (hors de la vue des autres),"
+
+# 。︀	〝སྐྱབས〞 217
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ refuge
+# 
+# 。︀	〝དབེན་པ〞 3995
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement, solitude
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Isolé, Isolation, Vide de. Etre à l'écart, Lieu
+# désert,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ dénué
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viveka Sens racine: Isolé,Isolation,Vide de…Etre à
+# l’écart,Lieu désert, Alternatives: isolement (emmurée), solitude, vide,
+# endroit isolé et distant (non fréquenté par des gens malsains)mise sur plan
+# nouménal
+# 
+# 。︀	〝ཡོད〞 5528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
+msgctxt "8a4aa372b9bb400eabc8b1fc2523a022"
+msgid ""
+"ཉེ་དུ་ མ་ཡིན་པ␣འི་ བུད་མེད་ དང་ ལྷན་ཅིག་ དབེན་པ་ སྐྱབས་ ཡོད་ དུ་ སྡོད་པ␣འོ "
+"། །"
+msgstr ""
+"signifie s'asseoir dans un endroit isolé et abrité en compagnie d'une femme "
+"qui n'est pas une parent."
+
+msgctxt "f4657a9711c84c789c8fa1901456b268"
+msgid "འགྲེང་བ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr "Le provocateur de chute consistant à se tenir debout"
+
+# 。︀	〝རོ〞 5953
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
+msgctxt "ce94b35ffea945f0905a607496d2ecf4"
+msgid "འགྲེང་བ་ དང་ སྡོད་པ་ ཙམ་ མ་གཏོགས་ སྔར་ལྟར་ རོ ། །"
+msgstr ""
+"dans la même situation que précédement, se tenir debout. (en général ce "
+"voeux consiste à se tenir debout dans un lieu isolé et abrité avec une "
+"nonne)."
+
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "7a125560d1d74750ac6c957a98597819"
+msgid "ཟས་ སྦྱོར་ དུ་ འཇུག་པ␣འི་ ལྟུང་བྱེད་ ནི །"
+msgstr ""
+"Le provocateur de chute consistant à persuader quelqu'un de préparer de la "
+"nourriture"
+
+# 。︀	〝དགེ་སློང་མ〞 660
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui
+# développe la vertu".
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "ordination majeure, moniale (Strictement parlant, c'est
+# une religieuse vivant en clôture; et nonne est dit ""vieilli"" ou ""par
+# plaisanterie"".)"
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ nonne
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "37e83077b52d4682b3362e958a4ba42b"
+msgid "ཉེ་དུ་ མ་ཡིན་པ␣འི་ དགེ་སློང་ མ་ བརྒྱུད་ ནས་"
+msgstr "en passant par l'intermédiaire d'une nonne qui n'est pas un parent,"
+
+msgctxt "d9a1eb3359dd493b8171992ae4af49e1"
+msgid "ཁྱིམ་བདག་ ལ་ རང་ གི་ བཟའ་བཏུང་ སྦྱོར་ དུ་ བཅུག་པ␣འོ ། །"
+msgstr ""
+"inciter un chef de famille à préparer pour soi de la nourriture et des "
+"boissons."
