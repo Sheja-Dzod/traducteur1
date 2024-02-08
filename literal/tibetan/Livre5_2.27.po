@@ -851,18 +851,14 @@ msgid "ཁྲུས་ བྱེད་པ␣འི་ ལྟུང་བྱེ�
 msgstr ""
 
 # 
-# 。︀	〝ཚ་བ〞 4612
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chaleur tapana
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ brûlant
-msgctxt "46594f484ac241c8bf49880cbc2edf5a"
-msgid "ནད་པ་ དང་ ཚ་བ␣འི་ དུས་"
-msgstr ""
-
-# 
 # 。︀	〝བྱེད་པ〞 3840
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
 # Différenciation,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ཚ་བ〞 4612
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chaleur tapana
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ brûlant
 # 
 # 。︀	〝ཟླ་བ〞 5146
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lune, Compagnon, ⁃ lumière lunaire (signe de claire
@@ -870,6 +866,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lumière lunaire (signe de claire lumière)
 msgctxt "2178d8b3b5d74489b98a22173582d49f"
 msgid ""
-"ཟླ་བ་ གསུམ་ མ་གཏོགས་ ཁྲུས་ སྔ་མ་ ཟིན་ ནས་ ཟླ་བ་ ཕྱེད་ ཀྱི་ སྔ་རོལ་ དུ་ ཁྲུས་"
-" བྱེད་པ␣འོ ། །"
+"ནད་པ་ དང་ ཚ་བ␣འི་ དུས་ཟླ་བ་ གསུམ་ མ་གཏོགས་ ཁྲུས་ སྔ་མ་ ཟིན་ ནས་ ཟླ་བ་ ཕྱེད་ "
+"ཀྱི་ སྔ་རོལ་ དུ་ ཁྲུས་ བྱེད་པ␣འོ ། །"
 msgstr ""
