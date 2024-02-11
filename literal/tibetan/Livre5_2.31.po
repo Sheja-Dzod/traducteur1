@@ -178,6 +178,19 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
 # Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
 # 
+# 。︀	〝བསླབ་པ〞 6676
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etudier, Apprendre, Ce qui est apprit, Ce qui est
+# enseigné, Ce qui est donné comme enseignement, Apprentissage, Etudes,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
+msgctxt "5b922c6e89794ac7a92f69024fd1a6e4"
+msgid "༣␣བསླབ་པ་ དྲལ་ ཏེ་ ཁྱིམ་ དུ་ འཇུག་པ་ ནི །"
+msgstr ""
+
+msgctxt "c262bf56465a47ae805923bb90e0df72"
+msgid "སྦྱིན་བདག་ ཟས་ནོར་ གྱིས་ ཕོངས་པ␣ར་ གྱུར་པ་ ལ་"
+msgstr ""
+
+# 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
@@ -198,6 +211,15 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ générosité, don
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: générosité, don
 # 
+# 。︀	〝བསླབ་པ〞 6676
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etudier, Apprendre, Ce qui est apprit, Ce qui est
+# enseigné, Ce qui est donné comme enseignement, Apprentissage, Etudes,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
+msgctxt "f6bc8de4d4eb4bb6a2c63482b1b5980c"
+msgid "ཁྱིམ་ གྱི་ བསླབ་པ␣འི་ སྡོམ་པ་ སྦྱིན་པ␣ར་ བྱ་ སྟེ །"
+msgstr ""
+
+# 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
 # cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
@@ -214,16 +236,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "(h) Demander, Requérir, Offrir, Prier de, Veuillez.;
 # Honorifique pour parole, "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ supplication
-# 
-# 。︀	〝བསླབ་པ〞 6676
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etudier, Apprendre, Ce qui est apprit, Ce qui est
-# enseigné, Ce qui est donné comme enseignement, Apprentissage, Etudes,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "6971c5676caa496a90522768029aea6c"
-msgid ""
-"༣␣བསླབ་པ་ དྲལ་ ཏེ་ ཁྱིམ་ དུ་ འཇུག་པ་ ནི །  སྦྱིན་བདག་ ཟས་ནོར་ གྱིས་ "
-"ཕོངས་པ␣ར་ གྱུར་པ་ ལ་ ཁྱིམ་ གྱི་ བསླབ་པ␣འི་ སྡོམ་པ་ སྦྱིན་པ␣ར་ བྱ་ སྟེ །  "
-"དེ␣འང་ གསོལ་བ␣འི་ ལ␣ས་ ཀྱིས་ སྦྱིན་ ནོ ། །"
+msgid "དེ␣འང་ གསོལ་བ␣འི་ ལ␣ས་ ཀྱིས་ སྦྱིན་ ནོ ། །"
 msgstr ""
 
 # 
