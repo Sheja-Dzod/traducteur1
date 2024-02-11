@@ -200,7 +200,9 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "5b922c6e89794ac7a92f69024fd1a6e4"
 msgid "༣␣བསླབ་པ་ དྲལ་ ཏེ་ ཁྱིམ་ དུ་ འཇུག་པ་ ནི །"
-msgstr "Aller dans un foyer de laique en transgressant un precepte"
+msgstr ""
+"La faute à confesser individuellement consistant à aller dans un foyer de "
+"laique en transgressant un precepte"
 
 msgctxt "c262bf56465a47ae805923bb90e0df72"
 msgid "སྦྱིན་བདག་ ཟས་ནོར་ གྱིས་ ཕོངས་པ␣ར་ གྱུར་པ་ ལ་"
