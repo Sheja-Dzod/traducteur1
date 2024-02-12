@@ -235,7 +235,9 @@ msgstr "alors qu'un maître de maison est démunis sans nourriture ni richesse"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ règles de conduite (112)
 msgctxt "f6bc8de4d4eb4bb6a2c63482b1b5980c"
 msgid "ཁྱིམ་ གྱི་ བསླབ་པ␣འི་ སྡོམ་པ་ སྦྱིན་པ␣ར་ བྱ་ སྟེ །"
-msgstr " lui donner les préceptes de laîque"
+msgstr ""
+" il faut instaurer une règle concernant les précéptes des laîque ( velui "
+"donner les préceptes de laîque )"
 
 # 。︀	〝ལས〞 6028
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
