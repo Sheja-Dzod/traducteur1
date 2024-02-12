@@ -287,7 +287,9 @@ msgstr ""
 
 msgctxt "0ccee7f7b87541fc8a4049ee8e565fe8"
 msgid "ཁྱིམ་ གྱི་ བསླབ་སྡོམ་ དེ་ བྱིན་ ཟིན་ ནས་"
-msgstr "Une fois les voeux de laîque en question conférés,"
+msgstr ""
+"(une fois la règle concernant ce laîque donnée) Une fois les voeux de laîque"
+" en question conférés,"
 
 # 。︀	〝ལྟུང་བ〞 2005
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, ⁃ Déchéances,  Chutes (des voux de
