@@ -1,0 +1,708 @@
+# 
+# Translators:
+# Damien Jampa, 2024
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2024\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgctxt "a5e6a6b50b4345a99cd57b76e5d0418e"
+msgid "ལྔ་པ་ ཉེས་བྱས་ ཀྱི་ སྡེ་ བརྒྱ་ དང་ བཅུ་གཉིས་ ནི །"
+msgstr "5. Le groupe des 112 fautes mineures"
+
+msgctxt "7e7cfb76e3974f0e81049367a9d3f672"
+msgid "གོས་ བགོ་བ་ ཡི་ བཅུ །"
+msgstr "dix (règles) relatives au port de la robe,"
+
+# 。︀	〝སྤྱོད་ཡུལ〞 3398
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sphère ⁃ sphère ⁃ sphère/domaine d'expérience
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Domaine d'activité, Domaine d'expérience, Domaine, ⁃
+# domaine d'activité, domaine d'expérience, dimension de l'expérience, sphère
+# d'action, domaine d'agissement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sphère/domaine d'activité, champ d'expérience (bar cha
+# 741)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viṣaya Sens racine: Domaine d’activité, Domaine
+# d’expérience,Domaine, Alternatives: objet de pensée, de compréhension, de
+# connaissancedomaine d'application des phénomènes et de leur connaissance,
+# domaine de validitéchamp, sphère, zone, spectre, portée, éventail, gamme,
+# domaine de compréhension, d'activité, d'expérience (déterminée), d'action,
+# d'entraînement, apanage de, portée naturelle des activités des sens,
+# sensorielles, dimension de l'expériencepratique, activité religieuse
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Sphère d'activité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: domaine d’activité, domaine d’expérience,
+# dimension de l’expérience sphère d’action, domaine d’agissement, l’étendu
+# (ou l’envergure, la portée) des activités des sens, champ d’action, champ
+# d’activité, le domaine d’action ‘finie’ (contrairement à ‘infini’)
+msgctxt "f060df53473445368c277744f9cfb182"
+msgid "སྤྱོད་ཡུལ་ ཉི་ཤུ་"
+msgstr "Vingt relatives aux déplacements,"
+
+msgctxt "f9e4c4b69c3e4ca3b4c7507ff9226c5b"
+msgid "སྟན་ ལ་ འདུག་པ␣འི་ དགུ ། །"
+msgstr "neuf relatives aux façons de s’asseoir,"
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "9c3ef0aa369f4edfa3f7b577be16746e"
+msgid "ཟས་ བརྒྱད"
+msgstr "Huit à la nourriture,"
+
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "eda80c0f50334df4976d6f454c9401f3"
+msgid "ཟ་ ཚུལ་ ཉེར་ གཅིག་"
+msgstr "vingt-et-une aux façons de manger, "
+
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "71952bf46f9748d19aacba7b4868f7d2"
+msgid "ལྷུང་བཟེད་ ཀྱི ། ། བཅུ་བཞི་"
+msgstr "quatorze au bol d’aumône,"
+
+# 。︀	〝ཆོས〞 1364
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
+# Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
+# connaissable, ⁃ 1. Dharma, réalité, 2. les dharmas, phénomènes, 3. Dharma,
+# l'enseignement du Bouddha, (affaires) spirituelles, 4.facteurs
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ doctrine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dharma Sens racine:
+# DharmaEnseignement,L’enseignement de réalité Ce qui est expérimenté,
+# expérience,Chose, connu. réalité, réel, connaissable,, phenomenon (SL
+# BP)teaching (SL MW) Alternatives: construire, réparerconnaissable, connu,
+# chose, éléments, phénomène, objet de connaissance, existants phénoménaux
+# objet du mental, événements mentaux, sujetsbienfaitsqualités, aspect,
+# facteur, attributs, éléments del'instant, la circonstance, l'occasionles
+# enseignements (du Bouddha), vérité, doctrine, pratique religieusela
+# certitude, le réel, réaliténature essentiellequi se tient, qui est en
+# cohésion
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doctrine, phénomènes, réalité ⁃ "Dharma du Bouddha;
+# Phénomène  "
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
+# 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
+# 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "045f32673c5e493392e5641fc341601c"
+msgid "ཆོས་ བཤད་ ཉེར་ དྲུག་"
+msgstr "Vingt-six relatives à l’enseignement, "
+
+# 。︀	〝སྒྲུབ〞 921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ...d'accomplissement
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
+# 。︀	〝ཚུལ་གསུམ〞 4693
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Triple modalité ⁃ Triple modalité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois modes
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ trois modalités
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Les trois modes, three modes or
+# criteria Alternatives: les trois modes, méthodes, moyens de raisonnement,
+# réflexion, de démontrer qu'une proposition est correcte
+msgctxt "34ecb7c979ea4813b7845883f703177a"
+msgid "སྒྲུབ་ ཚུལ་ གསུམ ། །"
+msgstr "trois aux façons personnelles,(comportements)"
+
+# 。︀	〝རྒྱུ་བ〞 805
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mouvant
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "fce10136aac7413cb572ef4c5ad6c077"
+msgid "རྒྱུ་བ་ གཅིག་ སྟེ་"
+msgstr "Et une relative au déplacement, "
+
+msgctxt "5366411a78af401986c3abb66dc9f715"
+msgid "ཉེས་བྱས་ སྡེ་ཚན་ རྣམས ། །"
+msgstr "forment le groupe des fautes mineures "
+
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+# 
+# 。︀	〝རྩ〞 4527
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ racine, fondement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Source, Nadis, Canaux (du corps vajra),
+# Veines, Artères, ⁃ canal, artère, nâdi, veine
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ canal [subtil]
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ nāḍi, nāḍī Sens racine: Racine,Source,Nadis,Canaux
+# (du corps vajra),Veines,Artères, Alternatives: les veines, artères, nerfs
+# les canaux subtils, psychiques, d'énergie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Canal subtil, nâdî
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: nâdi, canal artère, veine
+# 
+# 。︀	〝རྩ་གསུམ〞 4554
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ trois canaux subtils
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois sources, Les trois racines, Les trois
+# canaux,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois racines ⁃ Trois racines
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "d10dffa4a0fa42c4a08521b1dc9db018"
+msgid "བསྡོམས་པ␣ས་ ཉིས་ བརྒྱ་ ལྔ་ བཅུ་ རྩ་ གསུམ་ མོ ། །"
+msgstr "Qui avec les précédentes font deux-cent-cinquante-trois [règles]."
+
+# 。︀	〝བདེ་བ〞 2687
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
+# plaisant, ⁃ félicité, bonheur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
+# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
+# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
+# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
+# plaisir, béatitude, suprême béatitude
+# 
+# 。︀	〝ཚིགས་བཅད〞 4671
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Texte versifié, Versification, (Stances de quatre
+# vers)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Texte versifié,Versification,(Stances
+# de quatre vers) Alternatives: versification, stance, vers, verset, quatrain
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ stance versifiée
+msgctxt "e63470ccc8074d4ab52ed94999ba660b"
+msgid ""
+"འདི␣འི་ ངོས་འཛིན་ བརྗོད་ བདེ་བ␣འི་ ཕྱིར་ གོ་ སླ␣འི་ ཚིགས་བཅད་ དུ་ བསྡེབ་པ␣ར་"
+" བྱ་ སྟེ །"
+msgstr ""
+"Pour faciliter leur mémorisation et récitation, je les écris en vers facile "
+"à comprendre"
+
+msgctxt "1c67a238866248f2a6ebab05b932d76a"
+msgid "དང་པོ་ གོས་ བགོ་བ␣འི་ སྡེ་ བཅུ་ ནི །"
+msgstr "1. Le groupe de dix relatif au port du vêtement monastique"
+
+# 。︀	〝ཟླུམ་པོ〞 5152
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sphérique
+# 
+# 。︀	〝ཤམ་ཐབས〞 6163
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jupe monastique, «Ce qui fait pour le bas»
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ jupe monacale
+msgctxt "e1360b18f37c4a088432aa2488f36f03"
+msgid "༡␣ཤམ་ཐབས་ མཐོ་དམན་ མཉམ་པ␣འི་ ཟླུམ་པོ␣ར་ བགོ  །"
+msgstr ""
+"Porter la robe de manière harmonieuse (haut et bas en harmonie) et bien "
+"enroullée autour de soi. "
+
+msgctxt "6a726aea2bc94598b80a621513f54efd"
+msgid "༢␣ཧ་ཅང་ ཐུང་ ནས་ བརྩེངས་ ༣␣དང་ རིང་ ནས་ འཇོལ ། །"
+msgstr "En la remontant trop haut ou en la laissant traîner trop bas,"
+
+# 。︀	〝ཕྱོགས〞 3568
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Thèse ⁃ Thèse
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Direction, Orient, Coté, Position, Se diriger vers
+# Prendre la direction de, Prendre parti,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi 1/2 mois, quinzaine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Direction,Orient,Coté,Position,Se
+# diriger versPrendre la direction de,Prendre parti,, position (SL BP)
+# Alternatives: tendance, opinion, direction, recourir à, extrêmes, biais,
+# préjugé, parti pris, place, polarisation, orientation (boussole)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ catégorie, direction ⁃ Direction géographique ⁃ Tendance,
+# l'opinion
+msgctxt "ca5fb4a383ab49bc8d334233b621978e"
+msgid "༤␣མས་ སྣ་ གླང་ཆེན་ སྣ་ ལྟར་ ཕྱོགས་ སུ་ དཔྱངས ། །"
+msgstr "le bas pendouillant d'un coté comme la trompe d'un elephant"
+
+msgctxt "87736afdadf64420b6537502d581b46b"
+msgid "༥␣གོང་ ནས་ ཏཱ་ལ␣འི་ ལོ་མ་ བཞིན་ དུ་ བལྟེབ ། །"
+msgstr ""
+"En laissant retomber le plis du haut (au dessus de la ceinture) comme des "
+"branches de palmiers,"
+
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "f413712afb954f0e90fc97b30077e984"
+msgid "༦␣སྐ་རགས་ བར་ ནས་ འཕུར་ མ་ བཞིན་ དུ་ འབུ␣ར ། །"
+msgstr ""
+"En la bourrant à la ceinture (bourrer entre les tour de la ceinture) comme "
+"un sac de grains"
+
+msgctxt "e3b65881db79469d9751582d83896f63"
+msgid "༧␣སྐ་རགས་ གོང་ དུ་ སྦྲུལ་མགོ␣འི་ གདེངས་ཀ་ ལྟར ། །"
+msgstr ""
+"en la faisant ressortir comme des têtes de cobra au dessus de la ceinture. "
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "99479cec91414e90bd178f50b0b2e595"
+msgid "མཐོ་དམན་ ཅན་ རྣམས་ ནམ་ཡང་ མི་ བྱ་ ཞིང༌ ། །"
+msgstr "ne la protegez jamais de manière non harmonieuse."
+
+# 。︀	〝སྣམ་སྦྱར〞 3291
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+# 
+# 。︀	〝ཟླུམ་པོ〞 5152
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sphérique
+msgctxt "e29712fd9cd649ba9a060131933623ab"
+msgid "༨␣སྣམ་སྦྱར་ བླ་གོས་ དག་ ཀྱང་ ཟླུམ་པོ␣ར་ བགོ  །"
+msgstr ""
+"Le châle monastique au nombreux plis et le châle monastique simple doivent "
+"aussi être porté bien enroullé."
+
+msgctxt "7f6c00ec21664af290063e8d42983482"
+msgid "༩␣ཧ་ཅང་ རིང་ དང་ ༡༠␣ཐུང་བ་ མིན་པ␣འོ ། །"
+msgstr "Ils ne doivent être ni trop long, ni no trop court."
+
+# 。︀	〝འགྲོ་བ〞 730
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ tara, gamana, gati, jaga, jagan, jagad Sens racine:
+# Les vivants, les migrants Alternatives: les vivants, les êtres (vivants),
+# migrants, errants, animés, créatures
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
+# 
+# 。︀	〝སྤྱོད་ཡུལ〞 3398
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sphère ⁃ sphère ⁃ sphère/domaine d'expérience
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Domaine d'activité, Domaine d'expérience, Domaine, ⁃
+# domaine d'activité, domaine d'expérience, dimension de l'expérience, sphère
+# d'action, domaine d'agissement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sphère/domaine d'activité, champ d'expérience (bar cha
+# 741)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viṣaya Sens racine: Domaine d’activité, Domaine
+# d’expérience,Domaine, Alternatives: objet de pensée, de compréhension, de
+# connaissancedomaine d'application des phénomènes et de leur connaissance,
+# domaine de validitéchamp, sphère, zone, spectre, portée, éventail, gamme,
+# domaine de compréhension, d'activité, d'expérience (déterminée), d'action,
+# d'entraînement, apanage de, portée naturelle des activités des sens,
+# sensorielles, dimension de l'expériencepratique, activité religieuse
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Sphère d'activité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: domaine d’activité, domaine d’expérience,
+# dimension de l’expérience sphère d’action, domaine d’agissement, l’étendu
+# (ou l’envergure, la portée) des activités des sens, champ d’action, champ
+# d’activité, le domaine d’action ‘finie’ (contrairement à ‘infini’)
+msgctxt "f0e6aef8f18a46abb092290ccacaf5dc"
+msgid "གཉིས་པ་ སྤྱོད་ཡུལ་ འགྲོ་བ་ ཉི་ཤུ་ ནི ། །"
+msgstr "2. les vingt relatives aux déplacements "
+
+# 。︀	〝ཤེས་བཞིན〞 6227
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Vigilance ⁃ Vigilance ⁃ vigilance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Attention, Vigilance, Attention vigilante, Vigilance
+# attentive, Etat connaissant, vigile, lucide, de lucidité, de vigilance,
+# d'attention, Observation répétée du corps et de l'esprit,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vigilance, claire conscience
+msgctxt "e41c1918142c4da1b947d4e25537ddcd"
+msgid "དྲན་ དང་ ཤེས་བཞིན་ ལུས་ངག་ ཡོངས་སུ་ བསྡམ ། །"
+msgstr ""
+"Pleinement maîtriser son corps et sa parole avec présence et vigilance"
+
+msgctxt "2d47be379db64aa68cedcb3a44372b59"
+msgid "གོས་ཚགས་ ལེགས་པ␣ར་ བགོ་ ཞིང་ ཅ་ཅོ་ བསྐྱུང༌ ། །"
+msgstr ""
+"S'habiller dignement et éviter (litt. réduire) de crier ou parler fort"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མིག〞 4314
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Oil,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ cakṣuḥ Sens racine: Œil, Alternatives: œil, yeux,
+# mirettes
+msgctxt "a4e81ae169a6453b9c7e0b0ed87d9acb"
+msgid "མིག་ མི་ གཡེང་ ཞིང་ གཉའ་ཤིང་ གང་ ཙམ་ བལྟ ། །"
+msgstr ""
+"Ne pas laisser le regard vagaboner et regarder devant soi à la distance d'un"
+" joug;"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཤམ་ཐབས〞 6163
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jupe monastique, «Ce qui fait pour le bas»
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ jupe monacale
+msgctxt "d55ea8a04b9a47fea45d27b63d862d20"
+msgid "མགོ་བོ་ མི་ གཏུམས་ ཤམ་ཐབས་ བརྫེ་ མི་ བྱེད ། །"
+msgstr "Ne pas couvrir sa tête ni retrousser sa robe;"
+
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+msgctxt "5ccca5bfae8341c99910cd6fd34fe6a3"
+msgid "བླ་གོས་ ཕྲག་པ་ གཉིས་ཀ␣ར་ གཟར་བ་ མིན ། །"
+msgstr "Se draper les deux épaules de so châle monastique "
+
+msgctxt "3b95d857958742488e1198155a105766"
+msgid "ལག་ གཉིས་ མདུན་ ནས་ གཉའ་བ␣ར་ བསྣོལ་བ་ དང༌ ། །"
+msgstr ""
+"Marcher en se tenant la nuque, les deux bras croisés devant avec  les mains "
+"tenant la nuque"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "9b08cd80588f4b4aa28a444b1c8eac02"
+msgid "རྒྱབ་ ནས་ ལྟག་པ␣ར་ བསྣོལ་ ཏེ་ འགྲོ་ མི་ བྱ ། །"
+msgstr ""
+"ni en  passant les mains derrière la tête pour tenir le derrière de la tête;"
+
+# 。︀	〝རྐང་པ〞 178
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jambe, Pieds, Particule donnant une valeur
+# honorifique à des termes reliés aux membres inférieurs
+msgctxt "a0bcbdd24ce64c3995bd10796a080ba7"
+msgid "མཆོངས་ དང་ གོམ་ རྒྱངས་ རྐང་པ␣འི་ རྟིང་པ་ དང༌ ། །"
+msgstr ""
+"ne pas avancer en sautant, ni à grandes enjambées (les genoux qui se "
+"fléchissent puis s'étendent), en s'appuyant seulement sur les talons ou"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "97616db05bb34573b77bb3052cee1431"
+msgid "བྲང་བ་ ཁོ་ན་ བཙུགས་ ནས་ མི་ འགྲོ་ ཞིང༌ ། །"
+msgstr "sur la pointe des pieds"
+
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "c7dbf5cfee364d0fb8b33eeeccfbda04"
+msgid "ལག་པ་ དཀུ␣ར་ བརྟེན་ གྲུ་ རྒྱངས་ བཅས་ མི་ འགྲོ ། །"
+msgstr "ne pas marcher les mains sur les hanches les coudes écartés,"
+
+# 。︀	〝བསྒྱུར〞 962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1.s'habituer (p98) ; 2.se détériorer"
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1.s’habituer 2.se détériorer
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+msgctxt "cd8285330bd947169394981e1561d591"
+msgid "ལུས་ ཉིད་ ཀྱོག་པོ␣ར་ མི་ བསྒྱུར་ ལག་ མི་ གཡོབ ། །"
+msgstr "Ne pas Marcher courbé, ni marcher balancant les bras "
+
+# 。︀	〝བསྒྱུར〞 962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1.s'habituer (p98) ; 2.se détériorer"
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1.s’habituer 2.se détériorer
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "291dbe7fec7e4528b22301e1bf3a5f2e"
+msgid "མགོ་བོ་ མི་ བསྒྱུར་ གཞན་ དང་ ཕྲག་ མི་ སྤྲད ། །"
+msgstr "ni en bougeant la tête, ni en touchant les épaules d'un autre"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "b392bfc396c24bb3bf15cc7b629c9be5"
+msgid "ཕན་ཚུན་ ལག་པ་ སྦྲེལ་ ནས་ མི་ འགྲོ␣འོ ། །"
+msgstr " ni en tenant un autre par la main"
+
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "0929d80998fa4333b549d5d1b886b23f"
+msgid "གསུམ་པ་ སྟན་ ལ་ འདུག་པ␣འི་ ཚུལ་ དགུ་ ནི ། །"
+msgstr "3. Neuf relatives aux façons de s’asseoir sur un coussin"
+
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "dd1523d696ab4be18256da530330dafb"
+msgid "ཁྱིམ་བདག་ སོགས་ ཀྱིས་ བསྡད་པ␣ར་ མ་ བགོས་ དང༌ ། །"
+msgstr ""
+"S’asseoir sans y être invité par le bienfaiteur ou l'hote (litt. le maitre "
+"de maison etc.)"
+
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝ཡོད་མེད〞 5534
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Existence et/ou non existence, Exister ou ne pas
+# exister, Etre ou ne pas être, Etre et non être, Avoir ou ne pas avoir, ⁃
+# existence et non existence, être ou ne pas être, être et non être
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Existence et inexistence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: existence et non existence être ou ne pas
+# être, être et non être
+# 
+# 。︀	〝སྲོག་ཆགས〞 6513
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nom commun pour les animaux, Les insectes,
+msgctxt "e3035e86a5fa48569c78026bf713c610"
+msgid "སྟན་ ལ་ སྲོག་ཆགས་ ཡོད་མེད་ མ་ བརྟགས་ དང༌ ། །"
+msgstr ""
+"sans avoir vérifié s’il y avait ou non des êtres vivants sur le siège,"
+
+# 。︀	〝རྐང་པ〞 178
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jambe, Pieds, Particule donnant une valeur
+# honorifique à des termes reliés aux membres inférieurs
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+msgctxt "fd7e93ac2b4c425d97f39610f1eb6740"
+msgid "ལུས་ ཀྱི་ ལྗིད་ བསྐྱུར་ རྐང་པ་ བསྣོལ་ ཏེ་ བརྐྱང༌ ། །"
+msgstr "S’asseoir lourdement, décroiser les jambes et les étirer."
+
+# 。︀	〝བརྩེགས་པ〞 4601
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Empiler Amonceler, Superposer,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kūṭa, pankti, śekhara Sens racine:
+# EmpilerAmonceler,Superposer, Alternatives: pile, mont, amoncellement,
+# empilage, étages, superposition, augmentation, pagodeincorporation,
+# intégration
+msgctxt "f6e0aa3a793048eeb64b6c1b610925c4"
+msgid "བརླ་ གཉིས་ དང་ ནི་ ལོང་བུ་ བརྩེགས་པ་ དང༌ ། །"
+msgstr ""
+"s'asseoir les cuisses posées l'une sur l'autre ou les chevilles l'une sur "
+"l'autre"
+
+# 。︀	〝གདངས〞 2585
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Air, mélodie, Ton, intonation, Eclat, (pour la lumière
+# ou le son), radiation, irradiation, lustre, Teint, radiance, (ce second sens
+# est plutôt pour mdangs) ⁃ l'éclat de l'énergie (p90), la luminosité de
+# l'éclat (p70, 90), l'énergie (p42, n341), translucidité, translucide,
+# rayonnement, éclat
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ radiation, irradiation, rayonnement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Air, mélodie,Ton, intonation,Eclat,
+# (pour la lumière ou le son), radiation, irradiation, lustre,Teint, radiance,
+# (ce second sens est plutôt pour mdangs) Alternatives: air, mélodieton,
+# tonalité, sonoritéfaçon de faireéclat (lumineux), radiance, translucide,
+# (qualité) radieuse, luminosité originelle, clarté (ultime, subtile), nature
+# lumineuse, force intérieure, subtile, ultime, brillance externe, l'éclat
+# fondamental de la base, énergie, rayonnement, lueur, ardeur (naturel,
+# interne), brillant, rutiler, rayonner, profondeur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éclat lumineux ⁃ Eclat lumineux
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: l’éclat de l’énergie, la luminosité de
+# l’éclat, l’énergie translucidité, translucide, rayonnement, éclat
+msgctxt "4e43e4b314c14220a1004ad8785bdd82"
+msgid "ཁྲི་ འོག་ རྐང་ བཀུག་ རྐང་ གཉིས་ གདངས་ ཏེ་ བགྲད ། །"
+msgstr "rentrer les jambes sous le siége, avoir les jambes ouvertes écartées"
+
+# 。︀	〝སྐྱོན〞 271
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaut, faute, problème, faille
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Défauts
+# 
+# 。︀	〝བསྟན་པ〞 2075
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseignement, Exposé, «Ce qui est montré» ⁃
+# enseignement, exposé, 'ce qui est montré'
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāsana, udita, nirdeśa, prakāśa Sens racine:
+# Enseignement,Exposé,« Ce qui est montré » Alternatives: présenter,
+# démontrer, démonstration, montrer, pédagogique, révélation, introduire,
+# didactique, révéler, exposer, expliquer, promulguer, dispenser, donner,
+# prodiguer (un enseignement)enseignement, doctrine, raffiner, instruire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Démonstration ⁃ Enseignement
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shâsana, enseignement, exposé ‘ce qui est
+# montré’, enseigné, révéler, définir comme
+msgctxt "a6007eb4cc044f6aa131bbe955ba017c"
+msgid "འདོམས་པ␣ར་ བསྟན་པ␣འི་ སྐྱོན་ དགུ་ སྤངས་ ལ་ འདུག །"
+msgstr ""
+"montrer ses organes génitaux: il faut s'asseoir en rejettant ces neuf "
+"érreures."
+
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝བསླབ་བྱ〞 6681
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est à étudier, Instructions, Conseils,
+# Injonction, Engagements, Enjoindre, Instruire,
+msgctxt "ed59438e1053487583a71e4682e7a089"
+msgid "ཞར་བྱུང་ བསླབ་བྱ་ ལག་པ␣ས་ འགྲམ་ མི་ བརྟེན ། །"
+msgstr "avec pour règle auxilliaire ne pas poser ses joues sur ses mains"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "fcbc9e6ffe624cfea639182c397387b6"
+msgid "རྒྱབ་ ཏུ་ འདུག་ སྟན་ ཁུར་ ནས་ མི་ འགྲོ␣འོ ། །"
+msgstr "Et ne pas marcher en portant un tapis pour s'asseoir sur son dos"
+
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "2390c97490994294a78c909f9527a11a"
+msgid "བཞི་པ་ ཟས་ ལེན་ ཚུལ་ ལ་ བརྒྱད་ ཚན་གཅིག  །"
+msgstr "4. Huit règles relatives à la manière de prendre la nourriture"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "fe2f826a12614a31a55e195d33209c0b"
+msgid "ཟས་ རྣམས་ ལྷུང་བཟེད་ ཁ་ལས་ མཐོ␣ར་ མི་ ལེན ། །"
+msgstr ""
+"ne pas remplir le bol de sorte que sa dépasse pas comme un monceau (comme "
+"dans le mandala)"
+
+msgctxt "68b8be43ff6b475dbbd46d538a66e39b"
+msgid "འབྲས་ཆན་ ཚོད་མ་ མང་ཉུང་ མཉམ་པ␣ར་ ལེན ། །"
+msgstr "Prendre autant de riz que de légumes,"
+
+# 。︀	〝སྔ་ཕྱི་མེད་པ〞 1188
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans avant ni après ⁃ Sans avant ni après
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sans avant ni après Alternatives: sans
+# (distinction de) avant, passé, précédent, plus tôtni après, futur, plus
+# tardatemporel
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "913e61421b9e4421a7790799f20d29c2"
+msgid "གྲལ་རིམ་ མཐར་ཆགས་ སྔ་ཕྱི་ མེད་པ␣ར་ ལེན ། །"
+msgstr ""
+"Accepter de la nourriture servie sans respecter l’ordre de service dans le "
+"rang"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མིག〞 4314
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Oil,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ cakṣuḥ Sens racine: Œil, Alternatives: œil, yeux,
+# mirettes
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "2e6e3086ff664f91a4fe7e9c305afbee"
+msgid "བླང་ ཚེ་ མི་ གཡེང་ ལྷུང་བཟེད་ མིག་ གིས་ ལྟ ། །"
+msgstr ""
+"Au moment d'accepter la nourriture, ne pas être déconcentré et regarder (les"
+" yeux rivé sur) le bol d'aumône"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "feb85965b8774f7ea758ea99a1594c30"
+msgid "ཟས་ མ་བྱུང་བ␣ར་ ལྷུང་བཟེད་ མི་ བཟེད་ ཅིང༌ ། །"
+msgstr "lever (présenter) son bol d’aumône avant que la nourriture arrive"
+
+msgctxt "afd6deb4c0c9430381cf40e518b5da1c"
+msgid "ཚོད་མ་ འདོད་ ནས་ འབྲས་ཆན་ འགེབས་པ་ དང༌ ། །"
+msgstr "Couvrir [les légumes] avec du riz pour en avoir plus,"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "10dbcb5780214dfaad307d23cb35c3e6"
+msgid "འབྲས་ཆན་ འདོད་ ནས་ ཚོད་མ་ འགེབས་ མི་ བྱ ། །"
+msgstr "Ou [couvrir le riz] avec les légumes si l’on veut plus de riz,"
+
+# 。︀	〝སྣོད〞 3294
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réceptacle/récipient/récepteur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ réceptacle inanimé
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "d04b796467d2416ba07b50c06b5f8566"
+msgid "བཟའ་བཅ␣འི་ སྟེང་ དུ་ སྣོད་ གཞན་ མི་ བཟེད་ དོ ། །"
+msgstr ""
+"Et présenter (lever, tenir) le bol plus haut que les plats de service."
