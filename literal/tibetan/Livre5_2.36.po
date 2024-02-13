@@ -1,0 +1,824 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# 
+# 。︀	〝བུ〞 3719
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
+# 
+# 。︀	〝བུ་སྟོན〞 3720
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Butön (bu ston), compilateur du canon tibétain ; indécis
+# quant à leur authenticité, il en exclut les tantras nyingmapas.
+msgctxt "b241a13052af41078b9dc233cd3ad00b"
+msgid "བུ་ སྟོན་ སོགས་ ཀྱིས་ དགུ་པ␣འི་ བཅུ་དྲུག  །"
+msgstr ""
+
+# 
+# 。︀	〝བཟུང་བ〞 5208
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisir, Appréhender, ⁃ "Saisi, Ce qui est saisi par le
+# sujet, L'objet saisi, L'objet, La chose appréhendée;"
+# 
+# 。︀	〝ཡོད〞 5528
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence
+msgctxt "3ec9bb177e0c42468f44ce364007f69a"
+msgid ""
+"མཆིམས་ སོགས་ སྔ་རབས་པ་ རྣམས་ བརྒྱད་པ␣འི་ བཅུ་དྲུག་ ནས་ བཟུང་བ་ ཡོད་ ལ །"
+msgstr ""
+
+# 
+# 。︀	〝བུ〞 3719
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
+# 
+# 。︀	〝བུ་སྟོན〞 3720
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Butön (bu ston), compilateur du canon tibétain ; indécis
+# quant à leur authenticité, il en exclut les tantras nyingmapas.
+msgctxt "29d304e7242147ab813cba544d71a88e"
+msgid "ཞྭ་དམར་ དྲུག་པ་ ནི་ བུ་ སྟོན་ དང་ མཐུན་ ནོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ཉིན་ཞག〞 1698
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ jour solaire
+msgctxt "2a2586717fae4c90bdb72acb9a34cba2"
+msgid "གང་ལྟར་ ཉིན་ཞག་ བཅུ་བཞི་པ་ དྲུག  །"
+msgstr ""
+
+msgctxt "adeaecc492774b1398f747c007e5e6e9"
+msgid "བཅོ་ལྔ་པ་ བཅོ་བརྒྱད་ དེ །"
+msgstr ""
+
+# 
+# 。︀	〝ངེས་པ〞 1011
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Certain, Certitude.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ définitif; certain; certitude
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ serata Sens racine: Certain,Certitude.
+# Alternatives: certain, définitif, excellence, certainement, indubitable,
+# incontestable, indéniable.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Certitude, vérité, vrai, certain, établi
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "28e659fffbe4473bbddcee1ec0e995f6"
+msgid "དེ་དག་ ལ་དུ␣ས་ ངེས་པ␣འི་ གསོ་སྦྱོང་ བྱ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝གྲུབ་པ〞 553
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ créé/e (la forme de la déité)
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+msgctxt "8d391d6235994f0da7e71596d556e0ab"
+msgid "དེ␣འི་ གནས་ ནི་ གྲུབ་པ་ བྲག་ཕུག་ ལྟ་བུ །"
+msgstr ""
+
+msgctxt "5073211665d04f1cbc22a3ac659f4150"
+msgid "གྱིས་པ་ ཁང་པ་ ལྟ་བུ །"
+msgstr ""
+
+# 
+# 。︀	〝ཟིན་པ〞 5129
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ contrôler, tenir, fixer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Saisir, Retenir, Mémoriser, Terminer, Achever, ⁃
+# terminé, fini, accompli, fait
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: terminé, fini, accompli, fait
+msgctxt "bfaee03a43fd41dd80d443b7a0dffd91"
+msgid "ལགས་པ␣འམ་ ཟིན་པ་ ནི་ ཤིང་ གྲིབ་ ལྟ་བུ་ ལ་"
+msgstr ""
+
+# 
+# 。︀	〝མཚམས〞 4793
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intervalle, Intermédiaire, Limite, Jonction,
+# Frontière, Extrémité, Angle, Direction, Période,
+msgctxt "344f9ca9cb344aaaa0abbb64685a6f1e"
+msgid "མཚམས་ ཆེ་ཆུང་ གང་རུང་ བཅད་པ་ ལ །"
+msgstr ""
+
+# 
+# 。︀	〝བྱེད་པ་པོ〞 3842
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ agent, acteur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Acteur, Sujet (de l'acte), Agent, Celui qui fait,
+# Fabriquant, Créateur, Auteur, ⁃ kartri, créateur, artisan créateur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = byed po kartṛ Sens racine: Acteur,Sujet (de
+# l’acte),Agent,Celui qui fait,Fabriquant,Créateur,Auteur, Alternatives:
+# agent, acteur de, créateur, auteur, fabricant, sujet (de l'acte)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: kartri, créateur, artisan créateur
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "24478b7acbf74c67a36064dd405ffc89"
+msgid "བྱེད་པ་པོ་ རབ་བྱུང་ སྡེ་ ལྔ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝ལྟུང་བ〞 2005
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, ⁃ Déchéances,  Chutes (des voux de
+# libération individuelle)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ apatti, sāvadya Sens racine: Déchéances, Chutes
+# (des vœux de libération individuelle) Alternatives: chuter, choir,
+# transgression, infraction, manquement (à un vœu monastique), chute
+# principale, défaite, ruine morale
+# 
+# 。︀	〝སྦྱོར་བ〞 4128
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'unir,  Se réunir, Approche, Jonction, Union,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application (une des quatre pratiques des tantras de
+# l'action); mise en ouevre (une des cinq facteurs d'une voie d'action) ⁃
+# relier, préparer
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ gaṇa, prayoga Sens racine: S’unir, Se
+# réunir,Approche,Jonction,Union, Alternatives: appliquer, pratiquer,
+# actualiser, réaliser, application, s'appliquer à, amener àunir, réunir,
+# joindre, jontion, union, unifier, combiner, connexion, yoga, ensemblecompter
+# surunion sexuelle, pratiques sexuellespréparation, entraînement,
+# introduction, préliminaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºmise en ouvre de l'acte; 2ºsyllogisme" ⁃ Connection,
+# adhésion,ajustement
+msgctxt "a789330e6adc4ccebede2565a0c15946"
+msgid "སྦྱོར་བ་ ལྟུང་བ་ བྱུང་ ན་"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་འདུན〞 632
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
+# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
+# communauté (monastique), congrégation, noble assemblée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
+# 
+# 。︀	〝ཆོས〞 1364
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
+# Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
+# connaissable, ⁃ 1. Dharma, réalité, 2. les dharmas, phénomènes, 3. Dharma,
+# l'enseignement du Bouddha, (affaires) spirituelles, 4.facteurs
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ doctrine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dharma Sens racine:
+# DharmaEnseignement,L’enseignement de réalité Ce qui est expérimenté,
+# expérience,Chose, connu. réalité, réel, connaissable,, phenomenon (SL
+# BP)teaching (SL MW) Alternatives: construire, réparerconnaissable, connu,
+# chose, éléments, phénomène, objet de connaissance, existants phénoménaux
+# objet du mental, événements mentaux, sujetsbienfaitsqualités, aspect,
+# facteur, attributs, éléments del'instant, la circonstance, l'occasionles
+# enseignements (du Bouddha), vérité, doctrine, pratique religieusela
+# certitude, le réel, réaliténature essentiellequi se tient, qui est en
+# cohésion
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doctrine, phénomènes, réalité ⁃ "Dharma du Bouddha;
+# Phénomène  "
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
+# 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
+# 
+# 。︀	〝མདོ〞 2727
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sûtra, Discours Résumé, Confluence, convergence,
+# rencontre, ⁃ sûtras, les discours (du Bouddha)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sūtra Sens racine: Sutra,Résumé,Confluence,
+# convergence, rencontre,, scripture, discourse (SL MW) Alternatives: résumé,
+# compendium, abrégé, discoursconvergence de fleuves, croisée des chemins,
+# croisement, carrefourl'extérieur, l'extrémité (d'une maison ou d'autre
+# chose)(dans les trois corbeilles la collection des) sūtra
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ discours du Bouddha, sutra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ mdo lugs Sens racine: sûtras, les discours (du Bouddha) ;
+# tradition des sûtras, système des sûtras
+# 
+# 。︀	〝བྱིན་རླབས〞 3819
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Inspirer, Bénir, Consacrer, Donner du pouvoir par
+# l'éclat, Transferer un pouvoir, une influence spirituelle, Conférer de
+# l'éclat, Conférer une énergie (spirituelle), Energétiser, ⁃ adhishthâna,
+# consécration (p39), énergie spirituelle, 'vagues de clarté', une ondée
+# d'inspiration, un rayonnement d'inspiration, bénédiction, influence
+# spirituelle, inspiration, grâce, être inspiré (n169)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ bénédiction, influence spirituelle, consécration, vagues
+# de magnificence (splendeur, pouvoir de transformation). ⁃ grâce spirituelle
+# ⁃ grâce
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ bénédiction, influence spirituelle ⁃ Bénédictions
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adhishthâna, consécration, énergie
+# spirituelle, ‘vagues de clarté’, une ondée d’inspiration, un rayonnement
+# d’inspiration, bénédiction, influence spirituelle, inspiration, grâce, être
+# inspiré
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝ཚུལ་ཁྲིམས〞 4681
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Discipline, ⁃ shîla, discipline, éthique, bonne
+# moralité, moralité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éthique/discipline (une des six - ou dix - perfections) ⁃
+# éthique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nang tshul śīla (“rafraîchissant”) Sens racine:
+# Discipline,, ethical conduct (SL BP)ethic (SL MW) Alternatives: discipline
+# (mentale, morale), éthique, moralité, déontologie, préceptes moraux,
+# conduite morale, saine, une observance (pure)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éthique, discipline morale
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shîla, discipline, éthique bonne moralité,
+# moralité
+msgctxt "dcb3a981a5204c4cabd9036f12090981"
+msgid ""
+"བཤགས་ བསྡོམས་ བྱིན་རླབས་ བྱ་ ཞིང་ ཚད་ དང་ ལྡན་པ␣འི་ གཎྜིས་ དགེ་འདུན་ བསྡུས་ "
+"ལ་ རྒྱུན་ཆགས་ གསུམ་པ་ དང་ ཆོས་ འཆད་ཉན་ གྱི་ དོད་ ཚུལ་ཁྲིམས་ རབ་ བསྔགས་ ཀྱི་ "
+"མདོ་ འདོན །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝དངོས་གཞི〞 1114
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratique principale, corps de la pratique, corps
+# principal de la pratique, pratique proprement dite, sujet principal
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ plan principal (recueillement proprement dit)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ partie principale ⁃ Pratique principale, le sujet
+# principal, le corps principal de la pratique
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pratique principale, corps de la pratique
+# corps principal de la pratique, pratique proprement dite, sujet principal,
+# section principale
+# 
+# 。︀	〝ཉམས〞 1669
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
+# expérience) ⁃ expérience
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ pratique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nyams pa anubhava Sens racine:
+# Expérience,Expérimenter,Eprouver (une sensation, expérience), meditative
+# experience (SL MW) Alternatives: expérience, sensation, sentiment de
+# expérience spirituelle, méditative, intérieure, expérimenter,
+# expériencel'allure, l'attitude, la manièreendommagement, transgression,
+# s'écrouler, dégénérer, chute, défaut, abimer, corrompre, déficience, fâner,
+# violations (et corruptions), avachis, les dommages, délabré, dépravé,
+# détériorations, ruine, mauvais, corruption morale, perverti, altérer
+# gravement, débaucher, avilissement, diminution, dépérir
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: expérience expérience de méditation,
+# expérience mystique
+# 
+# 。︀	〝དག་པ〞 2331
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ pur, pureté
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dag, rnam par dag pa Sens racine: pur ; parfaitement
+# pur pureté totale, totalement pur
+# 
+# 。︀	〝མདོ〞 2727
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sûtra, Discours Résumé, Confluence, convergence,
+# rencontre, ⁃ sûtras, les discours (du Bouddha)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sūtra Sens racine: Sutra,Résumé,Confluence,
+# convergence, rencontre,, scripture, discourse (SL MW) Alternatives: résumé,
+# compendium, abrégé, discoursconvergence de fleuves, croisée des chemins,
+# croisement, carrefourl'extérieur, l'extrémité (d'une maison ou d'autre
+# chose)(dans les trois corbeilles la collection des) sūtra
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ discours du Bouddha, sutra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ mdo lugs Sens racine: sûtras, les discours (du Bouddha) ;
+# tradition des sûtras, système des sûtras
+# 
+# 。︀	〝ནུས་པ〞 2990
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pouvoir, Puissance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ efficacité
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śakti Sens racine: Pouvoir,Puissance, potency,
+# potential (SL BP) Alternatives: puissance, capacité, aptitude, talent,
+# force, pouvoir, faculté (occulte), énergie éveillée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Capacité
+# 
+# 。︀	〝བྱ་བ〞 3753
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
+# à faire,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
+# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
+# taches, occupé, responsabilités, engagements, agissementspieds métriques
+# 
+# 。︀	〝བློ〞 3886
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cognition ⁃ cognition ⁃ esprit conceptuel, intellect,
+# idée, entendement, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intellect, Intellection, Intelligence, Compréhension,
+# Mentalisation, Connaissance, Mentalité, ⁃ intellect, intellection, esprit,
+# pensée, attitude, esprit ordinaire, conscience ordinaire
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ intelligence, esprit buddhi (awareness chez Hopkins)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ buddhi, mati, dhī, dhīḥ Sens racine:
+# Intellect,Intellection,Intelligence,Compréhension,Mentalisation,Connaissance,Mentalité,
+# Alternatives: intellect, intelligence (ordinaire), intellection, (processus)
+# mental (ordinaire), esprit (conceptuel, ordinaire, dans son fonctionnement
+# conditionné), conscience ordinaire, pensée, attitude, discursivité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Discernement, intellection (en tant que facteur mental) ⁃
+# Intellection (syn. de 'shes rab' en tant que facteur mental) ⁃ Intellect,
+# buddhi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: intellect, intellection esprit, pensée,
+# attitude, esprit ordinaire, conscience ordinaire
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མྱོང་བ〞 4402
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "expérience; éprouver"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérimenter, Eprouver,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Expérimenter,Eprouver, Alternatives:
+# éprouver, expérience, ressentir, percevoir, goûterréalisation plus profonde
+# fondée sur notre expérience
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝སོ་ཐར〞 6417
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
+# personelle,
+msgctxt "33569b238e824a20aa29b4044cdc8d9b"
+msgid ""
+"རྒྱུད་ དག་པ་ དང་ བློ་ མཐུན་ བྱས་ ལ་ འདུ་བ␣ར་ མི་ ནུས་པ␣ས་ གསོ་སྦྱོང་ ཉམས་ "
+"སུ་ མྱོང་བ་ བསྒྲུབ །  དངོས་གཞི་ གནས་བརྟན་ གྱིས་ སོ་ཐར་ གྱི་ མདོ་ འདོན་ ཞིང་ "
+"རྗེས་བསྔོ་ སྨོན་ བྱ་བ་ སོགས་ སོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝མེད〞 4369
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ inexistence
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "c873989c1d78492ab15a1fabff018907"
+msgid "གནས་ དེ␣ར་ དགེ་སློང་ གསུམ་ ལ␣ས་ མེད་ ན་"
+msgstr ""
+
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "0329b431f2074552a5ae24a302005510"
+msgid "ཕན་ཚུན་ གཅིག་ གི་ མདུན་ ན་ གཅིག་ འདུག་ ནས་ བྱིན་ གྱིས་ བརླབས་ ཤིང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝གཅིག་པུ〞 1257
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 
+# 。︀	〝ཐུབ་པ〞 2193
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pouvoir Doté de pouvoirs, Capable, Puissant.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ muni Sens racine: PouvoirDoté de
+# pouvoirs,Capable,Puissant. Alternatives: opportunité, possibilité, trouver
+# l'occasion de Muni, le sage, le silencieux, le puissantle Puissant, abr
+# Śākyamuni buddhaêtre capable, capacité, pouvoir, puissance
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝མ་གྲུབ〞 4149
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ absence de preuve, illigitimité
+# 
+# 。︀	〝མེད〞 4369
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ inexistence
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝རང་གཅིག་པུ〞 5614
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ unicité en-soi, en-soi unique, singularité d'en-soi
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝བསམ〞 6621
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ vivre (au sens d'expérimenter, ex. lors d'une
+# initiation) (p39), expérimenter (p102), concepts, considérer, réfléchir à
+msgctxt "8b221b91dd84439a9373b01ea1a2eeaa"
+msgid ""
+"རང་ གཅིག་པུ་ ལ␣ས་ མེད་ ན་ ཡིད་ ཀྱིས་ བསམ་ ཞིང་ བརྗོད །  དེ་ཙམ་ ཡང་ མ་ གྲུབ་ "
+"ན་ ཐུབ་པ␣འི་ སྔོན་ གྱི་ གསོ་སྦྱོང་ ཚིགས་ སུ་ བཅད་པ་ ཕྱེད་ དང་ བཞི་ ཙམ་ "
+"འདོན་པ␣ར་ བྱ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྐབས〞 195
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Occasion, opportunité, moment ou,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Occasion, opportunité, moment ou,
+# Alternatives: Occasion, chance, opportunité, état, situationdomaine,
+# sphèretempschapître, section partiemode, méthode, façon
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+msgctxt "fe92a0ce801a4892baf53051b06f496c"
+msgid "དེ་དག་ གི་ སྐབས་ སུ་ གནས་བརྟན་ གྱི་ ཚད་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝བསྙེན་པ〞 1853
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ (Pratique de) familiarisation (avec une déité)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ approche (asevita)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ asevita, sevā Sens racine: (Pratique de)
+# familiarisation (avec une déité) Alternatives: (pratique de)
+# familiarisation, d'approche, familiarité, connaissance (proche), approche,
+# service rituel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ récitation d'approche.
+# 
+# 。︀	〝རྩ〞 4527
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ racine, fondement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Source, Nadis, Canaux (du corps vajra),
+# Veines, Artères, ⁃ canal, artère, nâdi, veine
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ canal [subtil]
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ nāḍi, nāḍī Sens racine: Racine,Source,Nadis,Canaux
+# (du corps vajra),Veines,Artères, Alternatives: les veines, artères, nerfs
+# les canaux subtils, psychiques, d'énergie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Canal subtil, nâdî
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: nâdi, canal artère, veine
+# 
+# 。︀	〝སེང་གེ〞 6344
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lion, Le roi des animaux,
+msgctxt "1c4b073ffe804b889ddc8157d771278a"
+msgid ""
+"སྤྱིར་ གནས་བརྟན་ རྒྱལ་ཚབ་ ལྟ་བུ་ ཞེས་ བསྙེན་པ␣ར་ རྫོགས་ ནས་ ལོ་ ཉི་ཤུ་ རྩ་ "
+"ལྷག་ ལོན་པ་ དང༌ །  གནས་བརྟན་ སེང་གེ་ ལྟ་བུ་ ཞེས་ རྫོགས་ ནས་ ཉི་ཤུ་ ལོན་པ་ "
+"སྟེ་"
+msgstr ""
+
+# 
+# 。︀	〝མཁས་པ〞 413
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Erudit,  Habile, adroit, dextre ⁃ adresse, habile,
+# érudit, rompu en, dextre, docte
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sage, savant, scoliaste
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ paṇḍita, kovida Sens racine: Erudit, Habile,
+# adroit, dextre Alternatives: érudit, expert, virtuose, le sage, agile,
+# adresse, savoir faire, adroit, habile, talent, expertise,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ érudit
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: adresse, habile, érudit rompu en, dextre,
+# docte
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
+# 
+# 。︀	〝འདུལ་བ〞 2781
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ vinaya, maîtrise (5e stade mental)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vinaya, Discipline ⁃ La Discipline, Vinaya,
+# Discipliner.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maîtriser, contrôler, dompter ⁃ la discipline
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Vinaya Sens racine: Vinaya,Discipline Alternatives:
+# le Vinaya, la discipline (monastique), loi monastique de conduite moralela
+# règle, l'éthiquetransformer le mauvais en bon
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ discipline
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vinaya, discipline (monastique) ordonnances
+# monastiques
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "246e22889a0942838f76e5b8360a2199"
+msgid "འདུལ་བ་ ལ་ མཁས་པ་ གཞན་ ལ་ བརྟེན་ མི་ དགོས་པ␣འི་ རང་དབང་ ཅན་ ནོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝འདུལ་བ〞 2781
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ vinaya, maîtrise (5e stade mental)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vinaya, Discipline ⁃ La Discipline, Vinaya,
+# Discipliner.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maîtriser, contrôler, dompter ⁃ la discipline
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Vinaya Sens racine: Vinaya,Discipline Alternatives:
+# le Vinaya, la discipline (monastique), loi monastique de conduite moralela
+# règle, l'éthiquetransformer le mauvais en bon
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ discipline
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vinaya, discipline (monastique) ordonnances
+# monastiques
+# 
+# 。︀	〝བུ〞 3719
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
+# 
+# 。︀	〝བྱིས་པ〞 3822
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Petit enfant, Personne immature,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ être puéril/les puérils
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bāla Sens racine: Enfant,Petit enfant,Personne
+# immature,, naive (SL MW) Alternatives: êtres (ordinaires), mentalités,
+# niveaux, hommes, gens puérils, enfantins, gamines, infantiles, immatures,
+# sots, juvéniles, habituels, petit enfant, les êtres ordinaires qui sont
+# comme des enfants
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཚུལ་ཁྲིམས〞 4681
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Discipline, ⁃ shîla, discipline, éthique, bonne
+# moralité, moralité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éthique/discipline (une des six - ou dix - perfections) ⁃
+# éthique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nang tshul śīla (“rafraîchissant”) Sens racine:
+# Discipline,, ethical conduct (SL BP)ethic (SL MW) Alternatives: discipline
+# (mentale, morale), éthique, moralité, déontologie, préceptes moraux,
+# conduite morale, saine, une observance (pure)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éthique, discipline morale
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shîla, discipline, éthique bonne moralité,
+# moralité
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+# 
+# 。︀	〝བཤད་པ〞 6278
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "d57a46523a1f4e439a4f52ad8875aa59"
+msgid ""
+"བྱིས་པ་ ལྟ་བུ་ ཞེས་ རྫོགས་ ནས་ དྲུག་ཅུ་ ལོན་ ཡང་ འདུལ་བ་ མི་ ཤེས་པ་ དང༌ །  "
+"གནས་བརྟན་ སྲེད་ ད་ལྟ་ བུ་ ཞེས་ ཚུལ་ཁྲིམས་ འཆལ་པ་ བཞི␣ར་ བཤད་པ་ ལ␣ས་ སྔ་མ་ "
+"གཉིས་ བཟུང་ ངོ༌ ། །"
+msgstr ""
+
+msgctxt "25bf5b1586b44eb38cfcd8e0dfb45aab"
+msgid "གསུམ་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝རབ་གནས〞 5767
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Poser parfaitement, Rituel de consécration (de
+# représentations, d'édifices etc.)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ consécration (d'un objet, lieu)
+msgctxt "8f5a0e95746941528f918d461393d37d"
+msgid "རབ་གནས་ སོགས་ བཀྲ་ཤིས་པ␣འི་ དུས་ དང༌ །"
+msgstr ""
+
+msgctxt "5e88e3ee404c4cffa7c4593a7bb6191e"
+msgid "ཆ␣ར་ ཧ་ཅང་ ཆེ་བ་ དང་ ཆུང་བ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱལ་པོ〞 770
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ roi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: roi
+# 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝བྱ་བ〞 3753
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
+# à faire,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Activité, en particulier: l'objet créé, agi
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Actes,Actions,Activités,Ce qui est
+# fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
+# taches, occupé, responsabilités, engagements, agissementspieds métriques
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཤིས་པ〞 6203
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Excellent, Vertueux, Bon, Propice,
+msgctxt "741048aa7b2e4cffa282c59b1de50184"
+msgid ""
+"བྱི་བ་ ནེ་ཙོ་ ཆ་ག་པ་ རྒྱལ་པོ་ ངན་པ་ སོགས་ བཀྲ་ མི་ ཤིས་པ་ ཤིས་པ␣ར་ བྱ་བ␣འི་ "
+"དུས་ སུ␣འོ ། །"
+msgstr ""
+
+msgctxt "a48908e4bbf54a0c92f13553e3526783"
+msgid "བཞི་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝ལྡོག་པ〞 2898
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement (conceptuel) ⁃ isolement (conceptuel)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Retourner, Renverser, Réfuter, S'opposer, Contrecarrer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ opposé
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine:
+# Retourner,Renverser,Réfuter,S’opposer,Contrecarrer Alternatives: retourner,
+# stopper, renverser, repousser, enrayer, réfuter, entraver, inverser, (se)
+# détourner (de), reculerfacette, aspectfacteurs isolés
+# 
+# 。︀	〝གནོད་པ〞 3060
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Nuire, Porter préjudice.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Nuire,Porter préjudice. Alternatives:
+# nuisance, nuire, tort, préjudice, faire obstacle, empêchement, souffrance,
+# facteurs adverses
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝འབྱུང་བ〞 4057
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
+# Apparaître, Venir, Survenir, Arriver, Naître,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ -bhava, -bhu, -ja, -udbhava, udaya, bhūta Sens
+# racine: Les (cinq) éléments (bases de toutes
+# choses)Apparaître,Venir,Survenir,Arriver,Naître,, elements (SL MW)
+# Alternatives: les éléments (physiques)surgir de, apparaître de, venir de,
+# arriver de, jaillir de, émerger de, avoir son origine en, résulter de
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "c81811c29540448ea31f0849c9e1aa7a"
+msgid ""
+"སེར་བ་ ཆོམ་རྐུན་ ནད་ཡམས་ སོགས་ གནོད་པ་ བྱུང་ ཟིན་ ལྡོག་པ␣འམ་ སླར་ མི་ "
+"འབྱུང་བ␣འི་ ཕྱིར་ བྱེད་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "535e6ad5709c45e6910e23b9000c4e5d"
+msgid "ལྔ་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་འདུན〞 632
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
+# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
+# communauté (monastique), congrégation, noble assemblée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+msgctxt "bcc4b85326fb4d1c8c72dbdf0c1a08a4"
+msgid "དགེ་འདུན་ བྱེ་བ་ བསྡུམ་པ␣འི་ ཕྱིར་ གསོ་སྦྱོང་ བྱེད་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ཁྱད་པར〞 336
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viśeṣa, viśeśa Sens racine: Particularités,
+# distinctions Alternatives: distinctions, différences, signes, qualités
+# distinctifs, qualités spéciales, particulièresparticulièrement, en
+# particulier
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Caractère distinctif, différence, spécificité
+# 
+# 。︀	〝དགོས་པ〞 672
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ propos, dessein, objectif
+# 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝མ་ངེས་པ〞 4157
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ incertitude, absence de compréhension définitive,
+# indéterminé
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Incertain,  Indéfini  Indéterminé,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Incertain, Indéfini Indéterminé,
+# Alternatives: incertain, imprévisible, indéterminé, indéfini
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Incertain, indéterminé
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝གསོལ་བ〞 6611
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "(h) Demander, Requérir, Offrir, Prier de, Veuillez.;
+# Honorifique pour parole, "
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ supplication
+msgctxt "f25d1c9bf9364f6d80a69e62e70abf91"
+msgid ""
+"དེ་ལྟར་ བཀྲ་ཤིས་པ་ སོགས་ དུས་ མ་ངེས་པ␣འི་ གསོ་སྦྱོང་ གསུམ་ ཡང༌ །  གསོལ་བ␣འི་"
+" ལ␣ས་ ཀྱི་ ཚེ་ རང་རང་ གི་ དུས་ བརྗོད་ དགོས་པ␣འི་ ཁྱད་པར་ ཙམ་ མ་གཏོགས་"
+msgstr ""
+
+# 
+# 。︀	〝ངེས་པ〞 1011
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Certain, Certitude.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ définitif; certain; certitude
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ serata Sens racine: Certain,Certitude.
+# Alternatives: certain, définitif, excellence, certainement, indubitable,
+# incontestable, indéniable.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Certitude, vérité, vrai, certain, établi
+# 
+# 。︀	〝ཆོ་ག〞 1357
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Rite, le rituel
+# 
+# 。︀	〝དུས〞 2405
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+msgctxt "5af40db2b7114facbc57e50b7077fb7a"
+msgid "གཞན་ ཆོ་ག་ ཐམས་ཅད་ དུས་ ངེས་པ␣འི་ གསོ་སྦྱོང་ དང་ འདྲ␣འོ ། །"
+msgstr ""
