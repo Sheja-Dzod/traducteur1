@@ -1,0 +1,569 @@
+# 
+# Translators:
+# Damien Jampa, 2024
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2024\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "b52d5b54b1ab4e5fa50216a121c14bc2"
+msgid "ལྔ་པ་ ཁ་ཟས་ སྤྱོད་ཚུལ་ ཉེར་ གཅིག་ ནི །"
+msgstr "5. Vingt et une règles concernant la facon de manger"
+
+# 。︀	〝སྤྱོད་ལམ〞 3399
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Type d'activités,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Type d’activités, Alternatives: types,
+# catégories, genre, voie, chemin, ligne d'activité, de comportement, de
+# conduite, d'action, faits et gestes, attitudes (corporelles), façon de
+# vivre, de se comporter
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "ce8a0e1b399341ae97929b199675c385"
+msgid "༡␣སྤྱོད་ལམ་ མི་ ལེགས་པ་ ཡིས་ བཟའ་མི་ བྱ ། །"
+msgstr "Ne pas manger de manière non élégante (comme un rustre)"
+
+msgctxt "8146bb7c376f488383bbc82ee5d3d382"
+msgid "༢␣ཁམ་ཚད་ ཧ་ཅང་ ཆེ་ དང་ ༣␣ཆུང་བ་ མིན ། །"
+msgstr ""
+"Ni en mettant trop de nouriture dans la bouche (mouthfull, ni trop peu "
+
+# 。︀	〝འཇིག་རྟེན〞 1547
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le monde (périssable) ⁃ toute possibilité d'apparence,
+# le monde phénoménal apparent, le monde phénoménal de tous les possibles, les
+# apparences phénoménales constituant le monde manifeste, le monde des
+# apparences et de tous les possibles, = le monde périssable, notre monde ce
+# support dégradable (ou éphémère), le monde, = habitacle-habitant, le monde
+# et les vivants, l'univers
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ loka Sens racine: Le monde (périssable), world (SL
+# BP) Alternatives: le monde (et ses habitants), systèmes de mondes, univers,
+# monde samsarique, physique, mondain
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ monde (support périssable) ⁃ Monde     litt.le support
+# destructible
+msgctxt "8624a8332e5e42bba6c24c4495c61559"
+msgid "༤␣འཇིག་རྟེན་ དང་ མཐུན་ རན་པ␣ར་ བཟའ་བ␣ར་ བྱ ། །"
+msgstr "Manger modérément selon les coutumes ordinaires"
+
+# 。︀	〝གདངས〞 2585
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Air, mélodie, Ton, intonation, Eclat, (pour la lumière
+# ou le son), radiation, irradiation, lustre, Teint, radiance, (ce second sens
+# est plutôt pour mdangs) ⁃ l'éclat de l'énergie (p90), la luminosité de
+# l'éclat (p70, 90), l'énergie (p42, n341), translucidité, translucide,
+# rayonnement, éclat
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ radiation, irradiation, rayonnement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Air, mélodie,Ton, intonation,Eclat,
+# (pour la lumière ou le son), radiation, irradiation, lustre,Teint, radiance,
+# (ce second sens est plutôt pour mdangs) Alternatives: air, mélodieton,
+# tonalité, sonoritéfaçon de faireéclat (lumineux), radiance, translucide,
+# (qualité) radieuse, luminosité originelle, clarté (ultime, subtile), nature
+# lumineuse, force intérieure, subtile, ultime, brillance externe, l'éclat
+# fondamental de la base, énergie, rayonnement, lueur, ardeur (naturel,
+# interne), brillant, rutiler, rayonner, profondeur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éclat lumineux ⁃ Eclat lumineux
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: l’éclat de l’énergie, la luminosité de
+# l’éclat, l’énergie translucidité, translucide, rayonnement, éclat
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "67d8be4ac5454000aebb86919d3eeede"
+msgid "༥␣ཁ་སྒོ␣ར་ ཟས་ མ་ སླེབ་པ␣ར་ ཁ་ མི་ གདངས ། །"
+msgstr "ne pas ouvrir la bouche avant que la nourriture arrive à la bouche"
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "dfd8b55cc3a64f4ca94c21ddefdae1ee"
+msgid "༦␣ཁ་ ནང་ ཟས་ ཀྱིས་ བཀང་ ནས་ གཏམ་ མི་སྨྲ ། །"
+msgstr "ne  pas parler la bouche pleine"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "8ec469dab8964d748af788f0a8ce73ee"
+msgid "༧␣མི་ ཞིམ་ ཙུག་ ཙུག་ ༨␣ཞིམ་ ལ་ ཅག་ ཅག་ དང༌ ། །"
+msgstr ""
+"Ne pas faire des bruits de bouche exprimant que la nourriture n’est pas "
+"bonne (beurk) , ou bonne (miam)"
+
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+msgctxt "2a1d370a7c79411dbc253e8523f70b09"
+msgid "༩␣གྲང་ ལ་ ཧུ་ཧུ་ ༡༠␣ཚན་ མོ␣ར་ ཕུ་ ཕུ་ དང༌ ། །"
+msgstr "ou froide(shuuu) ou chaude (ahhhh)"
+
+msgctxt "eb531e56885e44d8a6612408a678b750"
+msgid "༡༡␣ཁ་ ཡི་ ཕྱི་རོལ་ ལྕེ་ ཕྱུང་ བཟའ་མི་ བྱ ། །"
+msgstr "ou sortir la langue quand on mange."
+
+msgctxt "9064605cf677448fbd3925bb857fc4df"
+msgid "༡༢␣ཆན་ སོགས་ འབྲུ་མ་ རེ་རེ␣ར་ འཐུ་བ་ དང༌ ། །"
+msgstr "ne pas manger le riz ou toute autre céréale grain après grain  "
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "6197449aa99448b3a4ea8617f74eab98"
+msgid "༡༣␣ཟས་ ལ་ འཕྱ་སྨོད་ ༡༤␣མཁུར་བ་ གཡས་གཡོན་ སྤོ ། །"
+msgstr ""
+"Ne pas critiquer la nourriture ; ne pas mâcher d’un côté puis de l’autre ;"
+
+# 。︀	〝གཅོད〞 1265
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ trancher  le trancher/la découpe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la découpe, trancher
+msgctxt "3074e468a2104decaa879a8beab55b6c"
+msgid "༡༥␣རྐན་སྒྲ་ ཏོག་ ཅིང་ ༡༦␣ཁམ་འཕྲོ་ སོ་ ཡིས་ གཅོད ། །"
+msgstr ""
+"ne pas faire des sons avec la langue sur le palais, ni sortir de sa bouche "
+"de la nourriture et en couper une partie avec ses dents."
+
+# 。︀	〝སྣོད〞 3294
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ réceptacle/récipient/récepteur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ réceptacle inanimé
+msgctxt "e80dfcef8bcb475e8f4f02e60d9b9dc0"
+msgid "༡༧␣ལག་པ་ སྣོད་ དུ་ ༡༨␣འགོས་པ་ ལྕེ་ ཡིས་ ལྡག  །"
+msgstr ""
+"Ne pas lêcher la nourriture collée sur ses doigts, ni sur le bol d'aumône"
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "5719bfb1f7ca435285d6049ce3c55991"
+msgid "༡༩␣ལག་པ␣ར་ ཟས་ ཀྱིས་ འགོས་པ་ སྤྲུགས་པ་ དང༌ ། །"
+msgstr ""
+"Ne pas secouer (ou frotter) vigoureursement les mains salie par de la "
+"nourriture"
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "52580cb4710848b59da431707e7cc9cd"
+msgid "༢༠␣ལྷུང་བཟེད་ ཟས་ དང་ བཅས་པ་ སྐྱོམ་སྐྱོམ་ བྱེད ། །"
+msgstr "Remuer le bol d’aumône contenant de la nourriture"
+
+# 。︀	〝མཆོད་རྟེན〞 1474
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stupa Support de vénération
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Un stoupa : monument en forme de dôme couronné d'un
+# soleil et d'une lune placés sur des anneaux concentriques.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ stūpa Sens racine: StupaSupport de vénération
+# Alternatives: “support d'offrandes”, monument d'éveil, tour d'éveil
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ stupa, sanctuaire
+# 
+# 。︀	〝དབྱིབས〞 4017
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ figure spatiale ⁃ Configuration, figure
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "05b66870c8754e79999cbf66a142bed1"
+msgid "༢༡␣ཟས་ ལ་ མཆོད་རྟེན་ དབྱིབས་ བཅོ␣ས་ ཟ་ རྣམས་ སྤངས ། །"
+msgstr "ne pas agencer la nourriture avec la forme d'un stoupa"
+
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "e9e4f5145d6549698f44ac8787264a16"
+msgid "དྲུག་པ་ ལྷུང་བཟེད་ སྤྱོད་ཚུལ་ བཅུ་བཞི་ ནི ། །"
+msgstr "6. Quatorze règles pour l'usage du bol d'aumône"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "caa7106e72f044cc95b88ceb6385c799"
+msgid "༡␣དགེ་སློང་ གཞན་ གྱི་ ལྷུང་བཟེད་ འཕྱས་ མི་ གདགས ། །"
+msgstr "Ne pas chercher de quoi critiquer le bol d'aumône d'un autre Bikkhu."
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "4e30f9f94c5547dbb900cce1edd3c806"
+msgid "༢␣ལག་པ་ ཟས་ སྦགས་ ཆུ་སྣོད་ ལ་ མི་ རེག  །"
+msgstr "Toucherun récipient d’eau avec les mains salie par la nourriture"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "968d31fa07934a3e806c7fa0e93707be"
+msgid "༣␣གཞན་ ལ་ ཟས་ དང་ བཅས་པ␣འི་ ཆུ་ མི་ འཐོར ། །"
+msgstr ""
+"ne pas jetter sur un autre (Bikkhu) de l'eau salie par des aliments (eau de "
+"vaisselle, eau usée pour se rincer les mains)"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+msgctxt "142eee026986405db92e6e771c3df3e0"
+msgid "༤␣ཟས་ བཅས་ འཁྲུད་ ཆུ་ ཁྱིམ་ གཞན་ འཕོ་ མི་ བྱ ། །"
+msgstr ""
+"ne pas jetter l'eau de vaisselle dans la proprièté ( litt. maison) d'un "
+"autre laîque (sans sa permission)"
+
+# 。︀	〝ཟས〞 5126
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ aliment
+# 
+# 。︀	〝ལྷག་མ〞 6727
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Restes,  Reliquats,  Surplus,  Nom d'un des cinq types
+# de chutes (ou déchéances) dans les voeux monastiques
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ offrande restante
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "117a83ec6a50440183ce621b8b85c2b8"
+msgid "༥␣ཟས་ ཀྱི་ ལྷག་མ་ ལྷུང་བཟེད་ ནང་མི་ བླུག  །"
+msgstr "Ne pas mettre de restes dans le bol d'aumône"
+
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "6de8e00ab60548b0b165e7b3754ac34d"
+msgid "༦␣ལྷུང་བཟེད་ འོག་ སྟེགས་ མེད་པ␣ར་ ས་ རྗེན་ དང༌ ། །"
+msgstr "Laisser le bol d’aumône sans support à même le sol,"
+
+msgctxt "e88f3d0e130a4f7dbdd6d73ab572a13e"
+msgid "༧␣གཡང་ས་ གད་ཁ་ དཀན་གཉེར་ གཟར་ བཞི་ ལ ། །"
+msgstr "Ou le laisser près d’un ravin, une crevace ou une pente"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "db3c27e7e1e342b9815baf165b539126"
+msgid "མི་ བཞག་ གད་ གཡང་ དཀན་གཉེར་ གསུམ་པོ་ དང༌ ། །"
+msgstr ""
+"ni le laver à ces trois locations: prés d'un ravin, d'une falaise ou d'une "
+"crevasse ni debout."
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ལྷུང་བཟེད〞 6782
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bol monastique, Bol à aumônes, Le réceptacle dans
+# lequel les offrandes (la nourriture) tombe (vient)
+msgctxt "73c321457da8494eb659af617e3cd240"
+msgid "འགྲེང་ བཞིན་ ལྷུང་བཟེད་ མི་ བཀྲུ་ འབབས་ ཆུ་ ཡི ། །"
+msgstr "Ni à contre courrant"
+
+# 。︀	〝ལྡོག〞 2894
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""catégorie"" ETP 129 (smad cha 214) -
+# Régression (dans zag ldog , smad cha 571)"
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "096852de7c42447cb94daeccb3f2dcb2"
+msgid "རྒྱུན་ལས་ ལྡོག་ སྟེ་ དེ་ ཡིས་ མི་ བཅུ␣འོ ། །"
+msgstr ""
+"d'une puissante rivière. Ce qui fait dix règles (pour un total de 14; dix "
+"gramaticalement aprés le dernier verbe)"
+
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "b26761b3b10f465090c67c129de1e977"
+msgid "བདུན་པ་ ཆོས་སྟོན་ ཚུལ་ ལ་ཉེ␣ར་ དྲུག་ སྟེ ། །"
+msgstr "7.  Vingt six règles concernant l'enseignement"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "d2e9a133d4354febb7fa8a849314b33c"
+msgid "ཉན་པོ་ མི་ ན་ བཞིན་ དུ་ འདུག་པ་ ལ ། །"
+msgstr "1) L'auditeur est assis alors qu'il n'est pas malade "
+
+# 。︀	〝རང་ཉིད〞 5618
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Soi-même, Moi-même, Lui-même, La nature (propre),
+# L'essence (propre), La nature (même), L'essence (même) La personne en soi,
+# Le maître, L'être,
+msgctxt "0f5765c073fc42f7a38f14544301a2cf"
+msgid "རང་ཉིད་ འགྲེངས་ ཏེ་ འཆད་ དང་ དེ་བཞིན་ དུ ། །"
+msgstr "et que nous sommes debout, (ne pas) lui enseigner. De même,"
+
+msgctxt "dedae0e092a44a60acb7103bfb408d06"
+msgid "ལ་ དང་ ཁྲི་སྟན་ ཆེ་ མཐོ␣ར་ འདུག་པ་ དང༌ ། །"
+msgstr ""
+"2) (ne pas enseigner) si il est couché, 3) assis sur un siège plus élevé,"
+
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "1d640611b76742dcbbd462ba60002e1a"
+msgid "མདུན་ འགྲོ␣ར་ རྒྱབ་ དང་ ༥␣དབུས་ འགྲོ␣ར་ མདུན་ ནས་ བཤད ། །"
+msgstr ""
+"4) Enseigner à quelqu’un qui marche devant alors que l’on suit derrière, 5) "
+"ou depuis devant (ou en étant soi même sur le bas coté) à quelqu’un qui "
+"marche au milieu de la route "
+
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+msgctxt "6f5c14189c8a47e5bda76431f2000ac6"
+msgid "མགོ་ དཀྲིས་ གོས་ བརྫེས་ བླ་གོས་ ཕྲག་ གཉིས་ གཟར ། །"
+msgstr ""
+"6) à ceux qui se couvrent la tête, 7) aux habits relevés ou 8) aux deux "
+"épaules recouvertes par leur châle monastique"
+
+msgctxt "e047d0d58466408e965998142274ac40"
+msgid "ལག་པ་ གཉའ་གོང་ བསྣོལ་ དང་ ལྟག་པ␣ར་ བསྣོལ ། །"
+msgstr ""
+"9) à ceux qui se tiennent la nuque avec les mains, 10) ou les mains derrière"
+" la tête"
+
+# 。︀	〝བཏགས〞 1916
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ désigné
+msgctxt "f766caf246874a32bc32f2ee4bcada65"
+msgid "ཐོར་ཚུགས་ བཅིངས་ དང་ ཞྭ་ གྱོན་ ཅོད་པན་ བཏགས ། །"
+msgstr ""
+"11) qui ont leur cheveux noués en chignon, 12) qui portent un chapeau, 13) "
+"ou s'ornent d'une couronne"
+
+# 。︀	〝མེ་ཏོག〞 4357
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fleur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ puṣpa, kusuma Sens racine: Fleur Alternatives:
+# fleur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fleur
+msgctxt "7ded1691ef30476892970e3e4a36fb28"
+msgid "མེ་ཏོག་ ཕྲེང་ དང་ དར་ སོགས་ ཐོད་ ཀྱིས་ དཀྲིས ། །"
+msgstr "14) qui ont une guirlande de fleure ou 15) de soie autour du crane,"
+
+msgctxt "b93001d9f6cd4c9da5738eaa860c26fc"
+msgid "གླང་ཆེན་ རྟ་ ཞོན་ ཁྱོགས་ དང་ བཞོན་པ␣ར་ འདུག  །"
+msgstr ""
+"16) ceux assis sur un éléphant, 17) sur un cheval, 18) un palanquin, 19) ou "
+"autre véhicule"
+
+# 。︀	〝མཆིལ་ལྷམ〞 1454
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chaussures magiques
+# 
+# 。︀	〝གདུགས〞 2603
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ ombrelle
+msgctxt "aca1d43fc79545edb643a6a9725f121e"
+msgid "མཆིལ་ལྷམ་ གྱོན་ ཞིང་ ལག་ ན་ མཁར་བ་ གདུགས ། །"
+msgstr ""
+"20) ceux qui gardent leur chaussures, 21) tiennent en main un baton de "
+"marche , 22) ou une ombrelle"
+
+# 。︀	〝རལ་གྲི〞 5779
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ épée (un des huit siddhis) ⁃ épée
+msgctxt "1f503decaca644309c29dd668d78c53f"
+msgid "མཚོན་ཆ་ རལ་གྲི་ མདའ་གཞུ་ ཐོགས་པ་ དང༌ ། །"
+msgstr "23) qui portent des armes, 24) une épée, 25) un arc et des flêches, "
+
+# 。︀	〝གོ་ཆ〞 503
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ armure
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "cad7347728be450882e9b25ddb5c24f6"
+msgid "གོ་ཆ་ གྱོན་ ལ་ བཤད་ རྣམས་ མི་ བྱ␣འོ ། །"
+msgstr "26) et ceux vêtus d'une armure...ne pas leur enseigner."
+
+# 。︀	〝སྒྲུབ་པ〞 930
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pratiquer, Pratique, Accomplir, Affirmer, Etablir ⁃
+# s'efforcer pour atteindre (l'éveil), pratiquer, accomplir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ accomplissement (une des quatre pratiques des tantras de
+# l'action);  pratique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sādhya, pratipatti, arjuna Sens racine:
+# Pratiquer,Pratique,Accomplir,Affirmer,Etablir, affirmation (SL BP
+# Alternatives: 1) faire, exécuter 2) acheter, acquérir 3) fabriquer 4)
+# prouver, établir 5) examiner, considérer 6) pratiquer 7) accomplissement,
+# accomplir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ accomplissement
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgrub pa Sens racine: pratiquer, accomplir, créer,
+# atteindre ; établir, affirmer ; s’efforcer pour atteindre (l’éveil)
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
+# 。︀	〝ཚུལ་གསུམ〞 4693
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Triple modalité ⁃ Triple modalité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois modes
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ trois modalités
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Les trois modes, three modes or
+# criteria Alternatives: les trois modes, méthodes, moyens de raisonnement,
+# réflexion, de démontrer qu'une proposition est correcte
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "9b4f8532be7a42f5b44675f0faee2941"
+msgid "བརྒྱད་པ་ སྒྲུབ་པ␣འི་ ཚུལ་ གསུམ་ ནད་མེད་པ␣ས ། །"
+msgstr "8. Trois règles relatives à la propreté"
+
+# 。︀	〝རྩ〞 4527
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ racine, fondement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Source, Nadis, Canaux (du corps vajra),
+# Veines, Artères, ⁃ canal, artère, nâdi, veine
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ canal [subtil]
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ nāḍi, nāḍī Sens racine: Racine,Source,Nadis,Canaux
+# (du corps vajra),Veines,Artères, Alternatives: les veines, artères, nerfs
+# les canaux subtils, psychiques, d'énergie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Canal subtil, nâdî
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: nâdi, canal artère, veine
+msgctxt "6e4c69ce92e94f088019b3f06b07aa47"
+msgid "འགྲེང་ བཞིན་པ་ དང་ ཆུ་ དང་ རྩ་ སྔོན་ ནང༌ ། །"
+msgstr "A moins d'être malade : ne pas uriner ou déféquer debout "
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "3b7c4cf2ef2e4c0d8d8ea03a3601af3e"
+msgid "བཤང་གཅི་ མི་ འདོར་ ཆུ་ ལ་ མཆིལ་ སྣབས་ དང༌ ། །"
+msgstr "ni jetter urine est excrément dans l'eau ou dans l'herbe, "
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "df161ae2861b4b96a0a9de5f0091c58c"
+msgid "སྐྱུག་པ་ སོགས་ ཀྱང་ འདོར་བ␣ར་ མི་ བྱ␣འོ ། །"
+msgstr "ni cracher ou vomir dans l'eau."
+
+# 。︀	〝རྒྱུ་བ〞 805
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mouvant
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝གནོད〞 3059
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ .des maux
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+msgctxt "df6213f571314937927a0de36038b9d4"
+msgid "དགུ་པ་ རྒྱུ་བ་ གཅིག་ ནི་ གནོད་ མེད་པ␣ར ། །"
+msgstr "9. Une règle pour le mouvement"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ལྷག་པར〞 6726
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particuliérement,  Spécialement,  Excellement,
+# Intensément,  Extremement,  Haut,   Elever,  Altier,  Supérieur,
+msgctxt "ef5b5f4791f44f559753973f05558ff5"
+msgid "ཤིང་ ལ་ མི་གང་ ལྷག་པར་ མི་ འཛེག་ གོ  །"
+msgstr ""
+"Grimper à des arbres plus grands qu’un homme alors qu’il n’y a pas de "
+"danger."
