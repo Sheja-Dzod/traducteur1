@@ -40,6 +40,94 @@ msgid "དེ་བས་ན་"
 msgstr ""
 
 # 
+# 。︀	〝སྤྱོད་ལམ〞 3399
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Type d'activités,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Type d’activités, Alternatives: types,
+# catégories, genre, voie, chemin, ligne d'activité, de comportement, de
+# conduite, d'action, faits et gestes, attitudes (corporelles), façon de
+# vivre, de se comporter
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+msgctxt "fb377744284f440cb2294b8ffb0d19f7"
+msgid "གོས་ཚགས་ མཐོང་ ན་ ཡིད་ དུ་ འོང་ཞིང་ སྤྱོད་ལམ་ ཞི་དུལ་ དང་ ལྡན་པ␣ས་"
+msgstr ""
+
+# 
+# 。︀	〝བསོད་སྙོམས〞 6661
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mendier, Aumônes,
+msgctxt "65e123d8bb6d4a739c26bf747be9fd4f"
+msgid "བསོད་སྙོམས་ ཀྱི་ ཁྱིམ་ དུ་ འཇུག་ ཅིང་"
+msgstr ""
+
+# 
+# 。︀	〝མཉམ་པར་བཞག་པ〞 1797
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ samâhita, rester en contemplation (p39), rester égal
+# en contemplation (p68, 72), l'état d'égale contemplation, (état
+# d')équilibre, reposer en l'égalité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Accéder à l'égalité, reposer à l'équilibre, méditation
+# d'égalité
+# 
+# 。︀	〝བཞག་པ〞 5060
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
+# jeter, larguer, laisser ; 3. confier quelque chose (à quelqu'un)"
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gzhag pa Sens racine: 1. demeurer, ‘ça reste à demeure’,
+# reposer 2. jeter, laisser, 3. confier quelque chose (à quelqu’un)
+msgctxt "fa10187800454332aa9b7ff7caf40bf9"
+msgid "མཉམ་པ␣ར་ བཞག་པ␣འི་ འདུག་སྟངས་ ཀྱིས་ འཁོད་ ལ་"
+msgstr ""
+
+# 
+# 。︀	〝ཡོད་པ〞 5530
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
+# valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
+# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
+# existe, exister (p67), être là
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
+# 
+# 。︀	〝ལོངས་སྤྱོད〞 6146
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Richesses, Biens, Ce dont on dispose, Ce dont on joui,
+# Ce que l'on use,  Ce dont on se sert, Ce dont on fait l'expérience, Les
+# «temps» et les «protecteurs des contrées» qui courrent sur le Gola (voir
+# cosmologie du Kalachakra)
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "042a6906115f4f00b9315cdc867017fc"
+msgid "བག་ ཡོད་པ␣ས་ བཟའ་བཏུང་ ལ་ ལོངས་སྤྱོད་ ཅིང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དྲན་པ〞 2535
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ attention, mémoire ⁃ attention, mémoire ⁃ mémoire,
+# attention
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Garder présent à l'esprit,
+# Se souvenir, Ne pas oublier, Se remémorer, Rappel, Mémoire, Souvenir,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) mémoire
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ smṛti, manana, smara, smṛīti Sens racine: Avoir
+# présent à l’esprit,Garder présent à l’esprit,Se souvenir,Ne pas oublier,Se
+# remémorer,Rappel,Mémoire,Souvenir, Alternatives: se souvenir, se remémorer,
+# mémoire, souvenir, mémoration, souvenance, retenirle rappel (en
+# méditation)avoir présent à l'esprit, présence d'esprit, présence consciente,
+# attention, calme attentif, vigilance, être alerte, penser àpensées,
+# imagination
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ attention, rappel, mémoire, réminiscence ⁃ Mémoire ⁃
+# Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
+# attentif
+msgctxt "0a5cdb52436e455b817a16cec1058855"
+msgid "དྲན་པ་ མངོན་དུ་ བཞག་ ནས་"
+msgstr ""
+
+# 
 # 。︀	〝སྐབས〞 195
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Occasion, opportunité, moment ou,
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Occasion, opportunité, moment ou,
@@ -74,37 +162,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 # 
-# 。︀	〝མཉམ་པར་བཞག་པ〞 1797
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ samâhita, rester en contemplation (p39), rester égal
-# en contemplation (p68, 72), l'état d'égale contemplation, (état
-# d')équilibre, reposer en l'égalité
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Accéder à l'égalité, reposer à l'équilibre, méditation
-# d'égalité
-# 
-# 。︀	〝དྲན་པ〞 2535
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ attention, mémoire ⁃ attention, mémoire ⁃ mémoire,
-# attention
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Garder présent à l'esprit,
-# Se souvenir, Ne pas oublier, Se remémorer, Rappel, Mémoire, Souvenir,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) mémoire
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ smṛti, manana, smara, smṛīti Sens racine: Avoir
-# présent à l’esprit,Garder présent à l’esprit,Se souvenir,Ne pas oublier,Se
-# remémorer,Rappel,Mémoire,Souvenir, Alternatives: se souvenir, se remémorer,
-# mémoire, souvenir, mémoration, souvenance, retenirle rappel (en
-# méditation)avoir présent à l'esprit, présence d'esprit, présence consciente,
-# attention, calme attentif, vigilance, être alerte, penser àpensées,
-# imagination
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ attention, rappel, mémoire, réminiscence ⁃ Mémoire ⁃
-# Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
-# attentif
-# 
-# 。︀	〝སྤྱོད་ལམ〞 3399
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Type d'activités,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Type d’activités, Alternatives: types,
-# catégories, genre, voie, chemin, ligne d'activité, de comportement, de
-# conduite, d'action, faits et gestes, attitudes (corporelles), façon de
-# vivre, de se comporter
-# 
 # 。︀	〝བྱ་བ〞 3753
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Actes, Actions, Activités, Ce qui est fait, Ce qui est
 # à faire,
@@ -113,51 +170,17 @@ msgstr ""
 # fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
 # taches, occupé, responsabilités, engagements, agissementspieds métriques
 # 
-# 。︀	〝བཞག་པ〞 5060
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
-# jeter, larguer, laisser ; 3. confier quelque chose (à quelqu'un)"
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gzhag pa Sens racine: 1. demeurer, ‘ça reste à demeure’,
-# reposer 2. jeter, laisser, 3. confier quelque chose (à quelqu’un)
-# 
-# 。︀	〝ཡིད〞 5362
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
-# esprit discursif, esprit fonctionnel
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
-# esprit fonctionnel
-# 
 # 。︀	〝ཡིན〞 5390
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
-# 
-# 。︀	〝ཡོད་པ〞 5530
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
-# valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
-# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
-# existe, exister (p67), être là
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
-# 
-# 。︀	〝ལོངས་སྤྱོད〞 6146
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Richesses, Biens, Ce dont on dispose, Ce dont on joui,
-# Ce que l'on use,  Ce dont on se sert, Ce dont on fait l'expérience, Les
-# «temps» et les «protecteurs des contrées» qui courrent sur le Gola (voir
-# cosmologie du Kalachakra)
 # 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝བསོད་སྙོམས〞 6661
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mendier, Aumônes,
 msgctxt "43c55c7d1437409caf3cb8d4a83a69e1"
 msgid ""
-"གོས་ཚགས་ མཐོང་ ན་ ཡིད་ དུ་ འོང་ཞིང་ སྤྱོད་ལམ་ ཞི་དུལ་ དང་ ལྡན་པ␣ས་ "
-"བསོད་སྙོམས་ ཀྱི་ ཁྱིམ་ དུ་ འཇུག་ ཅིང་ མཉམ་པ␣ར་ བཞག་པ␣འི་ འདུག་སྟངས་ ཀྱིས་ "
-"འཁོད་ ལ་ བག་ ཡོད་པ␣ས་ བཟའ་བཏུང་ ལ་ ལོངས་སྤྱོད་ ཅིང༌ །  དྲན་པ་ མངོན་དུ་ བཞག་ "
-"ནས་ ཆོས་ ཀྱི་ གཏམ་ སྐབས་ དང་ འཚམས་པ␣ས་ མགུ་བ་ བསྐྱེད་པ␣ར་ བྱ་བ་ ཡིན་ ནོ ། །"
+"ཆོས་ ཀྱི་ གཏམ་ སྐབས་ དང་ འཚམས་པ␣ས་ མགུ་བ་ བསྐྱེད་པ␣ར་ བྱ་བ་ ཡིན་ ནོ ། །"
 msgstr ""
 
 # 
