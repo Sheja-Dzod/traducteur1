@@ -686,19 +686,6 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cause, raison ⁃ Cause
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: hetu, cause, cause primaire
 # 
-# 。︀	〝ཐབས〞 2110
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Moyen, Méthode, Façon de faire, ⁃ moyen, upâya (p30),
-# moyen habile
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méthode, moyen, moyens habiles (une des dix perfections)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upāya Sens racine: Moyen,Méthode,Façon de faire,,
-# skillful means (SL MW) Alternatives: moyen (habile, adroit), méthode
-# (intelligente), façon de faire, mode, coutume, tradition, techniques,
-# expédients, efficacité, méthodes efficaces, habile compassion, pratique
-# ingénieuse
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moyens habiles, méthode, expédient salvifique ⁃ Méthode,
-# les moyens habiles
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: upâya, moyen moyen habile
-# 
 # 。︀	〝ཐོག་མ〞 2229
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Origine, début, premier
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = gdod ma ādi Sens racine: Début, origine,
@@ -744,6 +731,37 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ piṭaka Sens racine: Collection,Corbeille,
 # Alternatives: corbeille, collection, classe, registre
 # 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+# 
+# 。︀	〝བསམ〞 6621
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ vivre (au sens d'expérimenter, ex. lors d'une
+# initiation) (p39), expérimenter (p102), concepts, considérer, réfléchir à
+msgctxt "d1996934bf544e44b13e67751f36cd29"
+msgid "ཐོག་མ␣ར་ ལམ་ གྱི་ རྒྱུ་ སྡེ་སྣོད་ ཐོས་པ་ དང་ དེ␣འི་ དོན་ བསམ །"
+msgstr ""
+
+msgctxt "7f9a0ce7dda44d29a0366bb8d28582a6"
+msgid "དེ་ནས་ སྤོང་ཁང་ བརྩིགས་ ཤིང་ ཞལ་ཏ་པ་ བསྐོས་ ལ་"
+msgstr ""
+
+# 
+# 。︀	〝ཐབས〞 2110
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Moyen, Méthode, Façon de faire, ⁃ moyen, upâya (p30),
+# moyen habile
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méthode, moyen, moyens habiles (une des dix perfections)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upāya Sens racine: Moyen,Méthode,Façon de faire,,
+# skillful means (SL MW) Alternatives: moyen (habile, adroit), méthode
+# (intelligente), façon de faire, mode, coutume, tradition, techniques,
+# expédients, efficacité, méthodes efficaces, habile compassion, pratique
+# ingénieuse
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moyens habiles, méthode, expédient salvifique ⁃ Méthode,
+# les moyens habiles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: upâya, moyen moyen habile
+# 
 # 。︀	〝གནས་པ〞 3031
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
 # Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
@@ -773,12 +791,6 @@ msgstr ""
 # calmer l’esprit, l’état de calme paisible, atteindre le calme pacifié (ou
 # paisible)
 # 
-# 。︀	〝ལམ〞 6008
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
-# lam comme articule grammaticale, ⁃ voie, chemin
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -791,15 +803,8 @@ msgstr ""
 # pensée, le penser, esprit ordinaire
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
 # pensant
-# 
-# 。︀	〝བསམ〞 6621
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ vivre (au sens d'expérimenter, ex. lors d'une
-# initiation) (p39), expérimenter (p102), concepts, considérer, réfléchir à
 msgctxt "997160068feb4d37bd2af6d13332615c"
-msgid ""
-"ཐོག་མ␣ར་ ལམ་ གྱི་ རྒྱུ་ སྡེ་སྣོད་ ཐོས་པ་ དང་ དེ␣འི་ དོན་ བསམ །  དེ་ནས་ "
-"སྤོང་ཁང་ བརྩིགས་ ཤིང་ ཞལ་ཏ་པ་ བསྐོས་ ལ་ སེམས་ གནས་པ␣འི་ ཐབས་ དགུ␣ས་ ཞི་གནས་ "
-"བསྒྲུབ་ ཅིང༌ །"
+msgid "སེམས་ གནས་པ␣འི་ ཐབས་ དགུ␣ས་ ཞི་གནས་ བསྒྲུབ་ ཅིང༌ །"
 msgstr ""
 
 # 
@@ -819,6 +824,30 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ attention, rappel, mémoire, réminiscence ⁃ Mémoire ⁃
 # Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
 # attentif
+# 
+# 。︀	〝གཞག་པ〞 4961
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
+# jeter, larguer, laisser ; 3. confier quelque chose (à quelqu'un)"
+# 
+# 。︀	〝ཤེས་རབ〞 6231
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance transcendante ⁃ connaissance transcendante
+# ⁃ Connaissance suprême, prajña?
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Connaissance, Sapience, Avec un des
+# qualificatifs: - excellente, - supérieure, - transcendante, Super - ⁃
+# prajñâ, compréhension, intelligence, sublime connaissance, sagesse
+# discriminante
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) faculté de discernement ⁃ sagesse
+# discriminante/discernement (une des six - ou dix - perfections) ⁃ sagesse
+# (discernement) ⁃ sagesse, discernement, compréhension, sagesse
+# discriminante,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ connaissance suprême, discernement ⁃ Connaissance
+# supérieure (en tant que discernement du réel) ⁃ Discernement, intellection
+# (6ème perfection) ⁃ Conniassance suprême, Connaissance Discernante, prajnâ
+msgctxt "d2a1732d8fe1466a8601f9c0414b3215"
+msgid ""
+"དྲན་པ་ ཉེ་བར་ གཞག་པ་ བཞི་ སོགས་ ཀྱིས་ ལྷག་མཐོང་ གི་ ཤེས་རབ་ བསྐྱེད་ ལ །"
+msgstr ""
+
 # 
 # 。︀	〝བྱང་ཕྱོགས〞 3794
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 37 facteurs orientés vers l'éveil
@@ -841,10 +870,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: phala, le fruit, le résultat les
 # conséquences, but
 # 
-# 。︀	〝གཞག་པ〞 4961
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. demeurer, 'ça reste à demeure' (p38), reposer ; 2.
-# jeter, larguer, laisser ; 3. confier quelque chose (à quelqu'un)"
-# 
 # 。︀	〝ལམ〞 6008
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
 # lam comme articule grammaticale, ⁃ voie, chemin
@@ -855,26 +880,10 @@ msgstr ""
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cinq voies
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les cinq voies
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cinq voies
-# 
-# 。︀	〝ཤེས་རབ〞 6231
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance transcendante ⁃ connaissance transcendante
-# ⁃ Connaissance suprême, prajña?
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Connaissance, Sapience, Avec un des
-# qualificatifs: - excellente, - supérieure, - transcendante, Super - ⁃
-# prajñâ, compréhension, intelligence, sublime connaissance, sagesse
-# discriminante
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) faculté de discernement ⁃ sagesse
-# discriminante/discernement (une des six - ou dix - perfections) ⁃ sagesse
-# (discernement) ⁃ sagesse, discernement, compréhension, sagesse
-# discriminante,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ connaissance suprême, discernement ⁃ Connaissance
-# supérieure (en tant que discernement du réel) ⁃ Discernement, intellection
-# (6ème perfection) ⁃ Conniassance suprême, Connaissance Discernante, prajnâ
 msgctxt "782a4c9b611a44f7b1155062fabd953c"
 msgid ""
-"དྲན་པ་ ཉེ་བར་ གཞག་པ་ བཞི་ སོགས་ ཀྱིས་ ལྷག་མཐོང་ གི་ ཤེས་རབ་ བསྐྱེད་ ལ །  ལམ་"
-" ལྔ་ བྱང་ཕྱོགས་ སོ་ བདུན་ གྱིས་ བགྲོད་ ནས་ འབྲས་བུ་ བཞི་ འཐོབ་པ␣ར་ བྱེད་པ␣འོ"
-" ། །"
+"ལམ་ ལྔ་ བྱང་ཕྱོགས་ སོ་ བདུན་ གྱིས་ བགྲོད་ ནས་ འབྲས་བུ་ བཞི་ འཐོབ་པ␣ར་ "
+"བྱེད་པ␣འོ ། །"
 msgstr ""
 
 # 
