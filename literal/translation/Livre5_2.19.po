@@ -33,7 +33,7 @@ msgstr "les chutes concernant des objets qu'il faudra restituer"
 
 msgctxt "2632f496d8ba42ee8c79f5a637f267b1"
 msgid "ལྟུང་བྱེད་ འབའ་ཞིག་པ␣འོ ། །"
-msgstr "les provocateurs de chute seule."
+msgstr "les provocateurs de chute requierant simple confession"
 
 msgctxt "7d7611d90c1a4c9c9fc7c540c3ddaa53"
 msgid "དང་པོ་ ལ་ བཅུ་ ཚན་ གསུམ་ གྱི་ བཅུ་ ཚན་ དང་པོ་ ནི །"
