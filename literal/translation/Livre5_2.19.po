@@ -153,7 +153,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
 msgctxt "c7478caa902a4bc1bbed885a5f51a6b6"
 msgid "༣␣ཟླ་ འཇོག་ གི་ སྤང་བ་ ནི །"
-msgstr "3. Renoncement à ce qu'on a garder pendant un mois."
+msgstr "3. Restituer à ce qu'on a garder pendant un mois."
 
 # 。︀	〝འཁོར་གསུམ〞 450
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Trois sphères ⁃ Trois sphères
