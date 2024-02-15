@@ -69,7 +69,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
 msgctxt "fc964bda67a74d77a007bdcecfa4ebe4"
 msgid "༡␣དེ་ ལ་ གོས་ ལྷག་ འཆང་བ␣འི་ སྤང་བ་ ནི །"
-msgstr "1.  Renoncement aux pièces de tissu que l'on conserve."
+msgstr "1.  Restituer la pièce de tissu que l'on a conservé trop longtemps."
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
