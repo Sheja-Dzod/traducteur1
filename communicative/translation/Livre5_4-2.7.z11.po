@@ -81,8 +81,9 @@ msgid ""
 "1. (Ce sont les quatre liens sacrés) pour totalement purifier le corps, la "
 "parole, l’esprit et le domaine d’expérience."
 msgstr ""
-"1.   Les quatre liens sacrés capitaux concernent l’engagement à totalement "
-"purifier son corps, sa parole, son esprit et son champ d’expérience."
+"1. Les quatre liens sacrés capitaux\n"
+" \n"
+"Ils portent sur l'engagement à totalement purifier nos corps, parole et esprit ainsi que notre champ d'expérience."
 
 #  16. གཉིས་པ་ནི། 17. རྩ་བ་སྐུ་གསུང་ཐུགས་རྡོ་རྗེའི་དམ་ཚིག་གསུམ། 18.
 # ཡན་ལག་སྤྱད་
