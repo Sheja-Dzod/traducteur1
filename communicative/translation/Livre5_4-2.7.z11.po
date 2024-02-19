@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,10 +24,8 @@ msgid ""
 "qui se ramène à deux liens sacrés: celui de la nature des phénomènes sans "
 "limites définies à observer et celui de la compassion avec limites définies."
 msgstr ""
-"« L’Anuyoga présente neuf catégories de liens sacrés généraux\n"
-"Qui se ramène à deux liens sacrés: \n"
-"Celui de la nature des phénomènes sans limites définies à observer \n"
-"Et celui de la compassion avec limites définies. »"
+"« L'Anuyoga présente neuf catégories de liens sacrés généraux, qui se ramènent à deux liens sacrés :\n"
+"Celui sans limitation de la nature des phénomènes, à observer, et celui avec limitatation de la compassion. »"
 
 #  4. ལུང་ཨ་ནུ་ཡོ་ག་སྤྱིའི་དམ་ཚིག་ཏུ་སྤྱི་མདོའི་ལེའུ་རེ་དྲུག་
 # 
