@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,12 +30,13 @@ msgid ""
 "éveillées sans distinction (litt. choisir) les personnes qu’elles concernes "
 "(les personnes a discipliner ou disciples)"
 msgstr ""
-"15. La promesse d’être comme l’éléphant qui traverse une rivière sans se "
-"soucier de l’aisance ou non qu’il y a à la traverser illustre la conduite "
-"supérieur du yogi qui fort de la vue et de la pratique et de la confiance en"
-" soi des Grands Etres, agit sans dualité entre ce qui est à adopter et à "
-"rejeter, ou encore, la conduite supérieure consistant à appliquer les quatre"
-" activités éveillées sans distinction des personnes qu’elles concernes."
+"15) Le quinzième lien sacré est la promesse d’imiter l'éléphant qui franchit"
+" une rivière sans se soucier de la facilité ou de la difficulté de la "
+"traversée. Cela illustre la conduite supérieure du yogi qui, fort de la vue,"
+" de la pratique et de l’assurance propres aux Grands Êtres, agit sans faire "
+"de différence entre ce qui doit être adopté ou rejeté. Cela symbolise "
+"également la conduite supérieure consistant à mettre en œuvre les quatre "
+"activités éveillées sans différencier les personnes concernées."
 
 #  4. སེང་གེ་གྲོགས་མེད་གཅིག་པུར་སྡོད་པ་ལྟར། 5. ལྟ་སྤྱོད་མི་མཐུན་པའི་གྲོགས་
 # 
