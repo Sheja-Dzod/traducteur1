@@ -148,13 +148,11 @@ msgid ""
 "phénomènes). Ne pas les calomnier ou les dénigrer (prétendre qu’ils ne sont "
 "pas ce qu’ils sont)."
 msgstr ""
-"Les trois liens sacrés intérieurs: \n"
-"\n"
-"10.   Ne pas calomnier ou dénigrer eux qui enseigne le Dharma, \n"
-"\n"
-"11.   ceux qui contemple le sens du Dharma \n"
-"\n"
-"12.   ceux qui méditent sur le mode d’être (des phénomènes). "
+"Les trois liens sacrés intérieurs\n"
+" \n"
+"10. ne pas calomnier ni dénigrer ceux qui enseignent le Dharma ;\n"
+"11. ne pas calomnier ni dénigrer ceux qui contemplent le sens du Dharma ;\n"
+"12. ne pas calomnier ni dénigrer ceux qui méditent sur le mode d’être des phénomènes."
 
 #  22. གསང་བའི་གསུམ་ནི། 23. རྡོ་རྗེ་སྤུན་སྲིང་གི་ཚིག ། 24.
 # བླ་མའི་ཕྱག་རྒྱ་དང་ཉེ་
