@@ -153,9 +153,9 @@ msgid ""
 " par association et indirectes ; Ne pas les confesser amène les malheurs et "
 "l’existence en l’Enfer des Pires Tourments."
 msgstr ""
-"1. La détérioration\n"
-"« Cinq types de détérioration : majeure, racine, secondaire, par association et indirecte ; \n"
-"Ne pas les confesser est source de malheur et la renaissance en l’Enfer des Pires Tourments. »"
+"A. La détérioration\n"
+" \n"
+"« Il existe cinq types de détériorations : les détériorations majeures, racine, secondaires, par association et indirectes. Ne pas les confesser engendre le malheur et conduit à une renaissance dans l'Enfer des Pires Tourments. »"
 
 #  15. དུས་འདས་རལ་བའི་ཉམས་ཚུལ་རྣམས་གོང་དུ་སྨོས་པ་ལྟར་ལ། 16. གཞན་ཡང་
 # 
