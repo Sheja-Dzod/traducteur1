@@ -259,11 +259,10 @@ msgid ""
 "derniers ne les accepterons pas. De plus, Maladies, poisons ou ennemis les "
 "tuerons et ils renaîtrons en tant qu’être des enfers. puis,"
 msgstr ""
-"A ce sujet L’essence de la lune secrète dit:\n"
-"\n"
-"«  Les bouddhas et les bodhisattvas n’accorderons pas de bénédiction (ne pourront pas les influencer) à ceux qui ont dégradés leurs liens sacrés et leurs vœux.\n"
-"Si ils leur offrent de l’encens, des fleurs ou autres offrandes, ils ne les accepterons pas ;\n"
-"Des maladies, poisons ou ennemis les emporteront et ils renaîtront en tant qu’être des enfers. »"
+"À ce sujet, L'Essence de la Lune secrète affirme :\n"
+"« Ceux qui ont détérioré leurs liens sacrés et leurs vœux ne pourront pas recevoir les bénédictions des bouddhas et des bodhisattvas.\n"
+"Si ces individus leur font des offrandes d'encens, de fleurs ou d’autres présents, ces derniers ne les accepterons pas.\n"
+"Au lieu de cela, maladies, poisons ou ennemis les tueront et ils renaîtront comme êtres des enfers. »"
 
 #  33. ཡེ་ཤེས་གྲུབ་པ་ལས། 34. དམ་ཚིག་ཉམས་པ་སྡུག་བསྔལ་ཏེ། །ལུས་དང་དེ་བཞིན་
 # 
