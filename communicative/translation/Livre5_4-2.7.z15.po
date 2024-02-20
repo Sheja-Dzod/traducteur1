@@ -167,13 +167,11 @@ msgid ""
 "proche, les paroles éveillées du Lama; ne pas les dépricier(critiquer) et "
 "les transgresser."
 msgstr ""
-"Les trois liens sacrés secrets : \n"
-"\n"
-"16. ne pas critiquer ou déprécier les paroles des frères et sœurs vajras,\n"
-"\n"
-"17. les paroles de la parèdre du Lama et des membres de son entourage proche, \n"
-"\n"
-"18. les paroles éveillées du Lama."
+"Les trois liens sacrés secrets\n"
+" \n"
+"16. ne pas critiquer ni dénigrer les paroles des frères et sœurs vajra ;\n"
+"17. ne pas critiquer ni dénigrer les paroles de la parèdre du Lama ou de ses proches ;\n"
+"18. ne pas critiquer ni dénigrer les paroles éveillées du Lama."
 
 #  26. གསུམ་པ་ཐུགས་ཀྱི་དམ་ཚིག་གསུམ་ཚན་གསུམ་གྱི། ཕྱིའི་གསུམ་ནི།
 # troisièmement, des trois aspects des liens sacrés relatifs à l’esprit
