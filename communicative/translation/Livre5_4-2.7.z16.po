@@ -141,8 +141,8 @@ msgid ""
 "3. L’explication de la détérioration et de la confession a deux parties: la "
 "détérioration et la restauration."
 msgstr ""
-"3. L’explication de la détérioration et de la confession a deux parties: la "
-"détérioration et la restauration."
+"3. L’explication de la détérioration et de la confession se fait en deux parties :\n"
+"la détérioration puis la restauration."
 
 #  13. དང་པོ་ནི། 14. ཉམས་པ་ཆེ་དང་རྩ་ལག་ཟླས་ཞར་ལྔ། །མ་བཤགས་མི་འདོད་
 # 
