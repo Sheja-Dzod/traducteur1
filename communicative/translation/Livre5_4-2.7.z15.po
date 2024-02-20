@@ -67,7 +67,15 @@ msgstr ""
 "Les trois liens sacrés extérieurs\n"
 "1.   s’abstenir de voler\n"
 "2.   s’abstenir de s’adonner à l’inconduite sexuelle\n"
-"3.   s’abstenir de tuer "
+"3.   s’abstenir de tuer \n"
+"\n"
+"a) Les liens sacrés du corps éveillé\n"
+" Ce sont les suivants :\n"
+" Les trois liens sacrés extérieurs\n"
+" \n"
+"1. ne pas voler  ;\n"
+"2. ne pas s’adonner à l’inconduite sexuelle ;\n"
+"3. ne pas tuer."
 
 #  8. ནང་གི་གསུམ་ནི། 9. ཕ་མ་རྡོ་རྗེ་སྤུན་སྲིང་དང་རང་ལུས་སྨོད་པ། 10. ཆོས་
 # 
