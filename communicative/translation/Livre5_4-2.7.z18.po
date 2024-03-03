@@ -125,8 +125,10 @@ msgid ""
 "Le facteur conditionnant causal: Les cinq types d’individu, comme ceux "
 "semblables au lotus, sont les réceptacles adéquate aux initiations."
 msgstr ""
-"Le facteur conditionnant causal : l’individu.\n"
-"Il existe cinq types d’individu,  ceux semblables au lotus  (309) etc qui sont des réceptacles adéquate aux initiations."
+"La première condition est la condition causale, correspondant à l'individu qui pratique. Les cinq types d'individus existants, tels ceux qui ressemblent au lotus[i], sont des réceptacles adéquats pour les initiations.\n"
+"\n"
+"\n"
+"[i] Voir note n°196."
 
 #  19. བསྐུར་མཁན་སློབ་དཔོན་ཕྱི་ནང་གི་དེ་ཉིད་བཅུ་ལ་སོགས་པ་མཚན་
 # 
