@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,9 +30,28 @@ msgid ""
 "développer une connaissance sans erreur concernant la pratique de la voie. "
 "Puis,"
 msgstr ""
-"Troisièmement: le processus de l’acquisition de la connaissance de la nature des liens sacrés en recevant les tantras d’un lama.\n"
+"3) Troisièmement, l’étape où l’on acquiert la connaissance des caractéristiques des liens sacrés en recevant les tantras d’un lama\n"
+" \n"
+"En recevant d’un lama les explications du tantra explicatif, enseignées selon quatre méthodes[i], on acquiert une compréhension approfondie du tantra véritable et on développe une parfaite connaissance de la pratique de la voie.\n"
 "\n"
-"L’excellente acquisition de la connaissance du Tantra véritable s’effectue en écoutant les explications d’un Lama sur le Tantra en question. Le Lama enseigne selon quatre méthodes (311) les termes correspondants au Tantra explicatif. "
+"\n"
+"[i] Les quatre méthodes (tshul bzhi) sont selon Kongtrul :\n"
+"\n"
+"Le sens littéral ou mot à mot (tshig gam yi ge don)\n"
+"Le sens général (spyi’i don)\n"
+"Le sens caché (sbas don)\n"
+"Le sens ultime (mthar thug p’i don)\n"
+"Le Trésor des Connaissances Vol II, page 720-722\n"
+"\n"
+"Dans Le Commentaire des précieux Joyaux (dkon mchog ‘grel) \n"
+"https://library.bdrc.io/show/bdr:MW25983_F07B57\n"
+"Rongzom énumère ainsi la façon de donner les enseignements :\n"
+"\n"
+"selon le sens général de la sadhana\n"
+"selon le sens général du tantra\n"
+"selon les traités\n"
+"selon les les rituels à accomplir\n"
+"Note 311: Les quatre méthodes pour enseigner les tantras (selon Rongzom) "
 
 #  4. བཞི་པ་གསང་སྔགས་ཀྱི་སྒོར་སྤྱད་པ་སྤྱོད་པ་རྣམས་ཀྱིས་ཆེད་དུ་
 # 
