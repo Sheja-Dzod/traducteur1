@@ -115,8 +115,9 @@ msgstr ""
 msgctxt "line 5, Livre5_4-3.1.txt"
 msgid "La deuxième section à deux parties: présentation résumée et extensive."
 msgstr ""
-"La manière dont ils peuvent être présent en une seule personne.\n"
-"Cette section à deux parties: une présentation résumée et une extensive."
+"2. Manière dont les vœux peuvent être détenus par une même personne\n"
+" \n"
+"Cette section possède deux parties : une présentation résumée et une présentation extensive."
 
 #  22. དང་པོ་ནི། 23. གང་ཟག་གཅིག་ལ་སུམ་ལྡན་ཚེ། །གནས་ཚུལ་འཕགས་བོད་གཉིས་སུ་
 # 
