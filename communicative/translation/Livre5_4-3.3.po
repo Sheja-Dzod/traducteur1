@@ -98,9 +98,10 @@ msgid ""
 "catégorie (libération personnelle, bodhisattva et mantra). Par conséquent "
 "ils sont à tenir selon ce qui est prescrit."
 msgstr ""
-"2)  Ils sont à tenir en fonction de ce qui est prescrit parce que selon les "
-"circonstances, il faudra s’abstenir de faire telle ou telle chose en "
-"développant l’antidote correspondant à  la catégorie de vœux concernée. "
+"1)     Ces vœux doivent être observés conformément à leur prescription : en "
+"effet, selon les circonstances, il faudra éviter certaines actions ou "
+"appliquer l'antidote approprié selon la catégorie de vœux concernée (vœux de"
+" libération individuelle, de bodhisattva ou du mantrayana). "
 
 #  22. ཚོགས་ཀྱི་དམ་རྫས་ལྟ་བུ་མ་བརྟེན་ན་སྔགས་དང་འགལ་ལ་ 23. བརྟེན་
 # 
