@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\communicative",
-    "\\communicative\\paragraphs",
-    "\\communicative\\translation",
-    "\\literal"
+    "\\literal",
+    "\\literal\\tibetan"
   ],
   "SelectedNode": "\\A_gen_literal_po.py",
   "PreviewInSolutionExplorer": false
