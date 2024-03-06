@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (France) (https://app.transifex.com/shejadzod/teams/134378/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,8 +21,9 @@ msgid ""
 "La seconde section comporte deux parties L’interprétation (ce que pensent) "
 "Indienne (des maîtres indiens) et celle des maîtres tibétains."
 msgstr ""
-"2. L’explication détaillée se décline en 2 parties : la vision des maitres "
-"indiens et celle des maîtres tibétains."
+"B. L’explication détaillée\n"
+" \n"
+"Elle se décline en deux parties : le point de vue des maîtres indiens et celui des maîtres tibétains."
 
 #  3. དང་པོ་ནི། 4. འཇིགས་མེད་ཞབས་ཀྱིས་སྤོང་སེམས་རིགས་མཐུན་ཀྱང༌། །རྣམ་པ་ཐ་དད་
 # 
