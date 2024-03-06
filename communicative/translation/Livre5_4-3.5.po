@@ -159,9 +159,9 @@ msgid ""
 "Ceci etait le commentaire de la quatrièmme section (de ce livre) portant sur"
 " les voeux des tenants de la conscience pure et leur explication générale."
 msgstr ""
-"Ceci termine le commentaire de la quatrième section de ce livre présentant "
-"une explications générale des vœux des tenants de la conscience ainsi qu’un "
-"résumé des trois voeux."
+"Ainsi se conclut le commentaire de la quatrième section de ce livre, qui "
+"propose une explication générale des vœux des tenants de la conscience pure,"
+" et résume les trois vœux."
 
 #  33. ཐེག་པའི་སྒོ་ཀུན་ལས་བཏུས་པ་གསུང་རབ་རིན་པོ་ཆེའི་མཛོད་བསླབ་
 # 
