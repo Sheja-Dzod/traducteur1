@@ -38,8 +38,9 @@ msgid ""
 " alternativement des variantes existes (litt. etc. des il y a des "
 "distinctions). Ceci est s’explique ainsi:"
 msgstr ""
-"1.      Le nombre de ces vœux qu’une personne peux recevoir\n"
-"« Une personne peut posséder  un ou deux ou trois de ces vœux, alternativement des variantes existes. »"
+"1. Nombre de vœux une personne peut recevoir\n"
+" \n"
+"« Une personne peut posséder un, deux, ou trois de ces vœux, avec différentes combinaisons possibles. »"
 
 #  8. དེ་ལ་གཅིག་ལྡན་ནི་ 9. ཐེག་དམན་སོ་ཐར་རྒྱུད་ལྡན་གྱི་གང་ཟག་
 # 
