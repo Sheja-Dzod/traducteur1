@@ -50,11 +50,13 @@ msgid ""
 "Ils ont en effet, largement prouvé cette assertion en se basant sur des "
 "citations et des raisonement propres à chaque catégorie de voeux."
 msgstr ""
-"Pour les Riwo Gédenpas (340) , il est évident que la manière de prendre les vœux et les causes qui les font briser est propre à chaque système et que par conséquent les trois types de vœux sont de nature différentes.\n"
+"Les Riwo Gédenpas[i], ont clairement démontré que la manière de prendre les vœux et les raisons de les rompre varient en fonction du système adopté. Par conséquent, ils considèrent que les trois types de vœux ont des natures différentes.\n"
+" \n"
+"Ils soutiennent également que lorsqu'on prend un vœu de niveau supérieur, le vœu précédent, de niveau inférieur, acquiert les attributs du vœu supérieur. C’est ce qu’illustre l'exemple du saphir plongé dans un vase propre rempli d'eau pure : l'eau prend alors la couleur du joyau. Cette analogie exprime leur opinion selon laquelle les vœux supérieurs sont basés sur les vœux inférieurs.\n"
+"Ils ont abondamment prouvé ces assertions en se fondant sur des citations et des raisonnements spécifiques à chaque catégorie de vœux.\n"
 "\n"
-"Ils affirment aussi que quand on prend un vœux supérieur, le vœux inférieur pris précédemment prends les attributs du vœux supérieur. Par exemple, quand on immerge un saphir dans un vase propre rempli d’eau pure, l’eau prends elle aussi la couleur du joyau.\n"
-"Cet exemple illustre leur opinion comme quoi les vœux supérieurs s’appuient sur les vœux inférieurs. \n"
-"Ils ont largement prouvé ces assertions en se basant sur des citations et des raisonnement propres à chaque catégorie de vœux."
+"\n"
+"[i] Riwo Gedenpa (ri bo dge ldan pa), littéralement les vertueux des montagnes : c’est un nom donné à l’école Guélougpa du bouddhisme tibétain. La montagne fait ici référence au lieu où Tsongkapa a fondé le monastère de Ganden, premier de l’école Guélougpa dans le Tibet central."
 
 #  11. གསུམ་པ་ནི། 12. སུམ་ལྡན་རྡོ་རྗེ་འཛིན་མཆོག་བརྩོན་ལྡན་ན། ། 13.
 # ཚེ་ལུས་གཅིག་གིས་
