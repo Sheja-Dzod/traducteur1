@@ -37,9 +37,11 @@ msgid ""
 "Vibhutichandra pense que les voeux supérieurs éclipsent ceux inférieurs tout"
 " en restant distinct."
 msgstr ""
-"1.  Selon les maîtres de l’Inde\n"
-"« Pour Abhayakara les trois vœux sont similaires du fait qu’ils ont en commun le renoncement mais ils différent sur leur formes. \n"
-"Le Grand Erudit Vibhutichandra pense que les voeux supérieurs éclipsent ceux inférieurs tout en restant distinct. »"
+"1. Le point de vue des maîtres de l’Inde\n"
+" \n"
+"« Abhayakara affirme que les trois vœux sont similaires car ils partagent le principe de renoncement\n"
+"Cependant, ils se différencient par leur expression particulière.\n"
+"D’après le Grand Érudit Vibhutichandra, les vœux supérieurs surpassent les vœux inférieurs tout en restant distincts . »"
 
 #  5. སྤྱིར་འཕགས་ཡུལ་དུའང་དབང་གི་ལྡེའུ་མིག་ལས་གསུངས་པ་ལྟར་ན། 6. སྔགས་སྡོམ་
 # 
