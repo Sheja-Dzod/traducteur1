@@ -51,11 +51,10 @@ msgid ""
 "vœux diffèrent sur divers points comme d’être recu d’une catégorie de maître"
 " différent, ils ont une identité propre distincte.,"
 msgstr ""
-"a) Pour l’oncle vénérable Drakpa Gyaltsen et son neveu (338) chez les "
-"Sakyapas; pour l’omiscient Longchenpa Rabjam et pour d’autres comme pour "
-"Lotsawa Rinchen Zangpo, Rongzong Tcheuzang et leurs successeurs-, puisque "
-"les trois vœux diffèrent sur divers points comme celui d’être recu d’une "
-"catégorie de maître différent, ils ont une identité distincte."
+"a) Pour l’oncle vénérable Drakpa Gyaltsen et son neveu[i] des Sakyapas, tout comme pour l'omniscient Longchenpa Rabjam et d'autres maîtres tels Lotsawa Rinchen Zangpo, Rongzong Tcheuzang et leurs successeurs, les trois vœux ont chacun une identité distincte. Cette différence provient de divers facteurs, comme par exemple la catégorie de maîtres qui les transmettent.\n"
+"\n"
+"\n"
+"[i] Oncle et neveu (khu dbon) : Drakpa Gyaltsen (1147-1216) est présenté comme l’oncle de Sakya Pandita (1181-1251)."
 
 #  10. དགག་བྱ་ཉོན་མོངས་པ་རང་མཚན་པ་སྤོང་བ་དང༌། 11. དགོས་པ་ཉོན་མོངས་
 # 
