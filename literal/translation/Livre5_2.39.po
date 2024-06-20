@@ -1,0 +1,822 @@
+# 
+# Translators:
+# Damien Jampa, 2024
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Damien Jampa, 2024\n"
+"Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+# 。︀	〝སྣམ་སྦྱར〞 3291
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
+msgctxt "68aebaf64535446b903cc0bb9b4c37c9"
+msgid "དེ་ ལ་ སྣམ་སྦྱར་ ནི་ སྣམ་ཕྲན་ དགུ་ ནས་ ཉེར་ ལྔ␣འི་ བར་ ཏེ །"
+msgstr ""
+"Le châle monastique au nombreux plis comporte entre neuf et vingt cinq plis."
+
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+msgctxt "f4c3a32f61f44f89911152c6613cfaba"
+msgid ""
+"དགུ་ མ །  བཅུ་གཅིག  ། བཅུ་གསུམ་ མ་ གསུམ་ ནི་ གླེགས་བུ་ ཕྱེད་ དང་ གསུམ་ མོ "
+"། །"
+msgstr "Ceux qui en ont 9, 11 ou 13 sont divisé en 2.5 sections"
+
+msgctxt "c4d639e7bb0f43289263a576eaae40be"
+msgid ""
+"བཅོ་ལྔ །  བཅུ་བདུན །  བཅུ་དགུ་ གསུམ་ ནི་ གླེགས་བུ་ ཕྱེད་ དང་ བཞི་པ␣འོ ། །"
+msgstr "ceux qui ont 15, 17 ou 19  sont divisé en  3,5 séctions"
+
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "bb173ed1ee68443aa7ab5d5dd770a57d"
+msgid ""
+"ཉེར་ གཅིག  ། ཉེར་ གསུམ །  ཉེར་ ལྔ་ གསུམ་ ནི་ གླེགས་བུ་ ཕྱེད་ དང་ ལྔ་པ␣འོ ། །"
+msgstr "ceux qui ont 21, 23 ou 25 sont divisés en 4.5 sections."
+
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+msgctxt "2ab9c0893a4446789b7348f28bf3abfd"
+msgid "ཚད་ ནི་ ཆེ་ སྐོར་ གསུམ་ དཔངས་ སུ་ ཁྲུ་ གསུམ་ དང་ སྲིད་ དུ་ ཁྲུ་ ལྔ །"
+msgstr ""
+"Quand à leur taille: pour les 3 grandes tailles, ils font 3 coudées de large"
+" et 5 de long."
+
+msgctxt "c4cdef08779f4ac0949349610d8942c2"
+msgid "ཆུང་ གསུམ །  དེ་ལས་ ཁྲུ་ ཕྱེད་ཕྱེད་ ཕྲི་བ །"
+msgstr ""
+"ensuite on diminue d'une demie coudée: les petits faisant une coudée de "
+"moins (que les grands en large et en long)"
+
+# 。︀	〝རོ〞 5953
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
+msgctxt "a0a7b1fb07904ee09a6aefbfe5340254"
+msgid "འབྲིང་ གསུམ་ དེ་ གཉིས་ ཀྱི་ བར་ རོ ། །"
+msgstr "ceux de taille intermédiaire faisant une demi coudée de moins."
+
+# 。︀	〝སྣམ་སྦྱར〞 3291
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+msgctxt "5bc94684d103484da49df716d98ce857"
+msgid ""
+"བླ་གོས་ ནི་ སྣམ་ཕྲན་ བདུན །  གླེགས་བུ་ ཕྱེད་ དང་ གསུམ་པ །  ཚད་ སྣམ་སྦྱར་ "
+"ལྟར་ གསུམ་ མོ ། །"
+msgstr ""
+"Le châle monastique simple a 7 plis, est cousu en 2.5 sections, comme pour "
+"le châle au nombreux plis il a trois taille possible."
+
+# 。︀	〝མཐང་གོས〞 2259
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vêtement de dessous monacal
+msgctxt "e71d8e4f2f234c0fb0eac52f9d4ea324"
+msgid "མཐང་གོས་ ནི་ སྣམ་ཕྲན་ ལྔ་ དང་ གླེགས་བུ་ ཕྱེད་ དང་ གཉིས་པ །"
+msgstr "la robe monastique a 5 plis et est cousu en 1.5 sections."
+
+# 。︀	〝འཁོར་གསུམ〞 450
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Trois sphères ⁃ Trois sphères
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les trois sphères, les trois mandalas
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ trimaṇḍala, trivarga Sens racine: Les trois
+# sphères, les trois mandalas, three spheres (SL BP) Alternatives: la triple
+# saisie, les trois sphères des concepts, d’un acte, les trois polarités de
+# l’expérience, la triade, cycle composé de trois éléments, la triple polarité
+# de l’acte, d’une action, les trois manivelles de l’acte, triple roue, triple
+# cycle sujet-objet-action, trois types de conceptualisation, les trois
+# facteurs, éléments de toute action, le cercle de trois, les trois roues
+# sujet-objet-acte, les concepts des trois éléments, les trois extrêmes,
+# cercles, éléments, sphères, pôles
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois pôles de l'acte
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ ‘khor gsum dmigs med Sens racine: les trois mandalas (sont
+# les mandalas de sujet, objet et intermédiaire) sans séparer sujet, objet et
+# expérience, les trois indissociés et indissociables
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "218a30f4ad7c467f9d71e3776ced55fd"
+msgid ""
+"ཚད་ དཔངས་ སུ་ ཁྲུ་ དོ་ དང༌ །  སྲིད་ དུ་ ཁྲུ་ ལྔ␣འམ་ བཞི །  ཐ་ན་ འཁོར་གསུམ་ "
+"ཁེབས་པ␣ས་ ཀྱང་ རུང་ ཞིང༌ །"
+msgstr ""
+"Ses dimensions sont de 2 coudées de large et 4 ou 5 de long, ou au minimum "
+"une taille suffisante pour recouvrir les trois sphères. De plus,"
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+# 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "e2b6bd8b04334e1796643748057a8a6f"
+msgid "ལུས་ སྦོམ་པ␣ས་ མི་ ཡོགས་ ན་ རལ་ཁ་ དཔུང་ ཆད་ སྣོན་པ␣ར་ བཤད་ དོ ། །"
+msgstr ""
+"Si cela ne suffit pas couvrir (envelopper) le corps parceque la personne est"
+" trop grosse, il est dit que l'on peut l'allonger (de 2 coudées en long et "
+"en large). "
+
+# 。︀	〝རྡུལ〞 2823
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Poussière, Menstrue,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mobilité (rajas) aussi:ovule ⁃ particules, poussière
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Poussière,Menstrue, Alternatives:
+# poussière, (infime) particule, grain, pollen, gouttelettemenstrues,
+# règlesfautes, défauts, imperfections
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "26a010f675074506aaf7e58315f7e8db"
+msgid ""
+"སྤྱིར་ ཁྲུ་ ལ་ རྡུལ་ ཁྲུ །  ལག་ ཁྲུ །  ལུས་ ཁྲུ་ གསུམ་ ལ␣ས་ འདི␣ར་ ལུས་ ཁྲུ་"
+" སྟེ །"
+msgstr ""
+"En général il y a trois type de mesures (coudées); la mesure à partir des "
+"particules, celle basée sur la main et celle sur le corps qui est celle ici "
+"employée. En effet,"
+
+# 。︀	〝མདོ〞 2727
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sutra
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sûtra, Discours Résumé, Confluence, convergence,
+# rencontre, ⁃ sûtras, les discours (du Bouddha)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sūtra Sens racine: Sutra,Résumé,Confluence,
+# convergence, rencontre,, scripture, discourse (SL MW) Alternatives: résumé,
+# compendium, abrégé, discoursconvergence de fleuves, croisée des chemins,
+# croisement, carrefourl'extérieur, l'extrémité (d'une maison ou d'autre
+# chose)(dans les trois corbeilles la collection des) sūtra
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ discours du Bouddha, sutra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ mdo lugs Sens racine: sûtras, les discours (du Bouddha) ;
+# tradition des sûtras, système des sûtras
+# 
+# 。︀	〝རྩ〞 4527
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ racine, fondement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Source, Nadis, Canaux (du corps vajra),
+# Veines, Artères, ⁃ canal, artère, nâdi, veine
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ canal [subtil]
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ nāḍi, nāḍī Sens racine: Racine,Source,Nadis,Canaux
+# (du corps vajra),Veines,Artères, Alternatives: les veines, artères, nerfs
+# les canaux subtils, psychiques, d'énergie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Canal subtil, nâdî
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: nâdi, canal artère, veine
+msgctxt "00bafc38f43c4be8b00ef47d003cacb7"
+msgid "མདོ་ རྩ␣ར །"
+msgstr "Le Soutra Racine dit:"
+
+# 。︀	〝དོན〞 2457
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Fonction, acte; Sens, signification; Etat, mode réel,
+# réalité; Le bien, ce qui est bon; Chose;  Organe interne, Particule entrant
+# dans la composition des nombres." ⁃ artha, la nature (de l'expérience
+# immédiate) (p106), sens, ultime, véritable, réalité, sens réel, bienfait,
+# objectif, but, ultimement significatif, plein de sens, ultimement existant,
+# l'état ultime (de)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""sujet"" (yul can) ex: tendances
+# subjectives et sujet= point (à traiter); veut dire aussi ""objet"" (perçu)"
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hita, adhva, artha, nāmartha Sens racine: Fonction,
+# acte ;Sens, signification ;Etat, mode réel, réalité ;Le bien, ce qui est
+# bon ;Chose ; Organe interne,Particule entrant dans la composition des
+# nombres., referent, object (SL BP) Alternatives: (vrai) sens, fonction (qui
+# fait comprendre)disposition de ce qui existe vraiment, le sens et la valeur
+# de la viechoses, objets extérieursbénéfice, bienfait (don du) signification,
+# objet, dessein, objectif, tâche, travail, fondamental, essentiel, (état)
+# ultime, bien être, profit, bienfait, viscères, but, authentique,
+# significatif, ultimement (existant), réel, (ce qui est) vrai, signification,
+# sujet, concept, notion, contenu, visée, foyer, cible, finalité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sens, but, objet
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ don rnams Sens racine: artha, la nature (de l’expérience
+# immédiate) sens, ultime, véritable, réalité, sens réel, bienfait, objectif,
+# but, ultimement significatif, plein de sens, ultimement existant, l’état
+# ultime (de) ; les facettes
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "66c6f2a45e0d4ca982ecd3eb07e39e40"
+msgid "ཁྲུ␣འི་ དོན་ ནི་ ལུས་ ཀྱི་ ཆ་ བདུན་ ལ␣ས་ གཉིས་ སོ ། །"
+msgstr "\"La mesure est de deux septièmme du corps\"."
+
+msgctxt "7cdeed2506e34c2d9514301974add72b"
+msgid "ཞེས་ གསུངས་པ␣འི་ ཕྱིར །"
+msgstr "C'est la raison qui est donnée."
+
+# 。︀	〝མཐང་གོས〞 2259
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vêtement de dessous monacal
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+# 
+# 。︀	〝ཤམ་ཐབས〞 6163
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Jupe monastique, «Ce qui fait pour le bas»
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ jupe monacale
+msgctxt "d660b7cf42cb4f6bbd3827568f8e2680"
+msgid "ཤམ་ཐབས་ དང་ དེ␣འི་ གཟན་ མཐང་གོས་ དང་ ཚད་ འདྲ་ ཞིང༌ །"
+msgstr ""
+"La robe intérieure et la robe de nuit sont de taille similaire à la robe "
+"monastique; de même que"
+
+# 。︀	〝རྔུལ་གཟན〞 1177
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ châle monacal
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+# 
+# 。︀	〝ཚད〞 4633
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mesure, Taille, Dimension, ⁃ mesure, critère, (quelque
+# chose de) complet, évaluation, appréhender, la perfection de
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ brahmārandhra Sens racine: Mesure,Taille,Dimension,
+# Alternatives: mesure, taille, dimension, étendue, limite, niveau,
+# degréprestation optimale, paroxysme, pleine mesure, plus haut niveau, degré,
+# point
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mesure, critère (quelque chose de) complet,
+# évaluation, appréhender, la perfection de
+msgctxt "d9a00aeddd0d4a6080de40dced79fd26"
+msgid "རྔུལ་གཟན་ དང་ དེ␣འི་ གཟན་ བླ་གོས་ དང་ ཚད་ འདྲ་ སྟེ །"
+msgstr ""
+"La châle anti transpirarion et le châle anti transpiration de nuit sont de "
+"taille similaire au châle simple. La raison est que "
+
+# 。︀	〝མཐང་གོས〞 2259
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vêtement de dessous monacal
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+# 
+# 。︀	〝ཡིན་པ〞 5391
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+msgctxt "9d59fa3c3967459a9c447e44a947e3be"
+msgid ""
+"དེ་ དང་ དེ་ ཉིན་ མོ་ དང་ མཚན་མོ་ མཐང་གོས་ བླ་གོས་ ཀྱི་ འོག་ ཏུ་ གྱོན་པ␣འི་ "
+"གོས་ ཡིན་པ␣འི་ ཕྱིར །"
+msgstr ""
+"ils sont respectivement des vêtements à porter le jour ou la nuit sous la "
+"robe monastique et sous le châle monastique simple. "
+
+# 。︀	〝གདོང་ཕྱིས〞 2613
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ serviette pour le visage
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+msgctxt "0e0950d6b358487db80dd494cebb3fc1"
+msgid "གདོང་ཕྱིས་ སྲིད་ དང་ ཞེང་ དུ་ ཁྲུ་ གང་པ་ རྣག་གཟན་ བླ་གོས་ དང་ མཉམ་པ །"
+msgstr ""
+"La serviette pour le visage fait une mesure (coudée) de long et de large et "
+"le vêtement en cas de pus est de la même taille que le châle monastique."
+
+# 。︀	〝སྐྲ་བཟེད〞 272
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ tissu pour le rasage de la tête
+msgctxt "e1db24d6dd4e46db9350ef0dec1bb2c6"
+msgid "སྐྲ་བཟེད་ སྲིད་ དུ་ ཁྲུ་ གསུམ་ དང་ ཞེང་ དུ་ ཁྲུ་ ཕྱེད་ དང་ གཉིས་པ །"
+msgstr ""
+"Le tissu pour collecter les cheveux coupés fait 3 coudées de long et 1.5 de "
+"large."
+
+msgctxt "5b26b27383a54027822907ce4660536c"
+msgid "གཡན་དགབ་ སྲིད་ དུ་ ཁྲུ་ དྲུག་ དང་ ཞེང་ དུ་ ཁྲུ་ གསུམ །"
+msgstr ""
+"le vêtement en cas de maladie de peau fait 6 coudées de long et 3 de large."
+
+# 。︀	〝གདིང་བ〞 2601
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ assurance (impossible de retrouver ce sens où que ce
+# soit.) Vu avec Georges, à confirmer
+msgctxt "70b46ff6768e4e26b2cbc9fa9102ebab"
+msgid "གདིང་བ་ སྲིད་ དུ་ ཁྲུ་ གསུམ་ ཞེང་ དུ་ ཁྲུ་ དོ་ དང་ སོ␣ར་ དྲུག  །"
+msgstr ""
+"la natte monastique fait 3 coudées de long et sa largeur est d' 1.5 coudée "
+"plus 6 largeur de doigt."
+
+msgctxt "70d6d05863234b04a3540e5837ca3241"
+msgid "གླེགས་བུ་ ཕྱེད་ དང་ གཉིས་པ །"
+msgstr "Il est cousu en 1.5 section."
+
+msgctxt "badd30ade6254638970a2022c46bfcd1"
+msgid "དབྱར་ གྱི་ གོས་ རས་ཆེན་ ནི །"
+msgstr "Le grand vêtement de pluie"
+
+msgctxt "9c9f983e654b463d8d3789e8c23fbd65"
+msgid "སྲིད་ དུ་ ཁྲུ་ དགུ །  ཞེང་ དུ་ ཁྲུ་ གསུམ་ དང་ སོ␣ར་ བརྒྱད་པ␣འོ ། །"
+msgstr ""
+"fait 9 coudées de long et 3 sa largeur de 3 coudées plus huit largeur de "
+"doigt."
+
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "35d826e5b3214e2f8ebe6c0f7095d68c"
+msgid "གཉིས་པ་ མཁོ་བ␣འི་ ཡོ་བྱད་ ནི །"
+msgstr "2. Les vêtements important. "
+
+# 。︀	〝ཁྱད་པར〞 336
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viśeṣa, viśeśa Sens racine: Particularités,
+# distinctions Alternatives: distinctions, différences, signes, qualités
+# distinctifs, qualités spéciales, particulièresparticulièrement, en
+# particulier
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Caractère distinctif, différence, spécificité
+# 
+# 。︀	〝དབྱིབས〞 4017
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ figure spatiale ⁃ Configuration, figure
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝འཚོ་བ〞 4829
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Protéger, Garder, Vivre, Santé, Moyens de subsistance,
+# de vivre
+# 
+# 。︀	〝འཚོ་བའི་ཡོ་བྱད〞 4830
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les choses qui permettent de vivre, Les articles
+# nécessaires pour subsister
+# 
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "67bfc8ab8908431c99b61678a7badf6a"
+msgid ""
+"འཚོ་བ␣འི་ ཡོ་བྱད་ གང་རུང་ གི་ དབྱིབས་ སུ་ མ་ དྲུབས་པ␣འི་ གོས་ ཀྱི་ ཁྱད་པར་ "
+"ཁྲུ་ གང་ ཡན་ཆད་ མ་ངེས་པ་"
+msgstr ""
+"Toute pièce de tissu que le moine considère comme précieuse, qui n'a pas été"
+" cousue selon le modèle de l'une des treize robes mentionnées ci-dessus, et "
+"qui mesure une coudée  ou plus,"
+
+# 。︀	〝སྐྱེ་བ〞 241
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Naître Naissance, venir à l'existence
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ naissance (11ème des douze facteurs de la relation
+# interdépendante), production ⁃ produire / production
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jāti Sens racine: NaîtreNaissance, venir à
+# l’existence, to arise, to come into being (SL BP) Alternatives: (processus
+# de) naissance, production, origination, création, début, génération,
+# émergence, apparitionnaître, produire, créer, générer, donner le jour à,
+# engendre, venir à l’existence.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ naissance ⁃ naissance, origine, apparition, source ⁃
+# Naissance  (facteur de la production en dépendance)
+# 
+# 。︀	〝འདུ་ཤེས〞 2761
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conception, Représentation, Nomination, Perception
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ notions, perceptions, perceptions distinctives
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃjñā Sens racine:
+# Conception,Représentation,Nomination,Perception, discernment (SL MW)
+# Alternatives: la pensée, saisie conceptuelle, par des
+# caractéristiquesperception, conception, identification, notion, penser,
+# considérer, conceptualisation, idéation, discrimination, pensées
+# discursives, représentation mentale, considération, conscience, (type
+# d')attitude, idée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ représentations mentales, notions, perception ⁃
+# Représentation mentale
+# 
+# 。︀	〝སྣམ་བུ〞 3290
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ les tissus (p101)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les tissus
+msgctxt "0068b1dd7831465483a033404a1bba31"
+msgid "དར་གོས་ སྣམ་བུ་ ལྟ་བུ་ ནོར་ གྱི་ འདུ་ཤེས་ སྐྱེ་བ་ དང༌ །"
+msgstr " par exemple, une pièce de soie, de brocart ou de feutre. "
+
+# 。︀	〝སྐྱེ་བ〞 241
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Naître Naissance, venir à l'existence
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ naissance (11ème des douze facteurs de la relation
+# interdépendante), production ⁃ produire / production
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ jāti Sens racine: NaîtreNaissance, venir à
+# l’existence, to arise, to come into being (SL BP) Alternatives: (processus
+# de) naissance, production, origination, création, début, génération,
+# émergence, apparitionnaître, produire, créer, générer, donner le jour à,
+# engendre, venir à l’existence.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ naissance ⁃ naissance, origine, apparition, source ⁃
+# Naissance  (facteur de la production en dépendance)
+# 
+# 。︀	〝འདུ་ཤེས〞 2761
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conception, Représentation, Nomination, Perception
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ notions, perceptions, perceptions distinctives
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃjñā Sens racine:
+# Conception,Représentation,Nomination,Perception, discernment (SL MW)
+# Alternatives: la pensée, saisie conceptuelle, par des
+# caractéristiquesperception, conception, identification, notion, penser,
+# considérer, conceptualisation, idéation, discrimination, pensées
+# discursives, représentation mentale, considération, conscience, (type
+# d')attitude, idée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ représentations mentales, notions, perception ⁃
+# Représentation mentale
+# 
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "fefc0f5d4f42435485699bc5a058af81"
+msgid "ཞྭ་ དང་ སྐ་རགས་ སོགས་ གོས་ ཀྱི་ འདུ་ཤེས་ སྐྱེ་བ␣འི་ ཡོ་བྱད་ དག་ གོ  །"
+msgstr ""
+"Sont également inclus dans cette catégorie [le matériau non cousu pour] un "
+"chapeau ou une ceinture, etc., que le moine considère comme faisant partie "
+"de ses vêtement."
+
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+# 
+# 。︀	〝ལྷག་པ〞 6720
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Supérieur,  Meilleur,  Excellent,  Reste, qqch qui
+# reste,  Exception, (comme dans sans exception)  Rahoula comme planète
+msgctxt "6f12a5e8e1144de99bd1eee94254be18"
+msgid "གསུམ་པ་ ལྷག་པ␣འི་ ཡོ་བྱད་ ནི །"
+msgstr "3. Les vêtements suplémentaires"
+
+# 。︀	〝སྣམ་སྦྱར〞 3291
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
+# 
+# 。︀	〝དབྱིབས〞 4017
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ figure spatiale ⁃ Configuration, figure
+# 
+# 。︀	〝འཚོ་བ〞 4829
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Protéger, Garder, Vivre, Santé, Moyens de subsistance,
+# de vivre
+# 
+# 。︀	〝འཚོ་བའི་ཡོ་བྱད〞 4830
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les choses qui permettent de vivre, Les articles
+# nécessaires pour subsister
+# 
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "b4081c0ed68a413cbac176c0cf691feb"
+msgid ""
+"སྣམ་སྦྱར་ གཉིས་པ་ ལྟ་བུ་ འཚོ་བ␣འི་ ཡོ་བྱད་ གང་རུང་ གི་ དབྱིབས་ སུ་ "
+"དྲུབས་པ␣འི་ ལྷག་པོ་ དང༌ །"
+msgstr ""
+"Ce sont les vêtements supplémentaires conféctionnés  comme un second châle "
+"monastique  pour les vêtements de première nécessité ou"
+
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+# 
+# 。︀	〝ཡོ་བྱད་ཀྱི་གོས〞 5505
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sac à vêtements monacal
+msgctxt "16efa12666404909ad31b06f57d8a9f1"
+msgid "སྐ་རགས་ གཉིས་པ་ ལྟ་བུ་ མཁོ་བ␣འི་ ཡོ་བྱད་ ཀྱི་ གོས་ ལྷག་པོ་ དག་ གོ  །"
+msgstr "une seconde ceinture pour ceux nécessaires. "
+
+# 。︀	〝འཚོ་བ〞 4829
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Protéger, Garder, Vivre, Santé, Moyens de subsistance,
+# de vivre
+# 
+# 。︀	〝འཚོ་བའི་ཡོ་བྱད〞 4830
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les choses qui permettent de vivre, Les articles
+# nécessaires pour subsister
+# 
+# 。︀	〝གཞན〞 4962
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "c1a690f825a44c36ae1d36477ba4e53b"
+msgid "གཞན་ ཡང་ འཚོ་བ␣འི་ ཡོ་བྱད་ ཕྲན་ཚེགས་ ཞྭ་ ལྷམ་ སྐ་རགས་ སོགས་ དང༌ །"
+msgstr ""
+"De plus, les vêtements de première nécessité moindre sont les chapeaux, les "
+"chaussure, les ceintures etc. "
+
+msgctxt "dae9f9a7536e449a9a29968aab5f7193"
+msgid "མཁོ་ ལྷག་ ཕྲན་ཚེགས་ ནི་"
+msgstr "Les vêtements important et supplémentaire moindres sont"
+
+# 。︀	〝རྒྱུ〞 796
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Cause, Substance, Biens, ⁃ cause
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ matériau (bar cha p.670) ⁃ cause
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hetu, anvayaḥ Sens racine: Cause,Substance,Biens,,
+# cause (SL BP) Alternatives: cause, base (causale), principe, nécessité,
+# graine
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cause, raison ⁃ Cause
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: hetu, cause, cause primaire
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "7057ea405c604ffc910cf978cc85f309"
+msgid "དེ་དག་ གི་ རྒྱུ␣ར་ བསྔོས་ ཤིང་ ཁྲུ␣ར་ མ་ ལོངས་པ་ སྟེ་"
+msgstr ""
+"les tissus dont la taille ne dépasse pas une coudée et dédiés à la "
+"confection de ces précédents vêtements. "
+
+# 。︀	〝ཆོ་ག〞 1357
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Rite, le rituel
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "d657d55049ca47a7b9fb4a4c77040cc1"
+msgid "ཐམས་ཅད་ ཀྱང་ རང་རང་ གི་ ཆོ་ག␣ས་ བྱིན་ གྱིས་ བརླབ་ དགོས་ སོ ། །"
+msgstr "Tous doivent être consacrés selon le rituels appropriè."
+
+# 。︀	〝ཡོ་བྱད〞 5504
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Choses utiles,  Articles de la vie, Ustensiles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ possessions matérielles
+msgctxt "0e73c9febad34a66833bde53160b0aa7"
+msgid "ཡོ་བྱད་ དེ་དག་ སྤྱིར་ རབ་བྱུང་ ཚུལ་ལྡན་ དང༌ །"
+msgstr ""
+"Ces vêtements sont ceux communément portés par tous les renoncants, "
+"cependant"
+
+# 。︀	〝ཁྱད་པར〞 336
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particularités, distinctions
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viśeṣa, viśeśa Sens racine: Particularités,
+# distinctions Alternatives: distinctions, différences, signes, qualités
+# distinctifs, qualités spéciales, particulièresparticulièrement, en
+# particulier
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Caractère distinctif, différence, spécificité
+# 
+# 。︀	〝སྣམ་སྦྱར〞 3291
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "1090cb0e3dcb4c88929461ceffc1e88a"
+msgid "ཁྱད་པར་ སྣམ་སྦྱར་ དགེ་སློང་ ཁོ་ན␣ས་ བཅང༌ །"
+msgstr ""
+"Le châle monastique ellaboré est uniquement porté par les moines pleinements"
+" ordonnés"
+
+# 。︀	〝རྒྱུ་བ〞 805
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mouvant
+# 
+# 。︀	〝རྟེན〞 1950
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Support, ⁃ support (p97)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "support, contenant; veut dire aussi: corps"
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ asraya Sens racine: Support, Alternatives: support,
+# base, fondement, fondation, forme, instrumental, représentations (des corps,
+# parole et esprit du Bouddha)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: support
+# 
+# 。︀	〝ཕྱག〞 3474
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mains, Bras,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhūja, bāhu Sens racine: Mains,Bras, Alternatives:
+# h bras, mains
+# 
+# 。︀	〝ཕྱག་འཚལ〞 3492
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ prosternation, se prosterner, rendre hommage ⁃ se
+# prosterner, rendre hommage ⁃ Hommage, prosternation
+# 
+# 。︀	〝བསོད་སྙོམས〞 6661
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mendier, Aumônes,
+msgctxt "2061a22ae6824ccfb334334da28ceb7e"
+msgid "དེ␣འང་ རྟེན་ ལ་ ཕྱག་ འཚལ་ ཞིང་ བསོད་སྙོམས་ རྒྱུ་བ །"
+msgstr ""
+"lorsqu'ils se prostèrnent devant un support du Dharma, qu'ils vont faire "
+"l'aumône,"
+
+# 。︀	〝ཆོས〞 1364
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
+# Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
+# connaissable, ⁃ 1. Dharma, réalité, 2. les dharmas, phénomènes, 3. Dharma,
+# l'enseignement du Bouddha, (affaires) spirituelles, 4.facteurs
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ doctrine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dharma Sens racine:
+# DharmaEnseignement,L’enseignement de réalité Ce qui est expérimenté,
+# expérience,Chose, connu. réalité, réel, connaissable,, phenomenon (SL
+# BP)teaching (SL MW) Alternatives: construire, réparerconnaissable, connu,
+# chose, éléments, phénomène, objet de connaissance, existants phénoménaux
+# objet du mental, événements mentaux, sujetsbienfaitsqualités, aspect,
+# facteur, attributs, éléments del'instant, la circonstance, l'occasionles
+# enseignements (du Bouddha), vérité, doctrine, pratique religieusela
+# certitude, le réel, réaliténature essentiellequi se tient, qui est en
+# cohésion
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doctrine, phénomènes, réalité ⁃ "Dharma du Bouddha;
+# Phénomène  "
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
+# 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
+# 
+# 。︀	〝རྟག〞 1928
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ permanence, éternel, constance
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝ཞིང་〞 4942
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pays, Vallée, Royaume, Domaine, Champs, Terre pure,
+# Contrée ⁃ Domaine de Bouddha, Terre pure, ⁃ domaine pur (p83), champs
+# (d'éveil)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ zhing khams Sens racine: domaine pur, champs (d’éveil),
+# pur domaine
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "643edad083cf4f00878c986ee38a9c8d"
+msgid ""
+"ཆོས་ འཆད་ཉན་ དང་ལ␣ས་ ཆོག་ ལ་ འདུས་པ␣འི་ ཚེ་ མ་གཏོགས་ རྟག་ ཏུ་ མི་ གྱོན་ ཞིང་"
+msgstr ""
+"qu'ils enseignent ou recoivent le Dharma ou se rassemblent pour une "
+"cérémonie (en lien avec le pratimoksha) mais ne doivent pas le porter en "
+"premanence."
+
+# 。︀	〝མཐང་གོས〞 2259
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ vêtement de dessous monacal
+# 
+# 。︀	〝བླ་གོས〞 3864
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ robe monastique
+# 
+# 。︀	〝མོ〞 4380
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divination
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divination Alternatives: ,
+# observation, consulter les présages, observer la conjoncture, prendre les
+# augures
+msgctxt "d71ce298d51f4ef0b32ecc8fddec9fde"
+msgid "བླ་གོས་ མཐང་གོས་ གཉིས་ ནི་ ཉིན་ མོ་ ཕལ་ཆེར་ དུ་ བགོ  །"
+msgstr ""
+"Le châle simple et la robe inférieure se portent principalement la journée."
+
+# 。︀	〝རྒྱགས་པ〞 757
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ suffisance, infatuation, griserie ⁃ Suffisance
+# 
+# 。︀	〝རྟེན〞 1950
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Support, ⁃ support (p97)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "support, contenant; veut dire aussi: corps"
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ asraya Sens racine: Support, Alternatives: support,
+# base, fondement, fondation, forme, instrumental, représentations (des corps,
+# parole et esprit du Bouddha)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: support
+# 
+# 。︀	〝དྲན་པ〞 2535
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ attention, mémoire ⁃ attention, mémoire ⁃ mémoire,
+# attention
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Garder présent à l'esprit,
+# Se souvenir, Ne pas oublier, Se remémorer, Rappel, Mémoire, Souvenir,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) mémoire
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ smṛti, manana, smara, smṛīti Sens racine: Avoir
+# présent à l’esprit,Garder présent à l’esprit,Se souvenir,Ne pas oublier,Se
+# remémorer,Rappel,Mémoire,Souvenir, Alternatives: se souvenir, se remémorer,
+# mémoire, souvenir, mémoration, souvenance, retenirle rappel (en
+# méditation)avoir présent à l'esprit, présence d'esprit, présence consciente,
+# attention, calme attentif, vigilance, être alerte, penser àpensées,
+# imagination
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ attention, rappel, mémoire, réminiscence ⁃ Mémoire ⁃
+# Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
+# attentif
+# 
+# 。︀	〝ཞིང་〞 4942
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Pays, Vallée, Royaume, Domaine, Champs, Terre pure,
+# Contrée ⁃ Domaine de Bouddha, Terre pure, ⁃ domaine pur (p83), champs
+# (d'éveil)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ zhing khams Sens racine: domaine pur, champs (d’éveil),
+# pur domaine
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+msgctxt "a864df780fed453785f87439a96a055c"
+msgid ""
+"དེ␣འང་ རྒྱགས་པ་ ལ་སོགས་པ␣འི་ ཕྱིར་དུ་ མ་ཡིན་པ␣ར་ དགེ་སྦྱོང་ གི་ དྲན་པ་ "
+"གསོ་བ␣འི་ རྟེན་ དུ་ བཅང་ ཞིང་"
+msgstr ""
+"Ces vêtements ne doivent pas  être source d'arrogance ou d'autre émotions "
+"perturbatrice mais doivent être portés pour servir de rappel (à la "
+"disipline) au moine."
+
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "42eb83fd874743f2b6c4314112c4d00e"
+msgid "རྙིང་ ནས་ བཅོ␣ས་ སུ་ མི་ རུང་ ན་"
+msgstr "Quand ils deviennent trop vieux et non réparable,"
+
+# 。︀	〝མཆོད་རྟེན〞 1474
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Stupa Support de vénération
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Un stoupa : monument en forme de dôme couronné d'un
+# soleil et d'une lune placés sur des anneaux concentriques.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ stūpa Sens racine: StupaSupport de vénération
+# Alternatives: “support d'offrandes”, monument d'éveil, tour d'éveil
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ stupa, sanctuaire
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+# 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "32f8df92d43541e6a78de70311b66316"
+msgid ""
+"ས་ དང་ བསྲེས་ ནས་ མཆོད་རྟེན་ ལ་སོགས་པ␣འི་ སེར་ཁ་ ལ་ བསླན་པ␣ར་ བཤད་ དོ ། །"
+msgstr ""
+"ils doivent être (découpés en petit morceaux), mélangé à de la terre et "
+"servir pour reboucher les fissures d'un stupa ou dans un autre but "
+"similaire."
