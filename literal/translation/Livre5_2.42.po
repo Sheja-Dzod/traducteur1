@@ -838,4 +838,4 @@ msgstr ""
 # principale, défaite, ruine morale
 msgctxt "c2b8a13918214764b88ca0ac74168144"
 msgid "ལྟུང་བ་ རྣམས་ ཕྱིར་བཅོས་ སོ ། །"
-msgstr "il restaurera ainsi toute ces chutes."
+msgstr "il restaurera ainsi toute ses chutes."
