@@ -1,0 +1,824 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "159fc7b372b84aa2acefe2f895451307"
+msgid "གསུམ་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝འདོད་པ〞 2805
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ désir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tenir, soutenir, Désir, soif,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kāma, rāga Sens racine: Tenir, soutenir,Désir,
+# soif, Alternatives: désir, passionvolonté, vouloir, désirer,
+# ambitieuxaffirmation, prétendre, (soutenir une) thèse, accepter, admettre,
+# croire, considérer… comme, que
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ désir ⁃ "Désir, le vouloir; Affirmation, thèse, soutenir
+# une thèse, accepter, admettre  "
+# 
+# 。︀	〝གནས་འགྱུར〞 3018
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ transformation ⁃ transformation de la base/
+# transformation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ révolution du support ⁃ Renversement du support
+# 
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "55e9c7cbd958470fa09cf598ee7ad24e"
+msgid ""
+"གཟུགས་ཅན་ འདོད་ རྣམས་ ཚིགས་ གསུམ་ ཐ་དད་ ལྡན ། ། ཤེས་པ␣ར་ འདོད་པ␣ས་ "
+"གནས་འགྱུ␣ར་ ལྡན་པ␣ར་ བཞེད ། །"
+msgstr ""
+
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝བཤད་པ〞 6278
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "8e3b0597556a4ce7a75929b0ef29f2e8"
+msgid ""
+"དེ་ལྟར་ བཤད་པ␣འི་ ཚིགས་ གསུམ་པོ་ བླངས་ ནས་ གནས་པ␣འི་ ཚེ་ དེ་ གསུམ་པོ་ ངོ་བོ་"
+" ཐ་དད་ དུ་ ལྡན་ ནམ །"
+msgstr ""
+
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝ངོ་བོ་གཅིག〞 1049
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ unique essence, unicité en-soi, singularité d'en-soi,
+# une même essence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: unique essence unicité en-soi, singularité
+# d’en-soi, une même essence
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "7bac315bef9c4f1989822fae130f0373"
+msgid ""
+"ངོ་བོ་ གཅིག་ ཏུ་ ལྡན་ ནམ །  སྔ་མ་ ཕྱི་མ␣ར་ གནས་ གྱུར་པ␣འི་ ཚུལ་ དུ་ ལྡན་ "
+"ཞེ་ན །"
+msgstr ""
+
+# 
+# 。︀	〝འདོད་པ〞 2805
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ désir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tenir, soutenir, Désir, soif,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kāma, rāga Sens racine: Tenir, soutenir,Désir,
+# soif, Alternatives: désir, passionvolonté, vouloir, désirer,
+# ambitieuxaffirmation, prétendre, (soutenir une) thèse, accepter, admettre,
+# croire, considérer… comme, que
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ désir ⁃ "Désir, le vouloir; Affirmation, thèse, soutenir
+# une thèse, accepter, admettre  "
+# 
+# 。︀	〝ལུགས〞 6070
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Coutume, Mode, Façon de faire, Tradition,
+# Récipient en lequel on verse,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ système, tradition
+msgctxt "425c7f94e0254fd29173cf24363d2f71"
+msgid "འདི་ ལ་ གཟུགས་ཅན་ དུ་ འདོད་པ␣འི་ ལུགས་ བྱེ་ སྨྲ་ ལྟར་ ན་"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝གཏོང་བ〞 1910
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Donner, Envoyer, jeter
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = sbyin pa Sens racine: Donner,Envoyer, jeter
+# Alternatives: lâcher prise, donner, générosité, charité, libéralité,
+# cadeaux, don
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝རིམ་གྱིས〞 5914
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ graduel, progressif
+msgctxt "140cf09eac2142f8ba33fe826020fb3d"
+msgid ""
+"ཚིགས་ གསུམ་ རིམ་གྱིས་ ནོད་པ␣འི་ དགེ་སློང་ གི་ རྒྱུད་ ལ་ གསུམ་པོ་ དེ་ འཐོབ་ "
+"བྱེད་ ཀྱིས་ ཐོབ་ ཅིང་ གཏོང་ བྱེད་ ཀྱིས་ མ་ གཏོང་བ␣ས་"
+msgstr ""
+
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝ཡིན་པ〞 5391
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+msgctxt "58914c2adccd4a48a602f7235740b4a1"
+msgid "གཟུགས་ཅན་ གྱི་ ངོ་བོ་ ཐ་དད་ ཡིན་པ␣འི་ ཕྱིར་ ཞེས་ འདོད །"
+msgstr ""
+
+# 
+# 。︀	〝འདོད་པ〞 2805
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ désir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tenir, soutenir, Désir, soif,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kāma, rāga Sens racine: Tenir, soutenir,Désir,
+# soif, Alternatives: désir, passionvolonté, vouloir, désirer,
+# ambitieuxaffirmation, prétendre, (soutenir une) thèse, accepter, admettre,
+# croire, considérer… comme, que
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ désir ⁃ "Désir, le vouloir; Affirmation, thèse, soutenir
+# une thèse, accepter, admettre  "
+# 
+# 。︀	〝དབུ་མ་པ〞 3979
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Tenant de la Voie médiane ⁃ Tenant de la Voie médiane
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Un madhyamika, Une personne qui professe la
+# perspective de la voie du milieu ⁃ Mâdhyamika, adepte de la voie médiane
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Tenant(s)-du-milieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mādhyamika Sens racine: Un madhyamika,Une personne
+# qui professe la perspective de la voie du milieu, Centrist (SL MW)
+# Alternatives: tenant du milieu, de la voie médiane
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Ecole Mâdhyamaka
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: mâdhyamika, adepte de la Voie médiane
+# 
+# 。︀	〝ལུགས〞 6070
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Coutume, Mode, Façon de faire, Tradition,
+# Récipient en lequel on verse,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ système, tradition
+# 
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+msgctxt "307b4a89aac44bd18cb9081940b545e2"
+msgid "ཤེས་པ␣ར་ འདོད་པ␣འི་ ལུགས་ དབུ་མ་པ་ ལྟར་ ན །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝ཅིག་ཅར〞 1221
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ instantané, immédiat
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ cig char Sens racine: instantané, immédiat
+# 
+# 。︀	〝རིམ་གྱིས〞 5914
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ graduel, progressif
+msgctxt "475753f1164c4e519931747ddb043d3b"
+msgid ""
+"ཚིགས་ གསུམ་ རིམ་གྱིས་ ནོད་པ␣འི་ དགེ་སློང་ གི་ རྒྱུད་ ལ་ ངོ་བོ་ ཐ་དད་ ཅིག་ཅར་"
+" དུ་ ལྡན་པ་ མིན་ ཏེ །"
+msgstr ""
+
+# 
+# 。︀	〝འཁོར〞 419
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "assemblée, entourage; prolongement (appendice) (bar chad
+# 672)" ⁃ secondaire (bar cha p.685)
+# 
+# 。︀	〝ཅིག་ཅར〞 1221
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ instantané, immédiat
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ cig char Sens racine: instantané, immédiat
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝ཐལ་བ〞 2136
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Anéanti, Etre passé, Réduit à rien, à l'absurde,
+# Contradictoire, Cendres, rien,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhasma Sens racine: Anéanti,Etre passé, Réduit à
+# rien, à l’absurde,Contradictoire,Cendres, rien, Alternatives: Rien, cendre,
+# défaut, pollution, restetranscendé, parti, allé spontanément, allé
+# directement, pénétrantconséquence
+# 
+# 。︀	〝གཙོ་སེམས〞 4518
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'esprit central L'esprit principal
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ esprit principal
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: L’esprit centralL’esprit principal
+# Alternatives: esprit principalla conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit principal
+# 
+# 。︀	〝རྫས〞 4861
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Substance, Matière,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ substance; instrument (pour l'initiation) (bar chad 727)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ objet existant, phénomène doué d'efficience ⁃ matériaux du
+# rituel ⁃ Entité substancielle, substance
+# 
+# 。︀	〝གཞན་པ〞 4978
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
+# Extérieur, Externe, Extrinsèque,
+# 
+# 。︀	〝ཡིན〞 5390
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+msgctxt "6da8d4c2e0614e368b66329dd597d891"
+msgid ""
+"དེ་ ཡིན་ ན་ གཙོ་སེམས་ གཅིག་ གི་ འཁོར་ དུ་ སྤོང་ སེམས་ རྫས་ གཞན་པ་ གསུམ་ "
+"ཅིག་ཅར་ ལྡན་པ␣ར་ ཐལ་བ␣འི་ ཕྱིར །"
+msgstr ""
+
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝ངོ་བོ་གཅིག〞 1049
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ unique essence, unicité en-soi, singularité d'en-soi,
+# une même essence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: unique essence unicité en-soi, singularité
+# d’en-soi, une même essence
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "22243d988481479da61c353081e7c5ac"
+msgid "ངོ་བོ་ གཅིག་ ཏུ་ ལྡན་པ␣འང་ མིན་ ཏེ་"
+msgstr ""
+
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མི་སྲིད་པ〞 4308
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Impossible, Qui ne peut être,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ impossibilité
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Impossible,Qui ne peut être,
+# Alternatives: impossible, qui ne peut pas, ne saurait advenir, sans avoir la
+# possibilité de, ne pourraient, sauraient raisonnablement
+# 
+# 。︀	〝ཤེས་རྒྱུད〞 6210
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ La continuité (le cours, le continuum) de la
+# cognition, de l'esprit, de la conscience. La disposition naturelle de
+# l'esprit ⁃ vijñânasantâna, continuité existentielle de conscience, continuum
+# cognitif
+# 
+# 。︀	〝སྲིད་པ〞 6474
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Convenable, Possible, Samsara, Le cycle, L'existence,
+# La vie, Le devenir (des existences à venir), ⁃ existence, devenir, samsâra,
+# existence conditionnée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ existence, devenir (10ème des douze facteurs de la
+# relation interdépendante)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ devenir, existence ⁃ Devenir, le possible ⁃ Existence ⁃
+# Samsâra
+msgctxt "dd70a96b90304189bbd87b1dd8fddc36"
+msgid "ཤེས་རྒྱུད་ གཅིག་ ལ་ དེ་ གསུམ་ གྱི་ གཞི་མཐུན་ མི་ སྲིད་པ␣འི་ ཕྱིར །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝བུ〞 3719
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enfant, Fils, Prince
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
+# 。︀	〝རྫས〞 4861
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Substance, Matière,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ substance; instrument (pour l'initiation) (bar chad 727)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ objet existant, phénomène doué d'efficience ⁃ matériaux du
+# rituel ⁃ Entité substancielle, substance
+msgctxt "cfe56e51b536485b8eec8de16800a4be"
+msgid ""
+"དེས་ན་ དེ་ལྟ་ བུ␣འི་ རྒྱུད་ ལ་ སྔ་མ་ སྔ་མ་ ཕྱི་མ་ ཕྱི་མ␣ར་ རྫས་ སོགས་ "
+"གོང་འཕེལ་ དུ་ གནས་ གྱུར་པ␣འི་ ཚུལ་ གྱིས་ ལྡན་ ཏེ །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་བསྙེན〞 627
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Upasaka / Upasika. Apprenti de la vertu  Pratiquant
+# dans la vie
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ordination laïque, laïc/que
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = dge bsnyen ma upāsaka, upāsikā Sens racine:
+# Upasaka / Upasika.Apprenti(e) de la vertu Pratiquant(e) dans la vie
+# Alternatives: “pratiquant(e) du bien”fidèle laïc(que)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fidèle laïc
+# 
+# 。︀	〝དགེ་ཚུལ〞 653
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
+# «Celui  qui a des manières vertueuse»
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ordination mineure ⁃ ordination mineure
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = dge tshul ma śrāmaṇera, śrāmaṇerikā Sens racine:
+# Sramanera / SramaneriPremier niveau de l’ordination monastique :« Celui
+# (celle) qui a des manières vertueuse » Alternatives: Premier niveau de
+# l’ordination monastique, moine ou moniale ayant reçu l'ordination monastique
+# mineure, novice, “qui s'entraîne aux conduites vertueuses”
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moine novice
+msgctxt "d80680a26bad43b297e16073fc9a7e30"
+msgid "དགེ་བསྙེན་ གྱིས་ དགེ་ཚུལ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝འགྱུར་བ〞 715
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
+# traduire,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
+# transformer,Transformation, traduire, Alternatives: transformation,
+# transmutation, changer, révolution, évolution
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "70d142f992704b1b97fc8cce49e45e3d"
+msgid ""
+"དེ␣ས་ དགེ་སློང་ གི་ སྡོམ་པ་ བླངས་ ཚེ་ སྡོམ་པ་ སྔ་མ་ ཕྱི་མ␣འི་ ངོ་བོ␣ར་ "
+"འགྱུར་བ␣འི་ ཕྱིར །"
+msgstr ""
+
+# 
+# 。︀	〝མཐོང་ལམ〞 2318
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie de la vision ⁃ darshanamârga, la voie de la
+# vision
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier de la terre 6 ⁃ Le sentier de vision; l'un des
+# cinq sentiers de réalisation : accumulation, préparation, visions,
+# méditation et non-étude, c'est-à-dire libération. Il est atteint avec la
+# compréhension initiale non conceptuelle de la nature ultime, la vacuité des
+# phénomènes. Les facteurs communs du sentier de vision (thun mong gi mthong
+# spang bya) sont les passions intellectuellement formées et les obstacles
+# grossiers à l'omniscience. ⁃ sentier de la vision
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ darśanamarga Sens racine: Voie de la vision, path
+# of seeing (SL BP) Alternatives: chemin, voie de la vision
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de la vision ⁃ Voie de la vision  	3ème Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: darshanamârga, la voie de la vision
+# 
+# 。︀	〝སྦྱོར་ལམ〞 4137
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ voie de jonction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie de l'union, de la jonction, de l'approche. ⁃ la
+# voie de la jonction, voie de l'union, voie de l'approche
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier de préparation ⁃ sentier de la préparation
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prayoga mārga Sens racine: Voie de l’union,de la
+# jonction, de l’approche., path of junction (SL BP)path of preparation (SL
+# MW) Alternatives: chemin, voie de l'union, de la jonction, de l'approche
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de l'application, de la préparation ou de l'engagement
+# ⁃ Voie de la préparation   2ème Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: prayoga mârga, la voie de la jonction voie de
+# l’union, voie de l’approche, voie de l’application, voie de la préparation
+# 
+# 。︀	〝ཚོགས་ལམ〞 4735
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ voie d'accumulation
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie du développement (des deux domaines) , ⁃ la voie
+# du développement (des deux domaines)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier d'accumulation ⁃ sentier de l'accumulation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de l'accumulation ⁃ Voie de l'accumulation  	1ère Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sambhâra mârga, la voie du développement (des
+# deux domaines) la voie de l’accumulation
+msgctxt "5ba68d1c307b47298060e9a72c0385ea"
+msgid ""
+"དཔེར་ན་ ཚོགས་ལམ་ ནས་ སྦྱོར་ལམ །  དེ་ནས་ མཐོང་ལམ་ དུ་ གནས་འགྱུ␣ར་བ་ བཞིན་ ནོ "
+"། །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་ཚུལ〞 653
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
+# «Celui  qui a des manières vertueuse»
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ordination mineure ⁃ ordination mineure
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = dge tshul ma śrāmaṇera, śrāmaṇerikā Sens racine:
+# Sramanera / SramaneriPremier niveau de l’ordination monastique :« Celui
+# (celle) qui a des manières vertueuse » Alternatives: Premier niveau de
+# l’ordination monastique, moine ou moniale ayant reçu l'ordination monastique
+# mineure, novice, “qui s'entraîne aux conduites vertueuses”
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moine novice
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝ཉམས་པ〞 1679
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
+# expérience)
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
+# 
+# 。︀	〝ཡིན〞 5390
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+msgctxt "51115049fb924a80badf98db6053c8e1"
+msgid ""
+"དེས་ན་ དགེ་སློང་ གི་ རྒྱུད་ ལ་ དགེ་ཚུལ་ གྱི་ སྡོམ་པ་ ཐོབ་ ལ་མ་ ཉམས་པ་ ཡིན་ "
+"གྱི །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་ཚུལ〞 653
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sramanera Premier niveau de l'ordination monastique:
+# «Celui  qui a des manières vertueuse»
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ ordination mineure ⁃ ordination mineure
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = dge tshul ma śrāmaṇera, śrāmaṇerikā Sens racine:
+# Sramanera / SramaneriPremier niveau de l’ordination monastique :« Celui
+# (celle) qui a des manières vertueuse » Alternatives: Premier niveau de
+# l’ordination monastique, moine ou moniale ayant reçu l'ordination monastique
+# mineure, novice, “qui s'entraîne aux conduites vertueuses”
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moine novice
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
+# 
+# 。︀	〝མི་རིགས〞 4303
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ intenable
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ naissance humaine
+# 
+# 。︀	〝ཡོད་པ〞 5530
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ existence, existant, exister, être
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre, Exister, Existence, Référence d'une connaissance
+# valide, Rester, Demeurer, Subsister, Quelque chose qui: Existe, Reste,
+# Demeure, Subsiste, Avoir (des attributs) Posséder, ⁃ (quelque chose qui)
+# existe, exister (p67), être là
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ existant, exister ⁃ Existence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: (quelque chose qui) existe, exister être là
+msgctxt "cd55de966a534bd08f58c2d899ac1b19"
+msgid "དགེ་ཚུལ་ གྱི་ སྡོམ་པ་ ཡོད་པ␣ར་ ཁས་ལེན་པ་ མི་རིགས་ ཏེ །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུད〞 817
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
+# mental; tantra"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tantra Continuité, Lignée ⁃ 1. tantra, 2. son
+# continuum, continuité existentielle, continuum mental, 3. continuité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)tantra (textes); 2)continuité; 3)esprit, continuum de
+# l'esprit, continuum mental; 4)série.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ santāna, saṃtāna, tantra (= cetanā - trāya : mind-
+# protection) Sens racine: Continuité,LignéeTantra, continuum (SL MW)
+# Alternatives: continuité, continuum, succession continue, flot,
+# flux,tradition, transmission, filiation, lignée, racetantra, texte
+# fondamental, traitécordes (d'un instrument), chaîne, trame,
+# toileattachercontinuum, courant mental, de conscience, courant de l'être,
+# continuum corps-esprit, flux de conscience, train de pensées
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuum, trame ⁃ Série individuelle ⁃ Tantra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. tantra 2. son continuum, continuité
+# existentielle, continuum mental 3. continuité
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+# 
+# 。︀	〝རྫས〞 4861
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Substance, Matière,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ substance; instrument (pour l'initiation) (bar chad 727)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ objet existant, phénomène doué d'efficience ⁃ matériaux du
+# rituel ⁃ Entité substancielle, substance
+# 
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+msgctxt "3ab9b47f8b1e4d87a3453830dac37304"
+msgid ""
+"དགེ་སློང་ གི་ རྒྱུད་ ལ་ སྡོམ་པ་ གསུམ་པོ་ དེ་ གཟུགས་ཅན་ ངོ་བོ་ ཐ་དད་ དང་ "
+"ཤེས་པ␣འི་ ངོ་བོ␣ར་ གྱུར་པ␣འི་ རྫས་ ཐ་དད་ གང་ དུའང་ མེད་པ␣འི་ ཕྱིར་ ཏེ །"
+msgstr ""
+
+# 
+# 。︀	〝ངོ་བོ〞 1045
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "essence, la chose même"""""
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'essence, l'en soi, ⁃ svabhâva, état fondamental
+# (p50), existence caractérisée par (p67), être (quelque chose) en soi (p72),
+# essence (p73, 99), en-soi (p73), en soi-même (p76), l'essence (p86)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ nature ⁃ essence ⁃ essence
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāva Sens racine: L’essence, l’en soi,, nature (SL
+# MW) Alternatives: Nature, état fondamental, mode d'être, nature essentielle,
+# essence, essentialité.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Essence, réalité, le vrai visage, bhava
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: svabhâva, état fondamental, existence
+# caractérisée par, être (quelque chose) en soi, l’essence, en-soi, en soi-
+# même
+# 
+# 。︀	〝ངོ་བོ་གཅིག་པ〞 1050
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L' unique essence Une même essence
+# 
+# 。︀	〝ཅིག་ཅར〞 1221
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ instantané, immédiat
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ cig char Sens racine: instantané, immédiat
+# 
+# 。︀	〝མེད་པ〞 4372
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ inexistant, dénué d'existence, non-être, néant
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non existence, Ne pas être, Ne pas avoir, ⁃
+# ineffabilité (au sens de brjod du med par)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ abhāvanaṃ, varjitāḥ Sens racine: Non existence,Ne
+# pas être,Ne pas avoir, Alternatives: n'est pas, sans, aucun, dépourvu de,
+# n'existe pas, non-, in-, vierge de, libre de, dénué de, manquant de, il n'y
+# a pas, n'impliquant pas de, n'entraîne pas de, n'est pas une affaire de,
+# privé de, en absence de, il n'y a rien de tel quenon être, non existence,
+# non existant, néant, rien, nihilisme, (ce qui est) ineffable, irréel,
+# dépourvu de réalité, n'est pas la question, non réalité, absence
+# d'existence, qui n'a rien à voir avec
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ inexistant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: ineffabilité (au sens de brjod du med par)
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "d2de16a677a24a7680e29459c4b4ece4"
+msgid ""
+"དེ་ གཉིས་ ངོ་བོ་ གཅིག་པ␣འི་ ཚུལ་ གྱིས་ ཅིག་ཅར་ དུ་ ལྡན་པ་ མེད་པ␣འི་ ཕྱིར །"
+msgstr ""
+
+msgctxt "0b8d8e606f1a411bb233015aa54bcbd2"
+msgid "ཞེས་ འདོད་ དོ ། །"
+msgstr ""
