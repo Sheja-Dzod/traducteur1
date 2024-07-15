@@ -1,0 +1,1764 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# 
+# 。︀	〝ཉོན་མོངས་པ〞 1738
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
+# négative
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ passionnel, passions, émotions conflictuelles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: klesha, passions, émotions conflictuelles
+# passionnel, émotions négatives
+# 
+# 。︀	〝སྤོང་བ〞 3367
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = spang ba prahāṇāni, prahāṇa, prahīṇa, varjita
+# Sens racine: Abandonner,Renoncer,, spangs pa = abandonment, relinquishment
+# (SL BP) Alternatives: renoncer, abandonner, arrêter de, lâcher prise,
+# laisser tomber, se débarrasser de, abandon, élimination, rejeter
+# 
+# 。︀	〝བག་ལ་ཉལ〞 3687
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Latent, Latence, Caché, Non evident,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ latence
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ latences, influences ⁃ Qui est latent. subconscient
+msgctxt "08172d2185b04d85909f7a5652f757a2"
+msgid "ལྔ་པ་ ཉོན་མོངས་པ␣འི་ བག་ ལ་ ཉལ་ སྤོང་བ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝སྒོམ་པ〞 869
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ bhâvanâ, la familiarisation (p87), se vit (p103), la
+# pratique, entraînement, méditation, cultiver
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méditation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ méditation, "culture de l'esprit" ⁃ Méditation
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgom pa Sens racine: bhâvanâ, la familiarisation, se vit,
+# la pratique entraînement, méditation, cultiver
+# 
+# 。︀	〝རྣལ་འབྱོར〞 3202
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Yoga, Union (à l'état naturel) Unification ⁃ yoga,
+# union à l'état naturel, unification, immersion en l'état d'être authentique
+# (ou naturel), union
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)yoga, union. Dans atiyoga: relation à
+# l'authentique/s'unir au vrai; 2) yoga initial (1er yoga de la phase de
+# génération)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ yoga Sens racine: Yoga,Union (à l’état
+# naturel)Unification, yoga (SL BP) Alternatives: atteindre, application de,
+# entreprendre, se caler sur, s'unir à l'état naturel (de l'esprit), immersion
+# dans l'être authentique, détenir la condition authentique, entraînement au
+# continuum naturel, accomplissement du naturel, état naturel, pratique du
+# yoga, yoga méditatif, union dans la réalité fondamentaleyoga, (méthode d')
+# union, réunion, unification, entraînement, cohésif
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ yoga ⁃ Yoga, s'unir à l'aise naturelle
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnal du ‘byor ba Sens racine: yoga, union à l’état
+# naturel, unification immersion en l’état d’être authentique (ou naturel),
+# union
+# 
+# 。︀	〝ཞི་གནས〞 4925
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ calme continu ⁃ calme continu ⁃ quiétude, pacification
+# mentale
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'Apaisement Shamatha Rester tranquille, (mentalement,
+# dans l'esprit) Le calme ⁃ Shamatha, shiné, calme mental, calmer l'esprit,
+# l'état de calme paisible, atteindre le calme pacifié (ou paisible)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ calme mental ⁃ Quiétude, le calme mental
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shamatha, shiné, rester tranquille, rester
+# stable, dans un état de stabilité, l’esprit stable, au repos, calme mental
+# calmer l’esprit, l’état de calme paisible, atteindre le calme pacifié (ou
+# paisible)
+# 
+# 。︀	〝ཡིན〞 5390
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+msgctxt "8d06d53c2342454598898d6363011097"
+msgid "ཞི་གནས་ ཀྱི་ གསོ་སྦྱོང་ སྟེ་ རྣལ་འབྱོར་ སྒོམ་པ་ ཡིན་ ལ །"
+msgstr ""
+
+# 
+# 。︀	〝དྲི〞 2556
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ odeur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ odeur
+# 
+# 。︀	〝རྣལ་འབྱོར〞 3202
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Yoga, Union (à l'état naturel) Unification ⁃ yoga,
+# union à l'état naturel, unification, immersion en l'état d'être authentique
+# (ou naturel), union
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ 1)yoga, union. Dans atiyoga: relation à
+# l'authentique/s'unir au vrai; 2) yoga initial (1er yoga de la phase de
+# génération)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ yoga Sens racine: Yoga,Union (à l’état
+# naturel)Unification, yoga (SL BP) Alternatives: atteindre, application de,
+# entreprendre, se caler sur, s'unir à l'état naturel (de l'esprit), immersion
+# dans l'être authentique, détenir la condition authentique, entraînement au
+# continuum naturel, accomplissement du naturel, état naturel, pratique du
+# yoga, yoga méditatif, union dans la réalité fondamentaleyoga, (méthode d')
+# union, réunion, unification, entraînement, cohésif
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ yoga ⁃ Yoga, s'unir à l'aise naturelle
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnal du ‘byor ba Sens racine: yoga, union à l’état
+# naturel, unification immersion en l’état d’être authentique (ou naturel),
+# union
+# 
+# 。︀	〝བར་ཆད〞 3701
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Interruption, Obstacle, Empêchement,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Interruption,Obstacle,Empêchement,
+# Alternatives: obstacle, empêchement, interruption, causes adverses,
+# adversité, obstructions, “qui coupe entre”
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ obstacles, empêchements ⁃ Empêchements, les obstacles
+# 
+# 。︀	〝བླ་མ〞 3870
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lama, Gourou, Maître, Père-Mère de bonté ⁃ Lama,
+# maître, Père-Mère de bonté
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ guru (= guṇa-ru : “lourd de qualités”) Sens racine:
+# Lama,Gourou,Maître,Père-Mère de bonté Alternatives: Lama, maître (spirituel,
+# insurpassable), guide, mentor, conseiller d'orientation sprirituelle
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ maître spirituel
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: guru, Lama, maître, Père-Mère de bonté
+# 
+# 。︀	〝ཤེས་པ〞 6213
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conscience, esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intelligence, Intellect, Connaissance, Expérience,
+# Cognition, Connaisseur, Expérimentateur, Esprit, Comprendre, Expérimenter, ⁃
+# l'expérience (p30), expérimenter, expérimentateur, la cognition (p66), être
+# conscient, savoir, conscience
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
+# 
+# 。︀	〝གསོལ་བ〞 6611
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "(h) Demander, Requérir, Offrir, Prier de, Veuillez.;
+# Honorifique pour parole, "
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ supplication
+msgctxt "b5a46abaa1534760929b35b03c7708b9"
+msgid "བླ་མ་ རྣལ་འབྱོར་ ཤེས་པ་ ལ་ གསོལ་བ་ བཏབ་ ནས་ བར་ཆད་ བཞི་ དྲི །"
+msgstr ""
+
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+msgctxt "0e557cb90f6c4502a8b57f9f24683f87"
+msgid "གནས་ བཞི་ བརྟགས་ ནས །"
+msgstr ""
+
+# 
+# 。︀	〝ཏིང་ངེ་འཛིན〞 1859
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
+# recueillement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samadhis,  Etats d'absorptions de l'esprit,
+# Absorptions spirituelles, ⁃ samâdhi, état d'absorption de l'esprit,
+# absorption spirituelle, absorption méditative, état de contemplation,
+# contemplation
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ L'absorption est parfaite équanimité dans un état de
+# concentration. ⁃ absorption méditative ⁃ absorption,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samādhi Sens racine: Samadhis, Etats d’absorptions
+# de l’esprit, Absorptions spirituelles,, samadhi (SL BP)contemplation (SL MW)
+# Alternatives: concentration, concentration méditative, samādhi, état (de
+# profonde) absorption (méditative), méditation (contemplative), (état de)
+# contemplation, stabilisation méditative, recueillement méditatif
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ recueillement méditatif ⁃ Concentration, recueillement ⁃
+# Recueillement méditatif, le samâdhi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ chen po Sens racine: mahâsamâdhi, grand samâdhi, samâdhi
+# suprême un état de contemplation totale, la grande contemplation,
+# l’absorption méditative suprême
+# 
+# 。︀	〝ཚོགས〞 4720
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cérémonie d'offrande, festin sacré
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = tshogs kyi 'khor lo = tshogs 'khor = tshogs kyi
+# mchod pa gaṇa, sambhāragaṇacakra, gaṇapūja, gaṇacakrapūja Sens racine:
+# Groupe,Ensemble,Sphère,Domaine,Assemblée,Communauté,Multitude,Foule,Horde,Regrouper,Se
+# rassemblerCollecter,Développer,Accumulation,Regroupement,Amoncellement,Collection,Développement,Ganachakrapuja,Acte
+# vertueuxImpératif de 'tshag pa : filtrer, séparer Alternatives: diviser,
+# séparer (l'essence de résidus), imp 'tshag pa agrégats, ensemble, groupe,
+# composants, corps, amalgame, amassé, amasaccumulation, collection, multitude
+# de, foule (innombrable), assemblée, communauté, congrégation,
+# massedéveloppement, provisions, préparations(offrandes de) gaṇacakra, festin
+# (tantrique, sacré, d'offrandes (communal), rituel, sacramentel), banquet
+# d'offrandes tantriques, cercle mystique, de rassemblement, agapes, fête
+# vajra, rituel d'offrandesactes vertueux
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Assemblage
+# 
+# 。︀	〝བསགས་པ〞 6615
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Pratiquer, Développer, Faire, Fabriquer, Instaurer,
+# Installer,  (différent de ""tshogs pa"") "
+msgctxt "cbc45dfe7b584288966d4c73f5a54818"
+msgid "ཏིང་ངེ་འཛིན་ གྱི་ ཚོགས་ སྲུང་ ཞིང་ བསགས་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དབེན་པ〞 3995
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement, solitude
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Isolé, Isolation, Vide de. Etre à l'écart, Lieu
+# désert,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ dénué
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viveka Sens racine: Isolé,Isolation,Vide de…Etre à
+# l’écart,Lieu désert, Alternatives: isolement (emmurée), solitude, vide,
+# endroit isolé et distant (non fréquenté par des gens malsains)mise sur plan
+# nouménal
+msgctxt "86bba542d6964e5dbe78910304f881cb"
+msgid "རབ་ཏུ་ དབེན་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+# 
+# 。︀	〝སེམས་རྩེ་གཅིག་པ〞 6403
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit concentré en un seul point, concentration unifiée
+msgctxt "3573f48299cd4af7917efb0d7c3e50e2"
+msgid "སེམས་ རྩེ་གཅིག་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝སྒྲིབ་པ〞 914
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voile ⁃ voile, obscurcissement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voile, empêchement, occultation, obscurcissement
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ āvaraṇa, varana Sens racine: Voile, Obscuration (SL
+# BP) Alternatives: voile, enveloppe, masque, voilé, obscurcissement,
+# négativité, ombre, blocages (et forces destructrices, et obscurcissements),
+# voiles obscurcissants, souilluresce qui voile, obscurcir, obstruer, bloquer,
+# couvrir, recouvrir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ obscurcissements, voiles ⁃ Obscurcissements ⁃ Voiles,
+# obscurcissements
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ sgrib pa gnyis Sens racine: voile, obscurcissement ; les
+# deux voiles, le double voile
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝སྦྱོང་བ〞 4122
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Purifié, Nettoyé, S'être entraîné, Avoir pratiqué,
+# Avoir purifié, Avoir cultivé,
+msgctxt "84ecfd460ea54c49ac94356849d4c7ae"
+msgid "སྒྲིབ་པ་ རྣམ་པ␣ར་ སྦྱོང་བ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝སྒོམ་པ〞 869
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ bhâvanâ, la familiarisation (p87), se vit (p103), la
+# pratique, entraînement, méditation, cultiver
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méditation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ méditation, "culture de l'esprit" ⁃ Méditation
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgom pa Sens racine: bhâvanâ, la familiarisation, se vit,
+# la pratique entraînement, méditation, cultiver
+# 
+# 。︀	〝གནས〞 3014
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
+# pèlerinage) Base, Demeure, Reste, Demeure, Vit, Existe, est, Existant, ⁃
+# theme, sujet
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ lieu
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāna, puri, vihāra, stha, sthiti Sens racine:
+# Lieu, pays, contrée, localilté,Lieu sacré (de
+# pèlerinage)Base,Demeure,Reste,Demeure,Vit,Existe, est,Existant,
+# Alternatives: position (du Dharma), thème, sujetlieu, endroit, place,
+# résidence, emplacement, situation, position, pays, contrée, sol,
+# localisation, séjour, demeure, station, sanctuaireniveau, rang,être établi,
+# demeurer(état) calme, immobilitéobjet, butmaître, enseignantse trouver en la
+# présence de
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+msgctxt "ef78da392357459c93c85b93054e1f5e"
+msgid "ཡིད་ ལ་ བྱེད་པ་ སྒོམ་པ་ སྟེ་ གནས་ ལྔ་ ལ་ སྦྱར་ ཞིང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝ཆགས་བྲལ〞 1297
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non attachement, Libre d'attachement, Sans attachement
+# 
+# 。︀	〝འཇིག་རྟེན་པ〞 1559
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mondain
+# 
+# 。︀	〝འཇིག་རྟེན་པའི་ལམ〞 1564
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie mondaine
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "5fdd7fe117ab4e24b9e7a32dc52376eb"
+msgid "ཞི་ རགས་ སུ་ འདུ་ཤེས་པ་ འཇིག་རྟེན་པ␣འི་ ལམ་ གྱི་ ཆགས་བྲལ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝སྒོམ་པ〞 869
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ bhâvanâ, la familiarisation (p87), se vit (p103), la
+# pratique, entraînement, méditation, cultiver
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méditation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ méditation, "culture de l'esprit" ⁃ Méditation
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgom pa Sens racine: bhâvanâ, la familiarisation, se vit,
+# la pratique entraînement, méditation, cultiver
+# 
+# 。︀	〝རྟོག་པ〞 1965
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
+# fiction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Penser, concevoir, conceptualiser, Penser en mode
+# discursif, Pensée, Pensée discursive, Examiner ⁃ penser duel, conceptuel,
+# pensée discursive, penser, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conceptualisation, conception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rtog tshogs → rnam rtog tarka, vibhāva Sens
+# racine: Penser, concevoir, conceptualiser,Penser en mode
+# discursif,Pensée,Pensée discursive,Examiner Alternatives: enquêter sur,
+# délibération, réflexion, considérer, examiner, rechercher, songer,
+# méditer(schémas de) pensées conceptuelles,discursives, mentales, mouvements,
+# habitudes mentales, la foule des pensées, conceptualiser, déterminé et
+# divisé conceptuellement, conceptualisation, concepts, considérations,
+# cogiter, discursivitéscrupule, doute, hésitation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ concept, idée, pensée conceptuelle ⁃ raisonnement
+# investigateur, pensée conceptuelle ⁃ Examen initial ⁃ Discursivité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: penser duel, dualiste, conceptuel pensée
+# discursive, penser, pensée
+# 
+# 。︀	〝དུས་གསུམ〞 2420
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ trois temps (passé, présent, futur)
+# 
+# 。︀	〝འདུ་བྱེད〞 2745
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application, attention; facteur de composition"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ formations, formations mentales, représentations
+# mentales, composants (2ème des douze facteurs de la relation
+# interdépendante) ⁃ formations, formations mentales, composants
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ → 'dus byed saṃskāra Sens racine: SamskaraFacteurs
+# formateurs,Formations,Informations,Impulsions,Facteurs agrégatifs,
+# d’agrégation, mental formations (SL MW)formative action (SL MW)
+# Alternatives: facteur, (facteur) composant, volitionnel, constitutif,
+# impulsion, composition, formation, composant, conditionnement,
+# composéagréger, produire, manufacture, façonnement, fabrications mentales,
+# facteurs karmiques déterminants, initier, volition (créatrice, façonnant des
+# actes), impulsion (karmique), formation (mentale, karmique, de karma),
+# motivation, stimulation (volitive), qui initie qqch, conceptualisation,
+# tendance habituelle, karma liant, connectant
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ facteurs de composition, formations karmiques ⁃ Facteurs de
+# composition ⁃ Formations karmiques, les formations volitionnelles, les
+# concrétions karmiques, samskâra
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: samskâras, les facteurs formateurs (notre
+# conscience est structurée, informée, mise en forme par eux) formations
+# karmiques, impulsions
+# 
+# 。︀	〝འདུ་ཤེས〞 2761
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conception, Représentation, Nomination, Perception
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ notions, perceptions, perceptions distinctives
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃjñā Sens racine:
+# Conception,Représentation,Nomination,Perception, discernment (SL MW)
+# Alternatives: la pensée, saisie conceptuelle, par des
+# caractéristiquesperception, conception, identification, notion, penser,
+# considérer, conceptualisation, idéation, discrimination, pensées
+# discursives, représentation mentale, considération, conscience, (type
+# d')attitude, idée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ représentations mentales, notions, perception ⁃
+# Représentation mentale
+# 
+# 。︀	〝བརྩོན་པ〞 4611
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'efforcer de, Faire des efforts, Avoir de la
+# diligence, Mettre de l'énergie à,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: S’efforcer de,Faire des efforts,Avoir
+# de la diligence,Mettre de l’énergie à, Alternatives: s'efforcer de,
+# s'activer, s'acharner à, se dépenser en, persister en, dans
+# 
+# 。︀	〝ཞི་གནས〞 4925
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ calme continu ⁃ calme continu ⁃ quiétude, pacification
+# mentale
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'Apaisement Shamatha Rester tranquille, (mentalement,
+# dans l'esprit) Le calme ⁃ Shamatha, shiné, calme mental, calmer l'esprit,
+# l'état de calme paisible, atteindre le calme pacifié (ou paisible)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ calme mental ⁃ Quiétude, le calme mental
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shamatha, shiné, rester tranquille, rester
+# stable, dans un état de stabilité, l’esprit stable, au repos, calme mental
+# calmer l’esprit, l’état de calme paisible, atteindre le calme pacifié (ou
+# paisible)
+# 
+# 。︀	〝ལུས〞 6092
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
+msgctxt "1de1d06f81124015a49b08463b1f7266"
+msgid ""
+"ལུས་ དང་ དུས་གསུམ་ གྱི་ འདུ་བྱེད་ ལ་སོ་ སོ␣ར་ རྟོག་པ␣འི་ ཞི་གནས་ ལ་ བརྩོན་པ་"
+" སྟེ་ འདུ་ཤེས་ སྒོམ་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དཀར་པོ〞 137
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Blanc
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śukla, śveta, haṃsa Sens racine: Blanc
+# Alternatives: blanc, positif, clair, vertueux
+# 
+# 。︀	〝བསྒོམ་པ〞 958
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'entraîner Méditer Entraînement, Méditation ⁃
+# bhâvanâ, la familiarisation (p87), se vit (p103), la pratique, entraînement,
+# méditation, cultiver
+# 
+# 。︀	〝མཐོང་བ〞 2314
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voir
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ vision, perception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ darśana Sens racine: Voir, see (SL MW)
+# Alternatives: voir, réaliser, percevoir (directement, personnellement, par
+# soi-même), perspicacité, sagacité, reconnaître, (soutenir la) vision (de),
+# témoin, être capable de réaliser
+# 
+# 。︀	〝དྲན་པ〞 2535
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ attention, mémoire ⁃ attention, mémoire ⁃ mémoire,
+# attention
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Garder présent à l'esprit,
+# Se souvenir, Ne pas oublier, Se remémorer, Rappel, Mémoire, Souvenir,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ (de la) mémoire
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ smṛti, manana, smara, smṛīti Sens racine: Avoir
+# présent à l’esprit,Garder présent à l’esprit,Se souvenir,Ne pas oublier,Se
+# remémorer,Rappel,Mémoire,Souvenir, Alternatives: se souvenir, se remémorer,
+# mémoire, souvenir, mémoration, souvenance, retenirle rappel (en
+# méditation)avoir présent à l'esprit, présence d'esprit, présence consciente,
+# attention, calme attentif, vigilance, être alerte, penser àpensées,
+# imagination
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ attention, rappel, mémoire, réminiscence ⁃ Mémoire ⁃
+# Mémoire, le rappel, le souvenir, l'attention ⁃ Retenir, se rappeler, être
+# attentif
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝ཕྱོགས〞 3568
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Thèse ⁃ Thèse
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Direction, Orient, Coté, Position, Se diriger vers
+# Prendre la direction de, Prendre parti,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi 1/2 mois, quinzaine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Direction,Orient,Coté,Position,Se
+# diriger versPrendre la direction de,Prendre parti,, position (SL BP)
+# Alternatives: tendance, opinion, direction, recourir à, extrêmes, biais,
+# préjugé, parti pris, place, polarisation, orientation (boussole)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ catégorie, direction ⁃ Direction géographique ⁃ Tendance,
+# l'opinion
+# 
+# 。︀	〝བྱང་ཆུབ〞 3766
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Eveil
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bodhi, Eveil, Réalisation ⁃ éveil
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éveil
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bodhi, saṃbodhi Sens racine:
+# Bodhi,Eveil,Réalisation,, Awakening (SL MW) Alternatives: l'éveil, clarté
+# limpide et parfaite perspicacité, présence pure et totale, état
+# d'illumination, d'éveil, éveillé, de bodhi, de bouddha, l'illumination, état
+# purifié et épanoui
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Eveil
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: bodhi, éveil
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "e85043d7c6b843328a7892e2a8336133"
+msgid ""
+"དྲན་པ་ ཉེར་ བཞག་ བཞི་ ལ་སོགས་པ་ བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ བསྒོམ་པ་ གཉིས་ ཀྱིས་ "
+"དཀར་པོ་ རྣམ་པ␣ར་ མཐོང་བ་ སོགས་ ས་ བརྒྱད་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝ལམ〞 6008
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie, Chemin, Route, Moyen Façon de faire, Manière,
+# lam comme articule grammaticale, ⁃ voie, chemin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ voie, sentier (cinq)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie, chemin ⁃ Voie, le chemin
+msgctxt "8b36ee4f39a14ac4982cc2b135dbfd0f"
+msgid "ཚོགས་སྦྱོར་ མཐོང་ སྒོམ་ གྱི་ ལམ་ རྣམས་ བགྲོད་པ་ སྟེ །"
+msgstr ""
+
+# 
+# 。︀	〝ཐབས〞 2110
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Moyen, Méthode, Façon de faire, ⁃ moyen, upâya (p30),
+# moyen habile
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méthode, moyen, moyens habiles (une des dix perfections)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ upāya Sens racine: Moyen,Méthode,Façon de faire,,
+# skillful means (SL MW) Alternatives: moyen (habile, adroit), méthode
+# (intelligente), façon de faire, mode, coutume, tradition, techniques,
+# expédients, efficacité, méthodes efficaces, habile compassion, pratique
+# ingénieuse
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ moyens habiles, méthode, expédient salvifique ⁃ Méthode,
+# les moyens habiles
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: upâya, moyen moyen habile
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ཞི་གནས〞 4925
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ calme continu ⁃ calme continu ⁃ quiétude, pacification
+# mentale
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ L'Apaisement Shamatha Rester tranquille, (mentalement,
+# dans l'esprit) Le calme ⁃ Shamatha, shiné, calme mental, calmer l'esprit,
+# l'état de calme paisible, atteindre le calme pacifié (ou paisible)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ calme mental ⁃ Quiétude, le calme mental
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shamatha, shiné, rester tranquille, rester
+# stable, dans un état de stabilité, l’esprit stable, au repos, calme mental
+# calmer l’esprit, l’état de calme paisible, atteindre le calme pacifié (ou
+# paisible)
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+msgctxt "97458ecadc324cad9ee27adae007e622"
+msgid "དེ␣འང་ སེམས་ གནས་པ␣འི་ ཐབས་ དགུ␣ས་ ཞི་གནས་ ཡིད་ ལ་ བྱེད་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝ཆོས〞 1364
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
+# Ce qui est expérimenté, expérience, Chose, connu. réalité, réel,
+# connaissable, ⁃ 1. Dharma, réalité, 2. les dharmas, phénomènes, 3. Dharma,
+# l'enseignement du Bouddha, (affaires) spirituelles, 4.facteurs
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ doctrine
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ dharma Sens racine:
+# DharmaEnseignement,L’enseignement de réalité Ce qui est expérimenté,
+# expérience,Chose, connu. réalité, réel, connaissable,, phenomenon (SL
+# BP)teaching (SL MW) Alternatives: construire, réparerconnaissable, connu,
+# chose, éléments, phénomène, objet de connaissance, existants phénoménaux
+# objet du mental, événements mentaux, sujetsbienfaitsqualités, aspect,
+# facteur, attributs, éléments del'instant, la circonstance, l'occasionles
+# enseignements (du Bouddha), vérité, doctrine, pratique religieusela
+# certitude, le réel, réaliténature essentiellequi se tient, qui est en
+# cohésion
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ doctrine, phénomènes, réalité ⁃ "Dharma du Bouddha;
+# Phénomène  "
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. dharma, réalité 2. les dharmas, phénomènes
+# 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
+# 
+# 。︀	〝ཆོས་རྣམས〞 1436
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ les réalités, les qualités (éveillées), les dharmas,
+# les phénomènes
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Phénomènes
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les réalités, les qualités (éveillées), les
+# dharmas, les phénomènes
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝འབྱེད་པ〞 4072
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ → rnam 'byed → rab 'byed Sens racine:
+# Analyser,Différencier,Discerner,Diviser,Analyse,Différenciation,
+# Alternatives: révéler, qui révèle, ouvrirdiscernement, (faire une claire)
+# distinction, manière claire et distincte
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+# 
+# 。︀	〝རབ་ཏུ་འབྱེད་པ〞 5763
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Investigation, Recherche, Découverte ,
+# 
+# 。︀	〝ལ་སོགས་པ〞 6000
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etcetera,
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "aa916c23043541a1a4e4e59598390d32"
+msgid ""
+"ཆོས་ རྣམས་ རབ་ཏུ་ འབྱེད་པ་ ལ་སོགས་པ་ བཞི␣ས་ ལྷག་མཐོང་ ཡིད་ ལ་ བྱེད་པ་ སྟེ །"
+msgstr ""
+
+# 
+# 。︀	〝བརྟེན〞 2066
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ supporté (p97)
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: supporté
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+# 
+# 。︀	〝སེམས་རྩེ་གཅིག་པ〞 6403
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit concentré en un seul point, concentration unifiée
+msgctxt "b7400aeb4d0140e4a7a283c753983362"
+msgid "སེམས་ རྩེ་གཅིག་པ་ གཉིས་ ལ་ བརྟེན་ ནས །"
+msgstr ""
+
+# 
+# 。︀	〝འགྱུར་བ〞 715
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
+# traduire,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
+# transformer,Transformation, traduire, Alternatives: transformation,
+# transmutation, changer, révolution, évolution
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+msgctxt "01aba410cc6e4c378bec674c9375f892"
+msgid "ཀུན་ ཏུ་ གདུང་བ␣ར་ འགྱུར་བ་ སོགས་ ཡིད་ ལ་ བྱེད་པ་ བཞི་ ཐོབ་ ནས །"
+msgstr ""
+
+# 
+# 。︀	〝བདེན་པ〞 2706
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ réalité ⁃ réalité ⁃ "vrai, véritable, vérité; réel,
+# réalité"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vérité, réalité, Vrai, fiable, réel,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ satya Sens racine: Vérité, réalité,Vrai, fiable,
+# réel,, reality, real, true existence (SL BP) Alternatives: vérité, réalité,
+# authentique, existence vraie, réelle, véridique, la véracité
+# 
+# 。︀	〝བདེན་པ་བཞི〞 2709
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les quatre réalités
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ caturārya satya, catvāri ārya satya, catuḥsatya
+# Sens racine: Les quatre réalités Alternatives: les quatre réalités, (nobles)
+# vérités
+# 
+# 。︀	〝འཕགས་པ〞 3614
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ noble, sublime
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Arya, Supérieur, Noble,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ supérieur, une personne / être noble ⁃ Les êtres nobles,
+# ou supérieurs. Ceux qui ont perçu la vérité, c'est-à-dire qu'ils ont atteint
+# le sentier de vision. ⁃ élevé
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ārya, udgata, vadaya, vi Sens racine:
+# Arya,Supérieur,Noble,, exalted (SL MW) Alternatives: suprême, sublime,
+# noble, supérieur, élevé, seigneur, surpasser, éminent, grand, réalisé, êtres
+# sublimes, très vénérables
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ être noble, saint ⁃ Etre noble ⁃ Sublime, noble, éminent,
+# ârya
+# 
+# 。︀	〝འཕགས་པའི་བདེན་པ་བཞི〞 3618
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ quatre réalités des êtres sublimes ⁃ quatre réalités
+# des êtres sublimes
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ les quatre vérités des nobles ; En ce qui concerne
+# l'expression « quatre vérités des êtres nobles » (caturaryasatya), le terme
+# sanskrit satya (tib : bden pa) désigne ce qui est vrai ou réel. Le mot «
+# vérité » (bden pa ; satya) s'entend donc dans le sens d'une vérité empirique
+# ou effective, et non dans le sens d'une vérité formelle ou logique.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ quatre nobles vérités
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "56f8408cb8cb40bba92f6598abff06c0"
+msgid "འཕགས་པ␣འི་ བདེན་པ་ བཞི་ ལ␣ས་ བརྩམས །"
+msgstr ""
+
+# 
+# 。︀	〝རྟོག་པ〞 1965
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
+# fiction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Penser, concevoir, conceptualiser, Penser en mode
+# discursif, Pensée, Pensée discursive, Examiner ⁃ penser duel, conceptuel,
+# pensée discursive, penser, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conceptualisation, conception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rtog tshogs → rnam rtog tarka, vibhāva Sens
+# racine: Penser, concevoir, conceptualiser,Penser en mode
+# discursif,Pensée,Pensée discursive,Examiner Alternatives: enquêter sur,
+# délibération, réflexion, considérer, examiner, rechercher, songer,
+# méditer(schémas de) pensées conceptuelles,discursives, mentales, mouvements,
+# habitudes mentales, la foule des pensées, conceptualiser, déterminé et
+# divisé conceptuellement, conceptualisation, concepts, considérations,
+# cogiter, discursivitéscrupule, doute, hésitation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ concept, idée, pensée conceptuelle ⁃ raisonnement
+# investigateur, pensée conceptuelle ⁃ Examen initial ⁃ Discursivité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: penser duel, dualiste, conceptuel pensée
+# discursive, penser, pensée
+# 
+# 。︀	〝འདྲེས་པ〞 2822
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Mêler, mélanger
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝མི་རྟག་པ〞 4258
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Impermanence, Evanescence, Impermanent, Ephémére,
+# Evanescent, Transitoire, Non durable,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ anitya Sens racine:
+# Impermanence,Evanescence,Impermanent,Ephémére,Evanescent,Transitoire,Non
+# durable, Alternatives: impermanence, éphémère, instabilité, transitoire,
+# impermanent, évanescent, passager
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ impermanence ⁃ Impermanence, impermanent
+# 
+# 。︀	〝ཚོགས་ལམ〞 4735
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ voie d'accumulation
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie du développement (des deux domaines) , ⁃ la voie
+# du développement (des deux domaines)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier d'accumulation ⁃ sentier de l'accumulation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de l'accumulation ⁃ Voie de l'accumulation  	1ère Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sambhâra mârga, la voie du développement (des
+# deux domaines) la voie de l’accumulation
+# 
+# 。︀	〝མཚན་ཉིད〞 4755
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "caractéristique; caractère essentiel"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Caractéristique, Attribut, Marque, ⁃ caractéristique
+# même, caractère définitif de, définition, caractéristique en soi,
+# caractéristique propre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ caractère/caractéristiques, définition, aussi: dimension
+# (bar cha 669) ⁃ signifiant ⁃ définition
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ caractéristiques ⁃ fabrication, signe, marque ⁃ Marque,
+# l'attribut, caractéristique
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: lakshana, caractéristique même caractère
+# définitif de, définition, caractéristique en soi, caractéristique propre
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+# 
+# 。︀	〝རིག་པ〞 5800
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ connaissance (claire) ⁃ connaissance (claire) ⁃
+# "faculté cognitive, connaissance, conscience; connaissance intuitive
+# immédiate, conscience éveillée"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "1. vidyâ, auto intelligence (p59, 72, 74, 77), gnose
+# (de non-saisie) (p24), intelligence immédiate (p61), l'intelligence en soi
+# (p21, 67, 69, 77, 98),  l'état d'intelligence première (p68), intelligence
+# immédiate en soi (p86), intelligence (p96), intelligence primordiale, se
+# comprendre ; 2. intelligence"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ connaissance, présence éveillée, pure présence (aussi
+# conscience: rig pa rgyun chad pa --> sens non trouvé) ⁃ connaissance éveillé
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºintelligence, savoir, connaissance; 2ºprésence éveillée,
+# intelligence primordiale, état naturel (dans le Dzogchen)" ⁃ Etat
+# primordialement pur et spontanément présent, éveillé et discernant
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. vidyâ, auto intelligence, gnose (de non-
+# saisie), intelligence immédiate, l’intelligence en soi, l’état
+# d’intelligence première, intelligence immédiate en soi, intelligence,
+# l’intelligence première, intelligence primordiale, se comprendre 2.
+# intelligence
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+# 
+# 。︀	〝སོ་སོ〞 6426
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+# 
+# 。︀	〝སོ་སོར〞 6439
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
+# l'autre séparément, Sans être le même, Différemment, Comme étant distinct,
+# différent, séparé
+msgctxt "b2486887b7514f5fa7d2e194ed088125"
+msgid ""
+"རྣམ་པ་ མི་རྟག་པ་ སོགས་ བཅུ་དྲུག་ ཏུ་ སོ་སོ␣ར་ རྟོག་པ་ མཚན་ཉིད་ རབ་ཏུ་ རིག་པ་"
+" ཡིད་ ལ་ བྱེད་པ␣ས་ ཐོས་བསམ་ དང་ འདྲེས་པ་ ཚོགས་ལམ་ བགྲོད །"
+msgstr ""
+
+# 
+# 。︀	〝སྒོམ་པ〞 869
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ bhâvanâ, la familiarisation (p87), se vit (p103), la
+# pratique, entraînement, méditation, cultiver
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méditation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ méditation, "culture de l'esprit" ⁃ Méditation
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ bsgom pa Sens racine: bhâvanâ, la familiarisation, se vit,
+# la pratique entraînement, méditation, cultiver
+# 
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+# 
+# 。︀	〝མཆོག〞 1458
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Suprême, sublime, supérieur.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ agra, vara, uttama, uttara, parama Sens racine:
+# Suprême, sublime, supérieur. Alternatives: suprême, sublime, précellent,
+# excellent, éminent, parvenu à la cime, pré-éminence, premier, exemplaire,
+# édifiant, exquis, rafiné, supérieur, meilleur, superbe, brillant
+# 
+# 。︀	〝དྲོད〞 2576
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chaleur, Energie, Intensité, quantité,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ chaleur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ uṣma, uṣmagata Sens racine: Chaleur,Energie,
+# Intensité, quantité, Alternatives: (sensation de) chaleur, chaleur de
+# l'expériencemesure, quantité, degré
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ chaleur
+# 
+# 。︀	〝འདས〞 2739
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: soit du samsâra ou du nirvâna le monde
+# manifeste – qu’il soit samsâra ou nirvâna
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝སྦྱོར་ལམ〞 4137
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ voie de jonction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie de l'union, de la jonction, de l'approche. ⁃ la
+# voie de la jonction, voie de l'union, voie de l'approche
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier de préparation ⁃ sentier de la préparation
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prayoga mārga Sens racine: Voie de l’union,de la
+# jonction, de l’approche., path of junction (SL BP)path of preparation (SL
+# MW) Alternatives: chemin, voie de l'union, de la jonction, de l'approche
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de l'application, de la préparation ou de l'engagement
+# ⁃ Voie de la préparation   2ème Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: prayoga mârga, la voie de la jonction voie de
+# l’union, voie de l’approche, voie de l’application, voie de la préparation
+# 
+# 。︀	〝མོས་པ〞 4384
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ conviction, confiance
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspiration, ⁃ vivre (au sens d'expérimenter, ex. les
+# trois portes comme les trois vajras) (p39)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""inclination"" (ex, des quatre
+# disciples pour les quatre classes de tantras), Veut dire aussi
+# ""imagination"" (ex, s'imaginer comme bouddha)" ⁃ Roca: c'est le dernier des
+# éveillés de l'âge fortuné.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ adhimukti, adhimokṣa Sens racine: Aspiration,
+# Alternatives: confiance, aspiration, souhaiter qqch, considérer, désirer,
+# détermination, inspiration, respect, dévotion, appréciation, admiration,
+# intérêt, conviction, croyance
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ détermination, intérêt ⁃ dévotion ⁃ Conviction ⁃
+# Détermination
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vivre (au sens d’expérimenter, ex. les trois
+# portes comme les trois vajras)
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "9cda2a42c1da48d19af2ca8f350e0f33"
+msgid ""
+"དེ་ལས་ འདས་ ནས་ གཅིག་ ཏུ་ སྒོམ་པ␣འི་ རྣམ་པ␣ས་ མོས་པ␣ར་ བྱེད་པ་ མོས་པ་ ལ␣ས་ "
+"བྱུང་བ␣འི་ ཡིད་བྱེད་ ཀྱིས་ སྦྱོར་ལམ་ དྲོད་ རྩེ་ བཟོད་ མཆོག་ བགྲོད །"
+msgstr ""
+
+# 
+# 。︀	〝ངེས་པ〞 1011
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Certain, Certitude.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ définitif; certain; certitude
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ serata Sens racine: Certain,Certitude.
+# Alternatives: certain, définitif, excellence, certainement, indubitable,
+# incontestable, indéniable.
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Certitude, vérité, vrai, certain, établi
+# 
+# 。︀	〝མངོན་སུམ〞 1166
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pratyaksha, réalité immédiate (p81), l'immédiateté
+# (p77), manifeste, évidence sensorielle, évident pour les sens, perception
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ perception directe, manifeste (pratyaksa)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ pratyakṣa Sens racine:
+# Vraiment,Véritablement ;Véritable,VraiDirectement,Immédiatement.
+# Alternatives: réalité authentique, l'actualité, pleine manifestationdirect,
+# évident (aux sens), manifeste, en réalité, visiblement, évidence,
+# véritablement, vérité évidente (en logique)connaissance non-erronée et non-
+# conceptuelle, perception directe, face à face, authentique
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ perception directe ou évidence, intuition ⁃ Perception
+# directe
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pratyaksha, réalité immédiate, l’immédiateté
+# manifeste, évidence sensorielle, évident pour les sens, perception
+# 
+# 。︀	〝རྟོག་པ〞 1965
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concept, pensée ⁃ pensée, concept, idée fictive,
+# fiction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Penser, concevoir, conceptualiser, Penser en mode
+# discursif, Pensée, Pensée discursive, Examiner ⁃ penser duel, conceptuel,
+# pensée discursive, penser, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ conceptualisation, conception
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = rtog tshogs → rnam rtog tarka, vibhāva Sens
+# racine: Penser, concevoir, conceptualiser,Penser en mode
+# discursif,Pensée,Pensée discursive,Examiner Alternatives: enquêter sur,
+# délibération, réflexion, considérer, examiner, rechercher, songer,
+# méditer(schémas de) pensées conceptuelles,discursives, mentales, mouvements,
+# habitudes mentales, la foule des pensées, conceptualiser, déterminé et
+# divisé conceptuellement, conceptualisation, concepts, considérations,
+# cogiter, discursivitéscrupule, doute, hésitation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ concept, idée, pensée conceptuelle ⁃ raisonnement
+# investigateur, pensée conceptuelle ⁃ Examen initial ⁃ Discursivité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: penser duel, dualiste, conceptuel pensée
+# discursive, penser, pensée
+# 
+# 。︀	〝བདེན་པ〞 2706
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ réalité ⁃ réalité ⁃ "vrai, véritable, vérité; réel,
+# réalité"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vérité, réalité, Vrai, fiable, réel,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ satya Sens racine: Vérité, réalité,Vrai, fiable,
+# réel,, reality, real, true existence (SL BP) Alternatives: vérité, réalité,
+# authentique, existence vraie, réelle, véridique, la véracité
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝མི་རྟོག་པ〞 4262
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ non conceptuel, sans-pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non conception, Non pensée, ⁃ "aconceptuel (p69), sans
+# pensées discursive, non pensée ; non pensée, non discursif, sans pensées,
+# non conceptuel ; la non pensée, n'impliquant pas de concept (de)"
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ nirvikalpa Sens racine: Non conception,Non pensée,
+# Alternatives: l'absence de, état libre de, non, sans discursivité, (toutes)
+# pensées (discursives), idées, concepts, conception, ne pas conceptualiser,
+# non pensée, non conceptuel, non conceptualisation, ce qui ne peut être pensé
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ absence ou vide de pensée, absence de discursivité ⁃ Non
+# discursivité
+# 
+# 。︀	〝བརྩོན་པ〞 4611
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'efforcer de, Faire des efforts, Avoir de la
+# diligence, Mettre de l'énergie à,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: S’efforcer de,Faire des efforts,Avoir
+# de la diligence,Mettre de l’énergie à, Alternatives: s'efforcer de,
+# s'activer, s'acharner à, se dépenser en, persister en, dans
+# 
+# 。︀	〝ཡེ་ཤེས〞 5460
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sagesse/conscience primordiale ⁃ sagesse/conscience
+# primordiale ⁃ sagesse primordiale, non conceptuelle
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Gnose, Expérience première, Expérience primordiale,
+# L'intelligence présente depuis l'origine, La connaissance supérieure, ⁃
+# jñâna, cognition primordiale (p69), intelligence première, prime expérience,
+# expérience première, connaissance primordiale, présence d'immédiateté,
+# connaissance hors du temps, connaissance (ou présence) intemporelle,
+# intelligence immédiate
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sagesse primordiale/originelle (une des dix perfections)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ sagesse ⁃ Sagesse Primordiale, jnâna
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ ye nas shes pa Sens racine: jñâna, cognition primordiale,
+# intelligence première, prime expérience, expérience première (voir n100),
+# présence d’instantanéité, gnose, expérience immédiate connaissance
+# primordiale, présence d’immédiateté, connaissance hors du temps,
+# connaissance (ou présence) intemporelle, intelligence immédiate
+msgctxt "20029bf865b448fea811179334eec449"
+msgid ""
+"དེ་ནས་ སྔར་ བརྩོན་པ␣འི་ བདེན་པ་ ལ་ རྩོལ་ མ་ ཐག་ ཏུ་ རྣམ་པ␣ར་ མི་ རྟོག་པ་ "
+"ཤིན་ཏུ་ ངེས་པ␣འི་ ཡེ་ཤེས་ དང་ མངོན་སུམ་ གྱི་ ཡེ་ཤེས་ སྐྱེས་ ནས་"
+msgstr ""
+
+# 
+# 。︀	〝མཐོང་ལམ〞 2318
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voie de la vision ⁃ darshanamârga, la voie de la
+# vision
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier de la terre 6 ⁃ Le sentier de vision; l'un des
+# cinq sentiers de réalisation : accumulation, préparation, visions,
+# méditation et non-étude, c'est-à-dire libération. Il est atteint avec la
+# compréhension initiale non conceptuelle de la nature ultime, la vacuité des
+# phénomènes. Les facteurs communs du sentier de vision (thun mong gi mthong
+# spang bya) sont les passions intellectuellement formées et les obstacles
+# grossiers à l'omniscience. ⁃ sentier de la vision
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ darśanamarga Sens racine: Voie de la vision, path
+# of seeing (SL BP) Alternatives: chemin, voie de la vision
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de la vision ⁃ Voie de la vision  	3ème Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: darshanamârga, la voie de la vision
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝དབེན་པ〞 3995
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ isolement, solitude
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Isolé, Isolation, Vide de. Etre à l'écart, Lieu
+# désert,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ dénué
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ viveka Sens racine: Isolé,Isolation,Vide de…Etre à
+# l’écart,Lieu désert, Alternatives: isolement (emmurée), solitude, vide,
+# endroit isolé et distant (non fréquenté par des gens malsains)mise sur plan
+# nouménal
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+msgctxt "f99fc1b868f248c9be7dd5d78a3e06ef"
+msgid "མཐོང་སྤང་ སྤངས་ ཏེ་ རབ་ཏུ་ དབེན་པ་ ཡིད་ ལ་ བྱེད་པ་ མཐོང་ལམ་ ཐོབ །"
+msgstr ""
+
+# 
+# 。︀	〝དགའ་བ〞 620
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ joie
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ joie
+# 
+# 。︀	〝སྒོམ་ལམ〞 877
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ La voie de l'habitude ⁃ voie de l'habitude, voie de la
+# méditation, voie de la pratique
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ sentier de la terre 7 ⁃ sentier de l'entraînement ⁃
+# sentier de la méditation
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ bhāvanamārga Sens racine: La voie de l’habitude,
+# path of meditation (SL BP) Alternatives: chemin de la méditation, voie de la
+# méditation
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voie de la méditation ⁃ Voie de la méditation  	4ème Voie
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: bhâvanâ mârga, voie de l’habitude, voie de la
+# méditation voie de la pratique, voie de l’expérience
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝སྦྱོར་བ〞 4128
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'unir,  Se réunir, Approche, Jonction, Union,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application (une des quatre pratiques des tantras de
+# l'action); mise en ouevre (une des cinq facteurs d'une voie d'action) ⁃
+# relier, préparer
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ gaṇa, prayoga Sens racine: S’unir, Se
+# réunir,Approche,Jonction,Union, Alternatives: appliquer, pratiquer,
+# actualiser, réaliser, application, s'appliquer à, amener àunir, réunir,
+# joindre, jontion, union, unifier, combiner, connexion, yoga, ensemblecompter
+# surunion sexuelle, pratiques sexuellespréparation, entraînement,
+# introduction, préliminaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºmise en ouvre de l'acte; 2ºsyllogisme" ⁃ Connection,
+# adhésion,ajustement
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "7d94e2543eee4c28a4ed481a7c802818"
+msgid ""
+"སྦྱོར་བ་ ཡིད་བྱེད་ དང་ དགའ་བ་ སྡུག་པ་ ཡིད་ ལ་ བྱེད་པ␣ས་ སྒོམ་སྤང་ སྤངས་ ཤིང་"
+" སྒོམ་ལམ་ རྣམས་ བགྲོད་ དེ་"
+msgstr ""
+
+# 
+# 。︀	〝ཏིང་ངེ་འཛིན〞 1859
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
+# recueillement
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Samadhis,  Etats d'absorptions de l'esprit,
+# Absorptions spirituelles, ⁃ samâdhi, état d'absorption de l'esprit,
+# absorption spirituelle, absorption méditative, état de contemplation,
+# contemplation
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ L'absorption est parfaite équanimité dans un état de
+# concentration. ⁃ absorption méditative ⁃ absorption,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ samādhi Sens racine: Samadhis, Etats d’absorptions
+# de l’esprit, Absorptions spirituelles,, samadhi (SL BP)contemplation (SL MW)
+# Alternatives: concentration, concentration méditative, samādhi, état (de
+# profonde) absorption (méditative), méditation (contemplative), (état de)
+# contemplation, stabilisation méditative, recueillement méditatif
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ recueillement méditatif ⁃ Concentration, recueillement ⁃
+# Recueillement méditatif, le samâdhi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ chen po Sens racine: mahâsamâdhi, grand samâdhi, samâdhi
+# suprême un état de contemplation totale, la grande contemplation,
+# l’absorption méditative suprême
+# 
+# 。︀	〝མཐའ〞 2260
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Limite, fin, confins, Extrême, extrémité, périphérie,
+# Terme Détermination, ⁃ conclusion, extrême
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ limite
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mit, koṭi, anta, niṣṭa Sens racine: Limite, fin,
+# confins,Extrême, extrémité, périphérie, TermeDétermination, Alternatives:
+# limite, extrémité, extrême, fin, confins, frontière, lisière, terminaison,
+# point final, final, ultime, dernier, finalité, issue, clôture, fermeture,
+# limitation, aboutissement, terme, parachèvementconclusion, détermination
+# extrême en fin de compte, finalement, somme toute, tout compte fait, pour
+# finir, enfin
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ extrême
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: anta, conclusion, extrême limite, limitation,
+# fin
+# 
+# 。︀	〝རྡོ་རྗེ〞 2833
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vajra, ⁃ vajra, diamant, adamantin, indestructible
+# réalité
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vajra, kuliśa(nom de code pour śālija) Sens racine:
+# Vajra,, indesctructible reality (SL MW) Alternatives: insécable, (réalité)
+# indestructible, indestructibilité, indivisibilité, état de vajra, dur comme,
+# semblable au diamant, adamantin, immuablevajra, sceptre adamantindiamant
+# (abr. rdo rje pha lam), “le seigneur des pierres”, “la reine des
+# pierres”coup de tonnerre, de foudre
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ diamant ⁃ Vajra, le diamant  	rdo rje pha lam
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vajra, diamant, adamantin indestructible
+# réalité
+# 
+# 。︀	〝རྡོ་རྗེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན〞 2846
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ Recueillement Adamantin ⁃ Recueillement Adamantin
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ L'absorption adamantine : c'est la contemplation d'un
+# bodhisattva de la dixième terre au terme de laquelle le parfait éveil est
+# atteint.
+msgctxt "27ff19cae14c4c18ad5087b552f6eca9"
+msgid "སྦྱོར་ མཐའ་ ཡིད་བྱེད་ རྡོ་རྗེ་ ལྟ་བུ␣འི་ ཏིང་ངེ་འཛིན་ སྐྱེས་ ནས་"
+msgstr ""
+
+# 
+# 。︀	〝གྲོལ་བ〞 573
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre libéré ⁃ libération, liberté, relaxer
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = 'grol ba tara, sandhyābhāṣa, mokṣa, mukti Sens
+# racine: Etre libéré Alternatives: état d'émancipation (du saṃsāra),
+# (s')affranchir de, libération, être libéré, relâcher
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Libération, liberté, libre
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: libération, liberté, relaxer
+# 
+# 。︀	〝དགྲ་བཅོམ་པ〞 676
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Arhat Destructeur de l'ennemi Soumetteur des ennemis ⁃
+# destructeur de l'ennemi', arhat, 'soumetteur des ennemis'
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les destructeurs de l'ennemi (arhat ,digne de
+# vénération): ils ont vaincu les quatre démons : les passions, les agrégats,
+# la mort, les plaisirs sensoriels. Le terme se réfère ici aux auditeurs
+# parvenus au terme de leur parcours.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ arhat, arhan, arhant Sens racine: Arhat« soumetteur
+# des ennemis », arhat (SL BP)saint (SL MW) Alternatives: “celui qui a vaincu
+# l'ennemi (des passions)”, subjugueur, destructeur de l'ennemi, (celui qui
+# est en train de devenir) saint, ceux qui ont soumis l'ennemi
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ arhat, "vainqueur de l'ennemi", méritant ⁃ Arhat
+# litt.Qui a vaincu l'ennemi des passions
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: arhat, destructeur de l’ennemi soumetteur des
+# ennemis, un saint
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+msgctxt "57d619678da54cfc8de54b0043f76934"
+msgid "སེམས་ ཤིན་ཏུ་ རྣམ་པ␣ར་ གྲོལ་བ␣འི་ དགྲ་བཅོམ་པ་ ཐོབ་པ་ ནི་"
+msgstr ""
+
+# 
+# 。︀	〝བྱེད་པ〞 3840
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
+# Différenciation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ activité
+# 
+# 。︀	〝འབྲས་བུ〞 4080
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fruit,  Résultat, Conséquence,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le fruit; le résultat
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ phala, vipāka, kārya Sens racine: Fruit,
+# Résultat,Conséquence,, result (SL MW) Alternatives: effet, fruit,
+# conséquence, résultat, but, réalisation finale, (obtention) résultante
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Fruit ⁃ Fruit, le résultat, fruition
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: phala, le fruit, le résultat les
+# conséquences, but
+# 
+# 。︀	〝སྦྱོར་བ〞 4128
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ S'unir,  Se réunir, Approche, Jonction, Union,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application (une des quatre pratiques des tantras de
+# l'action); mise en ouevre (une des cinq facteurs d'une voie d'action) ⁃
+# relier, préparer
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ gaṇa, prayoga Sens racine: S’unir, Se
+# réunir,Approche,Jonction,Union, Alternatives: appliquer, pratiquer,
+# actualiser, réaliser, application, s'appliquer à, amener àunir, réunir,
+# joindre, jontion, union, unifier, combiner, connexion, yoga, ensemblecompter
+# surunion sexuelle, pratiques sexuellespréparation, entraînement,
+# introduction, préliminaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ "1ºmise en ouvre de l'acte; 2ºsyllogisme" ⁃ Connection,
+# adhésion,ajustement
+# 
+# 。︀	〝ཡིད〞 5362
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mental, Sens interne, ⁃ manas, mental (conceptuel),
+# esprit discursif, esprit fonctionnel
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ entendement, intellect ⁃ Mental ⁃ Esprit, le mental, manas
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: manas, mental (conceptuel), esprit discursif
+# esprit fonctionnel
+# 
+# 。︀	〝ཡིད་ལ་བྱེད་པ〞 5385
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "application/activité mentale; attention"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Avoir présent à l'esprit, Faire venir présent à
+# l'esprit, Mentaliser, Examiner, Considérer attentivement, ⁃ "1. l'attention,
+# faire attention ; 2. manasikâra, activité mentale, mentaliser, faire avec le
+# mental, former des idées (à propos de)"
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ application mentale, orientation mentale
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Attention
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: 1. l’attention, faire attention 2.
+# manasikâra, activité mentale, mentaliser, faire avec le mental, former des
+# idées (à propos de)
+msgctxt "aec562e2e23e4d86bfe1b86323705f04"
+msgid "སྦྱོར་བ␣འི་ མཐ␣འི་ འབྲས་བུ་ ཡིད་ ལ་ བྱེད་པ་ སྟེ་"
+msgstr ""
+
+# 
+# 。︀	〝ཚེ〞 4695
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
+# 
+# 。︀	〝ཟག་པ〞 5079
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, Descendre, Goutter, S'écouler, Fuir,
+# (fuite d'eau) Verser, Passions, Emotions conflictuelles, Impuretés,
+# Sécrétions, écoulements, corporelles impurs,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ écoulement (asvara) contamination
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ souillures, écoulements ou impuretés
+# 
+# 。︀	〝ཟད་པ〞 5116
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voir 'gags pa ⁃ Epuiser, Epuisement, Cessation,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ immersion , une des 21 catégories des attributs d'un
+# Bouddha, (Vasu VIII, 36)
+# 
+# 。︀	〝ཡིན〞 5390
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
+msgctxt "68a3e5076cf34739b0a07798e2064573"
+msgid "དེ␣འི་ ཚེ་ ཟག་པ་ ཐམས་ཅད་ ཟད་པ་ ཡིན་ ལ །"
+msgstr ""
+
+# 
+# 。︀	〝རྒྱུན་ཞུགས〞 841
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ entrée dans le courant
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Srotâpanna, ceux qui sont entrés dans le courant
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝འབྲས་བུ〞 4080
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fruit,  Résultat, Conséquence,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ le fruit; le résultat
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ phala, vipāka, kārya Sens racine: Fruit,
+# Résultat,Conséquence,, result (SL MW) Alternatives: effet, fruit,
+# conséquence, résultat, but, réalisation finale, (obtention) résultante
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Fruit ⁃ Fruit, le résultat, fruition
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: phala, le fruit, le résultat les
+# conséquences, but
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "2b1d1178159541dbb88008d9e3cf9c09"
+msgid ""
+"རྒྱུན་ཞུགས་ སོགས་ འབྲས་བུ་ གསུམ་པོ␣འང་ སྒོམ་སྤང་ སྤོང་ ཚུལ་ ཆེ་ཆུང་ གིས་ "
+"ཐོབ་པ␣འོ ། །"
+msgstr ""
+
+msgctxt "b4e0dfa313df4dc3baf090853b761ebe"
+msgid "བཞི་པ་ ནི །"
+msgstr ""
+
+# 
+# 。︀	〝དག་པ〞 2331
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ pur
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ pur, pureté
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dag, rnam par dag pa Sens racine: pur ; parfaitement
+# pur pureté totale, totalement pur
+# 
+# 。︀	〝རྣམ་པ〞 3113
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Aspects, Apparences, Pesrpectives, Regards, Modes,
+# Classes, Famille, Types, Tailles, Genres, Façons, Catégories,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspect, forme, mode, particularité, groupe, facteur,
+# espèce
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ ākāra, vi-, saṃ- Sens racine:
+# Aspects,Apparences,Pesrpectives,Regards,Modes,Classes,Famille,Types,Tailles,Genres,Façons,Catégories,,
+# aspect (SL BP) Alternatives: famille, classemode, façonforme, contour,
+# aspect, image, attribut, type, trait, division, catégorie, sorte, pointure,
+# manifestation, partieemploi grammatical pour se référer à un groupe
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Aspect
+# 
+# 。︀	〝རྣམ་པར་དག་པ〞 3134
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ parfaitement pur, pureté totale, totalement pur
+# 
+# 。︀	〝ཚུལ་ཁྲིམས〞 4681
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ discipline, conduite éthique
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Discipline, ⁃ shîla, discipline, éthique, bonne
+# moralité, moralité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ éthique/discipline (une des six - ou dix - perfections) ⁃
+# éthique
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = nang tshul śīla (“rafraîchissant”) Sens racine:
+# Discipline,, ethical conduct (SL BP)ethic (SL MW) Alternatives: discipline
+# (mentale, morale), éthique, moralité, déontologie, préceptes moraux,
+# conduite morale, saine, une observance (pure)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ éthique, discipline morale
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shîla, discipline, éthique bonne moralité,
+# moralité
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "fe547a93c762411790c926aa1977a51f"
+msgid "དེ་ལྟར་ ཚུལ་ཁྲིམས་ རྣམ་པ␣ར་ དག་པ་ ལ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝བདག་ཉིད〞 2640
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Soi-même; Nature ou essence, Personne,  La personne
+# en soi" ⁃ Soi-même, Moi-même, Lui-même, La nature (propre), L'essence
+# (propre), La nature (même), L'essence (même) La personne en soi, Le maître,
+# L'être, ⁃ en soi (p86), la propriété fondamentale (p97), identité
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ svātma, ātman, ātmā Sens racine: Soi-même ;Nature
+# ou essence,Personne, La personne en soi Alternatives: soi-même, moi-même,
+# propriété, le propre de, être en soi, avoir la nature denature, essence,
+# nature propremaître, propriétairepersonne, identité, soi, être de qqch,
+# incarnation del'être
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Identité, le soi, l'être de quelque chose, son essence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: en soi, la propriété fondamentale identité
+# 
+# 。︀	〝བདེ་བ〞 2687
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
+# plaisant, ⁃ félicité, bonheur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
+# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
+# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
+# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
+# plaisir, béatitude, suprême béatitude
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "c70a96c67a4d4b13be130e51f122cb3a"
+msgid ""
+"བདག་ཉིད་ ཕན་ཡོན་ བཅུ་ དང་ ལྡན་པ␣འི་ ཚུལ་ གྱིས་ ཐོབ་པ་ རྣམས་ བདེ་བ␣ར་ གནས་པ་ "
+"དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝འགྱུར་བ〞 715
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
+# traduire,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
+# transformer,Transformation, traduire, Alternatives: transformation,
+# transmutation, changer, révolution, évolution
+# 
+# 。︀	〝རྒྱུ〞 796
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Cause, Substance, Biens, ⁃ cause
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ matériau (bar cha p.670) ⁃ cause
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hetu, anvayaḥ Sens racine: Cause,Substance,Biens,,
+# cause (SL BP) Alternatives: cause, base (causale), principe, nécessité,
+# graine
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cause, raison ⁃ Cause
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: hetu, cause, cause primaire
+# 
+# 。︀	〝བསྟན་པ〞 2075
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Enseignement, Exposé, «Ce qui est montré» ⁃
+# enseignement, exposé, 'ce qui est montré'
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ śāsana, udita, nirdeśa, prakāśa Sens racine:
+# Enseignement,Exposé,« Ce qui est montré » Alternatives: présenter,
+# démontrer, démonstration, montrer, pédagogique, révélation, introduire,
+# didactique, révéler, exposer, expliquer, promulguer, dispenser, donner,
+# prodiguer (un enseignement)enseignement, doctrine, raffiner, instruire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Démonstration ⁃ Enseignement
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: shâsana, enseignement, exposé ‘ce qui est
+# montré’, enseigné, révéler, définir comme
+# 
+# 。︀	〝གནས་པ〞 3031
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Rester, Demeurer, Vivre, Exister, Etre, Supporter,
+# Apparaître, ⁃ se reposer, demeurer, rester (immobile, calme, tranquille,
+# sans bouger), état calme, être établi
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ maintien
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sthāta Sens racine:
+# Rester,Demeurer,Vivre,Exister,Etre,Supporter, Apparaître, Alternatives:
+# résider, demeurer (fermement), être, établir, ne pas transgresser, habiter,
+# être établipréserverexistence, exister en, avoir à l'intérieursupport, point
+# d'appui, demeure, état de contemplationdevenir, formationdurée(état) calme,
+# immobilité, stabilité, immobiledisciple
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ établi, stable, ferme, statique ⁃ établissement, ce qui est
+# fondé ⁃ durée, stabilité ⁃ Durée ⁃ Etre, demeurer, s'établir, résider ⁃
+# Immobilité, stabilité, le calme
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: se reposer demeurer, rester (immobile, calme,
+# tranquille, sans bouger), état calme, être établi
+# 
+# 。︀	〝ཕན་བདེ〞 3439
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Utile et heureux, Bienfaisant et heureux,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ hitasukha, samkhya Sens racine: Utile et
+# heureux,Bienfaisant et heureux, Alternatives: bienfait, utile, bonheur,
+# bien-être temporel, temporaire, immédiat, en ce monde, provisoire, bénéfice,
+# (les grandes) prospérités (de ce monde)et bonheur, agréable, spirituel,
+# durable, à jamais, à terme, bien-être, ultime, liberté (ultime), félicité,
+# et celles qui transcendent ce monde
+# 
+# 。︀	〝ཕུན་སུམ་ཚོགས་པ〞 3461
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sublime, Tout parfait (la cause, le résultat, le
+# bienfait) ⁃ sublime, tout parfait, faste
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ perfection, complétude
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sublime,Tout parfait (la cause, le
+# résultat, le bienfait) Alternatives: sublime, parfait, tout ce qui est bien
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཚོགས་པ〞 4729
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ collection, unité de la communauté, concorde
+# 
+# 。︀	〝ལྷ〞 6701
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Deva, Dieu, Divinité, Déité, ⁃ divinité, déité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ dieux, déités ⁃ Déité ⁃ Dieux
+msgctxt "f60ecd5aad4d4d6a9e95066fea5a5fea"
+msgid ""
+"ལྷ་ མི་ རྣམས་ ལ་ ཕན་བདེ་ ཕུན་སུམ་ ཚོགས་པ་ དང་ བསྟན་པ་ ཡུན་རིང་ གནས་པ␣འི་ "
+"རྒྱུ␣ར་ འགྱུར་བ␣ས་"
+msgstr ""
+
+# 
+# 。︀	〝འགྱུར་བ〞 715
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Changer, changement transformer, Transformation,
+# traduire,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vipariṇāma Sens racine: Changer, changement
+# transformer,Transformation, traduire, Alternatives: transformation,
+# transmutation, changer, révolution, évolution
+# 
+# 。︀	〝འཇུག་པ〞 1591
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
+# de l'action)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ continuité ⁃ entrée, introduction, manifestation ⁃
+# Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
+# 
+# 。︀	〝ཐོབ་པ〞 2249
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Obtenir, Trouver, Obtention.
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ prāpti Sens racine: Obtenir,Trouver,Obtention.,
+# possession, acquired (SL MW) Alternatives: passé de 'thob pa : obtenir,
+# trouver, acquérir(complète, parfaite) obtention, acquisition, obtention
+# imminente, réalisation, gain, achèvement
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la vision de l'obtention ⁃ l'acquisition, l'obtention ⁃
+# Obtention
+# 
+# 。︀	〝བདེ་བ〞 2687
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ félicité, bonheur
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Félicité, Bonheur, Joie, bien-être, agréable,
+# plaisant, ⁃ félicité, bonheur
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ sukha, ananda, kṣema, śubha Sens racine: Bonheur,
+# Joie, bien-être, félicité, agréable, plaisant, Alternatives: bonheur, (état
+# de) félicité, ravissement, bien être, joie, béatitude, plaisir, (sensation)
+# joyeuse, plaisante, confortable, délice, heureux, agréablehabile
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ félicité, bien-être, plaisir ⁃ Plaisir, béatitude, félicité
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: sukha, félicité, bonheur sensation de
+# plaisir, béatitude, suprême béatitude
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+msgctxt "2297261d7a824b0a9d857672f3edf5e5"
+msgid "མ་ ཐོབ་པ་ རྣམས་ བདེ་བ␣ར་ འཇུག་པ␣ར་ འགྱུར་བ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝སྐབས〞 195
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Occasion, opportunité, moment ou,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Occasion, opportunité, moment ou,
+# Alternatives: Occasion, chance, opportunité, état, situationdomaine,
+# sphèretempschapître, section partiemode, méthode, façon
+# 
+# 。︀	〝འགྲེལ་པ〞 725
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ commentaire
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ vṛtti, ṭīkā, pañjikā, vivaraṇa Sens racine:
+# commentaire Alternatives: commentaire, exposition
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: commentaires (textes)
+# 
+# 。︀	〝སྡོམ་པ〞 2921
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃvara Sens racine: Vœux,Lier,Relier,, vow (SL BP)
+# Alternatives: ligoter, lier, qui regroupe (en), rassemble, supporte,
+# confèrene pas transgresser, surmonter, contrôler, discipliner, mettre la
+# bride, appliquer les moyens pour contrervœux, engagement, lien, défensesse
+# restreindre, s'empêcher de, self contrôle, prendre une résolution,
+# rétention, s'abstenir
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
+# 
+# 。︀	〝དབྱེ་བ〞 4024
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divisions, Distinctions, Catégories, ⁃ classification
+# (p99), différencier, diviser
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ division (un des dix types d'activité éveillée)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divisions,Distinctions,Catégories,
+# Alternatives: différence, division, catégorisé en différentes étapes,
+# formes, séparation, (faire des) distinctions, types, différencier,
+# distinguer, séparer, classifier, diviser, classer, caractéristiques,
+# particularité distinctes, races, sortes, détaillé= thang : plaine, champ,
+# étendue
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Séparer, distinguer
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dbye Sens racine: classification ; différencier,
+# diviser distinctions
+# 
+# 。︀	〝སོ་ཐར〞 6417
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
+# personelle,
+# 
+# 。︀	〝སོ་ཐར་གྱི་སྡོམ་པ〞 6419
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voeux de libération individuelle, Voeux de libération
+# personelle,
+msgctxt "01e71fce806242e89a6d43973e7ae82a"
+msgid "སོ་ཐར་ གྱི་ སྡོམ་པ་ རབ་ཏུ་ དབྱེ་བ་ སྐབས་ གཉིས་པ␣འི་ འགྲེལ་པ␣འོ །། །།"
+msgstr ""
