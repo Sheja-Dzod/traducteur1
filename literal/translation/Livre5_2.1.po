@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -87,7 +87,7 @@ msgstr ""
 msgctxt "9de2bc8f5d104765ac5ec042bbfd0e85"
 msgid "སྡོམ་ གསུམ་ སྤྱིར་བཏང་བ །  བྱེ་བྲག་ སོ་ཐར་ ཉིད་ བཤད་པ␣འོ ། །"
 msgstr ""
-"une présentation générale des trois voeux et celle spécifique à ceux de "
+"une présentation générale des trois voeux et une spécifique à ceux de "
 "libération personnelle."
 
 msgctxt "0980409bf92e4b86b3686178e42d3a83"
