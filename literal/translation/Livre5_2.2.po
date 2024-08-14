@@ -779,8 +779,8 @@ msgstr ""
 msgctxt "4fee8c6a71ea48dd9a5ddff72f091a4c"
 msgid "མཚུངས་ལྡན་ དང་ བཅས་པ་ ནི་ སེམས་པ་ གཙོ་བོ་ ཡིན་པ␣ས་"
 msgstr ""
-"\"les facteurs associés\" : puisque l'intention est l'état d'esprit "
-"principale"
+"\"les facteurs mentaux associés\" signifie que l'intention étant le facteur "
+"principal, "
 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
