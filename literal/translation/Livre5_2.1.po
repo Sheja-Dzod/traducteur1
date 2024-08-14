@@ -489,7 +489,7 @@ msgstr "Tenir les trois voeux (vivre selon les 3 voeux)"
 # Etudier,
 msgctxt "d16fb6e47e3e4f84ab39c6470d80ba47"
 msgid "དང་པོ་ ཁྲུས་ སུ་ བཤད་པ་ ཡིན ། །"
-msgstr "est dit être le premier lavage (néttoyage)."
+msgstr "est dit être la première ablution."
 
 msgctxt "d663ff3800f543958986363244572ccb"
 msgid "ཅེས་ གསུངས་པ་ ལྟར་"
