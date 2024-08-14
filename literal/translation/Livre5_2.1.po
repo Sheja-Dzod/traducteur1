@@ -355,7 +355,7 @@ msgstr "La Pointe Vajra dit :"
 
 msgctxt "e406ea219a374b26985dde265b8c6d3d"
 msgid "གལ་ཏེ་ དེ་དག་ རབ་བྱུང་ གྱུར ། །"
-msgstr "Quand ils (les moines) devienent des renoncants,"
+msgstr "Si le pratiquant devient un renoncant,"
 
 # 。︀	〝སྡོམ་པ〞 2921
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Voux, Lier, Relier,
