@@ -88,7 +88,7 @@ msgctxt "9de2bc8f5d104765ac5ec042bbfd0e85"
 msgid "སྡོམ་ གསུམ་ སྤྱིར་བཏང་བ །  བྱེ་བྲག་ སོ་ཐར་ ཉིད་ བཤད་པ␣འོ ། །"
 msgstr ""
 "une présentation générale des trois voeux et une spécifique à ceux de "
-"libération personnelle."
+"libération individuelle."
 
 msgctxt "0980409bf92e4b86b3686178e42d3a83"
 msgid "དང་པོ་ ནི །"
