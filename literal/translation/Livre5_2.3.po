@@ -308,7 +308,7 @@ msgstr ""
 msgctxt "30cedfa6c08e419e9907efe515025d83"
 msgid "དབུ་མ་ རང་སྟོང་པ␣ས་ སྤོང་ སེམས་ མཚུངས་ལྡན་ དང་ བཅས་པ་ སྟེ །"
 msgstr ""
-"Pour l'école Madyamika Vide de Soi, c'est une intention de rejet et ses "
+"Pour l'école Madyamika Vide d'un Soi, c'est une intention de rejet et ses "
 "facteurs mentaux associés."
 
 msgctxt "e1132c99a85b4b70ba0826fa30de8f0c"
