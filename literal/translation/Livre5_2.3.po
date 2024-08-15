@@ -728,7 +728,7 @@ msgstr ""
 
 msgctxt "5725ff498d184ebe8d34b624e75f3418"
 msgid "གཉིས་པ་ ནི །"
-msgstr "Pour les deuxièmmes,"
+msgstr "Pour les deuxièmmes, (les sautrantikas)"
 
 # 。︀	〝འགྲོ་བ〞 730
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
