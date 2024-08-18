@@ -269,7 +269,9 @@ msgstr "C'est une bonne conduite car elle est louée par les sages."
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "5a41067df815473f942f38b1b33a981c"
 msgid "བྱ་བ␣འི་ རང་བཞིན་ ཡིན་པ␣འི་ ཕྱིར་ ལ␣ས །"
-msgstr "C'est une activité (c'est du karma) car c'es une action par nature. "
+msgstr ""
+"C'est une action (c'est du karma) car la disicpline est par nature une "
+"activité."
 
 # 。︀	〝འགོག་པ〞 707
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Arrêter, faire cesser, entraver, réfuter, récuser. ⁃
