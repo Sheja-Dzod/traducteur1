@@ -166,8 +166,8 @@ msgstr "Premièrement :Les différentes procédures (de transmission)"
 msgctxt "c691b2fa12bc49e1b95710bd513cd809"
 msgid "འཐོབ་ བྱེད་ སྔོན་ དང་ ད་ལྟ␣འི་ ཆོ་ག་ སྟེ ། །"
 msgstr ""
-"\"L'ancient rituel et l'actuel concernant l'acquisition (des voeux). \" (le "
-"rituel d'origine est aussi une trad du sens)"
+"\"La procédure d'origine (litt d'avant) et l'actuelle premettent l'obtention"
+" (des voeux). \""
 
 # 。︀	〝ཆོ་ག〞 1357
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
