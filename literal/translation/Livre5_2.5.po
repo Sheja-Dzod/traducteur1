@@ -158,7 +158,7 @@ msgstr ""
 
 msgctxt "2f7a9edb32f042b4afdd59c444c8657d"
 msgid "དང་པོ་ ནི །"
-msgstr "Premièrement :"
+msgstr "Premièrement :Les différentes procédures (de transmission)"
 
 # 。︀	〝ཆོ་ག〞 1357
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ rituel, méthode
