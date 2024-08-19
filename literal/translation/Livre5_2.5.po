@@ -63,7 +63,7 @@ msgstr ""
 # diviser distinctions
 msgctxt "613453e154664888b80893c16fd0550b"
 msgid "ཆོ་ག␣འི་ དབྱེ་བ །"
-msgstr "Les différents rituels (de transmission)"
+msgstr "Les différentes procédures (de transmission)"
 
 # 。︀	〝སྐྱེ་བ〞 241
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Naître Naissance, venir à l'existence
