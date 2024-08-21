@@ -792,7 +792,7 @@ msgstr ""
 msgctxt "1a158ed8451c47cca68eeb2436c1a6b6"
 msgid "ཕྱི་མ་ བཅས་ ནས་ སྔ་མ␣འི་ ཆོ་ག་ དེ་ བྱ␣ར་ མི་ རུང་ ངོ༌ ། །"
 msgstr ""
-"Une fois la procédure qui suivit adoptée, la précédente ne pouvaient plus "
+"Une fois la procédure qui suivante adoptée, la précédente ne pouvaient plus "
 "être appliquée."
 
 # 。︀	〝འཁོར〞 419
