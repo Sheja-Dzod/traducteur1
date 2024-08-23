@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -375,8 +375,8 @@ msgstr ""
 msgctxt "7b85aaac2baf43588f185a1bcdd706d8"
 msgid "གཞན་ ཡང་ མ་ནིང་ དང་ མཚམས་མེད་ བྱས་པ་ སོགས་ སྐྱེ་བ␣འི་ བར་ཆད །"
 msgstr ""
-"Les obstacle à la naissance du voeux sont d' être hermaphrodite ou assexué "
-"et avoir accompli un des actes aux conséquences immédiates etc. "
+"Les obstacle à la naissance du voeux sont d'être sexuellement indéterminé ou"
+" d' avoir accompli un des actes aux conséquences immédiates etc. "
 
 # 。︀	〝རྒྱལ་པོ〞 770
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ roi
