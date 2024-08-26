@@ -334,7 +334,7 @@ msgstr "4."
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: hetu, cause, cause primaire
 msgctxt "00e61e7f80c44fdcba96fa49e084b8e1"
 msgid "རྒྱུ␣འི་ ཀུན་སློང་ ཐོབ་ འདོད །"
-msgstr "La motivation initiale (litt. causale) de recevoir (les voeux),"
+msgstr "La motivation causale de recevoir (les voeux),"
 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
