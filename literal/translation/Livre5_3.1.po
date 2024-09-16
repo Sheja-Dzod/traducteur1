@@ -255,9 +255,7 @@ msgstr "Les différents facteurs accompagnants principaux"
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ système, tradition
 msgctxt "e72b876b354f40b499796bb7aa63c67b"
 msgid "གདམས་ངག་ ལུགས་ ཁྱད་པར་ དུ་ སྨོས་པ␣འོ ། །"
-msgstr ""
-"Les instructions spécifiques que l'on retrouve dans les instructions "
-"sacrées."
+msgstr "Et une explication issue d'une instruction sacrée."
 
 msgctxt "b97d295d1d6741b7bd09887d1ce48916"
 msgid "དང་པོ་ ནི །"
