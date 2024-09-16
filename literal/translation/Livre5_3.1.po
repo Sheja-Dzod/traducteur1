@@ -1304,7 +1304,7 @@ msgstr "Il en est tel que c'est énoncé. "
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Professeur, Ami (de bien) Ami (de vertu) Le soleil
 msgctxt "10d159fb82ec4c87809af76a6862b387"
 msgid "གྲོགས་ དགེ་བ␣འི་ བཤེས་གཉེན་ གྱི་ སྟོབས་ དང༌ །"
-msgstr "La force des accompagnants que sont les amis de bien et"
+msgstr "La force des amis de bien-les compagnons- et"
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
