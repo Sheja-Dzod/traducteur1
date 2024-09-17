@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -749,8 +749,8 @@ msgstr ""
 msgctxt "a74c085fd585443fbe7d4191ab3c3e9d"
 msgid "སྦྱོར་བ་ མངོན་གྱུར་ དང་པོ་ དགུ་ སྔོན་ དུ་ སོང་ ནས །"
 msgstr ""
-"On commence par la préparation qui est composée des neuf premières présences"
-" prérequises. Ensuite,"
+"On commence par la préparation qui est composée (consiste à réunir) des neuf"
+" premières présences prérequises. Ensuite,"
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
