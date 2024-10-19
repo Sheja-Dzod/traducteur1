@@ -648,7 +648,7 @@ msgstr "Les causes qui faut perdre les voeux (briser)"
 # expérience)
 msgctxt "5235e94b2f8744f3bd7064d93035077b"
 msgid "ཉམས་པ␣འི་ རྒྱུ །"
-msgstr "les cause qui les endommagent"
+msgstr "Les causes qui poussent à endommager les voeux"
 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
