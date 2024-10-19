@@ -631,7 +631,7 @@ msgstr "Les préserver en reconaissant les discordances:"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 msgctxt "93ca10302b2440c58dd8410240015fd2"
 msgid "སྡོམ་པ་ གཏོང་བ␣འི་ རྒྱུ །"
-msgstr "Les causes qui faut prendre les voeux (briser)"
+msgstr "Les causes qui faut perdre les voeux (briser)"
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
