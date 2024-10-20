@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -686,7 +686,7 @@ msgstr ""
 # Etudier,
 msgctxt "690710deebf04845915e904aaecdbce0"
 msgid "གོ་ མཱིའི་ དགེ་བསྙེན་ དུ་ བཤད་ ལ །"
-msgstr "esy appelé un vénérable laîque."
+msgstr "est appelé un vénérable laîque."
 
 # 。︀	〝སློབ་དཔོན〞 6528
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Maître, Maître d'étude, Professeur, Enseignant, Ami
