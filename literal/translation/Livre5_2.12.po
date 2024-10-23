@@ -1175,7 +1175,7 @@ msgstr ""
 # sont les ornements de l’esprit)
 msgctxt "35dd8405cf0944f59e086ba003be81ef"
 msgid "རྒྱན་ གྱིས་ བརྒྱན་པ␣ར་ བྱས་ ཀྱང་ ཆོས་སྤྱོད་ ལ ། །"
-msgstr "Même s'il porte des bijours, il pratique le Dharma...\""
+msgstr "\"Bien qu’orné de parures (bijoux), il pratique le Dharma...\""
 
 # 。︀	〝དགེ་བསྙེན〞 627
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Upasaka / Upasika. Apprenti de la vertu  Pratiquant
