@@ -482,7 +482,7 @@ msgstr "Boir de l'alcool,"
 
 msgctxt "9cfcef31df3c49dea88aac95238bcc26"
 msgid "གར་ སོགས་ གསུམ །"
-msgstr "le trio danse, chant, musique,"
+msgstr "le trio danse, chant, musique, (3 voeux)"
 
 msgctxt "302523dddcf24af4af80eda7fdf6bf66"
 msgid "ཕྲེང་ སོགས་ གསུམ །"
