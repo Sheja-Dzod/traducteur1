@@ -486,7 +486,7 @@ msgstr "le trio danse, chant, musique, (3 voeux)"
 
 msgctxt "302523dddcf24af4af80eda7fdf6bf66"
 msgid "ཕྲེང་ སོགས་ གསུམ །"
-msgstr "le trio bijoux, parfums, maquillage,"
+msgstr "le trio bijoux, parfums, maquillage, (3 voeux)"
 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
