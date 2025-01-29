@@ -729,7 +729,7 @@ msgstr ""
 msgctxt "08534d84b89b4b6ca2c5a305d9c6a1bf"
 msgid "བྱ་བ་ ཐམས་ཅད་ རང་ཉམས་ སུ་ མི་ གཏོང་བ␣ར་ དེ་ ལ་ ཞུ་ ཞིང༌ །"
 msgstr ""
-"le moine ne peut pas agir de son propre cher et doit s'en référrer à son "
+"le moine ne peut pas agir de son propre chef et doit s'en référrer à son "
 "tuteur."
 
 # 。︀	〝སྒོ〞 858
