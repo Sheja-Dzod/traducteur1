@@ -739,7 +739,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ offrande restante
 msgctxt "c4dde7696b8743d6a31eefe68072199d"
 msgid "བག་ཙམ་ གྱི་ ལྷག་མ་ ནི །"
-msgstr "Le résidu de voeux engendré pour une raison insignifiante"
+msgstr "Le résidu de voeux engendré pour une raison triviale"
 
 # 。︀	〝སྐུར་འདེབས〞 214
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sous-estimation ⁃ sous-estimation ⁃ sous-estimation
