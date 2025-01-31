@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -314,8 +314,8 @@ msgstr ""
 msgctxt "d2094f7f5c054e3c900fa4c3a431aea4"
 msgid "སྨྱན་ བྱེད་པ␣འི་ ལྷག་མ་ ནི །"
 msgstr ""
-"Le résidu de voeux engendré par la mise en relation (d'un couple) (matcher "
-"un homme et une femme pour en faire un couple Matchmaking)"
+"Le résidu de voeux engendré pa l'acte d'entremise (matcher un homme et une "
+"femme pour en faire un couple Matchmaking)"
 
 # 。︀	〝སྒོ〞 858
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
