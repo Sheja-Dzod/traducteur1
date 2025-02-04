@@ -357,7 +357,7 @@ msgid ""
 msgstr ""
 "si l'on a acquis une seconde pièce de tissu peu aprés la première, même si "
 "cela fait moins de dix jour,  avoir conservé cette seconde pièce entrainera "
-"une chute sous influence, la chute d'avoir conservé une pièce de tissu "
+"une chute par contamination, la chute d'avoir conservé une pièce de tissu "
 "pendant plus de dix jours se transfère à celui-ci. (l'influence de la faute "
 "liée à la première pièce de tissu)."
 
