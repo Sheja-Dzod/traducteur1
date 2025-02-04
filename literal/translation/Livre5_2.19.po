@@ -403,7 +403,7 @@ msgstr ""
 # complet
 msgctxt "bace47fbeda04d078ee4b8b9baeb5ca4"
 msgid "ཆོས་གོས་ ཡོངས་རྫོགས་ རྙེད་ ན་"
-msgstr "on acquiert un vêtement monastic complet, "
+msgstr "un ensemble complet de robes monastiques,"
 
 # 。︀	〝ཚེ〞 4695
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ durée de vie
