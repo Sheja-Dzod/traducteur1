@@ -223,11 +223,11 @@ msgstr ""
 msgctxt "1e828807f84643d48cd6c1695bd65a25"
 msgid "༥␣མཐོ་གང་ གི་ སྤང་བ་ ནི །"
 msgstr ""
-"Renoncement à \"moins d'une mesure' (litt. un tho gang est un mesure. la "
-"mesure entre la pointe du pouce et celle de l'indexe quand on les ouvre. "
-"elle recouvre 12 doigts en largeur. le skt vitasti est décrit comme une "
-"longeur de 21 cm. Un vitasti c'est 12 Aṅgula et 24 angula font un Hasta or "
-"une coudée.)"
+"Renoncement à \"moins d'un empan' (litt. un tho gang est un mesure. un "
+"empan) la mesure entre la pointe du pouce et celle de l'indexe quand on les "
+"ouvre. elle recouvre 12 doigts en largeur. le skt vitasti est décrit comme "
+"une longeur de 21 cm. Un vitasti c'est 12 Aṅgula et 24 angula font un Hasta "
+"or une coudée.)"
 
 # 。︀	〝གདིང་བ〞 2601
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ assurance (impossible de retrouver ce sens où que ce
