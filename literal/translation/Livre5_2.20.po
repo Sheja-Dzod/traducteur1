@@ -346,7 +346,7 @@ msgstr "transporter une charge importante comme de la laine"
 msgctxt "dd01a477b1cc4f73a031c209655840a0"
 msgid "ཉི་མ་ གཅིག་ གི་ ནང་ དུ་ རྒྱང་གྲགས་ ལ␣ས་ འདས་པ␣ར་ ཕྱིན་པ␣འོ ། །"
 msgstr ""
-"pendant une durée dépassant la portée d'un cris. (un Kroshana ou 500 fois "
+"pendant une durée dépassant une portée de voix. (un Kroshana ou 500 fois "
 "l'envergure d'un homme moyen, environ 1km)"
 
 # 。︀	〝འཇུག་པ〞 1591
