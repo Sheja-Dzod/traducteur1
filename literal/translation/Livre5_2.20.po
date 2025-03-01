@@ -373,7 +373,7 @@ msgstr "par une nonne pleinement ordonée qui n'est pas un parent,"
 # Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
 msgctxt "262fc43da81a44d5b18913896f8f848f"
 msgid "བལ་ འཁྲུད་པ་ དང་ རྨེལ་བ་ དང་ འཚེད་ དུ་ འཇུག་པ␣འོ ། །"
-msgstr "faire laver, déméler et filer et bouillir(pour teindre?) de la laine."
+msgstr "Faire laver, carder ou teindre de la laine."
 
 # 。︀	〝སྤང་བ〞 3354
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
