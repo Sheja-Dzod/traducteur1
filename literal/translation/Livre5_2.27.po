@@ -166,7 +166,7 @@ msgstr ""
 # sanctifier, “sacrifier”, pouvoir sacramentel, manne
 msgctxt "18dab71281e7415da8ef97cccd20d731"
 msgid "རེག་ དགོས་ ན་ དུས་ བྱིན་ གྱིས་ བརླབས་པ་ ནི །"
-msgstr "un moment est consacré pour toucher le feu s'explique ainsi:"
+msgstr "Une autorisation temporaire pour utiliser le feu s'explique ainsi:"
 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
