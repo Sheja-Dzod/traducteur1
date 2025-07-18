@@ -278,7 +278,7 @@ msgstr "l'utiliser en ayant préalablement établit la durée du temps."
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ fosse de feu
 msgctxt "13058f937fbc4e77b2cd470d3b4683b6"
 msgid "མེ་ མ་ མུ␣ར་ ལ་ རེག་ ན་ ཉེས་བྱས་ དང་"
-msgstr "si on touche des braises, c'est une faute mineure,"
+msgstr "si on manipule des braises, c'est une faute mineure,"
 
 msgctxt "11a0f9a706954cb69c22a3b3504d76d9"
 msgid "མེ་ལྕེ་ ལ་ བུད་ཤིང་ བཅུག་ ན་"
