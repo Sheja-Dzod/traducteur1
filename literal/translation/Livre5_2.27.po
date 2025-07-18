@@ -467,7 +467,7 @@ msgid ""
 "འདུན་པ་ ཕུལ་བ␣ར་ སླར་ འདུན་པ་ ཕྱིར་ བྱིན་ ཅིག་ ཅེས་ ལྡོག་ ཏུ་ བཅུག་པ␣འོ ། །"
 msgstr ""
 "accorder son consentement, puis se rétracter disant \"je retire mon "
-"consontement\". "
+"consentement\". "
 
 msgctxt "ef87cf556d6f4c2684874e7cc5a4535e"
 msgid "ནུབ་ ལྷག་པོ␣ར་ ཉལ་བ␣འི་ ལྟུང་བྱེད་ ནི །"
