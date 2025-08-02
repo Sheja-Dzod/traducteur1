@@ -672,7 +672,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Arme, Signe, Ce qui montre, Montrer, Désigner, Citer,
 msgctxt "5fec2b0d39774905bec4af8a8f8fa0ec"
 msgid "མཚོན་ གྱིས་ མ་ དྲས་པ␣འི་ གོས་ བཅང་བ␣ར་ མི་ བྱ␣འོ ། །"
-msgstr "il est dit: ''on ne doit pas garder de tissue non découpé.\""
+msgstr "il est dit: ''on ne doit pas porter de tissue non découpé.\""
 
 # 。︀	〝གྲི〞 545
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ épée/onguent pour le pied
