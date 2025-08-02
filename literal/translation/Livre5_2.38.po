@@ -499,8 +499,8 @@ msgid ""
 "གོས་ ལ་ འཚོ་ མཁོ་ ལྷག་པ␣འི་ ཡོ་བྱད་ དེ ། ། འཚོ་བ་ རུང་བ␣ས་ ཁ་ བསྒྱུར་ "
 "བཅུ་གསུམ་ མོ ། །"
 msgstr ""
-"Les vêtements sont ceux de première nécessité, ceux importants et ceux "
-"suplémentaires; les treize de première nécessité doivent être teinté selon "
+"Les vêtements sont ceux de première nécessité, ceux importants et ceux  "
+"complémentaires; les treize de première nécessité doivent être teinté selon "
 "les teinture autorisées."
 
 # 。︀	〝འབྲེལ་བ〞 4095
