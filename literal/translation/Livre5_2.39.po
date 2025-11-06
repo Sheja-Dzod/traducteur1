@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -512,7 +512,7 @@ msgstr ""
 # reste,  Exception, (comme dans sans exception)  Rahoula comme planète
 msgctxt "6f12a5e8e1144de99bd1eee94254be18"
 msgid "གསུམ་པ་ ལྷག་པ␣འི་ ཡོ་བྱད་ ནི །"
-msgstr "3. Les vêtements suplémentaires"
+msgstr "3. Les articles suplémentaires"
 
 # 。︀	〝སྣམ་སྦྱར〞 3291
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ manteau de moine
