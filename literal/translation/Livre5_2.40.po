@@ -336,7 +336,7 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: continuer
 msgctxt "58c661d2be76445897a0626ccb269886"
 msgid "བཅའ་བ་ ལྔ་ ནི །"
-msgstr "Les cinq aliments a mâcher (à consommer crus) sont:"
+msgstr "Les cinq aliments crus à boire sont:"
 
 # 。︀	〝འབྲས་བུ〞 4080
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fruit,  Résultat, Conséquence,
