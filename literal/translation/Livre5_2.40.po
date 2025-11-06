@@ -460,8 +460,8 @@ msgstr ""
 msgctxt "cb3760818d4d478bb167457c40400ba3"
 msgid "ཀུ་ཤུ་ དང་ རྒུན་འབྲུམ་ དང་ འབྲ་གོ་ སོགས་ ལ␣ས་ བྱས་པ␣འི་ བཏུང་བ་ དང༌ །"
 msgstr ""
-"Les boissons autorisées sont les jus de pomme, de raisin, de noyeau de "
-"mangue etc.  ainsi que"
+"Les boissons autorisées sont les jus de pomme, de raisin, de jujube etc.  "
+"ainsi que"
 
 # 。︀	〝དྭངས་མ〞 2517
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Essence, quintessence, sève, (dvangs ma,   dvangs)
