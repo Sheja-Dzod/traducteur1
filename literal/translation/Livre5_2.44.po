@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +42,7 @@ msgstr "3. Remédier aux disputes"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pression-soulagement
 msgctxt "c676dbab261642d79e9142725f7fac3e"
 msgid "རྩོད་པ་ བཞི་པོ་ ཞི་བྱེད་ བདུན་ གྱིས་ གཞིལ ། །"
-msgstr "Septe méthodes pour pacifier les disputes."
+msgstr "Sept méthodes pour pacifier les disputes."
 
 # 。︀	〝རྩོད་པ〞 4579
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Débattre, Controverser, Argumenter, Disputation
