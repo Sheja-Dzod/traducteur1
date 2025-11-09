@@ -878,8 +878,7 @@ msgstr "puisque c'est l'enseignement du Bouddha"
 msgctxt "3d8c05a8abf949b0851e97e940e1c691"
 msgid "ཕན་ཡོན་ མཆོག་ ཏུ་ ཆེ་ ཞིང་ ཉེས་པ་ མེད་པ␣ར་ འགྱུར་བ␣ས །"
 msgstr ""
-"cela sera d'un très grand bienfait et il ne présentear aucun problème. "
-"Ainsi,"
+"cela sera d'un très grand bienfait et il ne présente aucun problème. Ainsi,"
 
 # 。︀	〝གནས〞 3014
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
