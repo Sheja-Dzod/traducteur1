@@ -868,7 +868,7 @@ msgstr "Il y a trois procédure pour transmettre les voeux."
 msgctxt "561d14586d524ed5a4dfd335791da937"
 msgid "ཉན་ཐོས་ དང་ ཐུན་མོང་བ␣འི་ ཐེག་ཆེན་ སོ་ཐར་ ནི །"
 msgstr ""
-"La procédure pour les voeux de libération individuelle du Grand Véhicyle "
+"La procédure pour les voeux de libération individuelle du Grand Véhicyue "
 "commune avec celle du Véhicule des Auditeurs "
 
 # 。︀	〝ཆོ་ག〞 1357
