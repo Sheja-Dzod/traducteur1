@@ -293,7 +293,7 @@ msgstr ""
 # (êtres) humains, hommes, homo sapiens
 msgctxt "a245aadb1ef84f0aa6b7893177c119b1"
 msgid "ལྟུང་བ་ མི་ འབྱུང་བ␣འི་ རྒྱུ་ བཞི་ ལ་ བརྩོན །"
-msgstr "s'appliquer à éviter les quatre causes entainant une chute,"
+msgstr "s'appliquer à éviter les quatre causes entrainant une chute,"
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
