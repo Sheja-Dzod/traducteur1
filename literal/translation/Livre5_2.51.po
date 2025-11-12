@@ -390,7 +390,7 @@ msgstr "s'en remettre aux cinq facteurs concordant "
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Conscience, connaissance, cognition
 msgctxt "d08d5b04599e4657947a05b863f1a92e"
 msgid "ཡོངས་སུ་ ཤེས་པ␣འི་ ཆོས་ ལྔ་ དང༌ །"
-msgstr "connaitre les cinq choses à correctement comprendre et"
+msgstr "connaitre les cinq sujets à correctement comprendre et"
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
