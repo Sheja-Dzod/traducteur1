@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -528,8 +528,8 @@ msgstr ""
 msgctxt "d1d8509938074d3884932d0919da0373"
 msgid "དེ་དག་ ཁྱིམ་པ␣འི་ ཕྱོགས་ ཀྱི་ ཁྲིམས་ གཉིས་ ལ་ ནི་ ངེས་པ་ མེད་ དོ ། །"
 msgstr ""
-"Ces limitations et obstacles ne sont cependant pas contraignant (necessaire)"
-" pour les deux catégories de voeux concernant les laîques."
+"Ces  obstacles ne sont cependant pas contraignant (necessaire) pour les deux"
+" catégories de voeux concernant les laîques."
 
 msgctxt "c0628c284d0544379811346c8705ef65"
 msgid "བཞི་པ་ ལ་ གཉིས །"
