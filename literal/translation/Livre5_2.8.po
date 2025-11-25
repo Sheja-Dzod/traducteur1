@@ -279,7 +279,9 @@ msgstr "3."
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
 msgctxt "5a6d791b85fb41709c00f74934c1693d"
 msgid "ཁྱིམ་པ␣འི་ རྟགས་ སྤོང་ ལ །  ལུས་ ཀྱི་ བྱི་བྱད་ གོས །"
-msgstr "Rejeter l'habillement de laîque et avoir une bonne hygiéne."
+msgstr ""
+"«L’aspirant renonce à l’habillement laïc et adopte la triple apparence du "
+"renonçant : la tête rasée, la robe monastique, "
 
 # 。︀	〝སྒོ〞 858
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
