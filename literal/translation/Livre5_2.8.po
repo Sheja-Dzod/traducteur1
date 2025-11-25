@@ -814,7 +814,7 @@ msgstr "le bon nombre (d'officiants)"
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 msgctxt "54bb1d3ed6c24d928c156869daee6e90"
 msgid "ཁ་སྐོང་ གི་ ཆོས་ དང་ ལྡན་པ །"
-msgstr "posséder les qualités complémentaires"
+msgstr "posséder les qualités pour un  quorum  complet"
 
 # 。︀	〝བྲལ་བ〞 3851
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre séparé, Etre libre de, Etre dépourvu de, Etre
