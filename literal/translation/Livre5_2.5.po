@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -153,7 +153,7 @@ msgstr ""
 msgctxt "1ca6322bc4ed43769b16c155798edd0f"
 msgid "མཐུན་ རྐྱེན་ ཆོ་ག་ ཚོགས་པ␣ར་ སྒྲུབ་པ␣འོ ། །"
 msgstr ""
-"Les conditions favorisant (l'obtention) : l'accomplissement de l'enssemble "
+"Les conditions favorisant (l'obtention) : l'accomplissement de l'ensemble "
 "des procédures"
 
 msgctxt "2f7a9edb32f042b4afdd59c444c8657d"
@@ -615,8 +615,9 @@ msgstr ""
 "Par la procédure en quatre partie commencant par la requête en présence "
 "d'une assemblé d'un nombre défini de 10 membres de la Sangha (moines "
 "pleinement ordonnés) si dans une région centrale ou de 5 membres si dans une"
-" région périférique.  Tels sont les (dix) facons dont on recevait "
-"spontanément l'ordination complète de renoncant."
+" région périférique.  Telles sont les dix manières selon lesquelles on "
+"recevait autrefois en même temps l’entrée dans le renoncement et la pleine "
+"ordination."
 
 # 。︀	〝མཁན་པོ〞 399
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ abbé
@@ -1178,8 +1179,8 @@ msgstr ""
 msgctxt "24103b8e43504573bba25214ad70c79d"
 msgid "མདོ་སྡེ་པ་ བསྙེན་གནས་ དུད་འགྲོ་ སོགས་ ལ␣འང་ སྐྱེ་བ␣ར་ འདོད་ དེ །"
 msgstr ""
-"Pour les Tenants des Soutras, les annimaux aussi peuvent recevoir les voeux "
-"journaliers. En effet,"
+"Pour les Tenants des Soutras, les animaux et autres non-humains  aussi "
+"peuvent recevoir les voeux journaliers. En effet,"
 
 # 。︀	〝ཀླུ〞 112
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les nagas sont des créatures animales ou semi-divines qui

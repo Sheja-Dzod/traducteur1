@@ -235,8 +235,8 @@ msgid ""
 "བསམ་པ་ ཐག་པ་ ནས་ ཁྱིམ་པ␣འི་ རྟགས་ ཉིན་ གཅིག་ ཙམ་ བླངས་པ␣ས་ ཀྱང་ དེ་ "
 "གཏོང་བ␣ར་ བཤད་པ␣འི་ ཕྱིར་ རོ ། །"
 msgstr ""
-"même si on les fait ne serais-ce que pendant un jour, il est dit que l'on a "
-"cassé (les voeux de renoncant)."
+"même si on les accomplis en conscience,  ne serais-ce que pendant un jour, "
+"il est dit que l'on a cassé (les voeux de renoncant)."
 
 # 。︀	〝རྒྱས་པ〞 792
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Accroître, S'accroître, Accroissement, Amplifier,
@@ -761,7 +761,7 @@ msgstr "Ce qui est dit et aussi, "
 # Extérieur, Externe, Extrinsèque,
 msgctxt "3447532ef7b34ef0a9d608cf0a7a5d6d"
 msgid "གཞན་ ཡང་ ཉེས་མེད་ བདུན་ མ་གཏོགས་པ་"
-msgstr "De plus, hormis sept dérogations,"
+msgstr "De plus, hormis sept actions sans faute,"
 
 # 。︀	〝དགེ་སློང་མ〞 660
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Bikshouni Moniale pleinement ordonnée: "Celle qui

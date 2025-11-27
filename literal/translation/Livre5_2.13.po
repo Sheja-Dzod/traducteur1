@@ -482,11 +482,11 @@ msgstr "Boir de l'alcool,"
 
 msgctxt "9cfcef31df3c49dea88aac95238bcc26"
 msgid "གར་ སོགས་ གསུམ །"
-msgstr "le trio danse, chant, musique,"
+msgstr "le trio danse, chant, musique, (3 voeux)"
 
 msgctxt "302523dddcf24af4af80eda7fdf6bf66"
 msgid "ཕྲེང་ སོགས་ གསུམ །"
-msgstr "le trio bijoux, parfums, maquillage,"
+msgstr "le trio bijoux, parfums, maquillage, (3 voeux)"
 
 # 。︀	〝སོ་སོ〞 6426
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Chacun, Chaque, L'un et l'autre distinctement, L'un et
@@ -500,7 +500,8 @@ msgstr "le trio bijoux, parfums, maquillage,"
 msgctxt "e5794ac0424a4483889e982fcdc8bfac"
 msgid "མལ་སྟན་ ཆེ་ མཐོ་ རྣམས་ སོ་སོ␣ར་ བགྲངས་པ་ དང༌ །"
 msgstr ""
-"l'usage d'un lit luxueux et élevé compté chacun pour une transgression,"
+"l'usage d'un lit luxueux et élevé compté chacun pour une transgression, (2 "
+"voeux)"
 
 msgctxt "74d95a3ddf304600b3f9f5c143d8b29d"
 msgid "ཕྱི་དྲོ␣འི་ ཁ་ཟས །"

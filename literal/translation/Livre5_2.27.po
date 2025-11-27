@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -122,7 +122,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contact ⁃ Contact ⁃ Contact
 msgctxt "d3796971ff604b70a71b3104bdcf496c"
 msgid "མེ་ ལ་ རེག་པ␣འི་ ལྟུང་བྱེད་ ནི །"
-msgstr "le provocateur de chute consistant à toucher du feu"
+msgstr "le provocateur de chute consistant à faire usage du feu"
 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
@@ -146,8 +146,8 @@ msgid ""
 "དུས་ བྱིན་ གྱིས་ མ་ བརླབས་པ་ དང་ ན་བ␣འི་ དབང་ གིས་ མ་ཡིན་པ␣ར་ མེ་ ལ་ "
 "རེག་པ␣འོ ། །"
 msgstr ""
-"consiste a toucher du feu sauf si c'est à un moment non consacré ou que l'on"
-" est malade. "
+"consiste a utiliser le feu sauf si cela réponds à une autoristation "
+"temporaire ou que l'on est malade. "
 
 # 。︀	〝དུས〞 2405
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ temps, durée
@@ -166,7 +166,7 @@ msgstr ""
 # sanctifier, “sacrifier”, pouvoir sacramentel, manne
 msgctxt "18dab71281e7415da8ef97cccd20d731"
 msgid "རེག་ དགོས་ ན་ དུས་ བྱིན་ གྱིས་ བརླབས་པ་ ནི །"
-msgstr "un moment est consacré pour toucher le feu s'explique ainsi:"
+msgstr "Une autorisation temporaire pour utiliser le feu s'explique ainsi:"
 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
@@ -264,7 +264,7 @@ msgstr "se rappelant que le guide-bouddha en a donné l'autorisation"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ temps ⁃ Temps
 msgctxt "69699e5b45df4fc7b224a5a622691584"
 msgid "དུས་ དྲན་ བྱས་ ནས་ རེག་ གོ  །"
-msgstr "toucher en ayant conscience que c'est une occasion spéciale."
+msgstr "l'utiliser en ayant préalablement établit la durée du temps."
 
 # 。︀	〝མ〞 4140
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
@@ -278,7 +278,7 @@ msgstr "toucher en ayant conscience que c'est une occasion spéciale."
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ fosse de feu
 msgctxt "13058f937fbc4e77b2cd470d3b4683b6"
 msgid "མེ་ མ་ མུ␣ར་ ལ་ རེག་ ན་ ཉེས་བྱས་ དང་"
-msgstr "si on touche des braises, c'est une faute mineure,"
+msgstr "si on manipule des braises, c'est une faute mineure,"
 
 msgctxt "11a0f9a706954cb69c22a3b3504d76d9"
 msgid "མེ་ལྕེ་ ལ་ བུད་ཤིང་ བཅུག་ ན་"
@@ -344,8 +344,8 @@ msgctxt "df40dbe856d44958a2e85f2eb2e15787"
 msgid ""
 "སྤྱིར་ འདུལ་བ་ ལུང་ ལ␣ས་ འདི་ ལྟ་བུ␣འི་ བྱིན་རླབས་ བཅུ་གཅིག་ གསུངས་ ཏེ །"
 msgstr ""
-"En générale, ces occasions sacrées (ou consacrées, dans le sens littérale), "
-"sont exposé dans l 'Ecriture sur la Discpline au nombre de 11"
+"En générale, ces autorisation temporelles sont exposé dans l 'Ecriture sur "
+"la Discpline au nombre de 11"
 
 msgctxt "173867584f6c41c78262de6ce3a8543f"
 msgid "དེ␣འང༌ །"
@@ -377,10 +377,10 @@ msgid ""
 "གོས་ དང་ ལྷུང་བཟེད་ རིན་པོ་ཆེ ། ། ལྟུང་བ་ གསོ་སྦྱོང་ དབྱར་ དང་ ནི ། ། "
 "དགག་དབྱེ་ སྨན་ དང་ རུང་ཁང་ དང༌ ། ། རྙེད་པ་ དུས་ ཀྱི་ བྱིན་ བརླབ་བོ ། །"
 msgstr ""
-"On retrouve les occasions sacrées  en lien avec les vêtements, le bol "
+"On retrouve les autorisation temporelles en lien avec les vêtements, le bol "
 "d'aumône, les objets précieux, les chutes, la restauration-purification, la "
 "retraite d'été, la levée des restrictions, les médicaments, la cuisine, les "
-"donations et d'autres occasions ??"
+"donations et les autorisation temporelles."
 
 msgctxt "0f9a02d839e847708d65b2a44ae3daf1"
 msgid "ཞེས་ སོ ། །"
@@ -397,7 +397,7 @@ msgstr "C'est ce qui  est dit."
 # désir (de)
 msgctxt "ddad0bbb3cee4257bf503db841a5f7c9"
 msgid "འདུན་པ་ ཕྱིར་ བསྒྱུར་བ␣འི་ ལྟུང་བྱེད་ ནི །"
-msgstr "Le provocateur de chute consistant à se dédire"
+msgstr "Le provocateur de chute consistant à retirer son consentement"
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
@@ -467,7 +467,7 @@ msgid ""
 "འདུན་པ་ ཕུལ་བ␣ར་ སླར་ འདུན་པ་ ཕྱིར་ བྱིན་ ཅིག་ ཅེས་ ལྡོག་ ཏུ་ བཅུག་པ␣འོ ། །"
 msgstr ""
 "accorder son consentement, puis se rétracter disant \"je retire mon "
-"consontement\". "
+"consentement\". "
 
 msgctxt "ef87cf556d6f4c2684874e7cc5a4535e"
 msgid "ནུབ་ ལྷག་པོ␣ར་ ཉལ་བ␣འི་ ལྟུང་བྱེད་ ནི །"

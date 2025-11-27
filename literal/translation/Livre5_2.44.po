@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +42,7 @@ msgstr "3. Remédier aux disputes"
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: pression-soulagement
 msgctxt "c676dbab261642d79e9142725f7fac3e"
 msgid "རྩོད་པ་ བཞི་པོ་ ཞི་བྱེད་ བདུན་ གྱིས་ གཞིལ ། །"
-msgstr "Septe méthodes pour pacifier les disputes."
+msgstr "Sept méthodes pour pacifier les quatre disputes."
 
 # 。︀	〝རྩོད་པ〞 4579
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Débattre, Controverser, Argumenter, Disputation
@@ -114,9 +114,9 @@ msgid ""
 "འདུས་བྱས་ རྟག་ མི་རྟག་ ལ་ རྒོལ་ ཕྱིར་རྒོལ་ རྩོད་པ་ ལྟ་བུ་ འགྱེད་ ཕྱིར་ གྱི་ "
 "རྩོད་པ་ དང༌ །"
 msgstr ""
-"La dispute consistant à argumenter pour le simple fait de débattre comme l' "
-"argumentation entre celui qui pose la question et celui qui y répond sur "
-"l'impermanence ou la permanence des phénomènes composés."
+"1. La dispute lors d'un débat comme l' argumentation entre celui qui pose la"
+" question et celui qui y répond sur l'impermanence ou la permanence des "
+"phénomènes composés."
 
 # 。︀	〝གདམས་ངག〞 2593
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ instruction
@@ -131,8 +131,9 @@ msgstr ""
 msgctxt "d0e4c507bfba4026a3eb7ba272d069e6"
 msgid "གདམས་ངག་ གསོ་ དགག་གཞག་པ་ ལ་ འཇོག་པ་པོ་ དང་"
 msgstr ""
-"Entre celui qui impose l'arret des conseils, la suspension des cérémonies de"
-" restauration-purification et de levée des restrictions et"
+"2. (la contestation de l'arret des conseils) Entre celui qui impose l'arret "
+"des conseils, la suspension des cérémonies de restauration-purification et "
+"de levée des restrictions et"
 
 # 。︀	〝མི〞 4227
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
@@ -150,11 +151,8 @@ msgstr ""
 msgctxt "33dec4458df546d497a0d5a43dd652c4"
 msgid "བཞག་ བྱ་ རྩོད་པ་ ལྟ་བུ་ མི་ གདམས་པ␣འི་ ཕྱིར་ གྱི་ རྩོད་པ་ དང༌ །"
 msgstr ""
-"celui à qui cela est imposé, une dispute de ce type est une dispute a cause "
-"d'un manque d'instructions (argumentation provenant du fait que le moine qui"
-" impose la punition n'explique pas sa décision au moine fautif. ici Karmapa "
-"MD le comprend comme un refus d'écouté les "
-"instructionsམི་བསྡམ་ཕྱིར་གྱི་རྩོད་པ)"
+"celui à qui cela est imposé, une dispute de ce type est une contestation due"
+" à l'arret des conseils."
 
 # 。︀	〝ལྟུང་བ〞 2005
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, ⁃ Déchéances,  Chutes (des voux de
@@ -246,8 +244,8 @@ msgid ""
 "སྦྱིན་པ␣ས་"
 msgstr ""
 "ne pas donner son accord pour une activité procédurielle comme celle de "
-"restauration-purification parcequ'engagé dans l'une de ces trois forme de "
-"dispute  et ainsi"
+"restauration-purification parce qu'engagé dans l'une de ces trois forme de "
+"dispute et ainsi"
 
 # 。︀	〝རྩོད་པ〞 4579
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Débattre, Controverser, Argumenter, Disputation
@@ -380,7 +378,7 @@ msgstr "énnoncées au nombre de sept:"
 # manifeste, évidence sensorielle, évident pour les sens, perception
 msgctxt "387222160fcd4e338c861b087417bf70"
 msgid "དང་པོ་ ལ་ མངོན་སུམ་ བརྒྱད་ དང༌ །"
-msgstr "1. L'apaisement en présence des huit référent fiables"
+msgstr "1. Les 8 résolutions sans équivoque"
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
@@ -427,7 +425,7 @@ msgctxt "4c6fe34669d648fdb823a9d360b120bd"
 msgid "གཉིས་པ་ ལ་ ལྟུང་བ་ གླེང་ རྒྱུ་ ཡོད་པ་ ལ་ མངོན་སུམ་ བརྒྱད་ དང༌ །"
 msgstr ""
 "2. Si il y a une raison de discuter d'une chute (avec un moine fautif) (la "
-"dispute sera résolue) en présence d'un des huit référent fiable. Ou bien,"
+"dispute sera résolue) par les 8 résolutions sans équivoque. Ou bien,"
 
 # 。︀	〝དགེ་འདུན〞 632
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
@@ -747,7 +745,7 @@ msgctxt "9ae41111463e47abb2dc9a093388596d"
 msgid "གནས་མལ་ གཞི་ ཡང་ ལུགས་ འདི␣ར་ མཐུན་ ན་ མཆོག  །"
 msgstr ""
 "Il serait excellent si, de nos jours, le lieu de vie s'accorde avec les "
-"règles fondamentales de la traduction du vinaya."
+"règles fondamentales de la tradition du vinaya."
 
 # 。︀	〝མཐུན་པ〞 2301
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conforme, En accord avec, Harmonieux,
@@ -880,8 +878,7 @@ msgstr "puisque c'est l'enseignement du Bouddha"
 msgctxt "3d8c05a8abf949b0851e97e940e1c691"
 msgid "ཕན་ཡོན་ མཆོག་ ཏུ་ ཆེ་ ཞིང་ ཉེས་པ་ མེད་པ␣ར་ འགྱུར་བ␣ས །"
 msgstr ""
-"cela sera d'un très grand bienfait et il ne présentear aucun problème. "
-"Ainsi,"
+"cela sera d'un très grand bienfait et il ne présente aucun problème. Ainsi,"
 
 # 。︀	〝གནས〞 3014
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Lieu, pays, contrée, localilté, Lieu sacré (de
@@ -1135,8 +1132,8 @@ msgstr ""
 msgctxt "483e7efac9404bcca177fcf7a99b38e7"
 msgid "དེ་ སྟོན་ བྱེད་ ཚིགས་བཅད་ དང་ བཅས་པ་ ལ་སོགས་པ་ བྲི །"
 msgstr ""
-"eles vers qui résument son sens. Ceci ainsi que d'autres représentations "
-"sont déssinées."
+"les vers qui résument son sens. Ceci ainsi que d'autres représentations sont"
+" déssinées."
 
 # 。︀	〝ཆོས〞 1364
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Dharma Réalité Enseignement, L'enseignement de réalité
@@ -1243,7 +1240,7 @@ msgctxt "0330f29240a041439e3e899b5d27d7c1"
 msgid "གང་ཟག་ སོ་སོ␣འི་ ཁང་པ་ སྤྱོད་ལམ་ བཞི་ ཤོང་ གི་ ཚད་ ཅན །"
 msgstr ""
 "et des chambres de moines dont la taille est celle permettant les quatre "
-"activités de base."
+"postures de base."
 
 # 。︀	〝རྒྱལ་མཚན〞 784
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ signe, bannière de victoire

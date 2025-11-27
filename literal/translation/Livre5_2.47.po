@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -431,7 +431,8 @@ msgstr "parce qu'il est la cause des activités éveillées des Rois du Dharma. 
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mot (exprimant) ce qui est certain, Ce qui est, Etre
 msgctxt "bc22f5686a36456f9e798a31fa544f8d"
 msgid "དེ་ འཐོབ་པ␣ར་ བྱེད་པ␣འི་ ཕྱིར་ དབང་ བསྐུར་བ་ ཡིན་ ཏེ །"
-msgstr "La transmission de l'initiation est la méthode pour l'obtenir."
+msgstr ""
+"Puisque la transmission de l'initiation est la méthode pour l'obtenir...."
 
 # 。︀	〝འབྱུང་བ〞 4057
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les (cinq) éléments (bases de toutes choses)
@@ -867,7 +868,7 @@ msgstr "Il y a trois procédure pour transmettre les voeux."
 msgctxt "561d14586d524ed5a4dfd335791da937"
 msgid "ཉན་ཐོས་ དང་ ཐུན་མོང་བ␣འི་ ཐེག་ཆེན་ སོ་ཐར་ ནི །"
 msgstr ""
-"La procédure pour les voeux de libération individuelle du Grand Véhicyle "
+"La procédure pour les voeux de libération individuelle du Grand Véhicyue "
 "commune avec celle du Véhicule des Auditeurs "
 
 # 。︀	〝ཆོ་ག〞 1357

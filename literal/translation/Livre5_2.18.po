@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -314,8 +314,8 @@ msgstr ""
 msgctxt "d2094f7f5c054e3c900fa4c3a431aea4"
 msgid "སྨྱན་ བྱེད་པ␣འི་ ལྷག་མ་ ནི །"
 msgstr ""
-"Le résidu de voeux engendré par la mise en relation (d'un couple) (matcher "
-"un homme et une femme pour en faire un couple Matchmaking)"
+"Le résidu de voeux engendré pa l'acte d'entremise (matcher un homme et une "
+"femme pour en faire un couple Matchmaking)"
 
 # 。︀	〝སྒོ〞 858
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
@@ -403,9 +403,9 @@ msgid ""
 "རང་ ངམ་ གཞན་ བྱེད་ འཇུག་ ཀྱང་ རུང༌ ། ། བུད་མེད་ སྐྱེས་པ་ ཕྲད་ ན་ ནི ། ། "
 "དགེ་འདུན་ ལྷག་མ␣འི་ རལ་གྲི་ ཡིས ། ། རང་ གི་ མགོ་ ནི་ གཅོད་པ␣ར་ བྱེད ། །"
 msgstr ""
-"\"Si tu as toi même favorisé la rencontre d'une femme et d'un homme ou que "
-"tu as incité un autre à le faire, l'épée de la violation avec résidu de la "
-"Sangha tranchera ta propre tête.\""
+"\"Si tu favorises toi-même une rencontre entre une femme et un homme, Ou si "
+"tu incites quelqu'un d'autre à le faire, L'épée de la faute avec résidu de "
+"la Sangha Tranchera ta propre tête.\""
 
 msgctxt "27feeac06310437d80a7c7da08e3551d"
 msgid "ཅེས་ སོ ། །"
@@ -739,7 +739,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ offrande restante
 msgctxt "c4dde7696b8743d6a31eefe68072199d"
 msgid "བག་ཙམ་ གྱི་ ལྷག་མ་ ནི །"
-msgstr "Le résidu de voeux engendré pour une raison insignifiante"
+msgstr "Le résidu de voeux engendré pour une raison triviale"
 
 # 。︀	〝སྐུར་འདེབས〞 214
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sous-estimation ⁃ sous-estimation ⁃ sous-estimation
@@ -1054,7 +1054,7 @@ msgctxt "8d205b40bc3040b1bdac8a98cc65e0f4"
 msgid "བཀའ་བློ་ མི་ བདེ་བ␣འི་ དགེ་འདུན་ ལྷག་མ་ ནི །"
 msgstr ""
 "Le résidu de vœux résultant de l'incapacité à apprécier les remontrances "
-"(litt. ne pas être content)"
+"(litt. ne pas être content) Ou insurbordination"
 
 # 。︀	〝བཅོས་པ〞 1275
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Fabrication, artifice Fabriquer, Traiter, modifier

@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -158,7 +158,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fautes entraînant l'abandon d'objets illicites(30)
 msgctxt "bbdb183e68d445c694ac85fcfc9dab47"
 msgid "༣␣ཆ་ གཉིས་ བསྲེས་པ␣འི་ སྤང་བ་ ནི །"
-msgstr "Renoncement aux \"deux quarts\"."
+msgstr "Renoncement au mélange de deux types de laine"
 
 # 。︀	〝བྱས་པ〞 3811
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ acte délibéré, action volontaire
@@ -223,11 +223,11 @@ msgstr ""
 msgctxt "1e828807f84643d48cd6c1695bd65a25"
 msgid "༥␣མཐོ་གང་ གི་ སྤང་བ་ ནི །"
 msgstr ""
-"Renoncement à \"moins d'une mesure' (litt. un tho gang est un mesure. la "
-"mesure entre la pointe du pouce et celle de l'indexe quand on les ouvre. "
-"elle recouvre 12 doigts en largeur. le skt vitasti est décrit comme une "
-"longeur de 21 cm. Un vitasti c'est 12 Aṅgula et 24 angula font un Hasta or "
-"une coudée.)"
+"Renoncement à \"moins d'un empan' (litt. un tho gang est un mesure. un "
+"empan) la mesure entre la pointe du pouce et celle de l'indexe quand on les "
+"ouvre. elle recouvre 12 doigts en largeur. le skt vitasti est décrit comme "
+"une longeur de 21 cm. Un vitasti c'est 12 Aṅgula et 24 angula font un Hasta "
+"or une coudée.)"
 
 # 。︀	〝གདིང་བ〞 2601
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ assurance (impossible de retrouver ce sens où que ce
@@ -289,8 +289,8 @@ msgid ""
 "རྙིང་པ་ ནས་ བདེ་བ␣ར་ གཤེགས་པ␣འི་ མཐོ་གང་ གི་ ཚད་ དེ་ མི␣འི་ ཁྲུ་ ཕྱེད་ དོ་མ་"
 " གླན་པ␣ར་ ལོངས་ སྤྱད་པ␣འོ ། །"
 msgstr ""
-"ne pas y intégrer un morceau de l'ancien tapis de la taille d'une main du "
-"Vainqueur, c'est-à-dire une coudée et demie d'un homme de taille normale."
+"ne pas y intégrer un morceau de l'ancien tapis de la taille d'un empan du "
+"Vainqueur, c'est-à-dire une demie coudée d'un homme de taille normale."
 
 # 。︀	〝སྤང་བ〞 3354
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
@@ -346,7 +346,7 @@ msgstr "transporter une charge importante comme de la laine"
 msgctxt "dd01a477b1cc4f73a031c209655840a0"
 msgid "ཉི་མ་ གཅིག་ གི་ ནང་ དུ་ རྒྱང་གྲགས་ ལ␣ས་ འདས་པ␣ར་ ཕྱིན་པ␣འོ ། །"
 msgstr ""
-"pendant une durée dépassant la portée d'un cris. (un Krosha ou 500 fois "
+"pendant une durée dépassant une portée de voix. (un Kroshana ou 500 fois "
 "l'envergure d'un homme moyen, environ 1km)"
 
 # 。︀	〝འཇུག་པ〞 1591
@@ -364,7 +364,7 @@ msgstr "Renoncement à faire laver de la laine."
 
 msgctxt "469272dd9f14496ea3c6f35e01d632eb"
 msgid "རང་ གི་ ཉེ་དུ་ མ་ཡིན་པ␣འི་ དགེ་སློང་ མ་ལ་"
-msgstr "à nonne pleinement ordonée qui n'est pas un parent,"
+msgstr "par une nonne pleinement ordonée qui n'est pas un parent,"
 
 # 。︀	〝འཇུག་པ〞 1591
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ engagement; entrée (une des quatre pratiques des tantras
@@ -373,7 +373,7 @@ msgstr "à nonne pleinement ordonée qui n'est pas un parent,"
 # Continuation, développement, engagement, entrée ⁃ Entrée    dans la pratique
 msgctxt "262fc43da81a44d5b18913896f8f848f"
 msgid "བལ་ འཁྲུད་པ་ དང་ རྨེལ་བ་ དང་ འཚེད་ དུ་ འཇུག་པ␣འོ ། །"
-msgstr "faire laver, déméler et filer et bouillir(pour teindre?) de la laine."
+msgstr "Faire laver, carder ou teindre de la laine."
 
 # 。︀	〝སྤང་བ〞 3354
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,
@@ -425,7 +425,8 @@ msgid ""
 " ནས་ བདག་ གིར་ བྱས་པ␣འོ ། །"
 msgstr ""
 "manipuler ou demander à quelqu'un de manipuler de l'or ou tout autre objet "
-"de valeur puis se l'approprier. "
+"de valeur non rendue approprié à l'usage monastique (sans recevoir "
+"l'autorisation) puis se l'approprier. "
 
 # 。︀	〝སྤང་བ〞 3354
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Abandonner, Renoncer,

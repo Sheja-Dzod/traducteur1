@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -460,8 +460,8 @@ msgstr ""
 msgctxt "cb3760818d4d478bb167457c40400ba3"
 msgid "ཀུ་ཤུ་ དང་ རྒུན་འབྲུམ་ དང་ འབྲ་གོ་ སོགས་ ལ␣ས་ བྱས་པ␣འི་ བཏུང་བ་ དང༌ །"
 msgstr ""
-"Les boissons autorisées sont les jus de pomme, de raisin, de noyeau de "
-"mangue etc.  ainsi que"
+"Les boissons autorisées sont les jus de pomme, de raisin, de jujube etc.  "
+"ainsi que"
 
 # 。︀	〝དྭངས་མ〞 2517
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Essence, quintessence, sève, (dvangs ma,   dvangs)
@@ -678,7 +678,7 @@ msgctxt "3f25870fb47940f0bddb5b7a58209b3d"
 msgid "དུས་བཞི␣ར་ བྱིན་ གྱིས་ བརླབས་པ␣འི་ རུང་ཁང་ བཅད །"
 msgstr ""
 "(la sangha) doivent désigner un lieu où cuisiner est autorisé et faire la "
-"consécratione en quatre temps."
+"consécratione selon l'une des quatre situations."
 
 # 。︀	〝འདུ་ཤེས〞 2761
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Conception, Représentation, Nomination, Perception

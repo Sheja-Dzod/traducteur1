@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -156,7 +156,7 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: theme, sujet
 msgctxt "0e557cb90f6c4502a8b57f9f24683f87"
 msgid "གནས་ བཞི་ བརྟགས་ ནས །"
-msgstr "et evalue les quatre lieux possible pour la pratique. Ensuite,"
+msgstr "et evaluer les quatre conditions. Ensuite,"
 
 # 。︀	〝ཏིང་ངེ་འཛིན〞 1859
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
@@ -214,7 +214,7 @@ msgstr ""
 # nouménal
 msgctxt "86bba542d6964e5dbe78910304f881cb"
 msgid "རབ་ཏུ་ དབེན་པ་ དང༌ །"
-msgstr "à s'installer dans un lieu parfaitement isolé,"
+msgstr "à demeurer dans l'isolement parfait,"
 
 # 。︀	〝སེམས〞 6348
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
@@ -259,7 +259,7 @@ msgstr "à pratiquer l'esprit unifié,"
 # Avoir purifié, Avoir cultivé,
 msgctxt "84ecfd460ea54c49ac94356849d4c7ae"
 msgid "སྒྲིབ་པ་ རྣམ་པ␣ར་ སྦྱོང་བ་ དང༌ །"
-msgstr "à totalement éliminer les voiles et"
+msgstr "à l'élimination complête des obscurcissements"
 
 # 。︀	〝སྒོམ་པ〞 869
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
@@ -311,7 +311,8 @@ msgstr "à totalement éliminer les voiles et"
 msgctxt "ef78da392357459c93c85b93054e1f5e"
 msgid "ཡིད་ ལ་ བྱེད་པ་ སྒོམ་པ་ སྟེ་ གནས་ ལྔ་ ལ་ སྦྱར་ ཞིང༌ །"
 msgstr ""
-"en cinquième à cultiver les différents contemplations (ou état d'esprits)"
+"en cinquième à cultiver les différents contemplations (orientations du "
+"mental)"
 
 # 。︀	〝ཆགས་བྲལ〞 1297
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Non attachement, Libre d'attachement, Sans attachement
@@ -331,7 +332,7 @@ msgctxt "5fdd7fe117ab4e24b9e7a32dc52376eb"
 msgid "ཞི་ རགས་ སུ་ འདུ་ཤེས་པ་ འཇིག་རྟེན་པ␣འི་ ལམ་ གྱི་ ཆགས་བྲལ་ དང༌ །"
 msgstr ""
 "En considérant l'état actuel comme grossier et l'état a venir comme "
-"paisible, il se défait de l'attachement aus voies du monde ordinaire, "
+"paisible, il se défait de l'attachement aux voies du monde ordinaire, "
 
 # 。︀	〝སྒོམ་པ〞 869
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
@@ -926,8 +927,8 @@ msgid ""
 msgstr ""
 "En appliquant son esprit à finement discerner les 16 aspects (de la vérité "
 "de la souffrance) -l'impermanence etc. pour en comprendre avec précision "
-"leur caractéristique, il y associe aussi l'écoute et le reflexion et ainsi "
-"sur la voie de l'accumulation."
+"leur caractéristique, en y associant  l'écoute et le reflexion il avance sur"
+" la voie de l'accumulation."
 
 # 。︀	〝སྒོམ་པ〞 869
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ méditer
@@ -1027,9 +1028,10 @@ msgid ""
 "བྱུང་བ␣འི་ ཡིད་བྱེད་ ཀྱིས་ སྦྱོར་ལམ་ དྲོད་ རྩེ་ བཟོད་ མཆོག་ བགྲོད །"
 msgstr ""
 "Cette voie dépassée, par les méditants toutes (les 4 NV) en même temps, il "
-"atteint l'état d'appréciation, puis, par applications mentales découlant de "
-"l'appreciations, il avance sur la voie de la jonction en passant par le "
-"stade de la chaleur, celui du sommet, de l'acceptation et le stade suprême."
+"atteint la terre de la pratique fondée sur l’aspiration, puis, par "
+"applications mentales découlant de l'aspiration, il avance sur la voie de la"
+" jonction en passant par le stade de la chaleur, celui du sommet, de "
+"l'acceptation et le stade suprême."
 
 # 。︀	〝ངེས་པ〞 1011
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Certain, Certitude.
@@ -1265,9 +1267,9 @@ msgid ""
 "སྦྱོར་བ་ ཡིད་བྱེད་ དང་ དགའ་བ་ སྡུག་པ་ ཡིད་ ལ་ བྱེད་པ␣ས་ སྒོམ་སྤང་ སྤངས་ ཤིང་"
 " སྒོམ་ལམ་ རྣམས་ བགྲོད་ དེ་"
 msgstr ""
-"Par les application mentales de la pratique et celles du rassemblement de la"
-" joie, il élimine les voiles a éliminer par la voie de la méditation et "
-"avance sur la voie de la méditation, puis,"
+"Par les contemplations mentale des pratique à appliquer et celles du "
+"rassemblement de la joie, il élimine les voiles a éliminer par la voie de la"
+" méditation et avance sur la voie de la méditation, puis,"
 
 # 。︀	〝ཏིང་ངེ་འཛིན〞 1859
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ concentration profonde, absorption méditative,
@@ -1325,8 +1327,8 @@ msgstr ""
 msgctxt "27ff19cae14c4c18ad5087b552f6eca9"
 msgid "སྦྱོར་ མཐའ་ ཡིད་བྱེད་ རྡོ་རྗེ་ ལྟ་བུ␣འི་ ཏིང་ངེ་འཛིན་ སྐྱེས་ ནས་"
 msgstr ""
-"quand la dernière application mentale-l'absorbtion méditative semblable au "
-"diamant-né, "
+"quand la  contemplation mentale finale -l'absorbtion méditative semblable au"
+" diamant-né, "
 
 # 。︀	〝གྲོལ་བ〞 573
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre libéré ⁃ libération, liberté, relaxer

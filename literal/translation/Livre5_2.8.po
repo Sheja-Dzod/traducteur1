@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -279,7 +279,9 @@ msgstr "3."
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ corps, physique
 msgctxt "5a6d791b85fb41709c00f74934c1693d"
 msgid "ཁྱིམ་པ␣འི་ རྟགས་ སྤོང་ ལ །  ལུས་ ཀྱི་ བྱི་བྱད་ གོས །"
-msgstr "Rejeter l'habillement de laîque et avoir une bonne hygiéne."
+msgstr ""
+"«L’aspirant renonce à l’habillement laïc et adopte la triple apparence du "
+"renonçant : la tête rasée, la robe monastique, "
 
 # 。︀	〝སྒོ〞 858
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Porte, portail,
@@ -315,9 +317,7 @@ msgctxt "742f7ed60bab4f87a4508b4b141421e4"
 msgid ""
 "སྣོད་ སྤྱད་ ཀྱི་ རྟགས་ གསུམ་ གྱི་ སྒོ་ ནས་ རབ་བྱུང་ གི་ ཆ་ལུགས་ དང་ ལྡན་པ␣འོ"
 " ། །"
-msgstr ""
-"ainsi que d'avoir avec soi les trois ustencils propres aux moines. (et avoir"
-" en troisième le signe de l'ustencile (le bol d'aumone)."
+msgstr "ainsi que le bol d’aumône et les autres accessoires du moine"
 
 msgctxt "1eb7c6941ff54f99ba6a120fbb7953c0"
 msgid "བཞི་པ་ ནི །"
@@ -547,7 +547,7 @@ msgstr "1. La présence du Bouddha"
 # inspiré
 msgctxt "0082d67a48e4499b8e4b049c9aebc640"
 msgid "རྒྱལ་བ␣འི་ སྐུ་བརྙན་ བྱིན་རླབས་ ཅན་ བཤམས་པ །"
-msgstr "soit, disposer une représentation du Bouddha."
+msgstr "soit, disposer une représentation consacrée du Bouddha."
 
 # 。︀	〝མངོན་གྱུར〞 1125
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ En vrai, Véritablement Manifestement, Evidemment,
@@ -814,7 +814,7 @@ msgstr "le bon nombre (d'officiants)"
 # 3. Dharma, l’enseignement du Bouddha, (affaires) spirituelles 4. facteurs
 msgctxt "54bb1d3ed6c24d928c156869daee6e90"
 msgid "ཁ་སྐོང་ གི་ ཆོས་ དང་ ལྡན་པ །"
-msgstr "posséder les qualités complémentaires"
+msgstr "posséder les qualités pour un  quorum  complet"
 
 # 。︀	〝བྲལ་བ〞 3851
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Etre séparé, Etre libre de, Etre dépourvu de, Etre
@@ -1048,8 +1048,8 @@ msgstr ""
 msgctxt "21e547a7d1724b9cac0cfeed2678aa83"
 msgid "ས་ ཐ་དད་པ་ སྤོ་ མགུ་ སྤྱོད་པ་ ཅན་ དང༌ །"
 msgstr ""
-"avoir été démis de son rang ou attitré a des taches de service(comme faire "
-"le ménage)"
+"avoir été démis de son rang ou attitré a des taches de service d'apaisement "
+"(comme faire le ménage)"
 
 # 。︀	〝འཁྲུལ་པ〞 460
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ illusion, erreur, erroné, confus, tromperie,
@@ -1177,8 +1177,9 @@ msgid ""
 "འདུན་ དག་ ཕུལ་བ་ སོགས་ ཀྱིས་ ལ␣ས་ གྲལ་ ཏུ་ དངོས་ སུ་ མ་ འདུས་པ་ དང་ འདུས་པ་ "
 "ཕྱིར་ལོག་ གཉིས་ སོ ། །"
 msgstr ""
-"Avoir transmis son accord, fait part de sa purté mais ne pas venir "
-"physiquement et, en second, être présent mais ne pas accomplir son devoir. "
+" avoir donné son accord et présenté sa pureté, mais ne pas venir "
+"physiquement ;etre présent physiquement mais contester la procédure "
+"rituelle."
 
 msgctxt "86962507a6514eff97abdee7b8467d73"
 msgid "བཞི་པ་"

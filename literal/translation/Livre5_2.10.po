@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2023
+# Damien Jampa, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2023\n"
+"Last-Translator: Damien Jampa, 2024\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -443,8 +443,7 @@ msgstr "L'effort enthousiaste envers ce qu'il faut adopter et rejeter. "
 msgctxt "cfb9475b835b466ebe46fd264fb845f5"
 msgid "འཇུག་ལྡོག་ གི་ གནས་ ལ་ གཟོབ་པ␣འི་ བག་ ཡོད །"
 msgstr ""
-"L'attention consciencieuse que l'on porte aux activités dans lesquelles on "
-"s'engage et celles que l'on évite. "
+"L'attention consciencieuse envers ce qu'il faut entreprendre ou éviter, "
 
 # 。︀	〝རྒྱུད〞 817
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ "courant de conscience, série psychique, continuum
@@ -548,10 +547,9 @@ msgid ""
 "གཞན་ ལ་ ལྟོས་ ནས་ ངོ་ཚ་ ཤེས་ ཤིང་ རང་ ལ་ ལྟོས་ ནས་ ཁྲེལ་ཡོད་པ་ དང་ མ་ "
 "བྲལ་བ␣ས་ སོ ། །"
 msgstr ""
-"La retenue (scrupule, faire attention a nos comportements) envers les autres"
-" et la honte envers soi même. (être conscient de ce qui peut etre "
-"embarassant dans le rapport avec l'autre et etre conscient et avoir honte de"
-" ses mauvais comportements)."
+"Et ne jamais se séparer de la pudeur par rapport aux autres (la retenue, "
+"faire attention à ce que l'autre va penser de nous) et de la honte par "
+"rapport à soi-même (envers son propre comportement)."
 
 # 。︀	〝ངོ་ཤེས་པ〞 1078
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ reconnaître
@@ -633,7 +631,7 @@ msgstr "Les préserver en reconaissant les discordances:"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ voux, abandon des actes non vertueux non encore produits
 msgctxt "93ca10302b2440c58dd8410240015fd2"
 msgid "སྡོམ་པ་ གཏོང་བ␣འི་ རྒྱུ །"
-msgstr "Les causes qui faut prendre les voeux (briser)"
+msgstr "Les causes qui faut perdre les voeux (briser)"
 
 # 。︀	〝རྒྱུ〞 796
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause (primaire)
@@ -650,7 +648,7 @@ msgstr "Les causes qui faut prendre les voeux (briser)"
 # expérience)
 msgctxt "5235e94b2f8744f3bd7064d93035077b"
 msgid "ཉམས་པ␣འི་ རྒྱུ །"
-msgstr "les cause qui les endommagent"
+msgstr "Les causes qui poussent à endommager les voeux"
 
 # 。︀	〝རྐྱེན〞 182
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cause secondaire, condition
@@ -730,8 +728,7 @@ msgstr "Les facteurs favorisant leur tenue"
 msgctxt "53aae69147664cc192daed5704ad83ad"
 msgid "སེམས་ རབ་ཏུ་ དད་པ་ ལ་ གེགས་བྱེད་པ␣འི་ རྒྱུ་ རྣམས་ ངོ་ ཤེས་པ␣ས་"
 msgstr ""
-"les causes faisant obstacle à la foi (litt. l'esprit empli de foi); en "
-"reconaissant cela,"
+"les causes qui entravent la clareté de l'esprit; en reconaissant cela,"
 
 # 。︀	〝འདུལ་བ〞 2781
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ vinaya, maîtrise (5e stade mental)
