@@ -3,8 +3,10 @@
     "",
     "\\communicative",
     "\\literal",
-    "\\literal\\tibetan"
+    "\\literal\\tibetan",
+    "\\literal\\translation",
+    "\\resources"
   ],
-  "SelectedNode": "\\A_gen_literal_po.py",
+  "SelectedNode": "\\literal",
   "PreviewInSolutionExplorer": false
 }
