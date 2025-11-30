@@ -1,10 +1,10 @@
 # 
 # Translators:
-# Damien Jampa, 2024
+# Damien Jampa, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Damien Jampa, 2024\n"
+"Last-Translator: Damien Jampa, 2025\n"
 "Language-Team: French (https://app.transifex.com/shejadzod/teams/134378/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -707,8 +707,8 @@ msgstr ""
 msgctxt "ff68642e458f4d2c8a44a7cc3b32d77f"
 msgid "དེ␣འང་ ཡན་ལག་ མང་ཉུང་ གིས་ ལྕི་ ཡང་ གཉིས་ སུ་ ཡོད་ ཅིང༌ །"
 msgstr ""
-"cette faute grave le sera plus ou moins selon la quantité de facteurs la "
-"composant. "
+"cette faute grave se divise en deux degrés — lourd et léger — selon le "
+"nombre de facteurs manquants."
 
 # 。︀	〝ཕམ་པ〞 3443
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ défaite
