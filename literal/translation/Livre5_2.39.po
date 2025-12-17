@@ -377,7 +377,7 @@ msgstr ""
 msgctxt "70b46ff6768e4e26b2cbc9fa9102ebab"
 msgid "གདིང་བ་ སྲིད་ དུ་ ཁྲུ་ གསུམ་ ཞེང་ དུ་ ཁྲུ་ དོ་ དང་ སོ␣ར་ དྲུག  །"
 msgstr ""
-"la natte monastique fait 3 coudées de long et sa largeur est d' 1.5 coudée "
+"le tapis monastique fait 3 coudées de long et sa largeur est de 2 coudées "
 "plus 6 largeur de doigt."
 
 msgctxt "70d6d05863234b04a3540e5837ca3241"
