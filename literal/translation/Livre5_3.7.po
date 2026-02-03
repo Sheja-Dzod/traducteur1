@@ -1098,4 +1098,4 @@ msgstr "et celle spécifique aux ministres"
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "70f7b29adfe54aa0bd61c2436f8f1877"
 msgid "ལ␣ས་ དང་པོ་བ␣འི་ བརྒྱད་ བཅས་ བསྡོམས་པ␣ས་ བཅུ་བཞི␣འོ ། །"
-msgstr "ainsique les huit des débutants additionnés font quatorze. "
+msgstr "ainsique les huit des débutants additionnés font les quatorze. "
