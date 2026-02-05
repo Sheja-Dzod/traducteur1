@@ -19,13 +19,13 @@
 གསུམ་པ་ནི།
 	3.
 ཁྱིམ་པའི་རྟགས་སྤོང་ལ། ལུས་ཀྱི་བྱི་བྱད་གོས།
-	Rejeter l’habillement de laîque et avoir une bonne hygiéne.
+	«L’aspirant renonce à l’habillement laïc et adopte la triple apparence du renonçant : la tête rasée, la robe monastique, 
 སྣོད་སྤྱད་ཀྱི་རྟགས་གསུམ་གྱི་སྒོ་ནས་རབ་བྱུང་གི་ཆ་ལུགས་དང་ལྡན་པའོ། །
-	ainsi que d’avoir avec soi les trois ustencils propres aux moines.
+	ainsi que le bol d’aumône et les autres accessoires du moine
 བཞི་པ་ནི།
 	4.
 རྒྱུའི་ཀུན་སློང་ཐོབ་འདོད།
-	La motivation initiale (litt. causale) de recevoir (les voeux),
+	La motivation causale de recevoir (les voeux),
 དུས་ཀྱི་ཀུན་སློང་ཐོབ་ཤེས།
 	La motivation du moment qui est d’être conscient d’avoir recu les voeux. 
 འགལ་རྐྱེན་ལྔ་དང་བྲལ་བ།
@@ -41,13 +41,13 @@
 དགེ་ཚུལ་དུ་བསྒྲུབ་པའི་སྔགས་ཚིག་ལན་གསུམ་བརྗོད་པའོ། །
 	l’aspirant récite par trois fois la formule qui fera de lui un moine novice. 
 ཚིགས་གསུམ་པ་བསྙེན་པར་རྫོགས་པ་དགེ་སློང་ནི།
-	Pour la troisième ordination, celle de moine pleinement ordonné, 
+	Pour la troisième ordination, celle de moine pleinement ordonné, l’ordiniation de “proche de la perfection”
 སྤྱིར་མངོན་དུ་གྱུར་པ་བཅུ་ཚང་དགོས་ཏེ།
 	Il faut en général que dix éléments soient présents qui sont:
 དེ་ལ་དང་པོ་སངས་རྒྱས་མངོན་གྱུར་ནི།
 	1. La présence du Bouddha
 རྒྱལ་བའི་སྐུ་བརྙན་བྱིན་རླབས་ཅན་བཤམས་པ།
-	soit, disposer une représentation du Bouddha.
+	soit, disposer une représentation consacrée du Bouddha.
 གཉིས་པ་ཆོས་མངོན་གྱུར་ནི།
 	2. La présence du Dharma
 ལས་བྱེད་པ་པོ་རྣམས་ཀྱིས་བསླབ་པ་ལ་བརྩོན་པ་རྟོགས་པའི་ཆོས་དང༌།
@@ -63,7 +63,7 @@
 གྲངས་ཚང་བ།
 	le bon nombre (d’officiants)
 ཁ་སྐོང་གི་ཆོས་དང་ལྡན་པ།
-	Les qualités nécessaires(litt. qui les complêtes) de ces moines
+	posséder les qualités pour un quorum complet
 མི་མཐུན་པ་གཉིས་དང་བྲལ་བ་སྟེ་མཚན་ཉིད་གསུམ་ལྡན་ནོ། །
 	et qu’ils soient libre de deux facteurs incompatibles.
 དེའང་དང་པོ་ནི་
@@ -75,13 +75,13 @@
 མི་འདུག་པར་འགྲེང་བ་དང༌།
 	Se lever plustot que d’être assis,
 ཚུལ་དེ་ཆད་ལས་སོགས་བྱ་བའི་འོས་སུ་གྱུར་པ་དང༌།
-	etre soumis à des punitions ou autres mesures disciplinaires
+	ne pas etre soumis à des punitions ou autres mesures disciplinaires
 ལུས་དངོས་སུ་མ་འདུས་པར་འདུན་པ་སོགས་ཕུལ་བ་དང༌།
 	ne pas être présent physiquement mais avoir donné son accord (fait par de son intention de venir),
 བསྙེན་པར་མ་རྫོགས་པ་དང༌།
 	ne pas être pleinement ordonné,
 སྡོམ་པ་ཉམས་པ་དང༌།
-	avoir endomagé ses voeux
+	avoir cassé ses voeux
 མཚམས་མེད་བྱས་པ་དང༌།
 	avoir accompli un des actes aux conséquences immédiates,
 ཆང་འཐུང་བ་སོགས་ལ་
@@ -89,7 +89,7 @@
 སྡིག་པ་མེད་པར་འདོད་པའི་སྡིག་ལྟ་ཅན་དང༌།
 	tenir la vue négative qui consiste à penser que cela n’est pas un acte négatif,
 ས་ཐ་དད་པ་སྤོ་མགུ་སྤྱོད་པ་ཅན་དང༌།
-	avoir été démis de son rang ou attitré a des taches de service(comme faire le ménage)
+	avoir été démis de son rang ou attitré a des taches de service d’apaisement (comme faire le ménage)
 སྨྱོན་པ་སོགས་འཁྲུལ་པ་དང་བཅས་པ་དང༌།
 	être fou ou autre perturbation mentale,
 མཚམས་གཅིག་ཏུ་མིན་པར་མཚམས་ཐ་དད་དུ་གནས་པ་དང༌།
@@ -101,7 +101,7 @@
 གསུམ་པ་ནི།
 	3.
 འདུན་དག་ཕུལ་བ་སོགས་ཀྱིས་ལས་གྲལ་ཏུ་དངོས་སུ་མ་འདུས་པ་དང་འདུས་པ་ཕྱིར་ལོག་གཉིས་སོ། །
-	Avoir transmis son accord, fait part de sa puerté mais ne pas venir physiquement et, en second, êyte présent mais ne pas accomplir son devoir. 
+	 avoir donné son accord et présenté sa pureté, mais ne pas venir physiquement ;etre présent physiquement mais contester la procédure rituelle.
 བཞི་པ་
 	4. 
 མཁན་པོ་མངོན་གྱུར་ནི།
