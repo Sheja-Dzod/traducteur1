@@ -1167,4 +1167,4 @@ msgstr "les parties préliminaire, centrale et conclusive de la cérémonie"
 # naturelle
 msgctxt "189e39afe6314a6d9fc5749e46aa0249"
 msgid "རང་བཞིན་ གཏན་ ལ་ དབབ་པ␣འོ ། །"
-msgstr "une explication de la nature de l’esprit d’éveil"
+msgstr "exposer clairement  la nature de l’esprit d’éveil"
