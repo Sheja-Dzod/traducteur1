@@ -217,15 +217,6 @@ msgstr ""
 # consternation, désarroi, misère (morale), détresse, peine
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ souffrance ⁃ Souffrance
 # 
-# 。︀	〝བག་མེད〞 3684
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ insouciance, inattention
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans précaution, Inattentif, Négligeant, Insouciant,
-# (Qui ne fait pas attention)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sans
-# précaution,Inattentif,Négligeant,Insouciant,(Qui ne fait pas attention)
-# Alternatives: inattentif, inconsidéré, imprudent, négligeant, irrefléchi
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ négligence ⁃ Négligence
-# 
 # 。︀	〝བྱེད་པ〞 3840
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Analyser, Différencier, Discerner, Diviser, Analyse,
 # Différenciation,
@@ -236,10 +227,6 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
 # (êtres) humains, hommes, homo sapiens
 # 
-# 。︀	〝ཞུགས་པ〞 4947
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
-# Participer à,
-# 
 # 。︀	〝གཞན〞 4962
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
@@ -248,10 +235,30 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Purifier, Enlever, Supprimer, Dissiper, Ecarter,
 # Eliminer Distinguer, Clarifier, Différencier, Classifier,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ fallacieux
+msgctxt "170ac96fb98d4d728986f12b03b4b471"
+msgid "གཞན་ གྱི་ སྡུག་བསྔལ་ སེལ་བ␣ར་ མི་ བྱེད་པ །"
+msgstr ""
+
+# 
+# 。︀	〝བག་མེད〞 3684
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ insouciance, inattention
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Sans précaution, Inattentif, Négligeant, Insouciant,
+# (Qui ne fait pas attention)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Sans
+# précaution,Inattentif,Négligeant,Insouciant,(Qui ne fait pas attention)
+# Alternatives: inattentif, inconsidéré, imprudent, négligeant, irrefléchi
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ négligence ⁃ Négligence
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཞུགས་པ〞 4947
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
+# Participer à,
 msgctxt "e28a1ff4ca314d4fbd56b5ecf464773b"
-msgid ""
-"གཞན་ གྱི་ སྡུག་བསྔལ་ སེལ་བ␣ར་ མི་ བྱེད་པ །  བག་མེད་ དུ་ ཞུགས་པ་ ལེགས་པ␣ར་ "
-"མི་ འཆོས་པ་ བཞི␣འོ ། །"
+msgid "བག་མེད་ དུ་ ཞུགས་པ་ ལེགས་པ␣ར་ མི་ འཆོས་པ་ བཞི␣འོ ། །"
 msgstr ""
 
 # 
@@ -267,6 +274,15 @@ msgstr ""
 # 。︀	〝གཅོད〞 1265
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ trancher  le trancher/la découpe
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ la découpe, trancher
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+msgctxt "c68352b906cb45fa8cc5de0f56a8f602"
+msgid "མི་ འདོགས་ མི་ བསྟུན་ མི་ བསྔགས་ ཚར་ མི་ གཅོད ། །"
+msgstr ""
+
 # 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
@@ -307,9 +323,7 @@ msgstr ""
 # les vivants, êtres sensibles
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
 msgctxt "9abf7d083dff413288d8e4763e2c6d9e"
-msgid ""
-"མི་ འདོགས་ མི་ བསྟུན་ མི་ བསྔགས་ ཚར་ མི་ གཅོད ། །  མི་ འདུལ་ སེམས་ཅན་ དོན་ "
-"བྱེད་ འགལ་ བཅུ་གཉིས ། །"
+msgid "མི་ འདུལ་ སེམས་ཅན་ དོན་ བྱེད་ འགལ་ བཅུ་གཉིས ། །"
 msgstr ""
 
 # 
@@ -437,6 +451,15 @@ msgstr ""
 # 。︀	〝གཞན〞 4962
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Autre, Objet, Autrui, Altérité, Ailleurs, Séparé,
 # Extérieur, Externe, Extrinsèque,
+msgctxt "804d1fcd2d4f40469d1284161b91beac"
+msgid "གཞན་ གྱི་ བློ་ དང་ མི་ བསྟུན་པ །"
+msgstr ""
+
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
 # 
 # 。︀	〝ཡོན་ཏན〞 5538
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ qualité, vertu, attribut
@@ -449,9 +472,7 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "4cffd02584df488390ab5a2cd0d18d68"
-msgid ""
-"གཞན་ གྱི་ བློ་ དང་ མི་ བསྟུན་པ །  ཡོན་ཏན་ ཅན་ ལ་ བསྔགས་པ་ བརྗོད་པ␣ས་ མི་ "
-"བསྔགས་པ་ དྲུག་ ནི་"
+msgid "ཡོན་ཏན་ ཅན་ ལ་ བསྔགས་པ་ བརྗོད་པ␣ས་ མི་ བསྔགས་པ་ དྲུག་ ནི་"
 msgstr ""
 
 # 
@@ -474,6 +495,24 @@ msgstr ""
 # (êtres) humains, hommes, homo sapiens
 msgctxt "b329750164004ed2b7cafe1a3c6345da"
 msgid "ཕན་ མི་ འདོགས་པ␣འི་ ཉེས་པ␣འོ ། །"
+msgstr ""
+
+# 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝ཞུགས་པ〞 4947
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
+# Participer à,
+# 
+# 。︀	〝ལོག་པ〞 6137
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Revenir, Retourner, Retourné, Renverser, Erroné,
+# Inversé, Contraire, Perverti,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ erroné
+msgctxt "ad5ecdbf85654046ad382c518e9b6dc7"
+msgid "ལོག་པ␣ར་ ཞུགས་པ་ ཚར་ མི་ གཅོད་པ །"
 msgstr ""
 
 # 
@@ -518,21 +557,10 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Miracles, les pouvoirs miraculeux
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: riddhi, pouvoirs projectifs miracleux
 # 
-# 。︀	〝ཞུགས་པ〞 4947
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Entrer, Pénétrer, Se joindre à, Prendre part à,
-# Participer à,
-# 
 # 。︀	〝འོས་པ〞 5276
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Convenable, Adéquat, Digne, Approprié,
-# 
-# 。︀	〝ལོག་པ〞 6137
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Revenir, Retourner, Retourné, Renverser, Erroné,
-# Inversé, Contraire, Perverti,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ erroné
 msgctxt "85479585aace4bd5b46f715e30793f9a"
-msgid ""
-"ལོག་པ␣ར་ ཞུགས་པ་ ཚར་ མི་ གཅོད་པ །  རྫུ་འཕྲུལ་ དང་ མངོན་ཤེས་ ཀྱིས་ འདུལ་ "
-"འོས་པ་ མི་ འདུལ་བ་ གཉིས་ ནི་"
+msgid "རྫུ་འཕྲུལ་ དང་ མངོན་ཤེས་ ཀྱིས་ འདུལ་ འོས་པ་ མི་ འདུལ་བ་ གཉིས་ ནི་"
 msgstr ""
 
 # 
@@ -548,26 +576,8 @@ msgid "ཚར་ མི་ གཅོད་པ␣འི་ ཉེས་པ་ ས
 msgstr ""
 
 # 
-# 。︀	〝གུས་པ〞 498
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ respect
-# 
 # 。︀	〝འགལ་བ〞 699
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ contradiction
-# 
-# 。︀	〝ཉོན་མོངས〞 1730
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ affliction ⁃ affliction
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Passions, Emotions conflictuelles
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ passions, émotions perturbatrices, perturbations mentales
-# ⁃ les passions: les six passions racines sont l'attachement ('dod chags ;
-# raga), l'aversion (khong khro ; pratigha), l'orgueil (nga rgyal ; mana),
-# l'ignorance (ma rig pa ; avidya), le doute (the tshom ; vichikitsa) et les
-# opinions (lta ba ; d?i??i).
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kleśa Sens racine: Passions,Emotions
-# conflictuelles, emotion (SL MW) Alternatives: perturbations, passions,
-# émotions (conflictuelles), perturbatrices, affligeantes, destructrices,
-# conflits émotionnels, afflictions mentales,
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ passion obscurcissante, émotion perturbatrice ⁃ Passion ⁃
-# Passions, les affects négatifs ou klesha
 # 
 # 。︀	〝དོན〞 2457
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ sens, nature, réalité, bien, objet (extérieur)
@@ -598,13 +608,6 @@ msgstr ""
 # 。︀	〝དོན་བྱེད〞 2498
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ altruisme
 # 
-# 。︀	〝མ〞 4140
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
-# exprimant la négation, Alternatives: mère
-# 
-# 。︀	〝མ་གུས་པ〞 4147
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ irrespect
-# 
 # 。︀	〝ས〞 6282
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
@@ -615,20 +618,10 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vivant, Doté d'esprit, Etre animé, Animal, ⁃ sattva,
 # les vivants, êtres sensibles
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
-msgctxt "1fa2fa9d87344408976070a18bf89436"
-msgid ""
-"བསྡོམས་པ␣ས་ སེམས་ཅན་ དོན་ བྱེད་ དང་ འགལ་བ་ བཅུ་གཉིས་ སོ ། །  ཉོན་མོངས་ ཅན་ "
-"མིན་ ཉེས་མེད་ གསུམ་ གསུམ་ འགྱུར ། །  ཉེས་བྱས་ ཞེ་ དྲུག་པོ་ འདི་དག་ མ་ གུས་པ་"
-" དང་"
+msgctxt "e3b4f8f9d71743f88759c4af867fd3db"
+msgid "བསྡོམས་པ␣ས་ སེམས་ཅན་ དོན་ བྱེད་ དང་ འགལ་བ་ བཅུ་གཉིས་ སོ ། །"
 msgstr ""
 
-# 
-# 。︀	〝དགེ་འདུན〞 632
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
-# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
-# communauté (monastique), congrégation, noble assemblée
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
 # 
 # 。︀	〝ཉོན་མོངས〞 1730
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ affliction ⁃ affliction
@@ -644,6 +637,24 @@ msgstr ""
 # conflits émotionnels, afflictions mentales,
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ passion obscurcissante, émotion perturbatrice ⁃ Passion ⁃
 # Passions, les affects négatifs ou klesha
+msgctxt "b95298316a104f8fbde5bdcb543f541c"
+msgid "ཉོན་མོངས་ ཅན་ མིན་ ཉེས་མེད་ གསུམ་ གསུམ་ འགྱུར ། །"
+msgstr ""
+
+# 
+# 。︀	〝གུས་པ〞 498
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ respect
+# 
+# 。︀	〝མ〞 4140
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ mata, jananī Sens racine: Mère,Maman,Particule
+# exprimant la négation, Alternatives: mère
+# 
+# 。︀	〝མ་གུས་པ〞 4147
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ irrespect
+msgctxt "1fa2fa9d87344408976070a18bf89436"
+msgid "ཉེས་བྱས་ ཞེ་ དྲུག་པོ་ འདི་དག་ མ་ གུས་པ་ དང་"
+msgstr ""
+
 # 
 # 。︀	〝ཉོན་མོངས་པ〞 1738
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ perturbation mentale, affliction, passion, émotion
@@ -651,17 +662,72 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ passionnel, passions, émotions conflictuelles
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: klesha, passions, émotions conflictuelles
 # passionnel, émotions négatives
-msgctxt "330c6e249eaf4eb2ae73578fd576ee2b"
-msgid ""
-"སྙོམ་ལས་ ཀྱིས་ སྤྱད་པ␣འི་ ཉོན་མོངས་པ་ ཅན་ དང༌ །  བརྗེད་པ་ དང་ བག་མེད་པ་ "
-"སོགས་ ཀྱིས་ སྤྱད་པ་ ཉོན་མོངས་ ཅན་ མིན་པ་ དང༌ །  དགེ་འདུན་ གྱི་ ཁྲིམས་སྲུང་བ་"
-" དང་སེམས་ འཁྲུགས་ ནས་ སྤྱད་པ་ ཉེས་མེད་ དེ་"
+msgctxt "084da96b5812478d9082c70211de3dba"
+msgid "སྙོམ་ལས་ ཀྱིས་ སྤྱད་པ␣འི་ ཉོན་མོངས་པ་ ཅན་ དང༌ །"
 msgstr ""
 
 # 
-# 。︀	〝ཀུན་དཀྲིས〞 20
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
-# syn, de nyon mongs
+# 。︀	〝ཉོན་མོངས〞 1730
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ affliction ⁃ affliction
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Passions, Emotions conflictuelles
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ passions, émotions perturbatrices, perturbations mentales
+# ⁃ les passions: les six passions racines sont l'attachement ('dod chags ;
+# raga), l'aversion (khong khro ; pratigha), l'orgueil (nga rgyal ; mana),
+# l'ignorance (ma rig pa ; avidya), le doute (the tshom ; vichikitsa) et les
+# opinions (lta ba ; d?i??i).
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ kleśa Sens racine: Passions,Emotions
+# conflictuelles, emotion (SL MW) Alternatives: perturbations, passions,
+# émotions (conflictuelles), perturbatrices, affligeantes, destructrices,
+# conflits émotionnels, afflictions mentales,
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ passion obscurcissante, émotion perturbatrice ⁃ Passion ⁃
+# Passions, les affects négatifs ou klesha
+msgctxt "e6c5ea7716944b8ea42fe83df21e2680"
+msgid "བརྗེད་པ་ དང་ བག་མེད་པ་ སོགས་ ཀྱིས་ སྤྱད་པ་ ཉོན་མོངས་ ཅན་ མིན་པ་ དང༌ །"
+msgstr ""
+
+# 
+# 。︀	〝དགེ་འདུན〞 632
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Le Sangha, Communauté, confrérie
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ saṃgha Sens racine: Le Sangha,Communauté, confrérie
+# Alternatives: “aspirants au bien, à la vertu”, “vertueuse assemblée”
+# communauté (monastique), congrégation, noble assemblée
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ communauté
+msgctxt "330c6e249eaf4eb2ae73578fd576ee2b"
+msgid "དགེ་འདུན་ གྱི་ ཁྲིམས་སྲུང་བ་ དང་སེམས་ འཁྲུགས་ ནས་ སྤྱད་པ་ ཉེས་མེད་ དེ་"
+msgstr ""
+
+# 
+# 。︀	〝དབྱེ་བ〞 4024
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divisions, Distinctions, Catégories, ⁃ classification
+# (p99), différencier, diviser
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ division (un des dix types d'activité éveillée)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divisions,Distinctions,Catégories,
+# Alternatives: différence, division, catégorisé en différentes étapes,
+# formes, séparation, (faire des) distinctions, types, différencier,
+# distinguer, séparer, classifier, diviser, classer, caractéristiques,
+# particularité distinctes, races, sortes, détaillé= thang : plaine, champ,
+# étendue
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Séparer, distinguer
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dbye Sens racine: classification ; différencier,
+# diviser distinctions
+# 
+# 。︀	〝ཚུལ〞 4680
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
+# Comportement, ⁃ les circonstances (p106), méthode, manière, mode
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ veut dire aussi perspective (sngags kyi tshul)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ naya Sens racine: Manière,Mode,Façon d’être,Us et
+# coutumes,Comportement, Alternatives: façon (de faire), méthode, manière,
+# moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
+# correctd'apparence
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+# 
+# 。︀	〝བཤད〞 6272
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
+# Etudier,
+msgctxt "d8dd691322094470806ab0342aa19b57"
+msgid "གསུམ་ གསུམ་ དུ་ དབྱེ་བ␣འི་ ཚུལ་ བྱང་ ས་ལས་ བཤད་ དོ ། །"
+msgstr ""
+
 # 
 # 。︀	〝ཉམས〞 1669
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
@@ -687,26 +753,6 @@ msgstr ""
 # fait,Ce qui est à faire, Alternatives: activités, obligations, fonctions,
 # taches, occupé, responsabilités, engagements, agissementspieds métriques
 # 
-# 。︀	〝དབྱེ་བ〞 4024
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Divisions, Distinctions, Catégories, ⁃ classification
-# (p99), différencier, diviser
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ division (un des dix types d'activité éveillée)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Divisions,Distinctions,Catégories,
-# Alternatives: différence, division, catégorisé en différentes étapes,
-# formes, séparation, (faire des) distinctions, types, différencier,
-# distinguer, séparer, classifier, diviser, classer, caractéristiques,
-# particularité distinctes, races, sortes, détaillé= thang : plaine, champ,
-# étendue
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Séparer, distinguer
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ rnam dbye Sens racine: classification ; différencier,
-# diviser distinctions
-# 
-# 。︀	〝སྨོན་པ〞 4472
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Souhaiter, Aspirer,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspiration
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Souhaiter,Aspirer, Alternatives:
-# souhaiter, aspirer, désirer, intention
-# 
 # 。︀	〝ཚུལ〞 4680
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Manière, Mode, Façon d'être, Us et coutumes,
 # Comportement, ⁃ les circonstances (p106), méthode, manière, mode
@@ -716,10 +762,20 @@ msgstr ""
 # moyen, mode, pratiquetradition, us et coutumes, mode convenable, adéquat,
 # correctd'apparence
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: les circonstances méthode, manière, mode
+msgctxt "fcb1c3b601464fa2ad6fd137c333796b"
+msgid "གསུམ་པ་ ཉམས་ ན་ ཕྱིར་བཅོས་ བྱ་བ␣འི་ ཚུལ་ ནི །"
+msgstr ""
+
 # 
-# 。︀	〝བཤད〞 6272
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Explications, Exposé, Etudes Expliquer, Exposer,
-# Etudier,
+# 。︀	〝ཀུན་དཀྲིས〞 20
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
+# syn, de nyon mongs
+# 
+# 。︀	〝སྨོན་པ〞 4472
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Souhaiter, Aspirer,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspiration
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Souhaiter,Aspirer, Alternatives:
+# souhaiter, aspirer, désirer, intention
 # 
 # 。︀	〝སེམས〞 6348
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
@@ -728,18 +784,9 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
 # pensant
 msgctxt "63757b86e5204a65aa6c7bb0864abd25"
-msgid ""
-"གསུམ་ གསུམ་ དུ་ དབྱེ་བ␣འི་ ཚུལ་ བྱང་ ས་ལས་ བཤད་ དོ ། །  གསུམ་པ་ ཉམས་ ན་ "
-"ཕྱིར་བཅོས་ བྱ་བ␣འི་ ཚུལ་ ནི །  རྩ་ལྟུང་ ཀུན་དཀྲིས་ ཆེ␣ར་ སྤྱད་ སྨོན་པ␣འི་ "
-"སེམས ། །"
+msgid "རྩ་ལྟུང་ ཀུན་དཀྲིས་ ཆེ␣ར་ སྤྱད་ སྨོན་པ␣འི་ སེམས ། །"
 msgstr ""
 
-# 
-# 。︀	〝གཅིག〞 1243
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
-# singularité, état unique, unité, unicité, unique
 # 
 # 。︀	〝ཉམས〞 1669
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Expérience, Expérimenter, Eprouver (une sensation,
@@ -772,20 +819,20 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-msgctxt "c7ce6917001a474397d90959892259d7"
-msgid ""
-"ཉམས་ ན་ སྡོམ་པ་ བཏང་བ␣ས་ བསྐྱར་ ནས་ བླང༌ ། །  འབྲིང་ དང་ ཆུང་ངུ་ གསུམ་ དང་ "
-"གཅིག་ ལ་ བཤགས ། །"
+msgctxt "1d0645577bb04aeb95c559deffe9728f"
+msgid "ཉམས་ ན་ སྡོམ་པ་ བཏང་བ␣ས་ བསྐྱར་ ནས་ བླང༌ ། །"
 msgstr ""
 
 # 
-# 。︀	〝ཀུན་དཀྲིས〞 20
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
-# syn, de nyon mongs
-# 
-# 。︀	〝ཆེན་པོ〞 1352
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: immense, grand total, suprême
+# 。︀	〝གཅིག〞 1243
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ un, unique, unicité, singularité
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
+# singularité, état unique, unité, unicité, unique
+msgctxt "c7ce6917001a474397d90959892259d7"
+msgid "འབྲིང་ དང་ ཆུང་ངུ་ གསུམ་ དང་ གཅིག་ ལ་ བཤགས ། །"
+msgstr ""
+
 # 
 # 。︀	〝ཉོན་མོངས〞 1730
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ affliction ⁃ affliction
@@ -802,6 +849,30 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ passion obscurcissante, émotion perturbatrice ⁃ Passion ⁃
 # Passions, les affects négatifs ou klesha
 # 
+# 。︀	〝མི〞 4227
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
+# (êtres) humains, hommes, homo sapiens
+# 
+# 。︀	〝སེམས〞 6348
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
+# pensée, le penser, esprit ordinaire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
+# pensant
+msgctxt "d118641d3fce41439f015ec1d2b71c13"
+msgid "ཉེས་བྱས་ ཉོན་མོངས་ མི་ མོངས་ སེམས་ ཀྱིས་ ཏེ ། །"
+msgstr ""
+
+# 
+# 。︀	〝ཀུན་དཀྲིས〞 20
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
+# syn, de nyon mongs
+# 
+# 。︀	〝ཆེན་པོ〞 1352
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: immense, grand total, suprême
+# 
 # 。︀	〝ལྟུང་བ〞 2005
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Tomber, Chuter, ⁃ Déchéances,  Chutes (des voux de
 # libération individuelle)
@@ -809,11 +880,6 @@ msgstr ""
 # (des vœux de libération individuelle) Alternatives: chuter, choir,
 # transgression, infraction, manquement (à un vœu monastique), chute
 # principale, défaite, ruine morale
-# 
-# 。︀	〝མི〞 4227
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Humain, Homme,
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
-# (êtres) humains, hommes, homo sapiens
 # 
 # 。︀	〝རྩ་བ〞 4536
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Base, origine,  source, Important, Texte
@@ -830,17 +896,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
-# 。︀	〝སེམས〞 6348
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
-# pensée, le penser, esprit ordinaire
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit pensant ⁃ Esprit ⁃ Esprit ordinaire, l'esprit
-# pensant
 msgctxt "e15a27ba259f41e4a4a6d6fb2646249b"
-msgid ""
-"ཉེས་བྱས་ ཉོན་མོངས་ མི་ མོངས་ སེམས་ ཀྱིས་ ཏེ ། །  རྩ་བ␣འི་ ལྟུང་བ་ ཀུན་དཀྲིས་"
-" ཆེན་པོ␣ས་ སྤྱད་པ་ དང༌ །"
+msgid "རྩ་བ␣འི་ ལྟུང་བ་ ཀུན་དཀྲིས་ ཆེན་པོ␣ས་ སྤྱད་པ་ དང༌ །"
 msgstr ""
 
 # 
@@ -911,9 +968,25 @@ msgid "སྡོམ་པ་ རྩད་ ནས་ གཏོང་བ␣ས་"
 msgstr ""
 
 # 
-# 。︀	〝ཀུན་དཀྲིས〞 20
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
-# syn, de nyon mongs
+# 。︀	〝འགྲོ་བ〞 730
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ tara, gamana, gati, jaga, jagan, jagad Sens racine:
+# Les vivants, les migrants Alternatives: les vivants, les êtres (vivants),
+# migrants, errants, animés, créatures
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
+# 
+# 。︀	〝སྔོན་དུ་འགྲོ་བ〞 1205
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Préliminaires Préparations
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "aa8eb3fa09524af59a7921e98dc44d77"
+msgid "བཤགས་སྡོམ་ སྔོན་ དུ་ འགྲོ་བ␣ས་ བསྐྱར་ ནས་ བླང༌ །"
+msgstr ""
+
 # 
 # 。︀	〝ཀློང་ཆེན〞 122
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ la grande immensité, l'immense sphère, l'étendue
@@ -924,16 +997,6 @@ msgstr ""
 # 
 # 。︀	〝གྲངས〞 542
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ le nombre ⁃ Nombre
-# 
-# 。︀	〝འགྲོ་བ〞 730
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Les vivants, les migrants
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ tara, gamana, gati, jaga, jagan, jagad Sens racine:
-# Les vivants, les migrants Alternatives: les vivants, les êtres (vivants),
-# migrants, errants, animés, créatures
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ destinée du sa?sara
-# 
-# 。︀	〝སྔོན་དུ་འགྲོ་བ〞 1205
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Préliminaires Préparations
 # 
 # 。︀	〝བྱར་མེད〞 3809
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Libre d'action, Sans activité, Non agir, ⁃ en lequel
@@ -959,11 +1022,24 @@ msgstr ""
 # 。︀	〝ལྷག་པར〞 6726
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Particuliérement,  Spécialement,  Excellement,
 # Intensément,  Extremement,  Haut,   Elever,  Altier,  Supérieur,
-msgctxt "fe566eadc2b8444eb8ad12f955a284af"
+msgctxt "a1e70783bfa54319a2782b285e8b2133"
 msgid ""
-"བཤགས་སྡོམ་ སྔོན་ དུ་ འགྲོ་བ␣ས་ བསྐྱར་ ནས་ བླང༌ །  འོན་ཀྱང་ བསྐྱར་ གྲངས་ "
-"གསུམ་ ལ␣ས་ ལྷག་པར་ བྱར་མེད་ ཅེས་ ཀློང་ཆེན་ ཞབས་ ཀྱིས་ གསུངས །  ཀུན་དཀྲིས་ "
-"འབྲིང་ དང་ ཆུང་ངུ␣ས་ སྤྱད་པ␣འི་ ཕམ་ འདྲ་ ནི་"
+"འོན་ཀྱང་ བསྐྱར་ གྲངས་ གསུམ་ ལ␣ས་ ལྷག་པར་ བྱར་མེད་ ཅེས་ ཀློང་ཆེན་ ཞབས་ ཀྱིས་ "
+"གསུངས །"
+msgstr ""
+
+# 
+# 。︀	〝ཀུན་དཀྲིས〞 20
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ enveloppement (paryavasthana, Asanga, Compendium I,75
+# syn, de nyon mongs
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "fe566eadc2b8444eb8ad12f955a284af"
+msgid "ཀུན་དཀྲིས་ འབྲིང་ དང་ ཆུང་ངུ␣ས་ སྤྱད་པ␣འི་ ཕམ་ འདྲ་ ནི་"
 msgstr ""
 
 # 
@@ -979,6 +1055,10 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ instantané
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ gcig pu, gcig po Sens racine: eka, un, unique, unicité,
 # singularité, état unique, unité, unicité, unique
+msgctxt "e522a566300a4a17a7d75dbae0edb334"
+msgid "གཅིག་ གི་ མདུན་ དུ་ བཤགས་ ཤིང་ བསྡམ །"
+msgstr ""
+
 # 
 # 。︀	〝ཉོན་མོངས〞 1730
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ affliction ⁃ affliction
@@ -995,8 +1075,7 @@ msgstr ""
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ passion obscurcissante, émotion perturbatrice ⁃ Passion ⁃
 # Passions, les affects négatifs ou klesha
 msgctxt "374cddfc4dad42e0b23721669424664f"
-msgid ""
-"གཅིག་ གི་ མདུན་ དུ་ བཤགས་ ཤིང་ བསྡམ །  ཉེས་བྱས་ ཞེ་ གཉིས་ ཉོན་མོངས་ ཅན་ ནི་"
+msgid "ཉེས་བྱས་ ཞེ་ གཉིས་ ཉོན་མོངས་ ཅན་ ནི་"
 msgstr ""
 
 # 
