@@ -321,6 +321,34 @@ msgstr ""
 # originellement, genèse, naissance, (point de) départ, primordial, amorce,
 # primitivement, initial, originel, primitif
 # 
+# 。︀	〝སྨོན་པ〞 4472
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Souhaiter, Aspirer,
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspiration
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Souhaiter,Aspirer, Alternatives:
+# souhaiter, aspirer, désirer, intention
+# 
+# 。︀	〝སྨོན་པ་སེམས་བསྐྱེད〞 4475
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Bodhicitta d'aspiration
+# 
+# 。︀	〝སེམས་བསྐྱེད〞 6367
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Développer le cour esprit du suprême éveil, ⁃
+# Développer bodhicitta, Développer, Engender, Générer: + l'esprit (d'éveil),
+# le cour esprit (de l'éveil), Le développement (ou génération) du cour esprit
+# éveillé,  Le développement de l'esprit d'éveil. ⁃ bodhicittotpâda, engendrer
+# bodhicitta, générer (ou susciter, cultiver, produire, stimuler, concevoir)
+# l'esprit d'éveil (ou l'éveil de l'esprit du cour, le cour-esprit éveillé, le
+# cour-esprit d'éveil)
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cultiver la pensée de l'Éveil ⁃ Développer, cultiver
+# l'Esprit d'Eveil
+# 
+# 。︀	〝བསླབ་བྱ〞 6681
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est à étudier, Instructions, Conseils,
+# Injonction, Engagements, Enjoindre, Instruire,
+msgctxt "f041a6501b484ab8b2d5cc0e34524c0c"
+msgid "ཐོག་མ␣ར་ སྨོན་པ་ སེམས་བསྐྱེད་ ཀྱི་ བསླབ་བྱ་ ལ་ ལྔ །"
+msgstr ""
+
+# 
 # 。︀	〝བློ〞 3886
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cognition ⁃ cognition ⁃ esprit conceptuel, intellect,
 # idée, entendement, pensée
@@ -344,15 +372,6 @@ msgstr ""
 # 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ manuśya Sens racine: Humain,Homme, Alternatives:
 # (êtres) humains, hommes, homo sapiens
 # 
-# 。︀	〝སྨོན་པ〞 4472
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Souhaiter, Aspirer,
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ aspiration
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ Sens racine: Souhaiter,Aspirer, Alternatives:
-# souhaiter, aspirer, désirer, intention
-# 
-# 。︀	〝སྨོན་པ་སེམས་བསྐྱེད〞 4475
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Bodhicitta d'aspiration
-# 
 # 。︀	〝རྩ་བ〞 4536
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Racine, Base, origine,  source, Important, Texte
 # racine, , ⁃ source, racine, fondamental
@@ -369,29 +388,12 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 # 
-# 。︀	〝སེམས་བསྐྱེད〞 6367
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Développer le cour esprit du suprême éveil, ⁃
-# Développer bodhicitta, Développer, Engender, Générer: + l'esprit (d'éveil),
-# le cour esprit (de l'éveil), Le développement (ou génération) du cour esprit
-# éveillé,  Le développement de l'esprit d'éveil. ⁃ bodhicittotpâda, engendrer
-# bodhicitta, générer (ou susciter, cultiver, produire, stimuler, concevoir)
-# l'esprit d'éveil (ou l'éveil de l'esprit du cour, le cour-esprit éveillé, le
-# cour-esprit d'éveil)
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ cultiver la pensée de l'Éveil ⁃ Développer, cultiver
-# l'Esprit d'Eveil
-# 
 # 。︀	〝སེམས་ཅན〞 6371
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vivant, Doté d'esprit, Etre animé, Animal, ⁃ sattva,
 # les vivants, êtres sensibles
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ êtres animés, êtres doués d'esprit ⁃ Etres sensibles
-# 
-# 。︀	〝བསླབ་བྱ〞 6681
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Ce qui est à étudier, Instructions, Conseils,
-# Injonction, Engagements, Enjoindre, Instruire,
 msgctxt "fd859b8a5320455a85dff4e4018c001d"
-msgid ""
-"ཐོག་མ␣ར་ སྨོན་པ་ སེམས་བསྐྱེད་ ཀྱི་ བསླབ་བྱ་ ལ་ ལྔ །  དང་པོ་ རྩ་བ་ སེམས་ཅན་ "
-"བློ␣ས་ མི་ སྤངས་པ་ ནི་"
+msgid "དང་པོ་ རྩ་བ་ སེམས་ཅན་ བློ␣ས་ མི་ སྤངས་པ་ ནི་"
 msgstr ""
 
 # 
@@ -402,6 +404,34 @@ msgstr ""
 # singularité, état unique, unité, unicité, unique
 msgctxt "a92ea63fccb64a92a7ca3b78f86ef7d3"
 msgid "དགྲ་ ལྟ་བུ་ གཅིག་ གམ །"
+msgstr ""
+
+# 
+# 。︀	〝བློ〞 3886
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cognition ⁃ cognition ⁃ esprit conceptuel, intellect,
+# idée, entendement, pensée
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intellect, Intellection, Intelligence, Compréhension,
+# Mentalisation, Connaissance, Mentalité, ⁃ intellect, intellection, esprit,
+# pensée, attitude, esprit ordinaire, conscience ordinaire
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ intelligence, esprit buddhi (awareness chez Hopkins)
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ buddhi, mati, dhī, dhīḥ Sens racine:
+# Intellect,Intellection,Intelligence,Compréhension,Mentalisation,Connaissance,Mentalité,
+# Alternatives: intellect, intelligence (ordinaire), intellection, (processus)
+# mental (ordinaire), esprit (conceptuel, ordinaire, dans son fonctionnement
+# conditionné), conscience ordinaire, pensée, attitude, discursivité
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Discernement, intellection (en tant que facteur mental) ⁃
+# Intellection (syn. de 'shes rab' en tant que facteur mental) ⁃ Intellect,
+# buddhi
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: intellect, intellection esprit, pensée,
+# attitude, esprit ordinaire, conscience ordinaire
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "f9f5be97911443409cc9683453941261"
+msgid "འབུ་སྲིན་ ཙམ་ ལ␣འང་ ཁྱད་ དུ་ གསོད་ ནས་ བློ␣ས་ བཏང་བ་ དང༌ །"
 msgstr ""
 
 # 
@@ -445,30 +475,6 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ esprit d'éveil; fluide séminal; sperme; kunda
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ esprit d'Éveil
 # 
-# 。︀	〝བློ〞 3886
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cognition ⁃ cognition ⁃ esprit conceptuel, intellect,
-# idée, entendement, pensée
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Intellect, Intellection, Intelligence, Compréhension,
-# Mentalisation, Connaissance, Mentalité, ⁃ intellect, intellection, esprit,
-# pensée, attitude, esprit ordinaire, conscience ordinaire
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ intelligence, esprit buddhi (awareness chez Hopkins)
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ buddhi, mati, dhī, dhīḥ Sens racine:
-# Intellect,Intellection,Intelligence,Compréhension,Mentalisation,Connaissance,Mentalité,
-# Alternatives: intellect, intelligence (ordinaire), intellection, (processus)
-# mental (ordinaire), esprit (conceptuel, ordinaire, dans son fonctionnement
-# conditionné), conscience ordinaire, pensée, attitude, discursivité
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ Discernement, intellection (en tant que facteur mental) ⁃
-# Intellection (syn. de 'shes rab' en tant que facteur mental) ⁃ Intellect,
-# buddhi
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: intellect, intellection esprit, pensée,
-# attitude, esprit ordinaire, conscience ordinaire
-# 
-# 。︀	〝ས〞 6282
-# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
-# 
 # 。︀	〝སེམས〞 6348
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ esprit
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ citta, esprit (p21, 59, 98), pensées, processus de
@@ -484,9 +490,7 @@ msgstr ""
 # l'action, tantra de bsam pa de la déité)
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ intention d'agir, pensée
 msgctxt "8c3bc4c6c6a14aea9267318f9c3536ac"
-msgid ""
-"འབུ་སྲིན་ ཙམ་ ལ␣འང་ ཁྱད་ དུ་ གསོད་ ནས་ བློ␣ས་ བཏང་བ་ དང༌ །  གཉིས་པ་ "
-"མཐུན་པ␣འི་ རྐྱེན་ བྱང་ཆུབ་ སེམས་ ཀྱི་ ཕན་ཡོན་ བསམ་པ་ ནི་"
+msgid "གཉིས་པ་ མཐུན་པ␣འི་ རྐྱེན་ བྱང་ཆུབ་ སེམས་ ཀྱི་ ཕན་ཡོན་ བསམ་པ་ ནི་"
 msgstr ""
 
 # 
@@ -502,21 +506,6 @@ msgstr ""
 # 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: vacana, verbe, injonction, parole (du
 # Bouddha), précepte
 # 
-# 。︀	〝ངན་འགྲོ〞 993
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mauvaises existences, Mauvaises migrations.
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mauvaises destinées, destinées misérables ⁃ mauvaises
-# destinées; destinées malheureuses/misérables; mauvaises migrations;
-# conditions misérables
-# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = ngan song durgati, apāya Sens racine: Mauvaises
-# existences,Mauvaises migrations., miserable existence (SL MW) Alternatives:
-# mauvaises migrations, situations, naissances, sphères, destinées funestes,
-# sombres, malheureuses, tristes, infortunés, inférieures, défavorables,
-# états, lieux de perdition
-# 
-# 。︀	〝ཆེན་པོ〞 1352
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
-# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: immense, grand total, suprême
-# 
 # 。︀	〝བསྟན་བཅོས〞 2073
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Traité (commentant la parole du Bouddha) ⁃ traité
 # (commentant la parole du Bouddha)
@@ -531,6 +520,47 @@ msgstr ""
 # 
 # 。︀	〝དུ་མ〞 2390
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ multiplicité
+# 
+# 。︀	〝ལས〞 6028
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ Les actions physiques, verbales et mentales ; leur force
+# cumulative imprègne le vivant pour, ultérieurement, déterminer de futures
+# expériences. ⁃ acte
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ action ⁃ acte ⁃ Karma, l'action en tant que cause et effet
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "4c348c0dc8354bf797d938f063a46361"
+msgid "བཀའ་ བསྟན་བཅོས་ དུ་མ་ ལ␣ས་ བྱུང་བ་ རྣམས་ དྲན་ ཞིང་ བརྗོད་ དེ་"
+msgstr ""
+
+# 
+# 。︀	〝ཆེན་པོ〞 1352
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ grand, total, immense
+# 𝐓𝐞𝐱𝐭𝐞𝐬𝐃𝐳𝐨𝐠𝐜𝐡𝐞𝐧  ⁃ Sens racine: immense, grand total, suprême
+# 
+# 。︀	〝ས〞 6282
+# 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ terre
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ terre, degré, niveau, état
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
+msgctxt "b54e6b36dc614933b7e540cfec7b0533"
+msgid "ཇོ་བོ་ ཆེན་པོ␣ས །"
+msgstr ""
+
+# 
+# 。︀	〝ངན་འགྲོ〞 993
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Mauvaises existences, Mauvaises migrations.
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ mauvaises destinées, destinées misérables ⁃ mauvaises
+# destinées; destinées malheureuses/misérables; mauvaises migrations;
+# conditions misérables
+# 𝐆𝐫𝐚𝐧𝐝𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐀𝐯𝐫𝐢𝐥𝟎𝟗  ⁃ = ngan song durgati, apāya Sens racine: Mauvaises
+# existences,Mauvaises migrations., miserable existence (SL MW) Alternatives:
+# mauvaises migrations, situations, naissances, sphères, destinées funestes,
+# sombres, malheureuses, tristes, infortunés, inférieures, défavorables,
+# états, lieux de perdition
 # 
 # 。︀	〝ལྡོག〞 2894
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ "veut dire aussi ""catégorie"" ETP 129 (smad cha 214) -
@@ -548,9 +578,11 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ terre, plan stade
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ terres ou niveaux
 msgctxt "02fe384a41cb4e4bb7ee27918ef4a0fd"
-msgid ""
-"བཀའ་ བསྟན་བཅོས་ དུ་མ་ ལ␣ས་ བྱུང་བ་ རྣམས་ དྲན་ ཞིང་ བརྗོད་ དེ་ ཇོ་བོ་ "
-"ཆེན་པོ␣ས །  ངན་འགྲོ་ ལ␣ས་ ནི་ ལྡོག་ བགྱིད་ ཅིང༌ ། །"
+msgid "ངན་འགྲོ་ ལ␣ས་ ནི་ ལྡོག་ བགྱིད་ ཅིང༌ ། །"
+msgstr ""
+
+msgctxt "1e6586eb12a24fa683e315d46bade1c5"
+msgid "སོགས་ ཤར་ཤར་ གསུངས་པ་ གྲགས་པ་ ལྟ་བུ་ དང༌ །"
 msgstr ""
 
 # 
@@ -611,9 +643,11 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ "Pratiquer, Développer, Faire, Fabriquer, Instaurer,
 # Installer,  (différent de ""tshogs pa"") "
 msgctxt "8825022d8e7b4879940f56968d822cc1"
-msgid ""
-"སོགས་ ཤར་ཤར་ གསུངས་པ་ གྲགས་པ་ ལྟ་བུ་ དང༌ །  གསུམ་པ་ རྒྱུ་ ཚོགས་ གཉིས་ "
-"བསགས་པ་ ལ་ བརྩོན་པ་ ནི །"
+msgid "གསུམ་པ་ རྒྱུ་ ཚོགས་ གཉིས་ བསགས་པ་ ལ་ བརྩོན་པ་ ནི །"
+msgstr ""
+
+msgctxt "aa61dc0b216b4daabea87377e4aba679"
+msgid "ཆོས་སྤྱོད་ བཅུ །"
 msgstr ""
 
 # 
@@ -625,6 +659,15 @@ msgstr ""
 # 
 # 。︀	〝ཕར་ཕྱིན་དྲུག〞 3447
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ les six perfections, les six pâramitâs
+# 
+# 。︀	〝བསོད་ནམས〞 6663
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertus, Bienfaits, ⁃ punya, bienfaits
+# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méritoire
+# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mérites
+msgctxt "f3e14308eb1f433eb0ed9321eeab3751"
+msgid "ཕར་ཕྱིན་ དྲུག་ སོགས་ བསོད་ནམས་ དང་"
+msgstr ""
+
 # 
 # 。︀	〝ཚོགས〞 4720
 # 𝐂𝐡𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐂𝐡𝐚𝐫𝐫𝐢𝐞𝐫  ⁃ cérémonie d'offrande, festin sacré
@@ -674,15 +717,8 @@ msgstr ""
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Goût, Saveur, Goûter, Cadavre,
 # 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ saveur
 # 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ goût
-# 
-# 。︀	〝བསོད་ནམས〞 6663
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐁𝐚𝐬𝐞𝐑𝐢𝐦𝐚𝐲  ⁃ Vertus, Bienfaits, ⁃ punya, bienfaits
-# 𝐆𝐥𝐨𝐬𝐬𝐚𝐢𝐫𝐞𝐓𝐫é𝐬𝐨𝐫  ⁃ méritoire
-# 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐞𝐂𝐨𝐫𝐧𝐮  ⁃ mérites
 msgctxt "fd18b6806cea4f008ddc3cd824dcb975"
-msgid ""
-"ཆོས་སྤྱོད་ བཅུ །  ཕར་ཕྱིན་ དྲུག་ སོགས་ བསོད་ནམས་ དང་ ཡེ་ཤེས་ ཀྱི་ ཚོགས་ སུ་ "
-"འགྱུར་ རོ་ ཅོག་ ཟུང་ འབྲེལ་ དུ་ བསྒྲུབ །"
+msgid "ཡེ་ཤེས་ ཀྱི་ ཚོགས་ སུ་ འགྱུར་ རོ་ ཅོག་ ཟུང་ འབྲེལ་ དུ་ བསྒྲུབ །"
 msgstr ""
 
 # 
